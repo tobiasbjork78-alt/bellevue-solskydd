@@ -1,0 +1,115 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/semesterstangt/",
+  "slug": "semesterstangt",
+  "title": "Semesterstängt",
+  "excerpt": "Under veckorna 30-31 har vi semesterstängt. Butik och fabrik är återigen bemannade måndagen den 7 augusti. Under tiden så kan ni nå oss på telefon 040-181100 eller skicka oss ett mail till info@bellevuesolskydd.se. Svarstiden kommer dock att vara något längre än vi normalt har under dessa två veckor. Bellevue Solskydd önskar er en fortsatt härlig sommar […]",
+  "meta_description": "Under veckorna 30-31 har vi semesterstängt. Butik och fabrik är återigen bemannade måndagen den 7 augusti. Under tiden så kan ni nå oss på telefon 040-181100 eller skicka oss ett mail till info@bellevuesolskydd.se. Svarstiden kommer dock att vara något längre än vi normalt har under dessa två veckor. Bellevue Solskydd önskar er en fortsatt härlig sommar […]",
+  "date_published": "2017-07-21T15:42:46",
+  "date_modified": "2017-07-21T15:42:46",
+  "featured_media_id": 830,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Under veckorna 30-31 har vi semesterstängt. Butik och fabrik är återigen bemannade måndagen den 7 augusti. Under tiden så kan ni nå oss på telefon 040-181100 eller skicka oss ett mail till\ninfo@bellevuesolskydd.se\n. Svarstiden kommer dock att vara något längre än vi normalt har under dessa två veckor.\nBellevue Solskydd önskar er en fortsatt härlig sommar och på återseende i Augusti!",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/semesterstangt/",
+          "url": "https://bellevuesolskydd.se/semesterstangt/",
+          "name": "Semesterstängt - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/semesterstangt/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/semesterstangt/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2017-07-21T14:42:46+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/semesterstangt/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/semesterstangt/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/semesterstangt/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/semesterstangt/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Semesterstängt"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Under veckorna 30-31 har vi semesterstängt. Butik och fabrik är återigen bemannade måndagen den 7 augusti. Under tiden så kan ni nå oss på telefon 040-181100 eller skicka oss ett mail till <a href=\"mailto:info@bellevuesolskydd.se\">info@bellevuesolskydd.se</a>. Svarstiden kommer dock att vara något längre än vi normalt har under dessa två veckor.</p>\n<p>Bellevue Solskydd önskar er en fortsatt härlig sommar och på återseende i Augusti!</p>\n<p>&nbsp;</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

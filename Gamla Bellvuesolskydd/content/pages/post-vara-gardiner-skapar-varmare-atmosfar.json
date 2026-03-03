@@ -1,0 +1,131 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/",
+  "slug": "vara-gardiner-skapar-varmare-atmosfar",
+  "title": "Våra gardiner skapar varmare atmosfär",
+  "excerpt": "Skapa ett nytt hem med vackra gardiner. Förändra med färg och textur och upptäck att gardiner och draperier dessutom ger varmare och skönare inomhusklimat eftersom de motverkar kallras från fönster och glasdörrar. Hos oss på Bellevue Solskydd kan du välja mellan mängder av färger, olika sömnadssätt och kvaliteter – flera med isolerande effekt. Du får […]",
+  "meta_description": "Gardiner skapar ett varmare och skönare inomhusklimat. Välja mellan olika färger, sömnadssätt och kvaliteter. Gratis hembesök!",
+  "date_published": "2023-01-23T15:30:59",
+  "date_modified": "2023-01-23T15:30:59",
+  "featured_media_id": 2872,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Skapa ett nytt hem med vackra gardiner.\nFörändra med färg och textur och upptäck att\ngardiner och draperier\ndessutom ger varmare och skönare inomhusklimat eftersom de motverkar kallras från fönster och glasdörrar.\nHos oss på Bellevue Solskydd kan du välja mellan mängder av färger, olika sömnadssätt och kvaliteter – flera med isolerande effekt. Du får helt enkelt ett vackrare hem samtidigt som du minskar värmekostnaden under den kalla årstiden.\nVälkommen hit\nså visar vi dig!",
+  "images": [
+    {
+      "src": "https://bellevuesolskydd.se/wp-content/uploads/2020/12/wavegardin-Bellevue-Solskydd-683x1024.jpg",
+      "alt": "gardiner malmö",
+      "title": ""
+    }
+  ],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/wavegardiner/",
+      "text": "gardiner och draperier"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/kontakt/",
+      "text": "Välkommen hit"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/",
+          "url": "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/",
+          "name": "Gardiner skapar en varmare atmosfär - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2023-01-23T14:30:59+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035"
+          },
+          "description": "Gardiner skapar ett varmare och skönare inomhusklimat. Välja mellan olika färger, sömnadssätt och kvaliteter. Gratis hembesök!",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Våra gardiner skapar varmare atmosfär"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035",
+          "name": "digitalnarvaro",
+          "url": "https://bellevuesolskydd.se/author/digitalnarvaro/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Skapa ett nytt hem med vackra gardiner.<br />\nFörändra med färg och textur och upptäck att <a href=\"https://bellevuesolskydd.se/wavegardiner/\">gardiner och draperier</a> dessutom ger varmare och skönare inomhusklimat eftersom de motverkar kallras från fönster och glasdörrar.</p>\n<p>Hos oss på Bellevue Solskydd kan du välja mellan mängder av färger, olika sömnadssätt och kvaliteter – flera med isolerande effekt. Du får helt enkelt ett vackrare hem samtidigt som du minskar värmekostnaden under den kalla årstiden.</p>\n<p><a href=\"https://bellevuesolskydd.se/kontakt/\">Välkommen hit</a> så visar vi dig!</p>\n<p><img decoding=\"async\" class=\"alignnone wp-image-2875 size-large\" src=\"https://bellevuesolskydd.se/wp-content/uploads/2020/12/wavegardin-Bellevue-Solskydd-683x1024.jpg\" alt=\"gardiner malmö\" width=\"683\" height=\"1024\" /></p>\n",
+  "categories": [
+    "Gardiner"
+  ]
+}

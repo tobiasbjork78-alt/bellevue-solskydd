@@ -1,0 +1,119 @@
+{
+  "type": "page",
+  "url": "https://bellevuesolskydd.se/om-oss/",
+  "slug": "om-oss",
+  "title": "Om oss",
+  "excerpt": "Om oss Vilka är Bellevue Solskydd?Om Bellevue solskydd Bellevue Solskydd grundades redan 1982 av Evert Christoffersson i Malmö. Affärsidén skapades för att anpassa persiennerna för dåtidens nya 3-glasfönster. Evert, som tidigare saknade professionell erfarenhet inom persienntillverkning, utvecklade en innovativ lösning för att möta de nya fönstermodellernas krav. Christofferssons vision var att skapa en persienn som […]",
+  "meta_description": "Bellevue Persienne grundades 1982 av Evert Christoffersson i Malmö. Idén var att börja producera persienner till dåtidens nya 3-glas fönster.",
+  "date_published": "2023-03-28T10:56:46",
+  "date_modified": "2025-03-19T15:29:43",
+  "featured_media_id": 0,
+  "headings": {
+    "h1": [
+      "Vilka är BellevueSolskydd?"
+    ],
+    "h2": [
+      "Om Bellevue solskydd"
+    ],
+    "h3": [
+      "Om oss",
+      "Varför har Bellevuepersienner klarat sig så bra alla dessa år?"
+    ]
+  },
+  "body_text": "Om oss\nVilka är Bellevue\nSolskydd\n?\nOm Bellevue solskydd\nBellevue Solskydd grundades redan 1982 av Evert Christoffersson i Malmö. Affärsidén skapades för att anpassa persiennerna för dåtidens nya 3-glasfönster. Evert, som tidigare saknade professionell erfarenhet inom persienntillverkning, utvecklade en innovativ lösning för att möta de nya fönstermodellernas krav.\nChristofferssons vision var att skapa en persienn som var enkel att montera, lätt att ta ner vid rengöring och stabil även vid öppet fönster. Dessa egenskaper har fortsatt att vara en central del av produkter än idag. Sedan starten har Bellevue Solskydd  tillverkat över en halv miljon\npersienner\n– och antalet fortsätter att växa.\nIdag erbjuder vi inte bara persienner, utan ett brett sortiment av solskyddslösningar för både inom- och utomhusmiljöer. I våra sortiment hittar man bland annat\nfönstermarkiser\n,\npergolor\n,\nlamellgardiner\noch\nrullgardiner\n.\nVarför har Bellevuepersienner klarat sig så bra alla dessa år?\nPersiennerna som tillverkas består endast av komponenter av högsta kvalitet.\nUnika system. Persiennsystemet är patenterat och mönsterskyddat i ett stort antal länder.\nPersienner tillverkas i egna lokaler i Malmö. Full kontroll över hela produktionen.\nEn av våra modeller blev utsedd till ”Bäst i test” av TESTFAKTA.\nFöretaget fick nyligen nya ägare och ledning. Genom samlad erfarenhet tillsammans med den kompetens som de nya ägarna tillför blir Bellevue Solskydd en mycket stark partner inom solskyddslösningar för våra kunder.\nBellevue Solskydd är specialister på allt inom solskydd.\nFöretagets ledord är ständiga förbättringar\nBellevue solskydd tillhandahåller helhetslösningar inom solskyddsbranschen. Saknar ni något på vår hemsida, vänligast vänd er direkt till vår kundtjänst för personlig service. Då kan vi guida er fram till vad ni exakt efterfrågar.\nVi erbjuder våra kunder:\nSnabba leveranser\nEffektiva solskydd\nMåttanpassade produkter enligt kundens önskemål.\nProduktkunskap, gällande behov, design och kvalitet\nLäs mer om företagets ägarbyte Persiennfabrik i Malmö byter ägare",
+  "images": [],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/persienner/",
+      "text": "persienner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/fonstermarkiser/",
+      "text": "fönstermarkiser"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/pergola/",
+      "text": "pergolor"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/lamellgardiner/",
+      "text": "lamellgardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/rullgardiner/",
+      "text": "rullgardiner"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/om-oss/",
+          "url": "https://bellevuesolskydd.se/om-oss/",
+          "name": "Om Bellevue Solskydd - Proffs på solskydd sedan 1982",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "datePublished": "2023-03-28T08:56:46+00:00",
+          "dateModified": "2025-03-19T14:29:43+00:00",
+          "description": "Bellevue Persienne grundades 1982 av Evert Christoffersson i Malmö. Idén var att börja producera persienner till dåtidens nya 3-glas fönster.",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/om-oss/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/om-oss/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/om-oss/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Om oss"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p><div class=\"et_pb_section et_pb_section_232 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_326\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_555  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_367  et_pb_text_align_left et_pb_bg_layout_dark\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h3>Om oss</h3>\n<h1>Vilka är Bellevue <span style=\"color: #434952;\"><strong>Solskydd</strong></span>?</h1></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_section et_pb_section_233 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_327 et_pb_gutters1\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_2 et_pb_column_556  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_368  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h2>Om Bellevue solskydd</h2>\n<p><span style=\"font-weight: 400;\">Bellevue Solskydd grundades redan 1982 av Evert Christoffersson i Malmö. Affärsidén skapades för att anpassa persiennerna för dåtidens nya 3-glasfönster. Evert, som tidigare saknade professionell erfarenhet inom persienntillverkning, utvecklade en innovativ lösning för att möta de nya fönstermodellernas krav. </span></p>\n<p><span style=\"font-weight: 400;\">Christofferssons vision var att skapa en persienn som var enkel att montera, lätt att ta ner vid rengöring och stabil även vid öppet fönster. Dessa egenskaper har fortsatt att vara en central del av produkter än idag. Sedan starten har Bellevue Solskydd  tillverkat över en halv miljon <a href=\"https://bellevuesolskydd.se/persienner/\" title=\"persienner\">persienner</a>  – och antalet fortsätter att växa.</span></p>\n<p><span style=\"font-weight: 400;\">Idag erbjuder vi inte bara persienner, utan ett brett sortiment av solskyddslösningar för både inom- och utomhusmiljöer. I våra sortiment hittar man bland annat <a href=\"https://bellevuesolskydd.se/fonstermarkiser/\">fönstermarkiser</a>, <a href=\"https://bellevuesolskydd.se/pergola/\">pergolor</a>, <a href=\"https://bellevuesolskydd.se/lamellgardiner/\">lamellgardiner</a> och <a href=\"https://bellevuesolskydd.se/rullgardiner/\">rullgardiner</a>.</span></p>\n<p>&nbsp;</p>\n<h3>Varför har Bellevuepersienner klarat sig så bra alla dessa år?</h3>\n<ul>\n<li>Persiennerna som tillverkas består endast av komponenter av högsta kvalitet.</li>\n<li>Unika system. Persiennsystemet är patenterat och mönsterskyddat i ett stort antal länder.</li>\n<li>Persienner tillverkas i egna lokaler i Malmö. Full kontroll över hela produktionen.</li>\n</ul></div>\n\t\t\t</div>\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_2 et_pb_column_557  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_section et_pb_section_234 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_328 et_pb_equal_columns et_pb_gutters1\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_3 et_pb_column_558  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_divider_37 et_pb_space et_pb_divider_hidden\"><div class=\"et_pb_divider_internal\"></div></div>\n\t\t\t</div><div class=\"et_pb_with_border et_pb_column_1_3 et_pb_column et_pb_column_559  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_369  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h4 class=\"et_pb_module_header et-fb-editable-element et-fb-editable-element__editing\" data-shortcode-id=\"4.0.1.0-1693820699329\" data-quickaccess-id=\"header\" contenteditable=\"true\">En av våra modeller blev utsedd till ”Bäst i test” av TESTFAKTA.</h4>\n<p>Företaget fick nyligen nya ägare och ledning. Genom samlad erfarenhet tillsammans med den kompetens som de nya ägarna tillför blir Bellevue Solskydd en mycket stark partner inom solskyddslösningar för våra kunder.</p>\n<p>Bellevue Solskydd är specialister på allt inom solskydd.</p></div>\n\t\t\t</div>\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_560  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_divider_38 et_pb_space et_pb_divider_hidden\"><div class=\"et_pb_divider_internal\"></div></div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_329 et_pb_equal_columns et_pb_gutters1\">\n\t\t\t\t<div class=\"et_pb_with_border et_pb_column_1_3 et_pb_column et_pb_column_561  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_370  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h4>Företagets ledord är ständiga förbättringar</h4>\n<p>Bellevue solskydd tillhandahåller helhetslösningar inom solskyddsbranschen. Saknar ni något på vår hemsida, vänligast vänd er direkt till vår kundtjänst för personlig service. Då kan vi guida er fram till vad ni exakt efterfrågar.</p></div>\n\t\t\t</div>\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_562  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_divider_39 et_pb_space et_pb_divider_hidden\"><div class=\"et_pb_divider_internal\"></div></div>\n\t\t\t</div><div class=\"et_pb_with_border et_pb_column_1_3 et_pb_column et_pb_column_563  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_371  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h4>Vi erbjuder våra kunder:</h4>\n<ul>\n<li>Snabba leveranser</li>\n<li>Effektiva solskydd</li>\n<li>Måttanpassade produkter enligt kundens önskemål.</li>\n<li>Produktkunskap, gällande behov, design och kvalitet</li>\n</ul>\n<p><span style=\"color: #8d9ca4;\"><em>Läs mer om företagets ägarbyte Persiennfabrik i Malmö byter ägare</em></span></p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n"
+}

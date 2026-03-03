@@ -1,0 +1,115 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/",
+  "slug": "forlang-sasongen-pa-din-uteplatsterrass",
+  "title": "Förläng säsongen på din uteplats/terrass",
+  "excerpt": "Hösten är här med temperaturer som kryper nedåt! Önskas fler härliga dagar att tillbringa på din uteplats, eller har du ett hobbyrum/verkstad som behöver lite värmande hjälp? Vi kan numera erbjuda fantastiska värmare från Solamagic, 3 dubbel ”bäst i test” vinnare! Varmt välkomna!",
+  "meta_description": "Hösten är här med temperaturer som kryper nedåt! Önskas fler härliga dagar att tillbringa på din uteplats, eller har du ett hobbyrum/verkstad som behöver lite värmande hjälp? Vi kan numera erbjuda fantastiska värmare från Solamagic, 3 dubbel ”bäst i test” vinnare! Varmt välkomna!  ",
+  "date_published": "2017-10-19T15:32:56",
+  "date_modified": "2017-10-19T15:32:56",
+  "featured_media_id": 834,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Hösten är här med temperaturer som kryper nedåt! Önskas fler härliga dagar att tillbringa på din uteplats, eller har du ett hobbyrum/verkstad som behöver lite värmande hjälp?\nVi kan numera erbjuda fantastiska värmare från Solamagic, 3 dubbel ”bäst i test” vinnare!\nVarmt välkomna!",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/",
+          "url": "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/",
+          "name": "Förläng säsongen på din uteplats/terrass - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2017-10-19T14:32:56+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Förläng säsongen på din uteplats/terrass"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Hösten är här med temperaturer som kryper nedåt! Önskas fler härliga dagar att tillbringa på din uteplats, eller har du ett hobbyrum/verkstad som behöver lite värmande hjälp?</p>\n<p>Vi kan numera erbjuda fantastiska värmare från Solamagic, 3 dubbel &#8221;bäst i test&#8221; vinnare!</p>\n<p>Varmt välkomna!</p>\n<p>&nbsp;</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

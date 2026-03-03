@@ -1,0 +1,115 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/valkommen-2020/",
+  "slug": "valkommen-2020",
+  "title": "Välkommen 2020!",
+  "excerpt": "Vi önskar er alla ett riktigt Gott Nytt År! Vi öppnar åter torsdagen den 2 Januari kl 08:00. Varmt välkomna!",
+  "meta_description": "Vi önskar er alla ett riktigt Gott Nytt År! Vi öppnar åter torsdagen den 2 Januari kl 08:00. Varmt välkomna!",
+  "date_published": "2020-01-01T00:01:58",
+  "date_modified": "2020-01-01T00:01:58",
+  "featured_media_id": 1547,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Vi önskar er alla ett riktigt Gott Nytt År!\nVi öppnar åter torsdagen den 2 Januari kl 08:00.\nVarmt välkomna!",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/valkommen-2020/",
+          "url": "https://bellevuesolskydd.se/valkommen-2020/",
+          "name": "Välkommen 2020! - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/valkommen-2020/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/valkommen-2020/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2019-12-31T23:01:58+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/valkommen-2020/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/valkommen-2020/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/valkommen-2020/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/valkommen-2020/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Välkommen 2020!"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Vi önskar er alla ett riktigt Gott Nytt År!<br />\nVi öppnar åter torsdagen den 2 Januari kl 08:00.</p>\n<p><em>Varmt välkomna!</em></p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "type": "page",
+  "url": "https://bellevuesolskydd.se/produkter/",
+  "slug": "produkter",
+  "title": "Produkter",
+  "excerpt": "Produkter Solskydd för inom- och utomhusmiljöInomhusklimat Skapa en bekväm och skyddande miljö i ditt hem med våra måttanpassade solskydd. Blockera solens skadliga strålar och bibehåll en behaglig temperatur, samtidigt som du skyddar dina möbler och golv från blekning.Persienner  |  Plissegardiner  |  Rullgardiner  |  Lamellgardiner  | Panelgardiner  |  Draperier  |  Träpersienner  |  InsektsskyddUtomhusklimat Förbättra din utomhusupplevelse med våra […]",
+  "meta_description": "Skapa en bekväm och skyddande miljö till ditt hem. Bellevue Solskydd erbjuder måttanpassade solskydd med montering och 3 års garanti.",
+  "date_published": "2023-03-28T10:57:05",
+  "date_modified": "2024-09-02T16:27:31",
+  "featured_media_id": 0,
+  "headings": {
+    "h1": [
+      "Solskydd för inom- och utomhusmiljö"
+    ],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Produkter\nSolskydd för inom- och utomhusmiljö\nInomhusklimat\nSkapa en bekväm och skyddande miljö i ditt hem med våra måttanpassade solskydd. Blockera solens skadliga strålar och bibehåll en behaglig temperatur, samtidigt som du skyddar dina möbler och golv från blekning.\nPersienner\n|\nPlissegardiner\n|\nRullgardiner\n|\nLamellgardiner\n|\nPanelgardiner\n|\nDraperier\n|\nTräpersienner\n|\nInsektsskydd\nUtomhusklimat\nFörbättra din utomhusupplevelse med våra exklusiva solskydd. Skapa skuggade och svala områden för avkoppling och sociala sammankomster. Våra solskydd är designade för att tåla väderförhållanden och ge en elegant touch till din utomhusmiljö.\nParasoller\n|\nTerrassmarkiser\n|\nFönstermarkiser\n|\nKorgmarkiser\n|\nZip screen\n|\nPergola\n|\nVindskydd",
+  "images": [],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/persienner/",
+      "text": "Persienner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/plissegardiner/",
+      "text": "Plissegardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/rullgardiner/",
+      "text": "Rullgardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/lamellgardiner/",
+      "text": "Lamellgardiner"
+    },
+    {
+      "url": "/panelgardiner/",
+      "text": "Panelgardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/draperier/",
+      "text": "Draperier"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/trapersienner/",
+      "text": "Träpersienner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/insektsskydd/",
+      "text": "Insektsskydd"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/parasoller/",
+      "text": "Parasoller"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/terrassmarkiser/",
+      "text": "Terrassmarkiser"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/fonstermarkiser/",
+      "text": "Fönstermarkiser"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/korgmarkiser/",
+      "text": "Korgmarkiser"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/zip-screen/",
+      "text": "Zip screen"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/pergola/",
+      "text": "Pergola"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/vindskydd/",
+      "text": "Vindskydd"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/produkter/",
+          "url": "https://bellevuesolskydd.se/produkter/",
+          "name": "Produkter - Solskydd till ute- och inomhusklimat- Bellevue Solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "datePublished": "2023-03-28T08:57:05+00:00",
+          "dateModified": "2024-09-02T14:27:31+00:00",
+          "description": "Skapa en bekväm och skyddande miljö till ditt hem. Bellevue Solskydd erbjuder måttanpassade solskydd med montering och 3 års garanti.",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/produkter/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/produkter/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/produkter/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produkter"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p><div class=\"et_pb_section et_pb_section_230 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_323\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_550  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_362  et_pb_text_align_left et_pb_bg_layout_dark\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p style=\"text-align: left;\">Produkter</p>\n<h1 style=\"text-align: left;\">Solskydd för inom- och utomhusmiljö</h1></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_section et_pb_section_231 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div id=\"inne\" class=\"et_pb_row et_pb_row_324 et_pb_equal_columns et_pb_gutters1\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_2 et_pb_column_551  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_divider_35 et_pb_space et_pb_divider_hidden\"><div class=\"et_pb_divider_internal\"></div></div>\n\t\t\t</div><div class=\"et_pb_with_border et_pb_column_1_2 et_pb_column et_pb_column_552  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_363  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h4 class=\"et_pb_module_header et-fb-editable-element et-fb-editable-element__editing\" data-shortcode-id=\"4.0.1.0-1693820699329\" data-quickaccess-id=\"header\" contenteditable=\"true\">Inomhusklimat</h4>\n<p>Skapa en bekväm och skyddande miljö i ditt hem med våra måttanpassade solskydd. Blockera solens skadliga strålar och bibehåll en behaglig temperatur, samtidigt som du skyddar dina möbler och golv från blekning.</p></div>\n\t\t\t</div><div class=\"et_pb_module et_pb_text et_pb_text_364  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p><a href=\"https://bellevuesolskydd.se/persienner/\">Persienner</a>  |  <a href=\"https://bellevuesolskydd.se/plissegardiner/\">Plissegardiner</a>  |  <a href=\"https://bellevuesolskydd.se/rullgardiner/\">Rullgardiner</a>  |  <a href=\"https://bellevuesolskydd.se/lamellgardiner/\">Lamellgardiner</a>  | <a href=\"/panelgardiner/\">Panelgardiner</a>  |  <a href=\"https://bellevuesolskydd.se/draperier/\">Draperier</a>  |  <a href=\"https://bellevuesolskydd.se/trapersienner/\">Träpersienner</a>  |  <a href=\"https://bellevuesolskydd.se/insektsskydd/\">Insektsskydd</a></p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div id=\"ute\" class=\"et_pb_row et_pb_row_325 col-order-change et_pb_equal_columns et_pb_gutters1\">\n\t\t\t\t<div class=\"et_pb_with_border et_pb_column_1_2 et_pb_column et_pb_column_553  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_365  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h4 class=\"et_pb_module_header et-fb-editable-element et-fb-editable-element__editing\" data-shortcode-id=\"4.0.1.0-1693820699329\" data-quickaccess-id=\"header\" contenteditable=\"true\">Utomhusklimat</h4>\n<p>Förbättra din utomhusupplevelse med våra exklusiva solskydd. Skapa skuggade och svala områden för avkoppling och sociala sammankomster. Våra solskydd är designade för att tåla väderförhållanden och ge en elegant touch till din utomhusmiljö.</p></div>\n\t\t\t</div><div class=\"et_pb_module et_pb_text et_pb_text_366  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p><a href=\"https://bellevuesolskydd.se/parasoller/\">Parasoller</a>  |  <a href=\"https://bellevuesolskydd.se/terrassmarkiser/\">Terrassmarkiser</a>  |  <a href=\"https://bellevuesolskydd.se/fonstermarkiser/\">Fönstermarkiser</a>  |  <a href=\"https://bellevuesolskydd.se/korgmarkiser/\">Korgmarkiser</a>  |  <a href=\"https://bellevuesolskydd.se/zip-screen/\">Zip screen</a>  |  <a href=\"https://bellevuesolskydd.se/pergola/\">Pergola</a>  |  <a href=\"https://bellevuesolskydd.se/vindskydd/\">Vindskydd</a></p></div>\n\t\t\t</div>\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_2 et_pb_column_554  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_divider_36 et_pb_space et_pb_divider_hidden\"><div class=\"et_pb_divider_internal\"></div></div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n"
+}

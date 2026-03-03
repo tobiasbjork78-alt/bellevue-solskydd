@@ -1,0 +1,101 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/e-mail-problem-lost/",
+  "slug": "e-mail-problem-lost",
+  "title": "E-mail problem löst",
+  "excerpt": "Vårt problem med att skicka och ta emot E-mail är nu löst! Vi ber givetvis om ursäkt för svårigheter att nå oss under gårdagen och ber er att kontrollera så att eventuella skickade E-mail har kommit fram till oss! /Bellevue Solskydd",
+  "meta_description": "Vårt problem med att skicka och ta emot E-mail är nu löst! Vi ber givetvis om ursäkt för svårigheter att nå oss under gårdagen och ber er att kontrollera så att eventuella skickade E-mail har kommit fram till oss! /Bellevue Solskydd  ",
+  "date_published": "2018-06-19T07:27:29",
+  "date_modified": "2018-06-19T07:27:29",
+  "featured_media_id": 0,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Vårt problem med att skicka och ta emot E-mail är nu löst!\nVi ber givetvis om ursäkt för svårigheter att nå oss under gårdagen och ber er att kontrollera så att eventuella skickade E-mail har kommit fram till oss!\n/Bellevue Solskydd",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/e-mail-problem-lost/",
+          "url": "https://bellevuesolskydd.se/e-mail-problem-lost/",
+          "name": "E-mail problem löst - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "datePublished": "2018-06-19T06:27:29+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/e-mail-problem-lost/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/e-mail-problem-lost/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/e-mail-problem-lost/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "E-mail problem löst"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Vårt problem med att skicka och ta emot E-mail är nu löst!<br />\nVi ber givetvis om ursäkt för svårigheter att nå oss under gårdagen och ber er att kontrollera så att eventuella skickade E-mail har kommit fram till oss!</p>\n<p>/Bellevue Solskydd</p>\n<p>&nbsp;</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

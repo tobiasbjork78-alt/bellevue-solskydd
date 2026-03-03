@@ -1,0 +1,136 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/ny-hemsida/",
+  "slug": "ny-hemsida",
+  "title": "Ny hemsida",
+  "excerpt": "Bäste återförsäljare/kund,Bellevue Solskydd AB vill göra er uppmärksam på att vi har en ny hemsida, www.bellevuesolskydd.se.Det innebär att den gamla trötta sidan, www.bellevuepersienne.com, som ni är vana vid att besöka, inte längre existerar.Med andra ord så har ni alltså kommit helt rätt till oss om ni fortfarande använder den gamla adressen.Det är dock fortfarande samma […]",
+  "meta_description": "",
+  "date_published": "2016-12-12T17:36:41",
+  "date_modified": "2016-12-12T17:36:41",
+  "featured_media_id": 694,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Bäste återförsäljare/kund,\nBellevue Solskydd AB vill göra er uppmärksam på att vi har en ny hemsida,\nwww.bellevuesolskydd.se\n.\nDet innebär att den gamla trötta sidan, www.bellevuepersienne.com, som ni är vana vid att besöka, inte längre existerar.\nMed andra ord så har ni alltså kommit helt rätt till oss om ni fortfarande använder den gamla adressen.\nDet är dock fortfarande samma fina service och goda kvalitet på våra produkter. Har ni synpunkter eller om något saknas på vår hemsida är ni varmt välkommen att ringa eller maila oss tips på vad som kan bli bättre!\nNi som ännu skickar beställningar via fax måste ändra förfaringssätt eftersom vi numera inte längre använder faxen.\nOrder/förfrågningar skickas till: info@bellevuesolskydd.se\nVill ni däremot komma i kontakt med någon av oss personligen så byter du bara ut ”info” mot något av våra förnamn, ex ”förnamn”@bellevuesolskydd.se.\nNi är varmt välkomna att höra av er om ni har några frågor!",
+  "images": [],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/",
+      "text": "www.bellevuesolskydd.se"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/ny-hemsida/",
+          "url": "https://bellevuesolskydd.se/ny-hemsida/",
+          "name": "Ny hemsida - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/ny-hemsida/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/ny-hemsida/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2016-12-12T16:36:41+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/ny-hemsida/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/ny-hemsida/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/ny-hemsida/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/ny-hemsida/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Ny hemsida"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org/",
+      "@type": "Product",
+      "name": "Betyg",
+      "description": "Solskyddsleverantör sedan 1982. Boka ett gratis hembesök!",
+      "brand": {
+        "@type": "Brand",
+        "name": "Bellevue Solskydd"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "ratingCount": "45",
+        "reviewCount": "45"
+      }
+    }
+  ],
+  "raw_html": "<p><div class=\"et_pb_section et_pb_section_0 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p>Bäste återförsäljare/kund,</p>\n<p>Bellevue Solskydd AB vill göra er uppmärksam på att vi har en ny hemsida, <a href=\"https://bellevuesolskydd.se/\">www.bellevuesolskydd.se</a>.<br />Det innebär att den gamla trötta sidan, www.bellevuepersienne.com, som ni är vana vid att besöka, inte längre existerar.<br />Med andra ord så har ni alltså kommit helt rätt till oss om ni fortfarande använder den gamla adressen.</p>\n<p>Det är dock fortfarande samma fina service och goda kvalitet på våra produkter. Har ni synpunkter eller om något saknas på vår hemsida är ni varmt välkommen att ringa eller maila oss tips på vad som kan bli bättre!</p>\n<p>Ni som ännu skickar beställningar via fax måste ändra förfaringssätt eftersom vi numera inte längre använder faxen.<br />Order/förfrågningar skickas till: info@bellevuesolskydd.se</p>\n<p>Vill ni däremot komma i kontakt med någon av oss personligen så byter du bara ut &#8221;info&#8221; mot något av våra förnamn, ex &#8221;förnamn&#8221;@bellevuesolskydd.se.</p>\n<p>Ni är varmt välkomna att höra av er om ni har några frågor!</p>\n<p> </p></div>\n\t\t\t</div><div class=\"et_pb_module et_pb_code et_pb_code_0\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_code_inner\"><script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org/\",\n  \"@type\": \"Product\",\n  \"name\": \"Betyg\",\n  \"description\": \"Solskyddsleverantör sedan 1982. Boka ett gratis hembesök!\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"Bellevue Solskydd\"\n  },\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\" : \"4.8\",\n    \"ratingCount\" : \"45\",\n    \"reviewCount\" : \"45\"\n  }\n}\n</script></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

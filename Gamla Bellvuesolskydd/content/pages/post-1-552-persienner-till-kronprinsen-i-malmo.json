@@ -1,0 +1,138 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/",
+  "slug": "1-552-persienner-till-kronprinsen-i-malmo",
+  "title": "1 552 persienner till Kronprinsen i Malmö",
+  "excerpt": "Kronprinsen var länge Malmös främsta landmärke och är fortfarande stadens tredje högsta byggnad. När den blå skyskrapan stod färdigrenoverad sommaren 2022 fick Bellevue Solskydd uppdraget att förse lägenheterna med måttanpassade persienner. Totalt har vi tillverkat och monterat 1 552 högkvalitativa och lättstädade persienner till nöjda hyresgäster i Kronprinsen. Vill du också ha persienner som skydd […]",
+  "meta_description": "Bellevue Solskydd har monterat 1552 st måttanpassade persienner i Kronprinsen, som är ett av Malmös främsta landmärken.",
+  "date_published": "2022-12-13T12:44:17",
+  "date_modified": "2022-12-13T12:44:17",
+  "featured_media_id": 3842,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Kronprinsen var länge Malmös främsta landmärke och är fortfarande stadens tredje högsta byggnad.\nNär den blå skyskrapan stod färdigrenoverad sommaren 2022 fick Bellevue Solskydd uppdraget att förse lägenheterna med\nmåttanpassade persienner\n.\nTotalt har vi tillverkat och monterat 1 552 högkvalitativa och lättstädade persienner till nöjda hyresgäster i Kronprinsen.\nVill du också ha persienner som skydd mot värme, blekning och insyn:\nboka ett kostnadsfritt hembesök här på hemsidan!\nFoto:\nHeimstaden",
+  "images": [
+    {
+      "src": "https://bellevuesolskydd.se/wp-content/uploads/2022/12/Kronprinsen.jpg",
+      "alt": "måttanpassade persienner i Malmö",
+      "title": ""
+    }
+  ],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/persienner/",
+      "text": "måttanpassade persienner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/boka-hembesok/",
+      "text": "boka ett kostnadsfritt hembesök här på hemsidan!"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://heimstaden.com/se/blogg/arkitekturen/kungligt-boende-i-kronprinsen/",
+      "text": "Heimstaden"
+    }
+  ],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/",
+          "url": "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/",
+          "name": "1 552 persienner till Kronprinsen i Malmö - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2022-12-13T11:44:17+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035"
+          },
+          "description": "Bellevue Solskydd har monterat 1552 st måttanpassade persienner i Kronprinsen, som är ett av Malmös främsta landmärken.",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "1 552 persienner till Kronprinsen i Malmö"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035",
+          "name": "digitalnarvaro",
+          "url": "https://bellevuesolskydd.se/author/digitalnarvaro/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Kronprinsen var länge Malmös främsta landmärke och är fortfarande stadens tredje högsta byggnad.<br />\nNär den blå skyskrapan stod färdigrenoverad sommaren 2022 fick Bellevue Solskydd uppdraget att förse lägenheterna med <a href=\"https://bellevuesolskydd.se/persienner/\">måttanpassade persienner</a>.<br />\nTotalt har vi tillverkat och monterat 1 552 högkvalitativa och lättstädade persienner till nöjda hyresgäster i Kronprinsen.<br />\nVill du också ha persienner som skydd mot värme, blekning och insyn:<br />\n<a href=\"https://bellevuesolskydd.se/boka-hembesok/\">boka ett kostnadsfritt hembesök här på hemsidan!</a></p>\n<p><img decoding=\"async\" class=\"alignnone size-full wp-image-3846\" src=\"https://bellevuesolskydd.se/wp-content/uploads/2022/12/Kronprinsen.jpg\" alt=\"måttanpassade persienner i Malmö\" width=\"1020\" height=\"765\" /><br />\nFoto: <a href=\"https://heimstaden.com/se/blogg/arkitekturen/kungligt-boende-i-kronprinsen/\">Heimstaden</a></p>\n",
+  "categories": [
+    "Nyheter",
+    "Persienner",
+    "Solskydd"
+  ]
+}

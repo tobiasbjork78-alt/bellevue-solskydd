@@ -1,0 +1,121 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/",
+  "slug": "god-jul-och-gott-nytt-ar",
+  "title": "God Jul och Gott Nytt År",
+  "excerpt": "Vi stänger för juluppehåll från den 22/12 kl. 13:00 och öppnar åter igen måndagen den 9/1 kl. 08:00. God Jul och Gott Nytt År önskar personalen på Bellevue Solskydd AB Tack för i år och välkommen tillbaka 2023!",
+  "meta_description": "Vi stänger för juluppehåll från den 22/12 Kl 13:00 och öppnar åter igen måndagen den 9/1 kl. 08:00. God Jul och Gott Nytt År!",
+  "date_published": "2022-12-21T17:55:47",
+  "date_modified": "2022-12-21T17:55:47",
+  "featured_media_id": 859,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Vi stänger för juluppehåll från den 22/12 kl. 13:00 och öppnar åter igen måndagen den 9/1 kl. 08:00.\nGod Jul och Gott Nytt År önskar personalen på\nBellevue Solskydd AB\nTack för i år och välkommen tillbaka 2023!",
+  "images": [],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/om-oss/",
+      "text": "Bellevue Solskydd AB"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/",
+          "url": "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/",
+          "name": "God Jul och Gott Nytt År - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2022-12-21T16:55:47+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035"
+          },
+          "description": "Vi stänger för juluppehåll från den 22/12 Kl 13:00 och öppnar åter igen måndagen den 9/1 kl. 08:00. God Jul och Gott Nytt År!",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "God Jul och Gott Nytt År"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035",
+          "name": "digitalnarvaro",
+          "url": "https://bellevuesolskydd.se/author/digitalnarvaro/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Vi stänger för juluppehåll från den 22/12 kl. 13:00 och öppnar åter igen måndagen den 9/1 kl. 08:00.<br />\nGod Jul och Gott Nytt År önskar personalen på <a href=\"https://bellevuesolskydd.se/om-oss/\">Bellevue Solskydd AB</a></p>\n<p>Tack för i år och välkommen tillbaka 2023!</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "type": "page",
+  "url": "https://bellevuesolskydd.se/kontakt-ost/",
+  "slug": "kontakt-ost",
+  "title": "Kontakt – Bellevue Solskydd Öst",
+  "excerpt": "Har du en fråga? Kontakta oss Vi är specialister inom alla typer av solskydd för privatpersoner, företag, bostadsrättföreningar, fastighetsägare, kommuner och landsting. Vi har kontor, showroom med utställning och tillverkning/verkstad i Malmö och Nyköping.Nyköping Östra Längdgatan 5611 35 NyköpingSweden Tel: 0155-500 73info.ost(@)bellevuesolskydd.seBellevue Solskydd AB. En ny ägare tillträder inom kort. Vi besvarar er förfrågan inom […]",
+  "meta_description": "",
+  "date_published": "2023-10-11T08:45:48",
+  "date_modified": "2026-02-13T13:13:17",
+  "featured_media_id": 0,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Bellevue Solskydd AB. En ny ägare tillträder inom kort.",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/kontakt-ost/",
+          "url": "https://bellevuesolskydd.se/kontakt-ost/",
+          "name": "Kontakta oss idag - Bellevue Solskydd Öst",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "datePublished": "2023-10-11T06:45:48+00:00",
+          "dateModified": "2026-02-13T12:13:17+00:00",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/kontakt-ost/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/kontakt-ost/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/kontakt-ost/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Kontakt &#8211; Bellevue Solskydd Öst"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p><div id=\"hembasok\" class=\"et_pb_section et_pb_section_64 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_105 et_pb_equal_columns\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_2 et_pb_column_186  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_with_border et_pb_column_1_2 et_pb_column et_pb_column_187 et_animated  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_119  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p>Bellevue Solskydd AB. En ny ägare tillträder inom kort.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_section et_pb_section_65 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n"
+}

@@ -1,0 +1,572 @@
+{
+  "pages": [
+    {
+      "url": "https://bellevuesolskydd.se/persienner-helsingborg/",
+      "title": "Persienner Helsingborg",
+      "slug": "persienner-helsingborg"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/persienner-lund/",
+      "title": "Persienner Lund",
+      "slug": "persienner-lund"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/markiser-lund/",
+      "title": "Markiser Lund",
+      "slug": "markiser-lund"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/markiser-helsingborg/",
+      "title": "Markiser Helsingborg",
+      "slug": "markiser-helsingborg"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/persienner-malmo/",
+      "title": "Persienner Malmö",
+      "slug": "persienner-malmo"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/markiser-malmo/",
+      "title": "Markiser Malmö",
+      "slug": "markiser-malmo"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/kampanjsida-plissegardiner/",
+      "title": "Kampanjsida – Plissegardiner",
+      "slug": "kampanjsida-plissegardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/kampanjsida-persienner/",
+      "title": "Kampanjsida – Persienner",
+      "slug": "kampanjsida-persienner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/wavegardiner/",
+      "title": "Wavegardiner",
+      "slug": "wavegardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/bloggen-om-solskydd/",
+      "title": "Bloggen om solskydd",
+      "slug": "bloggen-om-solskydd"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/tack-meddelande-ost/",
+      "title": "Tack meddelande öst",
+      "slug": "tack-meddelande-ost"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/tack-meddelande/",
+      "title": "Tack meddelande",
+      "slug": "tack-meddelande"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/kontakt-ost/",
+      "title": "Kontakt – Bellevue Solskydd Öst",
+      "slug": "kontakt-ost"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/kostnadsfritt-hembesok/",
+      "title": "Kostnadsfritt hembesök – Bellevue Solskydd Nyköping",
+      "slug": "kostnadsfritt-hembesok"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/markiser-ost/",
+      "title": "Markiser – Bellevue Solskydd Nyköping",
+      "slug": "markiser-ost"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/vindskydd-bellevue-solskydd-nykoping/",
+      "title": "Vindskydd – Bellevue Solskydd Nyköping",
+      "slug": "vindskydd-bellevue-solskydd-nykoping"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/parasoll-ost/",
+      "title": "Parasoll – Bellevue Solskydd Nyköping",
+      "slug": "parasoll-ost"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/pergola-ost/",
+      "title": "Pergola – Bellevue Solskydd Nyköping",
+      "slug": "pergola-ost"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/rullgardin-ost/",
+      "title": "Rullgardin – Bellevue Solskydd Nyköping",
+      "slug": "rullgardin-ost"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/lamellgardin-bellevue-solskydd-nykoping/",
+      "title": "Lamellgardin – Bellevue Solskydd Nyköping",
+      "slug": "lamellgardin-bellevue-solskydd-nykoping"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/plissegardin-nykoping/",
+      "title": "Plissegardin – Bellevue Solskydd Nyköping",
+      "slug": "plissegardin-nykoping"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/persienner-bellevue-nykoping/",
+      "title": "Persienner – Bellevue Nyköping",
+      "slug": "persienner-bellevue-nykoping"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/panelgardiner-ost/",
+      "title": "Panelgardiner – Bellevue Nyköping",
+      "slug": "panelgardiner-ost"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/tjanster/",
+      "title": "Tjänster",
+      "slug": "tjanster"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/om-oss/samarbetspartner/",
+      "title": "Samarbetspartner",
+      "slug": "samarbetspartner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/om-oss/unika-funktioner/",
+      "title": "Unika funktioner",
+      "slug": "unika-funktioner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/om-oss/miljo-kvalitetspolicy/",
+      "title": "Miljö & kvalitetspolicy",
+      "slug": "miljo-kvalitetspolicy"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/panelgardiner/",
+      "title": "Panelgardiner",
+      "slug": "panelgardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/",
+      "title": "Hem",
+      "slug": "hem"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/vindskydd/",
+      "title": "Vindskydd",
+      "slug": "vindskydd"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/pergola/",
+      "title": "Pergola",
+      "slug": "pergola"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/zip-screen/",
+      "title": "Zip screen",
+      "slug": "zip-screen"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/korgmarkiser/",
+      "title": "Korgmarkiser",
+      "slug": "korgmarkiser"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/fonstermarkiser/",
+      "title": "Fönstermarkiser",
+      "slug": "fonstermarkiser"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/terrassmarkiser/",
+      "title": "Terrassmarkiser",
+      "slug": "terrassmarkiser"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/insektsskydd/",
+      "title": "Insektsskydd",
+      "slug": "insektsskydd"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/trapersienner/",
+      "title": "Träpersienner",
+      "slug": "trapersienner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/draperier/",
+      "title": "Draperier",
+      "slug": "draperier"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/lamellgardiner/",
+      "title": "Lamellgardiner",
+      "slug": "lamellgardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/rullgardiner/",
+      "title": "Rullgardiner",
+      "slug": "rullgardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/plissegardiner/",
+      "title": "Plissegardiner",
+      "slug": "plissegardiner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/parasoller/",
+      "title": "Parasoller",
+      "slug": "parasoller"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/persienner/",
+      "title": "Persienner",
+      "slug": "persienner"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/kontakt/",
+      "title": "Konkursinformation",
+      "slug": "kontakt"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/referensprojekt/",
+      "title": "Referensprojekt",
+      "slug": "referensprojekt"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/produkter/",
+      "title": "Produkter",
+      "slug": "produkter"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/om-oss/",
+      "title": "Om oss",
+      "slug": "om-oss"
+    }
+  ],
+  "posts": [
+    {
+      "url": "https://bellevuesolskydd.se/persienner-eller-gardiner-vad-ar-bast-for-dig/",
+      "title": "Persienner eller gardiner, vad är bäst för dig?",
+      "slug": "persienner-eller-gardiner-vad-ar-bast-for-dig",
+      "categories": [
+        "Mer om solskydd"
+      ],
+      "date": "2023-10-30T15:38:04"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/pergola-en-elegant-losning-for-din-tradgard/",
+      "title": "Pergola – en elegant lösning för din trädgård",
+      "slug": "pergola-en-elegant-losning-for-din-tradgard",
+      "categories": [
+        "Mer om solskydd"
+      ],
+      "date": "2023-10-30T14:57:44"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/vara-gardiner-skapar-varmare-atmosfar/",
+      "title": "Våra gardiner skapar varmare atmosfär",
+      "slug": "vara-gardiner-skapar-varmare-atmosfar",
+      "categories": [
+        "Gardiner"
+      ],
+      "date": "2023-01-23T15:30:59"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/god-jul-och-gott-nytt-ar/",
+      "title": "God Jul och Gott Nytt År",
+      "slug": "god-jul-och-gott-nytt-ar",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2022-12-21T17:55:47"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/1-552-persienner-till-kronprinsen-i-malmo/",
+      "title": "1 552 persienner till Kronprinsen i Malmö",
+      "slug": "1-552-persienner-till-kronprinsen-i-malmo",
+      "categories": [
+        "Nyheter",
+        "Persienner",
+        "Solskydd"
+      ],
+      "date": "2022-12-13T12:44:17"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/solskydd-motverkar-kallras/",
+      "title": "Solskydd motverkar kallras",
+      "slug": "solskydd-motverkar-kallras",
+      "categories": [
+        "Nyheter",
+        "Solskydd"
+      ],
+      "date": "2022-12-07T18:07:55"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/",
+      "title": "Stor höstkampanj med 20 % rabatt på alla solskydd",
+      "slug": "stor-hostkampanj-med-20-rabatt-pa-alla-solskydd",
+      "categories": [
+        "Nyheter",
+        "Solskydd"
+      ],
+      "date": "2022-09-15T13:40:48"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/",
+      "title": "Bellevue Solskydd önskar  God Jul och Gott Nytt år",
+      "slug": "bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2020-12-21T22:20:22"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/arets-julklapp-markisen/",
+      "title": "Årets julklapp: markisen!",
+      "slug": "arets-julklapp-markisen",
+      "categories": [
+        "Markiser",
+        "Solskydd"
+      ],
+      "date": "2020-12-15T22:10:52"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/semesterstangt-2/",
+      "title": "Semesterstängt",
+      "slug": "semesterstangt-2",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2020-07-24T16:26:48"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/glad-midsommar/",
+      "title": "Glad Midsommar!",
+      "slug": "glad-midsommar",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2020-06-17T13:47:12"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/varkampanj-20-rabatt-pa-markiser/",
+      "title": "Vårkampanj 20% rabatt på Markiser",
+      "slug": "varkampanj-20-rabatt-pa-markiser",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2020-04-10T12:45:16"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/paskstangt/",
+      "title": "Påskstängt",
+      "slug": "paskstangt",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2020-04-08T12:32:39"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/valkommen-2020/",
+      "title": "Välkommen 2020!",
+      "slug": "valkommen-2020",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2020-01-01T00:01:58"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/jul-nyarsstangt-3/",
+      "title": "Jul & Nyårsstängt",
+      "slug": "jul-nyarsstangt-3",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2019-12-20T08:00:30"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/onsdagen-den-11-12-stanger-vi-kl-1500/",
+      "title": "Onsdagen den 11/12 stänger vi kl 15:00",
+      "slug": "onsdagen-den-11-12-stanger-vi-kl-1500",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2019-12-11T10:04:42"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/glad-pask/",
+      "title": "Glad Påsk!",
+      "slug": "glad-pask",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2019-04-16T12:25:07"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/saljare-sokes-till-bellevue-solskydd-ab/",
+      "title": "Säljare sökes till Bellevue Solskydd AB",
+      "slug": "saljare-sokes-till-bellevue-solskydd-ab",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2019-01-28T16:17:37"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/jul-nyarsstangt-2/",
+      "title": "Jul & Nyårsstängt",
+      "slug": "jul-nyarsstangt-2",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2018-12-18T10:57:17"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/989-2/",
+      "title": "Fredagen den 2/11 stänger vi tidigare",
+      "slug": "989-2",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2018-11-02T14:40:56"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/913-2/",
+      "title": "Semesterstängt",
+      "slug": "913-2",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2018-07-20T14:09:14"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/e-mail-problem-lost/",
+      "title": "E-mail problem löst",
+      "slug": "e-mail-problem-lost",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2018-06-19T07:27:29"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/",
+      "title": "Tekniska problem med våra E-mail adresser",
+      "slug": "tekniska-problem-med-vara-e-mail-adresser",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2018-06-18T09:22:49"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/somfy-utbildning-fran-kl-13-00-onsdag-202/",
+      "title": "Somfy-utbildning från kl 13.00 onsdag 20/2",
+      "slug": "somfy-utbildning-fran-kl-13-00-onsdag-202",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2018-02-20T12:17:17"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/jul-nyarsstangt/",
+      "title": "Jul & Nyårsstängt",
+      "slug": "jul-nyarsstangt",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-12-22T11:28:35"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/lussefirande-1312/",
+      "title": "Lussefirande 13/12",
+      "slug": "lussefirande-1312",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-12-13T10:31:14"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/storningar-telefonnatet-atgardat/",
+      "title": "Störningar i telefonnätet åtgärdat!",
+      "slug": "storningar-telefonnatet-atgardat",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-10-24T13:18:00"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/storningar-i-telefonnatet/",
+      "title": "Störningar i telefonnätet",
+      "slug": "storningar-i-telefonnatet",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-10-23T11:16:50"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/forlang-sasongen-pa-din-uteplatsterrass/",
+      "title": "Förläng säsongen på din uteplats/terrass",
+      "slug": "forlang-sasongen-pa-din-uteplatsterrass",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-10-19T15:32:56"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/semesterstangt/",
+      "title": "Semesterstängt",
+      "slug": "semesterstangt",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-07-21T15:42:46"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/",
+      "title": "Förlängt mässerbjudande från Bellevue Solskydd",
+      "slug": "forlangt-masserbjudande-fran-bellevue-solskydd",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-03-04T16:48:55"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/",
+      "title": "Vinn biljetter till Stora Villamässan i Malmö",
+      "slug": "vinn-biljetter-till-stora-villamassan-malmo",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-02-22T12:47:29"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/",
+      "title": "Montageteam – Bellevue Solskydd",
+      "slug": "montageteam-bellevue-solskydd",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-02-16T14:20:44"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/stora-villamassan-malmo/",
+      "title": "Stora Villamässan i Malmö",
+      "slug": "stora-villamassan-malmo",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2017-02-03T15:27:09"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/ny-hemsida/",
+      "title": "Ny hemsida",
+      "slug": "ny-hemsida",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2016-12-12T17:36:41"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/omtyckt-persiennfabrik-i-malmo-byter-agare/",
+      "title": "Bellevue Persienne = Bellevue Solskydd",
+      "slug": "omtyckt-persiennfabrik-i-malmo-byter-agare",
+      "categories": [
+        "Nyheter"
+      ],
+      "date": "2016-11-14T12:30:49"
+    }
+  ],
+  "total_pages": 47,
+  "total_posts": 36
+}

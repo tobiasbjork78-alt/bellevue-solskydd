@@ -1,0 +1,115 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/jul-nyarsstangt-2/",
+  "slug": "jul-nyarsstangt-2",
+  "title": "Jul & Nyårsstängt",
+  "excerpt": "Julen står för dörren och det är snart dags att avsluta år 2018. Vi har stängt för ledighet från och med den 22 december och öppnar åter igen den 2:a januari. Vi vill passa på att tacka alla kunder för det gångna året och önskar alla en riktigt härlig Jul och fint avslut på året! […]",
+  "meta_description": "Julen står för dörren och det är snart dags att avsluta år 2018. Vi har stängt för ledighet från och med den 22 december och öppnar åter igen den 2:a januari. Vi vill passa på att tacka alla kunder för det gångna året och önskar alla en riktigt härlig Jul och fint avslut på året! […]",
+  "date_published": "2018-12-18T10:57:17",
+  "date_modified": "2018-12-18T10:57:17",
+  "featured_media_id": 1127,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Julen står för dörren och det är snart dags att avsluta år 2018.\nVi har stängt för ledighet från och med den 22 december och öppnar åter igen den 2:a januari.\nVi vill passa på att tacka alla kunder för det gångna året och önskar alla en riktigt härlig Jul och fint avslut på året!\nVäl möt 2019!\n/Bellevue Solskydd",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/jul-nyarsstangt-2/",
+          "url": "https://bellevuesolskydd.se/jul-nyarsstangt-2/",
+          "name": "Jul & Nyårsstängt - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/jul-nyarsstangt-2/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/jul-nyarsstangt-2/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2018-12-18T09:57:17+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/jul-nyarsstangt-2/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/jul-nyarsstangt-2/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/jul-nyarsstangt-2/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/jul-nyarsstangt-2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Jul &#038; Nyårsstängt"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Julen står för dörren och det är snart dags att avsluta år 2018.<br />\nVi har stängt för ledighet från och med den 22 december och öppnar åter igen den 2:a januari.<br />\nVi vill passa på att tacka alla kunder för det gångna året och önskar alla en riktigt härlig Jul och fint avslut på året!</p>\n<p>Väl möt 2019!</p>\n<p>/Bellevue Solskydd</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

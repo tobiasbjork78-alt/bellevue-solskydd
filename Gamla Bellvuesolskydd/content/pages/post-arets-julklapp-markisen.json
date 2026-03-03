@@ -1,0 +1,121 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/arets-julklapp-markisen/",
+  "slug": "arets-julklapp-markisen",
+  "title": "Årets julklapp: markisen!",
+  "excerpt": "Stormkök i all ära men med en generös markis får du och familjen ett väderskyddat uterum för umgänge och avkoppling. Här kan ni fira både Lucia och jul, nyår och alla andra familjehögtider. Tids nog kommer dessutom vårsolen och då ger markisen ett effektivt sol- och värmeskyddskydd, under hela säsongen. Hos Bellevue Solskydd hittar du […]",
+  "meta_description": "Stormkök i all ära men med en generös markis får du och familjen ett väderskyddat uterum för umgänge och avkoppling. Här kan ni fira både Lucia och jul, nyår och alla andra familjehögtider. Tids nog kommer dessutom vårsolen och då ger markisen ett effektivt sol- och värmeskyddskydd, under hela säsongen. Hos Bellevue Solskydd hittar du […]",
+  "date_published": "2020-12-15T22:10:52",
+  "date_modified": "2020-12-15T22:10:52",
+  "featured_media_id": 2889,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Stormkök i all ära men med en generös markis får du och familjen ett väderskyddat uterum för umgänge och avkoppling. Här kan ni fira både Lucia och jul, nyår och alla andra familjehögtider. Tids nog kommer dessutom vårsolen och då ger\nmarkisen ett effektivt sol- och värmeskyddskydd\n, under hela säsongen. Hos Bellevue Solskydd hittar du just den markis som passar ditt hus och dina önskemål. Självklart monterar våra skickliga medarbetare din markis, med eller utan motor.",
+  "images": [],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/markiser/",
+      "text": "markisen ett effektivt sol- och värmeskyddskydd"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/arets-julklapp-markisen/",
+          "url": "https://bellevuesolskydd.se/arets-julklapp-markisen/",
+          "name": "Årets julklapp: markisen! - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/arets-julklapp-markisen/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/arets-julklapp-markisen/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2020-12-15T21:10:52+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/arets-julklapp-markisen/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/arets-julklapp-markisen/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/arets-julklapp-markisen/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/arets-julklapp-markisen/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Årets julklapp: markisen!"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035",
+          "name": "digitalnarvaro",
+          "url": "https://bellevuesolskydd.se/author/digitalnarvaro/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Stormkök i all ära men med en generös markis får du och familjen ett väderskyddat uterum för umgänge och avkoppling. Här kan ni fira både Lucia och jul, nyår och alla andra familjehögtider. Tids nog kommer dessutom vårsolen och då ger <a href=\"https://bellevuesolskydd.se/markiser/\">markisen ett effektivt sol- och värmeskyddskydd</a>, under hela säsongen. Hos Bellevue Solskydd hittar du just den markis som passar ditt hus och dina önskemål. Självklart monterar våra skickliga medarbetare din markis, med eller utan motor.</p>\n",
+  "categories": [
+    "Markiser",
+    "Solskydd"
+  ]
+}

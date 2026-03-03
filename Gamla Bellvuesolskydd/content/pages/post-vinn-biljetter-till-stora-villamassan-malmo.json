@@ -1,0 +1,126 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/",
+  "slug": "vinn-biljetter-till-stora-villamassan-malmo",
+  "title": "Vinn biljetter till Stora Villamässan i Malmö",
+  "excerpt": "Missa inte chansen att vinna biljetter till årets Stora Villamässa! Vi ger bort 4st biljetter till en vinnare som får möjlighet att gå på mässan tillsammans med 3st vänner. Mässan hålls i Malmömässan (Hyllie) den 2-5 Mars. Läs mer om hur du ska gå tillväga för att delta i tävlingen på Bellevue Solskydds Facebooksida.   Passa på […]",
+  "meta_description": "Missa inte chansen att vinna biljetter till årets Stora Villamässa! Vi ger bort 4st biljetter till en vinnare som får möjlighet att gå på mässan tillsammans med 3st vänner. Mässan hålls i Malmömässan (Hyllie) den 2-5 Mars. Läs mer om hur du ska gå tillväga för att delta i tävlingen på Bellevue Solskydds Facebooksida.   Passa på […]",
+  "date_published": "2017-02-22T12:47:29",
+  "date_modified": "2017-02-22T12:47:29",
+  "featured_media_id": 775,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Missa inte chansen att vinna\nbiljetter till årets Stora Villamässa!\nVi ger bort 4st biljetter till en vinnare som får möjlighet att gå på mässan tillsammans med 3st vänner. Mässan hålls i Malmömässan (Hyllie) den 2-5 Mars.\nLäs mer om hur du ska gå tillväga för att delta i tävlingen på Bellevue Solskydds\nFacebooksida\n.\nPassa på  att besöka oss i vår monter! Vi kommer att ha superfina mässerbjudanden till våra besökare.\nVi finns på mässan alla dagar och ni hittar oss i monter C30. Mer information om öppettider, parkering etc hittar ni här!\nLycka till med tävlingen! 🙂\n/Bellevue Solskydd\nEv. vinstskatt betalas av vinnaren.",
+  "images": [
+    {
+      "src": "https://bellevuesolskydd.se/wp-content/uploads/2017/02/besok-oss-208x300.jpg",
+      "alt": "besok-oss",
+      "title": ""
+    }
+  ],
+  "internal_links": [],
+  "external_links": [
+    {
+      "url": "https://www.facebook.com/Bellevue.Solskydd/",
+      "text": "Facebooksida"
+    }
+  ],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/",
+          "url": "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/",
+          "name": "Vinn biljetter till Stora Villamässan i Malmö - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2017-02-22T11:47:29+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/vinn-biljetter-till-stora-villamassan-malmo/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vinn biljetter till Stora Villamässan i Malmö"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Missa inte chansen att vinna<strong> </strong>biljetter till årets Stora Villamässa!</p>\n<p>Vi ger bort 4st biljetter till en vinnare som får möjlighet att gå på mässan tillsammans med 3st vänner. Mässan hålls i Malmömässan (Hyllie) den 2-5 Mars.</p>\n<p>Läs mer om hur du ska gå tillväga för att delta i tävlingen på Bellevue Solskydds <a href=\"https://www.facebook.com/Bellevue.Solskydd/\" target=\"_blank\" rel=\"noopener noreferrer\">Facebooksida</a>.</p>\n<p>&nbsp;</p>\n<p>Passa på  att besöka oss i vår monter! Vi kommer att ha superfina mässerbjudanden till våra besökare.</p>\n<p>Vi finns på mässan alla dagar och ni hittar oss i monter C30. Mer information om öppettider, parkering etc hittar ni här!</p>\n<p><img decoding=\"async\" class=\"alignright wp-image-726 size-medium\" src=\"https://bellevuesolskydd.se/wp-content/uploads/2017/02/besok-oss-208x300.jpg\" alt=\"besok-oss\" width=\"208\" height=\"300\" /></p>\n<p>Lycka till med tävlingen! 🙂</p>\n<p>/Bellevue Solskydd</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>Ev. vinstskatt betalas av vinnaren.</em></p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

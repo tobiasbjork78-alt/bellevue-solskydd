@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bellevue Solskydd — Måttanpassade solskydd</title>
+  <meta name="description" content="Bellevue Solskydd — över 40 års erfarenhet av måttanpassade solskydd. Persienner, markiser, gardiner och mer. Ny hemsida under uppbyggnad.">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="Bellevue Solskydd — Måttanpassade solskydd">
+  <meta property="og:description" content="Bellevue Solskydd — över 40 års erfarenhet av måttanpassade solskydd. Persienner, markiser, gardiner och mer.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://bellevuesolskydd.se/">
+  <link rel="icon" type="image/webp" href="assets/Bellevue-solskydd-1-980x283-optimized.webp">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --charcoal: #434952;
+      --slate: #8d9ca4;
+      --teal: #7ebec5;
+      --beige: #e5dfd8;
+      --beige-light: #f4f3ef;
+      --warm-white: #faf9f7;
+      --black: #1a1a1a;
+      --white: #ffffff;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      color: var(--charcoal);
+      background: var(--white);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    img { max-width: 100%; height: auto; display: block; }
+
+    /* ---- Header ---- */
+    .site-header {
+      padding: 1.25rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-bottom: 1px solid #eee;
+      background: var(--white);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .site-header img {
+      height: 40px;
+      width: auto;
+    }
+
+    /* ---- Hero ---- */
+    .hero {
+      position: relative;
+      background: var(--charcoal);
+      color: var(--white);
+      overflow: hidden;
+    }
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      background: url('assets/hero.webp') center/cover no-repeat;
+      opacity: 0.3;
+    }
+    .hero-content {
+      position: relative;
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 5rem 2rem 4.5rem;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 700;
+      line-height: 1.25;
+      margin-bottom: 1.5rem;
+      letter-spacing: -0.02em;
+    }
+    .hero p {
+      font-size: clamp(1rem, 2vw, 1.15rem);
+      line-height: 1.7;
+      opacity: 0.92;
+      max-width: 620px;
+      margin: 0 auto;
+    }
+    .hero-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 2rem;
+      padding: 0.9rem 2rem;
+      background: var(--teal);
+      color: var(--white);
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.2s, transform 0.15s;
+      cursor: pointer;
+    }
+    .hero-cta:hover {
+      background: #6db0b7;
+      transform: translateY(-1px);
+    }
+    .hero-cta svg {
+      width: 18px;
+      height: 18px;
+      flex-shrink: 0;
+    }
+
+    /* ---- Trust strip ---- */
+    .trust-strip {
+      background: var(--beige-light);
+      border-bottom: 1px solid var(--beige);
+    }
+    .trust-strip-inner {
+      max-width: 960px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+      gap: 3rem;
+      padding: 1.5rem 2rem;
+      flex-wrap: wrap;
+    }
+    .trust-item {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-size: 0.92rem;
+      font-weight: 600;
+      color: var(--charcoal);
+      white-space: nowrap;
+    }
+    .trust-icon {
+      width: 20px;
+      height: 20px;
+      flex-shrink: 0;
+    }
+
+    /* ---- Section shared ---- */
+    .section {
+      padding: 4.5rem 2rem;
+    }
+    .section-heading {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+    .section-heading h2 {
+      font-size: clamp(1.3rem, 3vw, 1.8rem);
+      font-weight: 700;
+      color: var(--charcoal);
+      margin-bottom: 0.5rem;
+    }
+    .section-heading p {
+      color: var(--slate);
+      font-size: 1rem;
+      max-width: 540px;
+      margin: 0 auto;
+    }
+
+    /* ---- Products grid ---- */
+    .products {
+      background: var(--white);
+    }
+    .products-grid {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+    .product-card {
+      border-radius: 8px;
+      overflow: hidden;
+      background: var(--warm-white);
+      border: 1px solid #eee;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .product-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    }
+    .product-card-img {
+      width: 100%;
+      height: 210px;
+      object-fit: cover;
+    }
+    .product-card-body {
+      padding: 1.25rem 1.5rem 1.5rem;
+    }
+    .product-card-body h3 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      margin-bottom: 0.35rem;
+      color: var(--charcoal);
+    }
+    .product-card-img-wrap {
+      position: relative;
+      overflow: hidden;
+    }
+    .ribbon {
+      position: absolute;
+      top: 22px;
+      left: -34px;
+      background: var(--teal);
+      color: var(--white);
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 0.35em 2.5em;
+      transform: rotate(-45deg);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+      z-index: 1;
+    }
+    .product-card-body p {
+      font-size: 0.9rem;
+      color: #666;
+      line-height: 1.55;
+    }
+
+    /* ---- Contact ---- */
+    .contact {
+      background: var(--charcoal);
+      color: var(--white);
+    }
+    .contact .section-heading h2 { color: var(--white); }
+    .contact .section-heading p { color: rgba(255,255,255,0.7); }
+    .contact-layout {
+      max-width: 960px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 3.5rem;
+      align-items: start;
+    }
+    /* Form side */
+    .contact-form label {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: rgba(255,255,255,0.8);
+      display: block;
+      margin-bottom: 0.3rem;
+    }
+    .contact-form input,
+    .contact-form textarea,
+    .contact-form select {
+      width: 100%;
+      padding: 0.7rem 0.9rem;
+      border: 1px solid rgba(255,255,255,0.15);
+      border-radius: 6px;
+      font-size: 0.95rem;
+      font-family: inherit;
+      background: rgba(255,255,255,0.07);
+      color: var(--white);
+      transition: border-color 0.2s;
+    }
+    .contact-form input::placeholder,
+    .contact-form textarea::placeholder {
+      color: rgba(255,255,255,0.35);
+    }
+    .contact-form select {
+      color: rgba(255,255,255,0.7);
+    }
+    .contact-form select option {
+      background: var(--charcoal);
+      color: var(--white);
+    }
+    .contact-form input:focus,
+    .contact-form textarea:focus,
+    .contact-form select:focus {
+      outline: none;
+      border-color: var(--teal);
+    }
+    .contact-form textarea {
+      resize: vertical;
+      min-height: 90px;
+    }
+    .contact-form-fields {
+      display: grid;
+      gap: 0.85rem;
+    }
+    .contact-form .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.85rem;
+    }
+    .contact-form-submit {
+      margin-top: 0.5rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.85rem 2rem;
+      background: var(--teal);
+      color: var(--white);
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.15s;
+      font-family: inherit;
+    }
+    .contact-form-submit:hover {
+      background: #6db0b7;
+      transform: translateY(-1px);
+    }
+    /* Info side */
+    .contact-info h3 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      margin-bottom: 1.25rem;
+      color: var(--white);
+    }
+    .contact-info-item {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1.25rem;
+    }
+    .contact-info-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: rgba(126,190,197,0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .contact-info-icon svg {
+      width: 18px;
+      height: 18px;
+      color: var(--teal);
+    }
+    .contact-info-item a {
+      color: var(--white);
+      text-decoration: none;
+      font-size: 1.05rem;
+      font-weight: 600;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+      transition: border-color 0.2s;
+    }
+    .contact-info-item a:hover {
+      border-color: var(--teal);
+    }
+    .contact-info-text {
+      margin-top: 1.5rem;
+      font-size: 0.95rem;
+      line-height: 1.7;
+      color: rgba(255,255,255,0.7);
+    }
+
+    /* ---- Footer ---- */
+    .site-footer {
+      background: var(--beige-light);
+      text-align: center;
+      padding: 1.5rem 2rem;
+      font-size: 0.85rem;
+      color: var(--slate);
+      border-top: 1px solid var(--beige);
+    }
+    .site-footer span {
+      color: var(--charcoal);
+      font-weight: 600;
+    }
+
+    /* ---- Responsive ---- */
+    @media (max-width: 640px) {
+      .hero-content { padding: 3.5rem 1.5rem 3rem; }
+      .trust-strip-inner { gap: 1.25rem; justify-content: center; }
+      .trust-item { font-size: 0.82rem; }
+      .products-grid { grid-template-columns: 1fr; }
+      .contact-layout { grid-template-columns: 1fr; gap: 2.5rem; }
+      .contact-form .form-row { grid-template-columns: 1fr; }
+      .section { padding: 3rem 1.5rem; }
+    }
+
+    /* ---- Animations ---- */
+    .fade-up {
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+    .fade-up.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <img src="data:image/webp;base64,UklGRsIqAABXRUJQVlA4ILYqAADQ7gCdASrUAxsBPlEikEWjoiGSaB20OAUEtLd5Lv3/o8+Q/DkXybA8A1c0of0h/ce1z+v/279sv7T/4u6K79+1X9u+hvEPaX/F/sB+Q/tH+P/4/+P/aL8Wf0X+y8H/kX/oeoF+Kfyv+//lV/gv2i48W1n/M9QX3O+rf6D/B/vX/bvmS+r/3P5Y+732N/5HuA/0v+wf6z+8fklzyXnvsBfzr+3f93/G/ld9Qf9X/4/8V/rP2z90/6R/jP+7/kvgV/mX9i/4v+A9s/2c/t1///eP/cEvdHVIInCYSy8dUgicJhLLx1SCJwmEsvHVIInCYSy8dUgicJhLJtH5f/pnPdFE3SKqlYC7zXA42DvBb5l6EdUgicJhLLx1SCJwmEsvHVIInCYSy8dUgcuT/L5n//GAozY+N0bXPVfP80QPWXjpKJuEWEwiTwbnq9Zba3ctPj6sFgZ4BApJCX4jfQvyXKM21jtiKuxslyBPCqObmVzgK2B7/U+bgKKcTPw1QVe52BGwczFrVwpMd2+joxhh6SSrhIll46nswd85CJvB9FxHkNuE93lnrM4+zPb2ynVTLXEMx2woaOXqromhjoajOoVmmR1cMCinOwSaMgF0B+kIgA3hENrPSi7Kmwt3VInCNrVnN5nGr3oyBLLx1SXVY5Ko4V5xm6EauORgwD4mv4nUMoocZoxfBEw3oBUinVtubw+bpC3Lksn6hmvfLsflN95QSjDw9IssMs6loKqV1HL1WoLPezqffc0RaMerwS1H4SYSy8dUgcyXKL5FhEnfC3eJl9NjYtdmsUFxlZvS/Y22FDRy9VfKpaY/mmbmHcLO1VAmDC/Mbz0YTyJvxqCwjkiT+FjnHHgsL5gyJ9YEsvHVIHnSRIJj35BMmEQRFpvYj0ViMaoixnc1yvRF7G1bYwHx3gp8cTV/r4K2RCxR3sJ1PO/JT9ScN5tcWV5H5TX2afK0ir7GnpXcweldJb6nW2IUgRKpriEC82l1OVehKxQnyUenRBgIcIB6lCTAEohFkSj2FNx+laKCA2z/U4QzWV6A2/JKzi8xVedbCRMp1rYMgl9K9z7PAcx4ParWA52fVZsevGo9Q0oP/f8501lint4by5oA9LcvODpLqCFfOwbBT1preqtnHPLcGcGc0CXS+9XtsqsVFl9PtixryvlLbAryM4o5yUX+JKIKSPn8EttFfUgv2orZ8WPK9LmofR8Maq/juBrupnGXX5YfeMdijrXi1mVvWmRQlveLlYOofreZtVttHZws3ML1Bwg5tOHxGj+aBuF7JViBSLW/gUfHnpohHRhgFAd8mVgqFiNy+yvUsc9QAYOOiUDcqH3WXrgpBNNw/P/qSDovfo8s3RWBqGNvWVdV9be86ZKWPML+ai9sZ06eKEThMJZeOqQROEwll46tNe0XzL0JZ2tcFujTNVhKfRN5CBHiDkl3NV7I7ZhGZ8nUij7RsuoPq5QacVNqjlvQsNv2m7PZuaKArvZNJvmhwmRCodF8nUYUdxjkzsoe1m+3qt3O0hw25BQ3y8fEJf98IaAU8mFG5r/xIoAcyo/OliXt4nEDECfo2JQoCnBkWC8r5YM9ObpsmagaegEpuWzrauNvBPznuVblvYBDi2CV8lZNrl5RDkyICmeEBz+FHU2drMRsEDdpaCngUBtGVShBUkm+iMNc1MlYHzTY4f90/20S006h4RUAwOJfVkixnK4IGz1fzD+73zFoIxxKU6dGbQvcdadIVylEhQa69+zhtH0I15Hc9PPvX/D+ewvsAAZq+ou3z1EQoWmY+tsrHyigIyGlUzO3+W+FSoyAaO1QFBGlPSvAPXPPE6lVShXBbHOXi13IJgNTsEssgS69t8AnBmJUYe1f0puazwHz/r5hNCDEPLizYTwoYJS95yMAzuH/OZaQRmdmTanGgmmmL5oe1yaBMAUwuF/LqDqqZ5H26TuZ/aUUsvHVIH5y9xxQMwlLX6C6lE6N5dycU80FbB9fJNGN7P8fmtX7UeSg+JFXJ7y88CpMLfcTcKblb/38Iuu5AktdWqWEujlURimuJVjljFwbNWJ8JriEMp1gjDgCinefHUzdlD++snOcuHeqegOMlMdhOTiI6mOy+rZ6G1grdEHphGgCiL9bQRLJtAQJMe/wJlkg+fLAva1gx1QFWT+C3wjUMarLIQq1FhTsso/CuCCopn2FBBnskX/Z6s2Da1A63WWrJeEYz9ZpH7TghltvnHvLjAB6ewQeAZLyYPT7Ro3UVNAVYBd9wdYIHuvPcRTONJQQ3GG8dfRfAF9KB1KD6fHxh8XOm06cBpTj4pIkwlT4ajkDtbakyEL+S1ZvapXKEEiqwpJwLyDFF4+IkaS3WuH/iMHpI+uQxZoQsdEZoaF0migWoCipRY2Imk7DmeTn05QUG1LTWnZG46yimIjzgHc82/G2tIUvr6nHLmzsYuw5ev2NuH2DrFb/8ZkphLLx1SB2XPpKczrNShL+SYSy8dUgicJhLLx1SCJwmEsvHV1Tgt8y9COqQROEwll46pBE4TCWXjqkEThMJZeOqQROEwll46pBE4TCWXjAAAD++DOAABgRPN7VH9hHfLmX0dh9VJ+NhNTWAtoCOHiU326R6cBBbYar58Xqfz7+nv/iZKdDGUSWZ2tTZ5VERQS47H/FoV00Olqux+hSZOl65fG8sDDMbKxXUIps7k+2dnfx0wGsKVTavQVKorYlUFjIUupgoaP0cE9STKPI8bHgda8R2HWHY7sazjf1fO9r/qhSD0ScqL4tYdg3mWm+AAI7cIYTjwBkF4AARCAA1X+R+FiQ8O7Z3lD4nnBYLPIORVD0oVK7sjMIhlCb3j7JS4djlgCYJ73d3PgGZuwD/2IF50idDC8BTzoNbGGSRNczz6Tyyfckv0Wl98Z+zfL8XzHsu/9rT3PzeWp3aatPRgoN+BocNQGTr0LKt9XFAQlyE+8K+nF9nL3mWtblO1Ku1zgEpWY4boKkLA4fZn9FBmtfCLHKyNG1/jE7AyYe/RU0abH1NSi+a2Dm+3SyLR3eSl+GpSRyA5lbeU3zGhbWFNIURZ5DORyuBwZqmdmE7plnVQfzD1p32dm+M3nRuI9+jXNM0zSmyxmbNg37MeKg5T1cIgd8zk1s9/Kqag2m42Q4N+2/3VT+OyqcQ+6Xn/Fz/Zn+Qfv/yqRpGdiJElDZc0e0rlRacw6IcKa0lGfZaRMch0cBUA/LkB//H7IHpHtG0eCelLPCwfXvXOT/lCxM9mC4t95oqR+XpfZM1lIQS0PDDOoN+K+l3xLDFVY/f8bh8t50DM42CbUS+eGR4iLqQb0tHG3V23f/iQ3XnMCvkqZ2NvnJAfxlswZpGWtoFTUo85zy8zpaoDJnha99hMpLJNhHn/RtNSQQiuUDwA7N847AM2df+0WsZU+krtcQDq3Vt0k7gYp2gKDB38wFJ0mvMfmAvVTT0KLm11evvNQ1i8/iuBH/InwR9kJJrOEA8EEVoMKEQS7U8g9T1gEpsDKpsUeUHrWr6dOE8htf7XA9tW3bmy0pGG6+3kTFW4QPROS3B110b/Iwo/zalt6rdqDBNVdWlBZypvxqRVA+CCfzrADgEx9T6BcsSa3Yx1N1E+WUbt58MAWviMxbn38Wa3fylT4upQg31CRkZ9rvIVghF+FlP4JCZVnwFcWzUPWH22FGr9seuHp5uQuvhlytFbGuAs4sJ0f8DyYSt+UthqR+g4Cwnmq4fHeatm6PxCcBwhHTek+vnAp3lv3AlJmOyUg7EjkocNcf1cX9DVBe9pUdkTYTzl9M3eu1zGmwnJKzdmp2/oCAg99iP9+QbniW523g58PtmgsPEoRBqnVvj+biF4L0BU2CF4objHZhQ6VdHhDLYduzwGhgYMcO39v34MnMabqNoJ9RIrjO6WmducA1z3N5q5Eo82A/87ywebyD76++PIR8XBGrzJEzAqExAWnvk+k9NV+uZAM8LMsOmBPN6IVVO+vt1l5buW6k/1IcgUUcBniUtyN1QblokfWqbgIjqIEWDf8QcfbpN1VysYVWVa1hgHJsTCXUjtkl85jWvgdhFVVS98aStzP38CRhn3oehizR3cnudcOnw/9V1K/AaS894h2LIqBurQJScWchG2gzXDeXpO7se2jIv2Ut54sXSn/SgpSs58fu4eNjfI+z6jfAgb6N5LvDrNKglu5GsVQRGTae1UUoIAbamLACEAPRikbt2N7K2XR0g23aQbGOU6R9gewvpt3bwJlTGFw/UD6QHBZhdWNwlQKa+1j3ulBSSOoxjFCwbQCr0BC+mCh/672JjTf/1r8aL8az/79TB1S3NysQoVR7trliJQS/1/4FtqRY7ms7a8xPCqiNvaEZ/tKuxS5vKbosLHmg2Sqhxp5yGAecpRMGpcThg8ikHsVUPGkOixa87u6I1MNoxMDq2+s8fUleDw0YDY4EbmgI54BXUhSQXCovbyfCa/r7/v3tz5/ln9XIw+f8hpX0JivGCGoqPmqdm+mSzK1wVl8KJDJymBrXtM1v/l2OZjQZsgRQZvKbih9bF7zY1Tzk3o23mtzJ84ampysWRMxIHDR9oR5RbWwVHrmz1v4TtbpEP5ev9lCoxZS7auvTV33bV9/5JvZj8pn42MxFR7xh1OzdL6dSO/ozJsYXlNNA1zcHUZy9Eec6s9nhJkOmEUoTFAOouPy3QhmcQpp4YGUXCH+yORrKsWR760juuT1sX8uH4LHyF19nXnBmt80T4VRuhpp9fiNrrOxOO6IE2SXA93dnlDXEuKYhUEAajo33WyvwBAq8mX+SSALtPkPNGYB5pvyz+8xCVtBmigkbC/BFmbiO/xl/VcuwHUVseNvmgwtM7oYKlo9o694bRsoDU8DTwd0sHnoqGVhx4FuMwQL1sD9EUHVX4MB0ijZN5k8X83NhsnhC1RDMT7AA8SNiyQekSMDRRvKZL3nk2vr6byr7IP/nYcWj0KO+C867jg1kz2diwxzIOi6mAqN7VBpV8b8Y+AdMnAXxJF1fu6Gd4IgK94DL2RvD2GrKjsaqpG0oqBbVOBiMnRHhkdWA0azbILgzjetl5xYq1HsZYlANXFz3RTeoWpKFJTGXHgEBJJtB+hp6g7pr6N/4KPPtzk5jXn2kdU8EtcahmGsrWEAYtMV6oSrcO3HaA0T8oOEoM85X1xh6qTSV1bs2ECNxBtezyko7jMRdubQNPNXIvZ0fRgvqOsZf/HiXPrrfhePwT+KLuTZ97E/Sy/TX0H11FUJm0Q5nQKNdspJaV6Bzh4rny8N7ZX3VRCKhU/Rka/u3lEyYrgYIJTk8l++04aaQnQMItPC3qi5BM1tdfhouCsj7HzYmAPBusZGMr1kSco1u5b6LwQrwPPwiNPYsgIoWdLZfezwSP2x/JO7xgi6GW8q/xRVyrtRBOaD0V2WEoV6PINX9B+g1neujxiQjKCQbd2EJ1yZBp2YX+2f6a8rpBz+NDKm0COAZzgdfnO8Wa/p/ojV7CvMvXiO6gef85c+D7BUdUcwhkBW4lzx1adc7QNSq2b8erIk46GpMEqPUcRE/oTKRrEPS4kuIot8XIrUcAPl5Zczvf+JaFdFnEseTOSRMNcVFgF4IqY1BzH9fdvjpK1ridhtVhiV48ICNGm4iwc3L4IsRipTJKH8WW5dSc+DwZlX2nX89+DONSZ2O4PaJ2DNJQGEwMVaIsy/hZzGCLkLXJ+UHyiNEYYTVtoaP7yEkf4LnC9OyTaOR2TWg+hVxI6TEKyWQEH/4QJfKBME2Q1Rw+5bIHvkj7t8V4XwdrFxANOve0+2s2ZorFG6B0f2KUjz5BszHEjMqBiCgLrj+zcgEV0QMXrOm+Z+i4ZCW6EjWnuEM2db47eD6R/0gz2XS1/16ziFjv+GXGY4xGdUty6o0mgKz8b9UUoRerdYEJKE2y1Hgyf4sI7gYKq8c7opDVaWzDsE1WG7l2+L/D9PjznJAtQex8nfegDf9/H83V5RlP97dVhePTBwIHW1VShx6pYOgS84iqXWIlRKWAAnJl//jZ3N6vULcd0cEjz5F3G1WXNp6OmE7PvnwSMv08g97k01nt5yZVeG3AzD9L5Ig0MFb6wEjfIjBVyDIhajixF0ef4y2XW5hhHRUmRJBvIU+NYr831iLIJZBKxCX6N92jXWTFFszSRVJSh1UfngS3my+Li+llMfNMtP/8Qp1h0QyzPB6QEN4v/7Ic0RSYbMMZUHL6yrboRhicNZ/gMS84b2hncASrK7y6w3arbntRu+Ck2acryIzjE//D/h9YEN6PnASkpKEcANKJy8IXIdRRlJwrH9DiHUOqZdtkxeOymt7LcdAT/lCxNmHZxN/SLN+FiN9vD38pVfI9BsO8pcSXsM4M5R8EVvgLXwcgIA7F/EPr3jNBDE+ZD6n/wv3MfsA63SfP6dBhTQpIYWq3ziu5AorXacucMDlP1NVcw+7xe90dukJFtvrGmKp/mXl4pckWzOLk+0YunsrmD/FCOCF70wWpBg4y7LsQwayXyNyoOVk3QMGUllMbe+InwkbTB4ilm95OWalkg6iKgY4r697Z87e8+iVAO/dlPKzwjfIVLm1y6TqsmK47stNVjAiP42nsBv7CC0E4dk86R7lMIApWCD07p/WvqPFzpNcpPvHLqQXjwOoY9Iak38UzmQjf5jm8guk0GtXry3cvnue57G6tXoWPGnNmDekQQxqvyxG21w/KXsJF8q00dlkWFz8CT9op83oX9xBXWl4UsP1Z62IKDZfWT7/Ng++q07hxYMg4EaH3b0u+fogb5fGsjdkk2y3eibFeYAswm+SB/YOhcz0vIwJfDOwk/KXpAS90Bn4k31YBKmMv9l6Hb80h3yeYiQhKd8J0BNEWZOuUY1CmVKKIoM0/6+/CJkOm2v+OEaI1NRe5uLyAf6Hmr4Am/pq3cajNCsIf5gOYTnnetBZw0aCamUHDEvVMH0MZrjwIDVvc3Brg4fn8qqpDpW6CEIX3/c3/OrqehJT94HDAAey1rv85+O+PIfikwFuhzABGHlz4o7kF0wCpTxzZ+8UXJTKFViCYHPM/OiJLyDyxXlx5U/w1rVo2ZUahNoietXrGlLfvGdY2yt2UzeviCB2r5/Kynt2i+df8MWiyjbIdN6ZqgZufXRiT2RFpUKHEUvMMN+Y8p/fnnrikNO/B4EnMbh5EkenW6ZHxmSD7DUuUZURSNuDS53chW4G7rRD/fZeX7rHr90l/A9iKnq/gYU0memN0hfCTvGNBlyFtV39fztFy41gatWPHKIqWrujvib8z7PlJ2hmoryJXD7RiO6+R9tprWDkkDzW/42dtP0d/VqTy3UFxeHHAwVoYEbPAglyAFIZR90KW8woHQJLkuS32Tfhc70ASOxjRNkljtDskf94WRu+rzd27q4eVlrx2QO+HstnCQp7cJgtB5foBn2N1T8RNChzdEHPwvy8gkBxqyye9kJhrdSz3rlEVi3/yDjw8gXG6cewhFV9Fgt8nARDPZuWNAM9jkK0/xrriJjhZlwqrh7AmSmo/3YHxnSkXrW5oOOwDTQp/CSd9bCqEdo1q3PcTcJhZCRHeqUFFkuPW7x6iTm270M62sBenrn4UEQ526XIrASr1UkNDFPf4wpfWtsKkPZWb4htt0L51aQ84PTAMP/t7ccSH0hkoRh4pcvXvTXvQ51yN6OA2bNxvQ2BcIS6/Lm4i8nUXtEvXDLCcHr9+1Jv5XCCGrq6zVmzbjScIwNqXdvw8ypzAHAofCA9uZmbu+OV29wv+h3jeJPZsI0f7RYOTQsYPX86lx+lG9g77RALnk9wsnxzk8mgzozpycz5iVgPpZ8IUYHX67MG8YDVvtmyMr8M13Eg9xrtzctLbsrW/AYeemalgaWPwlVnNdsUOmj5Y56Aqx9GCzauX2mqANYPcmqdxClZ01SyOHYDhPdLA2eYEnxvO6MJG7MynWOo6IiGduXym9pGAbPpVxb9H2XPpFv6aS79joTTGELU4zhe7fFZBb7DPb/vWBWfbQAAAAAAwpv5c+AcnAVDt40uiTaMyAKLYSWaYYvTonQ6RpOKj1uVtNFQ6aiGd8K99sBF6Sdg/8DKVJWmQZ09GXvrFRQrLgScVBuABw4DGSL5djpSxrs25BbbnpdDQIdUlhmaaqWPPNv+MuP7+xREIzW6kUbuGe/Aqz/7rSigGxICXUw8kMas/lqjfsrkE0av7+1/nBXwClX3S7L97EDl2YBU6Yo5NcUMbGHXvK6cMCH8hzAUTtU9oCZP8cHBZgCOic+UO/PyAgJ4WEN1v7//qj/wBZGwYcmkj3kT9Pjro/VLxmqEzcfF7QgOadOEaegeDDbtPpkDjpHwGPmNlXXDY8ntMu7DmZmUtlAJPYlqFIJqylT3NS0Wuq7eoIb3fduMofuHvgNze/84FAMePEXVOZxFrx3gs9NZ1ITkRvUsTiEjjVodv4j0JW3Lk8UXgbWiiRYqMhnazKaXlkv5DMKQ9v9EkW/kHMA2D+VZCLrRkkBes/pLe9PLJERRJmnDMDiu7g58hTVmeIFQFjHPeKNpKGGes8VQzBZypmWAB76ul7VVsHeV8JfVsIT4JgsoBW3RTjq6AVqrPE+3AB/7F6C12KegvDEGkPVzoKkrRDmNB8L2HNz8fkrDDqhk23zhAK3nCVJac+2iTCMREmTaI4QTV1ixkUt5uiKdKUIStYsEGsr4ksb9GciSVPw91RDn/3gBNp6LlWsgWSen4HmKg8mya3OoUQE/8xfgYm8mC8pbun3Ap7ClozMTIbf5+reslPZXf/wnEZFBnYMqt5iaF0ADv8RThCGAQ4VlYmEDn3PtnXZsLk7UYignu7luPydFMCOnqOjOnL2IFL7RNl5OzmBBbUMmZ++jphx8q0fwTfBwZCxF70+yl+sJ2HDXITQ+0lMb8dK5PLPVqglw5+GQK5sdl5UKmBKxVkTkIGYFt5L0rxMcpfLKwrOwhTOuJNCmmJdH0zugZL6z8mT8JVYmOpaKnqq0ZPCm7SlHEkUUeUmsGj3U9ZnJmb3t1qkByjYWZ0bmTtknvu7EQaQpv01N/th3Mx3pXIhGbdqahxj57HEAxAOp2RJ0E8Vz/sHb/wDyXUN0ef0hUexA/3N2wnAZ+v4Lqj3etFYL4kQDLN/h4lwpMkgjYNO22NQimnrSW8gRNCmsRaO2ppw4rD07S8PIbxoQCtgWtvjtj+9b7kRt81SksbGTXc0sOQVAvCokv7WI4dYpIrnDZ+8zbhkpoD4/xpRs/9Vx9yzadMnON0nrCBz2I+htNkhoIOuj/cLwkvDk9PaizTLDtyHW6N2UGi+kqPhp/oJY/lPYjl8fNk/EyDI0H07VnbvSCgnR6yQB5dA7DEP/AYWmoEeOk94CWUuv7/BpNz6wZmxrWK4PFTD+mCe+s5fNCn8s0xoBED6FnqqeZAAvSxS3cvqX3LGWzawr58aDSz55eWwESajIugy0zqeqHe+AHBYs7ti4JlXzTdW2R4D9/7sDnFVda3Kfz3yW1gNPcw90+SZt+yCchCSZ2U4Og5ETG0EXNMzp26aLwc6Witm1xYb8FUXS/4O8fS/nuyzreyL0MIV18rCZoLlY2sWrg80op/NrRSg5oS0vhN4gQM4fZa1WJeqvLq1h8ZY0yAcNGbQkOUzxze5ISYB55qY1Nujf1cO12iwZ57lZEGXR04bqyr+UZlgPFsIcX8NEWKYolFR6PUBhWA1y97epAeqRVnx5HpWnil0vEiJs0obSsN44SKIRQ3yPpmgOJmvl2ZvDpTR8nyvYl+6p9gL85zN0ePWsVjcEADhhWziQ+JvluX67QDwRg8pVhYxJxIDidz1lY1rzuIpfPDif4t1mqgkxLjJr63ta6xq78Brf/oEL6110RHPyX0yMb+M4U/ykwuBzOFmjiDFsq2Fxxc0WdggSLmSKe6SZR4ZOsiaqmHbCYXzayAuaHryiyEDQxi0I3cWaG0EYWCWmb7XsKzALcXXepsvTgpGksD1MSgOC5uVnczQDc1Or66ouEMhB4+4HndCXtq3+ZbcyXAgTKgV/peHLjPraIh65AURnDb34J4m0t5ZHxQU0dHv6F3D7SOZtKxIoIn26MaZiOx/OH0B5jxUlwddyVXBF4jZ4f6N+vWEMGvTsTTqq1FcU/apwnCf717mHRm0WRUbUGoxIqBwwCvrqtXvTrfbIEa5tpQbAMMcpzXC/Jlqbf1F9qTo9xYht+EKVWiq62aGBZQuK+jlbAl9e6+1hFERVjHVChaApcixMqV0cXWbX5t3d4/jD0TAd8f64jl3a4sKODo2wM3jeTRs1porhuJr9kQeuywqlnjcJRTAjdrNpChdQYJosiCNf14zueSZC5mW1RRJCbSIo6+U58EZFZcoW/qXidm0W+Woi2aAxKgAdAmwIefIEsABO4sGkhqMmLvNK48ISDZkgJ5f7vv4IfVIODuLxuO9LXyYJCGo/AylxeXVsGF9hgzDYHp6ruJUHokvguiwuDb3JSP2cVuLHqjQHE9QBVl616zrs1Ty+afv2cNalEZ/6ZrS5Ps3hrJbTHvW4TDJUsSExbnx2TggiLU+AKzRfwS3ghzZjlqijgVtdBC5zAQz8PwLKMZ2A7A6CljJ03KmWIU+UWpv5BI7k4OYmBPRjoGRFq9aqiKiu+RTX/lfFwo0NewgjrILmX3HR6u5MittD1uAIarVwwL5d6nGX0MLVoYNIG5a+j7NI6/R7GRShF2tatRfISbIYsjVwGPFNworZK5LF2q0X/lyzwXjgWVfsw+8eZ7H1t/drVwF6to3O1800hARWORVSTjaje6zlZmn2Js/pRlohhMvjn1fP3XOKjvuT/QBFD5w+eLdAy47Uq7rs1BZk8v71/wzPgIypfp5BaRPD7kTdudluLHQYZQO88O+EXt+Ue2Bf0sTNfLCLeEl3UiFBeI43Zf9Yi5iC+D469UI8U+kGmJHxWFm1Lgsf9EIhRfk/rDDxFFel/Jhq5u50U3yW+mpH23mH1vop1TPQCCMWsfgnDHgz3TwYfKz19QLvTpi8HSDkXCA0lMk7dEUinASbdYetEIYl9xv7r2Xg8TO8DETG/VrVsJs6VTb9YH+nQQVgqnwmn8ftP0Brmi3PHF3ckNbghsffXlH90qrJIc/f+fiE6A4C8MTtcL5ukx5H/ZUpWfNpga6WaE93qErkgFPPJMPi0ylOIjUecHm6uAryYgKIKpulO8jZdHlH454OnY9TsvGepIB1965MFeiqBEeKrDcCJvh+VOHE4KRnAsV+gPi3QjUHFKuR212f0ZlsMe6DgG0z1Whz0xQ3uK0rgzfsLcbLiZIPVugzOAEYtzVaxDSqxIWDm9H8/jo6NyYGtRgDAG9bgiDCfAcwjq4gZHFoycgkW0nThS0b0uM99mZfRQO4bQVpx6zjyV1tXUUJoMPcNWjK5JtYXk4ASWWEXJ+X3O7dEsD0Q7/DC8wm5vb2KJzrSMv8OafVLJyRYqB15zkfTc2G4zjPJqNRtlFslBn0s1f/SiPqQ8NI7SUXP4GNxxaNYT0cVQMpwTwgkFYtrkLdm39n8Ln49cvh8pEgREjUTK0BDpB5mbUjfPAdrSkuD6CbGYgMRx27ZgFE/cwL74/8HZtWG/8YKl+N0ZGQt0NmisFLQKWTj1hPSdrPm9Ico9jDzC0gZSHL8S79VooBZQcLXteEbVx6LOWQdWD/HhI3uvzINlCDnuTiQeOI/mWz9dH++6LlvzT0MrRYQbBxI6TyAnlO9cBUV0ycF7AX9ds+4UXqzZ4Hnxur8QxVS4ZieOcZz6qlEB1PAi3HPs2f4CVyTCKKNG4DIdRVH+BTJVtOXYh3CAXhtWxD909TcGdI5r1AheRuWJ9KaSFvJUfhxGRN0bQFovJ0uDdhTud3S+fe47Gu7VhIkoGYLperpVgb4/+KJgwIbgPSMid0E5/10o9/1czPAX6Ysvx1t8EgDF2sWxppP0/35UaQvuW5JnOntBNIE2Dmti5OlzdFStVcAuPIV61lv0TSmB/t6+xmDMwss5fgHmBeDxelZ53hLY4TyXcI1bSH+qQYfwW/kJWKXrQAz2NM472sUiaeDUkdobUSgNr63mb26IGK6EF/6lJCfXtZLKutVm0Xl1NwndiWQJxuBtlHTAfcect0tqAHuCwPxUkp5ZFEAGRxqezoatmhryZyDehInVGiSMeXAPucXQzEFCS/pRsmyY9+8yhxeQNKjbNO/fd/0TkUj0SH+9gkDrbc9iMCjdlsEVa7l/P/T3AF6pAUy6nkk6sxGw2/vey8tVPTnrLrGlxX7rtQpMrdRYvh2qU1fEF1phPnxmQXvQ/VnTkThTMPQr/gNFF3EDg7BOEwH/CUy0Jkrg7hQhWTnrSU6dMk66s44vnL7SX+cj772OVIq3SvczB2GYmvrBfpWCIq96ZmZgEVeQjVeFsMbBeH4jAgBdopXsas8HbyY0TePqUwx40/36U2axbuksU5nHZd7hUvTMFBZJvI+Ac68iljOIdl2bmVDdRmwLm1Hogbrs/wJQfzue8vO05XqmWAn6VM0Ldn8RW+lhpG7VSwiL6sklakUuZllRx/faYg4HM0AbTHKC+6BNlgpBLeuYY/4uLn0Sm4MQ7PP6CWzGSFVhQSFTCjCWbCh6Hk5DAWdd8boVEI2VPj1HDhrRdQYWs+KG1bSd7oxBTcR5PC8u1btFWE1yyf3MRcJS5Geye3OYHpvw+dWIsyZrrhsKKD28a/ZGmlc2JCbj1cczQdIsoTUoL0/F3csRHL0TNVNtSm0DY5TtEqseX4jXRUMJAMBsbkQ3Ti2rmgwg89867l9067vudXYeAUjw+xEHsb9pqTiNs1XDfMQNOzXYejHFwvcDMXe1dHiPUX2y3QctSPDUqOj3B/+vBVmHP2zOcXpbQLp58TeHmJZXydKb6m7sw9z0ljwas6Wxv50fFR64BESNU1mVJOztaEyBuk5JH3wu+VUKshd+OEWkhtRvlc/QxDel1Yj2/fQjZ8yK63cWFI2WqhR2v6PBZ1G3jCdlNre4DVhx7Ja/AJ/KnUgGltOTWGzGrLQ+r2mHghPpL83FpqwdTeOj8pyTXvvRukFqZ1mr1cLEpgps9Or4UBu8a3vi9mLrb5tisdzvV8SpNU6/ii29tUDjT2/4vZ7AOCcxxcYOQG8M/RiOpUBFmAv7u4ODnXoTGrwpMQI8uzHcyswJDh7/wQZRxSK7plBT+mrxKnVw5NQWjCquLV0bRTA56oxvKT0yXNtsqvjb8Ba7pOUHTsVhUUeziZXJDx0EcjqY7Y1G+ifbpgQ+aU9GOOYEBAR6MObcrP6WVDpVMV0W1JcQyn9Mxm9Mu0METynF4tNDQoOinzVFM80El/sQaGqFBJj2tM9PYUnd/+3iHxJUTOOMAK9AIFJd48k1elLHceSY6YhWN/Swr9Ty8WGEdk4IujvS9pacK+WWGQqtR61blBVCvIwaMdo5UMp2k+O8yprtmVcJ9Um9TVz64tVhKWzMmZsXl1WW8B4p3DeKeeGt9xBL4enqFshqYs+nEiPrLXXiLiZeN6gCPZ63XCkbAFcCb0X6zb28XTOjrNfGXp7XPr41FzJpJZeAWZY4cXS2bU9XC+h9EgjCrZ60MIWdhk6ZBrDxoyRCBQfNWyOVTahLmDTshJNzYjFFo5wn/1cwlCiHu1KBVnA8fRdQRwbn8RZ7HLvymL7CU+0O9MFP/piJ/A+GnG9AIAyOuaOgx6KJ/QjNGxmyeDIoeFjudI9zqpqQ/7xpaaNUc9mBQZWZrBh1rMy49fuLUeIhlNolNQrGlRa4aBIgSm5fe/asKyEVWjmlZD4SydHnackXTbaReRH7MA0ljrk3j9Fa4J4HEcJMDn9mMcXDVJKDvPfTOUeKdEbG36pAmwe0yMtqM7zbJTWNdp/kYgFht7EwXjSGBTGDYeJx4frtsDlVwLVSMYNlwpeefckqOR3Bm4QNalCjqEEDDw5m7Evwy04X5ADkM6v6/xlXdfp1N1e8xcGVfa2Lnk61OImgMVCnWNCXj/oYjFFSG+69gEpt8nmbGI6P/f5q0dXmvY51QLhpoRLZsKUYgP735j8tBPpnXy7e1U+YByGnrYZ0vOvl6+V1wQ4yjPdJUmOTHkgSBU2GThjmWHKA6RzAQHFi/lLqNt5vjRcj5cWimIzDc38w18OebhZn3HF1uCdsieKIGkfnA3oDeC8dkqAybwfX2/FwEbb/FhZzAOpsrwYqsxoHcsUXIvO4mSivpayVbeaHGP6ACBjmdh+FHsZvZtV/qT12pxPGAKjMjOL/74SQ01uf0zoR149f0ACECIzeR1Si2G9pSwUxkCRbUypiQvBOQfWm1QeHk2Mq/lKVoAHU6RTRpnqbvQTzprtFZdAmQZtwyHSNRCXEFgbadi2ddFOrCHmEDiPXgBFG9nKI6/zrFm00eUDMRqSrZV2juSLPXsa1es+/YRM7lTaYncIYe3p5LAAd4ZI0b5Es35H391WcEq23b3hzEkXy2fUySio6t3HeGtBK7RWExUbqpunn168SK/1jZrsXZ9T22v6neKw7nSDcj2TcatbOLn6qsB2TjAj9QuMfVjNKQoRtUN6Uqrj3zbIP5JyeErpmG2FZLL19T1eMxRFeG1IncG3BnPHR06rlSJ/Gv9ByDTtCPAAAAAAAAAAA==" alt="Bellevue Solskydd" width="980" height="283">
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-bg" role="presentation"></div>
+    <div class="hero-content fade-up">
+      <h1>Ny hemsida<br>under uppbyggnad</h1>
+      <p>Vi bygger en ny sajt. Under tiden finns vi här som vanligt — ring, maila eller fyll i formuläret för frågor och offertförfrågningar.</p>
+      <a href="#kontakt" class="hero-cta">
+        <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10h14M12 5l5 5-5 5"/></svg>
+        Boka kostnadsfritt hembesök
+      </a>
+    </div>
+  </section>
+
+  <!-- Trust strip -->
+  <div class="trust-strip">
+    <div class="trust-strip-inner">
+      <div class="trust-item">
+        <svg class="trust-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="8"/><path d="M10 6v4l2.5 2.5"/></svg>
+        Över 40 år i branschen
+      </div>
+      <div class="trust-item">
+        <svg class="trust-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 10l2.5 3L14 7"/><rect x="2" y="2" width="16" height="16" rx="3"/></svg>
+        Testfakta: "Bäst i Test"
+      </div>
+    </div>
+  </div>
+
+  <!-- Products -->
+  <section class="section products">
+    <div class="section-heading fade-up">
+      <h2>Våra solskyddslösningar</h2>
+      <p>Måttanpassade produkter för hem och företag med material av högsta kvalitet.</p>
+    </div>
+    <div class="products-grid">
+
+      <div class="product-card fade-up">
+        <div class="product-card-img-wrap">
+          <img class="product-card-img" src="assets/persienner.webp" alt="Persienner från Bellevue Solskydd" loading="lazy">
+          <span class="ribbon">Bäst i Test</span>
+        </div>
+        <div class="product-card-body">
+          <h3>Persienner</h3>
+          <p>Vår patenterade Bellevue-persienn — utsedd till "Bäst i Test" av Testfakta. Enkel att montera, rengöra och reglera.</p>
+        </div>
+      </div>
+
+      <div class="product-card fade-up">
+        <img class="product-card-img" src="assets/markiser.webp" alt="Markiser från Bellevue Solskydd" loading="lazy">
+        <div class="product-card-body">
+          <h3>Markiser</h3>
+          <p>Terrassmarkiser, fönstermarkiser och korgmarkiser. Motoriserade eller manuella, med tyg i hundratals färger och mönster.</p>
+        </div>
+      </div>
+
+      <div class="product-card fade-up">
+        <img class="product-card-img" src="assets/zip-screen.webp" alt="Zip screen från Bellevue Solskydd" loading="lazy">
+        <div class="product-card-body">
+          <h3>Zip Screen &amp; Solfilm</h3>
+          <p>Effektivt solskydd för fasader och stora glasytor. Zip screen ger fullständig avskärmning och tål vind — perfekt för uterum och balkonger.</p>
+        </div>
+      </div>
+
+      <div class="product-card fade-up">
+        <img class="product-card-img" src="assets/lamellgardiner.webp" alt="Lamellgardiner från Bellevue Solskydd" loading="lazy">
+        <div class="product-card-body">
+          <h3>Lamellgardiner</h3>
+          <p>Reglera ljusinsläppet med precision. Funktionella och eleganta lamellgardiner för kontor, hem och offentliga miljöer.</p>
+        </div>
+      </div>
+
+      <div class="product-card fade-up">
+        <img class="product-card-img" src="assets/plissegardiner.webp" alt="Plissegardiner från Bellevue Solskydd" loading="lazy">
+        <div class="product-card-body">
+          <h3>Plissegardiner</h3>
+          <p>Smarta gardiner som avskärmar ljuset från toppen, botten eller hela fönstret. Finns i ett brett urval av tyger och transparenser.</p>
+        </div>
+      </div>
+
+      <div class="product-card fade-up">
+        <img class="product-card-img" src="assets/rullgardiner.png" alt="Rullgardiner från Bellevue Solskydd" loading="lazy">
+        <div class="product-card-body">
+          <h3>Rullgardiner</h3>
+          <p>Diskret och effektivt solskydd med rent uttryck. Välj mellan transparenta, ljusdämpande och mörkläggande tyger för sovrum, kontor och vardagsrum.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="kontakt" class="section contact">
+    <div class="section-heading fade-up">
+      <h2>Kontakta oss</h2>
+      <p>Boka hembesök, begär offert eller ställ en fråga — vi återkommer snabbt.</p>
+    </div>
+    <div class="contact-layout fade-up">
+      <form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
+        <input type="hidden" name="access_key" value="30865a8c-9e19-4620-ab83-b9ca1f025348">
+        <input type="hidden" name="subject" value="Nytt hembesök — bellevuesolskydd.se">
+        <input type="hidden" name="redirect" value="https://bellevuesolskydd.se/">
+        <div class="contact-form-fields">
+          <div class="form-row">
+            <div>
+              <label for="name">Namn</label>
+              <input type="text" id="name" name="name" required placeholder="Ditt namn">
+            </div>
+            <div>
+              <label for="phone">Telefon</label>
+              <input type="tel" id="phone" name="phone" required placeholder="07X-XXX XX XX">
+            </div>
+          </div>
+          <div>
+            <label for="email">E-post</label>
+            <input type="email" id="email" name="email" placeholder="din@epost.se">
+          </div>
+          <div>
+            <label for="product">Intresserad av</label>
+            <select id="product" name="product">
+              <option value="">— Välj produkt (valfritt) —</option>
+              <option value="Persienner">Persienner</option>
+              <option value="Markiser">Markiser</option>
+              <option value="Zip Screen">Zip Screen</option>
+              <option value="Lamellgardiner">Lamellgardiner</option>
+              <option value="Plissegardiner">Plissegardiner</option>
+              <option value="Rullgardiner">Rullgardiner</option>
+              <option value="Solfilm">Solfilm</option>
+              <option value="Annat">Annat</option>
+            </select>
+          </div>
+          <div>
+            <label for="message">Meddelande</label>
+            <textarea id="message" name="message" placeholder="Berätta gärna vad du behöver hjälp med..."></textarea>
+          </div>
+        </div>
+        <button type="submit" class="contact-form-submit">Skicka förfrågan</button>
+      </form>
+      <div class="contact-info">
+        <h3>Vill du hellre ringa eller maila?</h3>
+        <div class="contact-info-item">
+          <div class="contact-info-icon">
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h5l2 5-3 2a11 11 0 005 5l2-3 5 2v5a1 1 0 01-1 1A16 16 0 011 4a1 1 0 011-1z"/></svg>
+          </div>
+          <a href="tel:+46707923651">0707-923 651</a>
+        </div>
+        <div class="contact-info-item">
+          <div class="contact-info-icon">
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="16" height="12" rx="2"/><path d="M2 4l8 6 8-6"/></svg>
+          </div>
+          <a href="mailto:info@bellevuesolskydd.se">info@bellevuesolskydd.se</a>
+        </div>
+        <p class="contact-info-text">Vi erbjuder kostnadsfria hembesök där vi tar mått, ger rådgivning och lämnar offert på plats. Ring, maila eller fyll i formuläret så hör vi av oss.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    Ny hemsida under uppbyggnad. &nbsp;<span>Bellevue Solskydd</span> &copy; 2026
+  </footer>
+
+  <script>
+    // Intersection Observer for fade-up animations
+    (function() {
+      var targets = document.querySelectorAll('.fade-up');
+      if (!('IntersectionObserver' in window)) {
+        targets.forEach(function(t) { t.classList.add('visible'); });
+        return;
+      }
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.15 });
+      targets.forEach(function(t) { observer.observe(t); });
+    })();
+  </script>
+
+</body>
+</html>

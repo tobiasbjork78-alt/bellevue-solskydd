@@ -1,0 +1,124 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/",
+  "slug": "forlangt-masserbjudande-fran-bellevue-solskydd",
+  "title": "Förlängt mässerbjudande från Bellevue Solskydd",
+  "excerpt": "I morgon, söndag (5/3), är sista dagen på årets Stora Villamässa i Malmö. Under hela mässan erbjuder vi våra besökare fina mässkampanjer på både invändiga och utvändiga solskydd. Nu förlänger vi mässerbjudandet till alla våra kunder på samtliga solskyddsprodukter. Erbjudandet gäller t.o.m. den 31/3. Kontakta oss för mer information eller boka in ett kostnadsfritt hembesök* på telefon […]",
+  "meta_description": "I morgon, söndag (5/3), är sista dagen på årets Stora Villamässa i Malmö. Under hela mässan erbjuder vi våra besökare fina mässkampanjer på både invändiga och utvändiga solskydd. Nu förlänger vi mässerbjudandet till alla våra kunder på samtliga solskyddsprodukter. Erbjudandet gäller t.o.m. den 31/3. Kontakta oss för mer information eller boka in ett kostnadsfritt hembesök* på telefon […]",
+  "date_published": "2017-03-04T16:48:55",
+  "date_modified": "2017-03-04T16:48:55",
+  "featured_media_id": 811,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "I morgon, söndag (5/3), är sista dagen på årets Stora Villamässa i Malmö. Under hela mässan erbjuder vi våra besökare fina mässkampanjer på både\ninvändiga och utvändiga solskydd\n.\nNu förlänger vi mässerbjudandet till alla våra kunder på samtliga solskyddsprodukter. Erbjudandet gäller t.o.m. den 31/3. Kontakta oss för mer information eller boka in ett\nkostnadsfritt hembesök\n* på telefon nr: 040-181100!\nVarmt välkomna!\nAdam, Markus, Daniel & Heléne\n* Inom Malmö med omnejd",
+  "images": [],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/",
+      "text": "invändiga och utvändiga solskydd"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/boka-hembesok/",
+      "text": "kostnadsfritt hembesök"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/",
+          "url": "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/",
+          "name": "Förlängt mässerbjudande från Bellevue Solskydd - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2017-03-04T15:48:55+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/forlangt-masserbjudande-fran-bellevue-solskydd/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Förlängt mässerbjudande från Bellevue Solskydd"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>I morgon, söndag (5/3), är sista dagen på årets Stora Villamässa i Malmö. Under hela mässan erbjuder vi våra besökare fina mässkampanjer på både <a href=\"https://bellevuesolskydd.se/\">invändiga och utvändiga solskydd</a>.</p>\n<p>Nu förlänger vi mässerbjudandet till alla våra kunder på samtliga solskyddsprodukter. Erbjudandet gäller t.o.m. den 31/3. Kontakta oss för mer information eller boka in ett <a href=\"https://bellevuesolskydd.se/boka-hembesok/\">kostnadsfritt hembesök</a>* på telefon nr: 040-181100!</p>\n<p>Varmt välkomna!</p>\n<p>Adam, Markus, Daniel &amp; Heléne</p>\n<p style=\"text-align: right;\"><em>* Inom Malmö med omnejd</em></p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

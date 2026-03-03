@@ -1,0 +1,93 @@
+{
+  "type": "page",
+  "url": "https://bellevuesolskydd.se/tack-meddelande/",
+  "slug": "tack-meddelande",
+  "title": "Tack meddelande",
+  "excerpt": "Tack för att du kontaktat oss, vi återkommer inom kort!",
+  "meta_description": "Vi är specialister inom alla typer av solskydd för privatpersoner, företag, bostadsrättföreningar, fastighetsägare, kommuner och landsting.",
+  "date_published": "2024-05-20T13:26:59",
+  "date_modified": "2024-06-13T14:11:39",
+  "featured_media_id": 0,
+  "headings": {
+    "h1": [],
+    "h2": [
+      "Tack för att du kontaktat oss, vi återkommer inom kort!"
+    ],
+    "h3": []
+  },
+  "body_text": "Tack för att du kontaktat oss, vi återkommer inom kort!",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/tack-meddelande/",
+          "url": "https://bellevuesolskydd.se/tack-meddelande/",
+          "name": "Kontakta oss - Exklusiva Solskydd - Bellevue Solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "datePublished": "2024-05-20T11:26:59+00:00",
+          "dateModified": "2024-06-13T12:11:39+00:00",
+          "description": "Vi är specialister inom alla typer av solskydd för privatpersoner, företag, bostadsrättföreningar, fastighetsägare, kommuner och landsting.",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/tack-meddelande/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/tack-meddelande/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/tack-meddelande/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tack meddelande"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p><div class=\"et_pb_section et_pb_section_63 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_104\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_185  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_116  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h2 style=\"text-align: center;\"><strong>Tack för att du kontaktat oss, vi återkommer inom kort!</strong></h2></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n"
+}

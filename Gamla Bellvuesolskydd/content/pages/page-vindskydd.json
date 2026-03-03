@@ -1,0 +1,153 @@
+{
+  "type": "page",
+  "url": "https://bellevuesolskydd.se/vindskydd/",
+  "slug": "vindskydd",
+  "title": "Vindskydd",
+  "excerpt": "Upptäck liknande produkter för Utomhusklimat",
+  "meta_description": "Vindskydd & insynsskydd, används både på restaurang och butik, men även hemma på terrassen. Måttanpassad tillverkning med 3 års garanti.",
+  "date_published": "2023-06-20T16:07:16",
+  "date_modified": "2024-09-03T09:23:48",
+  "featured_media_id": 0,
+  "headings": {
+    "h1": [
+      "Vindskydd"
+    ],
+    "h2": [
+      "Optimera din utomhuskomfort med våra vindskydd",
+      "Utomhusklimat"
+    ],
+    "h3": [
+      "Skräddarsydda lösningar",
+      "Kostnadsfritt hembesök|    Måttanpassad tillverkning    |    3 års garanti",
+      "Vanliga frågor – Zip-Screen",
+      "Upptäck liknande produkter för"
+    ]
+  },
+  "body_text": "Produkt\nVindskydd\nOptimera din utomhuskomfort med våra vindskydd\nVåra vindskydd är inte bara funktionella, de är också en estetisk tillgång till din utomhusplats. Oavsett om du behöver insynsskydd eller skydd mot vinden, kan våra vindskydd anpassas för att passa din restaurang, butik eller hemmaterass.\nUpptäck möjligheterna att använda våra vindskydd som en plattform för att marknadsföra ditt varumärke och skapa en attraktiv utomhusmiljö.\nSkräddarsydda lösningar\nPå Bellevue Solskydd skapar vi skräddarsydda lösningar för att optimera komforten och smälta samman vindskkyddet med omgivningens estetik. Våra vindskydd är tillverkade av högkvalitativa material som garanterar en exceptionell livslängd.\nVi är här för dig hela vägen, från urval till färdig installation. Med en gedigen erfarenhet ser vi till att varje detalj uppfyller dina förväntningar. Vårt mål är att erbjuda dig en produkt som överträffar dina förväntningar.\nKostnadsfritt hembesök\n|    Måttanpassad tillverkning    |    3 års garanti\nVanliga frågor – Zip-Screen\nKan man få måttanpassade vindskydd?\nVindskydden måttanpassas efter dina önskemål.\nGratis hembesök?\nBellevue Solskydd erbjuder ett gratis hembesök av en solskyddsexperter, som ger dig tips och råd kring vindskydden och hur de bäst passar ditt hem och dina önskemål.\nKostnadsfritt hembesök erbjuds under förutsättning av Bellevue Solskydd är med genom hela processen, från måttagning till montering.\nDå har du som kund även fulla garantier, både på produkter och montering.\nBoka ett gratis hembesök!\nIngår montering av vindskydden?\nVi levererar och monterar de måttbeställda vindskydden efter dina önskemål.\nUpptäck liknande produkter för\nUtomhusklimat\nParasoller\nTerrassmarkiser\nFönstermarkiser",
+  "images": [
+    {
+      "src": "https://bellevuesolskydd.se/wp-content/uploads/2023/09/kostnadsfritt-hembesok-BTN.png",
+      "alt": "",
+      "title": "kostnadsfritt hembesök- BTN"
+    },
+    {
+      "src": "https://bellevuesolskydd.se/wp-content/uploads/2023/06/shutterstock_456666382-1024x576-1.jpg",
+      "alt": "",
+      "title": "shutterstock_456666382-1024x576"
+    },
+    {
+      "src": "https://bellevuesolskydd.se/wp-content/uploads/2024/12/beige_jum-quadrat_terrasse-meerblick_becher-schmidt-1024x683-1-1-1.webp",
+      "alt": "parasoller för företag & privat vid stranden.",
+      "title": ""
+    },
+    {
+      "src": "https://bellevuesolskydd.se/wp-content/uploads/2024/12/classic2.webp",
+      "alt": "Terrassmarkiser",
+      "title": ""
+    },
+    {
+      "src": "https://bellevuesolskydd.se/wp-content/uploads/2024/12/fonstermarkiser-vand.webp",
+      "alt": "fönstermarkis",
+      "title": ""
+    }
+  ],
+  "internal_links": [
+    {
+      "url": "/#hembasok/",
+      "text": ""
+    },
+    {
+      "url": "/#hembasok/",
+      "text": "Kostnadsfritt hembesök"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/#hembasok/",
+      "text": "Boka ett gratis hembesök!"
+    },
+    {
+      "url": "/terrassmarkiser",
+      "text": ""
+    },
+    {
+      "url": "/terrassmarkiser",
+      "text": "Terrassmarkiser"
+    }
+  ],
+  "external_links": [
+    {
+      "url": "https://www.trustindex.io/?a=sys&c=wp-top-rated-badge&url=/the-trustindex-verified-badge/",
+      "text": ""
+    }
+  ],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/vindskydd/",
+          "url": "https://bellevuesolskydd.se/vindskydd/",
+          "name": "Vindskydd & insynskydd - Funktionell design - Bellevue Solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "datePublished": "2023-06-20T14:07:16+00:00",
+          "dateModified": "2024-09-03T07:23:48+00:00",
+          "description": "Vindskydd & insynsskydd, används både på restaurang och butik, men även hemma på terrassen. Måttanpassad tillverkning med 3 års garanti.",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/vindskydd/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/vindskydd/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/vindskydd/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vindskydd"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p><div class=\"et_pb_section et_pb_section_132 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_189\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_321  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_227  et_pb_text_align_left et_pb_bg_layout_dark\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p>Produkt</p>\n<h1>Vindskydd</h1></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_section et_pb_section_133 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_190 et_animated et_pb_gutters1\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_2 et_pb_column_322  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_228  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h2 data-pm-slice=\"1 1 &#091;&#093;\">Optimera din utomhuskomfort med våra vindskydd</h2>\n<p>Våra vindskydd är inte bara funktionella, de är också en estetisk tillgång till din utomhusplats. Oavsett om du behöver insynsskydd eller skydd mot vinden, kan våra vindskydd anpassas för att passa din restaurang, butik eller hemmaterass.</p>\n<p>Upptäck möjligheterna att använda våra vindskydd som en plattform för att marknadsföra ditt varumärke och skapa en attraktiv utomhusmiljö.</p>\n<h3>Skräddarsydda lösningar</h3>\n<p>På Bellevue Solskydd skapar vi skräddarsydda lösningar för att optimera komforten och smälta samman vindskkyddet med omgivningens estetik. Våra vindskydd är tillverkade av högkvalitativa material som garanterar en exceptionell livslängd.</p>\n<p>Vi är här för dig hela vägen, från urval till färdig installation. Med en gedigen erfarenhet ser vi till att varje detalj uppfyller dina förväntningar. Vårt mål är att erbjuda dig en produkt som överträffar dina förväntningar.</p></div>\n\t\t\t</div>\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_2 et_pb_column_323  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_image et_pb_image_57 et_animated et-waypoint et_pb_image_sticky\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<a href=\"/#hembasok/\"><span class=\"et_pb_image_wrap has-box-shadow-overlay\"><div class=\"box-shadow-overlay\"></div><img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://bellevuesolskydd.se/wp-content/uploads/2023/09/kostnadsfritt-hembesok-BTN.png\" alt=\"\" title=\"kostnadsfritt hembesök- BTN\" srcset=\"https://bellevuesolskydd.se/wp-content/uploads/2023/09/kostnadsfritt-hembesok-BTN.png 300w, https://bellevuesolskydd.se/wp-content/uploads/2023/09/kostnadsfritt-hembesok-BTN-150x150.png 150w\" sizes=\"(max-width: 300px) 100vw, 300px\" class=\"wp-image-48587\" /></span></a>\n\t\t\t</div><div class=\"et_pb_module et_pb_text et_pb_text_229 et_animated  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p><pre class=\"ti-widget\"><template id=\"trustindex-google-widget-html\"><div class=\" ti-widget  ti-goog ti-disable-font ti-show-rating-text ti-review-text-mode-readmore ti-text-align-left\" data-no-translation=\"true\" data-time-locale=\"%d %s sedan|i dag|dag|dagar|vecka|veckor|månad|månader|år|år\" data-layout-id=\"102\" data-layout-category=\"badge, top-rated-badge\" data-set-id=\"drop-shadow\" data-pid=\"\" data-language=\"sv\" data-close-locale=\"Stänga\" data-css-version=\"2\" data-size=\"1\"> <div class=\"ti-widget-container\"> <div class=\"ti-header source-Google\"> <div class=\"ti-top-rated-title\">Topprankad <br /> leverantör</div> <div class=\"ti-profile-details\"> <div class=\"ti-large-logo\"> <div class=\"ti-v-center\"> <trustindex-image class=\"ti-logo-fb\" data-imgurl=\"https://cdn.trustindex.io/assets/platform/Google/logo.svg\" width=\"150\" height=\"25\" loading=\"lazy\" alt=\"Google\"></trustindex-image> </div> </div> <span class=\"ti-rating\">4.5</span> <div class=\"ti-stars\"><trustindex-image class=\"ti-star\" data-imgurl=\"https://cdn.trustindex.io/assets/platform/Google/star/f.svg\" alt=\"Google\" width=\"17\" height=\"17\" loading=\"lazy\"></trustindex-image><trustindex-image class=\"ti-star\" data-imgurl=\"https://cdn.trustindex.io/assets/platform/Google/star/f.svg\" alt=\"Google\" width=\"17\" height=\"17\" loading=\"lazy\"></trustindex-image><trustindex-image class=\"ti-star\" data-imgurl=\"https://cdn.trustindex.io/assets/platform/Google/star/f.svg\" alt=\"Google\" width=\"17\" height=\"17\" loading=\"lazy\"></trustindex-image><trustindex-image class=\"ti-star\" data-imgurl=\"https://cdn.trustindex.io/assets/platform/Google/star/f.svg\" alt=\"Google\" width=\"17\" height=\"17\" loading=\"lazy\"></trustindex-image><trustindex-image class=\"ti-star\" data-imgurl=\"https://cdn.trustindex.io/assets/platform/Google/star/h.svg\" alt=\"Google\" width=\"17\" height=\"17\" loading=\"lazy\"></trustindex-image></div> </div> <div class=\"ti-verified-by\">verifierad av: Trustindex <span class=\"ti-info-icon\"></span></div> <div class=\"ti-disclaimer\">Trustindex verifierar att företaget har en recensionsbetyg över 4.5, baserat på recensioner som samlats in på Google under de senaste 12 månaderna, vilket kvalificerar det för att få det <a href=\"https://www.trustindex.io/?a=sys&amp;c=wp-top-rated-badge&amp;url=/the-trustindex-verified-badge/\" target=\"_blank\">högst betygsatta certifikatet</a>.</div> </div> </div> </div> </template></pre><div data-src=\"https://cdn.trustindex.io/loader.js?wp-widget\" data-template-id=\"trustindex-google-widget-html\" data-css-url=\"https://bellevuesolskydd.se/wp-content/uploads/trustindex-google-widget.css?1762245054\"></div></p>\n</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_191\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_324  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_image et_pb_image_58\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span class=\"et_pb_image_wrap \"><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://bellevuesolskydd.se/wp-content/uploads/2023/06/shutterstock_456666382-1024x576-1.jpg\" alt=\"\" title=\"shutterstock_456666382-1024x576\" srcset=\"https://bellevuesolskydd.se/wp-content/uploads/2023/06/shutterstock_456666382-1024x576-1.jpg 1024w, https://bellevuesolskydd.se/wp-content/uploads/2023/06/shutterstock_456666382-1024x576-1-980x551.jpg 980w, https://bellevuesolskydd.se/wp-content/uploads/2023/06/shutterstock_456666382-1024x576-1-480x270.jpg 480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw\" class=\"wp-image-48044\" /></span>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_192 et_pb_equal_columns et_pb_gutters1\">\n\t\t\t\t<div class=\"et_pb_with_border et_pb_column_4_4 et_pb_column et_pb_column_325  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_230  et_pb_text_align_center et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\" data-et-multi-view=\"{&quot;schema&quot;:{&quot;content&quot;:{&quot;desktop&quot;:&quot;&lt;h3&gt;&lt;a href=\\&quot;\\/#hembasok\\/\\&quot; title=\\&quot;Gratis hembes\\u00f6k\\&quot;&gt;Kostnadsfritt hembes\\u00f6k&lt;\\/a&gt;\\u00a0 \\u00a0 |\\u00a0 \\u00a0 M\\u00e5ttanpassad tillverkning\\u00a0 \\u00a0 |\\u00a0 \\u00a0 3 \\u00e5rs garanti&lt;\\/h3&gt;&quot;,&quot;tablet&quot;:&quot;&lt;h3 style=\\&quot;text-align: center;\\&quot;&gt;&lt;a href=\\&quot;\\/#hembasok\\/\\&quot; title=\\&quot;Gratis hembes\\u00f6k\\&quot;&gt;Kostnadsfritt hembes\\u00f6k&lt;\\/a&gt; &lt;\\/h3&gt;\\n&lt;h3 style=\\&quot;text-align: center;\\&quot;&gt;M\\u00e5ttanpassad tillverkning&lt;\\/h3&gt;\\n&lt;h3 style=\\&quot;text-align: center;\\&quot;&gt;3 \\u00e5rs garanti&lt;\\/h3&gt;&quot;}},&quot;slug&quot;:&quot;et_pb_text&quot;}\" data-et-multi-view-load-tablet-hidden=\"true\"><h3><a href=\"/#hembasok/\" title=\"Gratis hembesök\">Kostnadsfritt hembesök</a>    |    Måttanpassad tillverkning    |    3 års garanti</h3></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_section et_pb_section_134 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_193\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_326  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_231  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h3>Vanliga frågor &#8211; Zip-Screen</h3>\n<p><strong>Kan man få måttanpassade vindskydd?</strong><br />Vindskydden måttanpassas efter dina önskemål.</p>\n<p><strong>Gratis hembesök?</strong><br />Bellevue Solskydd erbjuder ett gratis hembesök av en solskyddsexperter, som ger dig tips och råd kring vindskydden och hur de bäst passar ditt hem och dina önskemål.</p>\n<p><span>Kostnadsfritt hembesök erbjuds under förutsättning av Bellevue Solskydd är med genom hela processen, från måttagning till montering. </span><span>Då har du som kund även fulla garantier, både på produkter och montering. </span><span style=\"font-size: 14px;\"></span><a href=\"https://bellevuesolskydd.se/#hembasok/\" style=\"font-size: 14px;\">Boka ett gratis hembesök!</a></p>\n<p><strong>Ingår montering av vindskydden?</strong><br />Vi levererar och monterar de måttbeställda vindskydden efter dina önskemål.</p>\n<p>&nbsp;</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_section et_pb_section_136 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_194\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_327  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_232  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h3>Upptäck liknande produkter för</h3>\n<h2>Utomhusklimat</h2></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_195 et_animated et_pb_gutters2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_3 et_pb_column_328  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_blurb et_pb_blurb_30 et_clickable  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_blurb_content\">\n\t\t\t\t\t<div class=\"et_pb_main_blurb_image\"><span class=\"et_pb_image_wrap et_pb_only_image_mode_wrap\"><img decoding=\"async\" width=\"1024\" height=\"683\" src=\"https://bellevuesolskydd.se/wp-content/uploads/2024/12/beige_jum-quadrat_terrasse-meerblick_becher-schmidt-1024x683-1-1-1.webp\" alt=\"parasoller för företag &amp; privat vid stranden.\" srcset=\"https://bellevuesolskydd.se/wp-content/uploads/2024/12/beige_jum-quadrat_terrasse-meerblick_becher-schmidt-1024x683-1-1-1.webp 1024w, https://bellevuesolskydd.se/wp-content/uploads/2024/12/beige_jum-quadrat_terrasse-meerblick_becher-schmidt-1024x683-1-1-1-980x654.webp 980w, https://bellevuesolskydd.se/wp-content/uploads/2024/12/beige_jum-quadrat_terrasse-meerblick_becher-schmidt-1024x683-1-1-1-480x320.webp 480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw\" class=\"et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-49558\" /></span></div>\n\t\t\t\t\t<div class=\"et_pb_blurb_container\">\n\t\t\t\t\t\t<h4 class=\"et_pb_module_header\"><span>Parasoller</span></h4>\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_329  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_blurb et_pb_blurb_31  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_blurb_content\">\n\t\t\t\t\t<div class=\"et_pb_main_blurb_image\"><a href=\"/terrassmarkiser\"><span class=\"et_pb_image_wrap et_pb_only_image_mode_wrap\"><img decoding=\"async\" width=\"709\" height=\"474\" src=\"https://bellevuesolskydd.se/wp-content/uploads/2024/12/classic2.webp\" alt=\"Terrassmarkiser\" srcset=\"https://bellevuesolskydd.se/wp-content/uploads/2024/12/classic2.webp 709w, https://bellevuesolskydd.se/wp-content/uploads/2024/12/classic2-480x321.webp 480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 709px, 100vw\" class=\"et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-49560\" /></span></a></div>\n\t\t\t\t\t<div class=\"et_pb_blurb_container\">\n\t\t\t\t\t\t<h4 class=\"et_pb_module_header\"><a href=\"/terrassmarkiser\">Terrassmarkiser</a></h4>\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_330  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_blurb et_pb_blurb_32 et_clickable  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_blurb_content\">\n\t\t\t\t\t<div class=\"et_pb_main_blurb_image\"><span class=\"et_pb_image_wrap et_pb_only_image_mode_wrap\"><img decoding=\"async\" width=\"1024\" height=\"683\" src=\"https://bellevuesolskydd.se/wp-content/uploads/2024/12/fonstermarkiser-vand.webp\" alt=\"fönstermarkis\" srcset=\"https://bellevuesolskydd.se/wp-content/uploads/2024/12/fonstermarkiser-vand.webp 1024w, https://bellevuesolskydd.se/wp-content/uploads/2024/12/fonstermarkiser-vand-980x654.webp 980w, https://bellevuesolskydd.se/wp-content/uploads/2024/12/fonstermarkiser-vand-480x320.webp 480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw\" class=\"et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-49562\" /></span></div>\n\t\t\t\t\t<div class=\"et_pb_blurb_container\">\n\t\t\t\t\t\t<h4 class=\"et_pb_module_header\"><span>Fönstermarkiser</span></h4>\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n"
+}

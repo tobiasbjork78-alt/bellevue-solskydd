@@ -1,0 +1,7 @@
+raw-mirror/
+content/
+Gamla Bellvuesolskydd/
+.venv/
+*.py
+requirements.txt
+README.md

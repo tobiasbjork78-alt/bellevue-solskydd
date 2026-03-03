@@ -1,0 +1,128 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/",
+  "slug": "montageteam-bellevue-solskydd",
+  "title": "Montageteam – Bellevue Solskydd",
+  "excerpt": "Får vi lov att presentera vårt montageteam som nu står redo för kommande solsäsong! Solen börjar äntligen leta sig tillbaka till Skåne och dagarna blir märkbart längre men med ljuset kommer även värmen. Det är nu hög tid att se över era solskyddsbehov! Med vår kompetens och erfarenhet löser vi ert solskyddsbehov. Våra solskyddstekniker jobbar med […]",
+  "meta_description": "",
+  "date_published": "2017-02-16T14:20:44",
+  "date_modified": "2017-02-16T14:20:44",
+  "featured_media_id": 741,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "[et_pb_section fb_built=”1″ admin_label=”section” _builder_version=”3.22″][et_pb_row admin_label=”row” _builder_version=”3.25″ background_size=”initial” background_position=”top_left” background_repeat=”repeat”][et_pb_column type=”4_4″ _builder_version=”3.25″ custom_padding=”|||” custom_padding__hover=”|||”][et_pb_text admin_label=”Text” _builder_version=”4.6.3″ background_size=”initial” background_position=”top_left” background_repeat=”repeat” hover_enabled=”0″ sticky_enabled=”0″]\nFår vi lov att presentera vårt montageteam som nu står redo för kommande solsäsong!\nSolen börjar äntligen leta sig tillbaka till Skåne och dagarna blir märkbart längre men med ljuset kommer även värmen. Det är nu hög tid att se över era solskyddsbehov! Med vår kompetens och erfarenhet löser vi ert solskyddsbehov. Våra solskyddstekniker jobbar med allt i från översyn och service av befintliga solskydd till komplicerade monteringar av\nmarkiser\noch exklusiva uteplatstak/\npergola\n.\nFrån och med i år kan vi erbjuda bygg- och snickeritjänster i samband med montage av nya solskydd. Vår montagegrupp kan exempelvis bygga er en ny altan eller utforma ett utekök för sommarens grillkvällar.\nLäs mer om våra tjänster\nhär\n!\nVälkomna att höra av er med offertförfrågan!\nAdam, Markus, Daniel & Heléne\n[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]",
+  "images": [],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/markiser/",
+      "text": "markiser"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/pergola/",
+      "text": "pergola"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/tjanster/",
+      "text": "här"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/",
+          "url": "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/",
+          "name": "Montageteam - Bellevue Solskydd - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2017-02-16T13:20:44+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/montageteam-bellevue-solskydd/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Montageteam &#8211; Bellevue Solskydd"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>[et_pb_section fb_built=&#8221;1&#8243; admin_label=&#8221;section&#8221; _builder_version=&#8221;3.22&#8243;][et_pb_row admin_label=&#8221;row&#8221; _builder_version=&#8221;3.25&#8243; background_size=&#8221;initial&#8221; background_position=&#8221;top_left&#8221; background_repeat=&#8221;repeat&#8221;][et_pb_column type=&#8221;4_4&#8243; _builder_version=&#8221;3.25&#8243; custom_padding=&#8221;|||&#8221; custom_padding__hover=&#8221;|||&#8221;][et_pb_text admin_label=&#8221;Text&#8221; _builder_version=&#8221;4.6.3&#8243; background_size=&#8221;initial&#8221; background_position=&#8221;top_left&#8221; background_repeat=&#8221;repeat&#8221; hover_enabled=&#8221;0&#8243; sticky_enabled=&#8221;0&#8243;]</p>\n<p>Får vi lov att presentera vårt montageteam som nu står redo för kommande solsäsong!</p>\n<p>Solen börjar äntligen leta sig tillbaka till Skåne och dagarna blir märkbart längre men med ljuset kommer även värmen. Det är nu hög tid att se över era solskyddsbehov! Med vår kompetens och erfarenhet löser vi ert solskyddsbehov. Våra solskyddstekniker jobbar med allt i från översyn och service av befintliga solskydd till komplicerade monteringar av <a href=\"https://bellevuesolskydd.se/markiser/\">markiser</a> och exklusiva uteplatstak/<a href=\"https://bellevuesolskydd.se/pergola/\">pergola</a>.</p>\n<p>Från och med i år kan vi erbjuda bygg- och snickeritjänster i samband med montage av nya solskydd. Vår montagegrupp kan exempelvis bygga er en ny altan eller utforma ett utekök för sommarens grillkvällar.</p>\n<p>Läs mer om våra tjänster <a href=\"https://bellevuesolskydd.se/tjanster/\" target=\"_blank\" rel=\"noopener noreferrer\">här</a>!</p>\n<p>Välkomna att höra av er med offertförfrågan!</p>\n<p>Adam, Markus, Daniel &amp; Heléne</p>\n<p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

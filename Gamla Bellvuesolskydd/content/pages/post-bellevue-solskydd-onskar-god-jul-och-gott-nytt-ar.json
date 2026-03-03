@@ -1,0 +1,120 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/",
+  "slug": "bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar",
+  "title": "Bellevue Solskydd önskar  God Jul och Gott Nytt år",
+  "excerpt": "Den 22 december, kl 12:00, drar vi ner persiennerna och åker hem för att njuta av helgerna. Torsdagen den 7 januari är vi tillbaka som vanligt igen, redo att hjälpa dig med marknadens bästa solskydd. Vi läser mail lite då och då under ledigheten så du kan nå oss på info@bellevuesolskydd.se vid brådskande ärenden. Tack […]",
+  "meta_description": "Den 22 december, kl 12:00, drar vi ner persiennerna och åker hem för att njuta av helgerna. Torsdagen den 7 januari är vi tillbaka som vanligt igen, redo att hjälpa dig med marknadens bästa solskydd. Vi läser mail lite då och då under ledigheten så du kan nå oss på info@bellevuesolskydd.se vid brådskande ärenden. Tack […]",
+  "date_published": "2020-12-21T22:20:22",
+  "date_modified": "2020-12-21T22:20:22",
+  "featured_media_id": 2894,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Den 22 december, kl 12:00, drar vi ner persiennerna och åker hem för att njuta av helgerna.\nTorsdagen den 7 januari är vi tillbaka som vanligt igen, redo att hjälpa dig med\nmarknadens bästa solskydd\n. Vi läser mail lite då och då under ledigheten så du kan nå oss på\ninfo@bellevuesolskydd.se\nvid brådskande ärenden.\nTack för i år och välkommen tillbaka 2021!",
+  "images": [],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/",
+      "text": "marknadens bästa solskydd"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/",
+          "url": "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/",
+          "name": "Bellevue Solskydd önskar God Jul och Gott Nytt år - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2020-12-21T21:20:22+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/bellevue-solskydd-onskar-god-jul-och-gott-nytt-ar/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Bellevue Solskydd önskar God Jul och Gott Nytt år"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035",
+          "name": "digitalnarvaro",
+          "url": "https://bellevuesolskydd.se/author/digitalnarvaro/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Den 22 december, kl 12:00, drar vi ner persiennerna och åker hem för att njuta av helgerna.</p>\n<p>Torsdagen den 7 januari är vi tillbaka som vanligt igen, redo att hjälpa dig med <a href=\"https://bellevuesolskydd.se/\">marknadens bästa solskydd</a>. Vi läser mail lite då och då under ledigheten så du kan nå oss på <a href=\"mailto:info@bellevuesolskydd.se\">info@bellevuesolskydd.se </a>vid brådskande ärenden.</p>\n<p>Tack för i år och välkommen tillbaka 2021!</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

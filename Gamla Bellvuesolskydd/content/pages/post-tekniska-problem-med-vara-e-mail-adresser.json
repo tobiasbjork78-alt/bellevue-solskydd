@@ -1,0 +1,115 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/",
+  "slug": "tekniska-problem-med-vara-e-mail-adresser",
+  "title": "Tekniska problem med våra E-mail adresser",
+  "excerpt": "Vi har tillfälligt problem med att ta emot/skicka på/från våra E-mail adresser. Vi jobbar på att försöka lösa problemet snarast möjligt. Under tiden nås vi på telefonnummer: 040-181100 /Bellevue Solskydd",
+  "meta_description": "Vi har tillfälligt problem med att ta emot/skicka på/från våra E-mail adresser. Vi jobbar på att försöka lösa problemet snarast möjligt. Under tiden nås vi på telefonnummer: 040-181100 /Bellevue Solskydd  ",
+  "date_published": "2018-06-18T09:22:49",
+  "date_modified": "2018-06-18T09:22:49",
+  "featured_media_id": 907,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Vi har tillfälligt problem med att ta emot/skicka på/från våra E-mail adresser. Vi jobbar på att försöka lösa problemet snarast möjligt.\nUnder tiden nås vi på telefonnummer: 040-181100\n/Bellevue Solskydd",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/",
+          "url": "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/",
+          "name": "Tekniska problem med våra E-mail adresser - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2018-06-18T08:22:49+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/tekniska-problem-med-vara-e-mail-adresser/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tekniska problem med våra E-mail adresser"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Vi har tillfälligt problem med att ta emot/skicka på/från våra E-mail adresser. Vi jobbar på att försöka lösa problemet snarast möjligt.</p>\n<p>Under tiden nås vi på telefonnummer: 040-181100</p>\n<p>/Bellevue Solskydd</p>\n<p>&nbsp;</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

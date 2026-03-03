@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="sv-SE">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://bellevuesolskydd.se/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+	
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><style id="et-builder-googlefonts-cached-inline">/* Original: https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Poppins';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tMMPc.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVGdeL.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVGdeL.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLufntF.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVGdeL.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VGdeL.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VGdeL.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VGdeL.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVGdeL.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTufntF.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnedw.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf) format('truetype');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Poppins';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiAyp8kv8JHgFVrJJLmE0tMMPQ&skey=14913f5d70e4915e&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmv1pVGdeI&skey=e6f64e60fb8d9268&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm21lVGdeI&skey=b60188e8ecc47dee&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiGyp8kv8JHgFVrJJLufntG&skey=f21d6e783fa43c88&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmg1hVGdeI&skey=b0aa19767d34da85&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmr19VGdeI&skey=7fbc556774b13ef0&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLmy15VGdeI&skey=29c3bd833a54ba8c&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm111VGdeI&skey=6ea139488603f28c&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiDyp8kv8JHgFVrJJLm81xVGdeI&skey=846b48b4eada095a&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiGyp8kv8JHgFVrLPTufntG&skey=57be0781cfb72ecd&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLFj_Z1JlEw&skey=1bdc08fe61c3cc9e&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLDz8Z1JlEw&skey=4aabc5055a39e031&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiEyp8kv8JHgFVrJJnedA&skey=87759fb096548f6d&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLGT9Z1JlEw&skey=d4526a9b64c21b87&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLEj6Z1JlEw&skey=ce7ef9d62ca89319&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLCz7Z1JlEw&skey=cea76fe63715a67a&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLDD4Z1JlEw&skey=f01e006f58df81ac&v=v24) format('woff');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLBT5Z1JlEw&skey=6c361c40a830b323&v=v24) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Poppins';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tMMPI.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVGdeO.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVGdeO.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLufntA.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVGdeO.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VGdeO.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VGdeO.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VGdeO.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVGdeO.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTufntA.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1JlFQ.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1JlFQ.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnecg.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1JlFQ.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlFQ.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlFQ.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1JlFQ.woff2) format('woff2');}@font-face {font-family: 'Poppins';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1JlFQ.woff2) format('woff2');}</style><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Bloggen om solskydd - Bellevue solskydd</title>
+	<link rel="canonical" href="../../../index.html%3Fp=49254.html" />
+	<meta property="og:locale" content="sv_SE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Bloggen om solskydd - Bellevue solskydd" />
+	<meta property="og:url" content="https://bellevuesolskydd.se/bloggen-om-solskydd/" />
+	<meta property="og:site_name" content="Bellevue solskydd" />
+	<meta property="article:modified_time" content="2024-09-03T06:39:22+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://bellevuesolskydd.se/bloggen-om-solskydd/","url":"https://bellevuesolskydd.se/bloggen-om-solskydd/","name":"Bloggen om solskydd - Bellevue solskydd","isPartOf":{"@id":"https://bellevuesolskydd.se/#website"},"datePublished":"2024-09-02T14:55:20+00:00","dateModified":"2024-09-03T06:39:22+00:00","inLanguage":"sv-SE","potentialAction":[{"@type":"ReadAction","target":["https://bellevuesolskydd.se/bloggen-om-solskydd/"]}]},{"@type":"WebSite","@id":"https://bellevuesolskydd.se/#website","url":"https://bellevuesolskydd.se/","name":"Bellevue solskydd","description":"Inte bara markiser och persienner","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bellevuesolskydd.se/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"sv-SE"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Bellevue solskydd &raquo; Webbflöde" href="../../../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Bellevue solskydd &raquo; Kommentarsflöde" href="../../../comments/feed/index.html" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fbellevuesolskydd.se%252Fbloggen-om-solskydd%252F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../../../wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fbellevuesolskydd.se%252Fbloggen-om-solskydd%252F&amp;format=xml" />
+<meta content="Divi Child Theme v.1.0.0" name="generator"/><link rel='stylesheet' id='wp-components-css' href='../../../wp-includes/css/dist/components/style.min.css%3Fver=6.9.1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-preferences-css' href='../../../wp-includes/css/dist/preferences/style.min.css%3Fver=6.9.1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='../../../wp-includes/css/dist/block-editor/style.min.css%3Fver=6.9.1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-block-library-style-css' href='../../../wp-content/plugins/popup-maker/dist/packages/block-library-style.css%3Fver=dbea705cfafe089d65f1.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='uacf7-frontend-style-css' href='../../../wp-content/plugins/ultimate-addons-for-contact-form-7/assets/css/uacf7-frontend.css%3Fver=6.9.1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='uacf7-form-style-css' href='../../../wp-content/plugins/ultimate-addons-for-contact-form-7/assets/css/form-style.css%3Fver=6.9.1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='../../../wp-content/themes/Divi/style-static.min.css%3Fver=4.27.4.css' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='../../../wp-content/themes/divi-child/style.css%3Fver=1.0.0.css' type='text/css' media='all' />
+<script type="text/javascript" src="../../../wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="../../../wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="../../../wp-json/index.html" /><link rel="alternate" title="JSON" type="application/json" href="../../../wp-json/wp/v2/pages/49254" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php%3Frsd" />
+<meta name="generator" content="WordPress 6.9.1" />
+<link rel='shortlink' href='../../../index.html%3Fp=49254.html' />
+<meta name="ti-site-data" content="eyJyIjoiMTowITc6MCEzMDowIiwibyI6Imh0dHBzOlwvXC9iZWxsZXZ1ZXNvbHNreWRkLnNlXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHA/YWN0aW9uPXRpX29ubGluZV91c2Vyc19nb29nbGUmYW1wO3A9JTJGYmxvZ2dlbi1vbS1zb2xza3lkZCUyRnBhZ2UlMkYzJTJGJTNGZXRfYmxvZyZhbXA7X3dwbm9uY2U9OGY3MWRlODYwMSJ9" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHWHFCW');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="07GpdsbA1aGOk7WuXviZNX0ThHq3bLP4GjL9WMJIKwk">
+
+<script>
+jQuery(document).ready(function(){
+    var setState = "close";
+    if(setState == "open"){
+        jQuery(".pa-accordion .et_pb_toggle").removeClass("et_pb_toggle_close");
+        jQuery(".pa-accordion .et_pb_toggle").addClass("et_pb_toggle_open");
+        jQuery(".et_pb_toggle_open .et_pb_toggle_content").css("display", "block");
+        jQuery(".et_pb_toggle_open .et_pb_toggle_title").addClass("all_on");
+        jQuery(".all_on").on("click", function(){
+            
+            
+            if(jQuery(this).parent().hasClass("et_pb_toggle_open")){
+                jQuery(this).parent().removeClass("et_pb_toggle_open");
+                jQuery(this).parent().removeClass("et_pb_toggle_close");
+                jQuery(this).parent().css("padding", "20px");
+                jQuery(this).parent().siblings().removeClass("et_pb_toggle_close");
+                jQuery(this).parent().siblings().removeClass("et_pb_toggle_open");
+                jQuery(this).parent().siblings().css("padding", "20px");
+              	
+            }
+          jQuery(this).removeClass("all_on");
+        
+            
+        })
+        
+    }else{
+        jQuery(".pa-accordion .et_pb_toggle").removeClass("et_pb_toggle_open");
+        jQuery(".pa-accordion .et_pb_toggle").addClass("et_pb_toggle_close");
+        jQuery(".et_pb_toggle_close .et_pb_toggle_content").css("display", "none");
+    }
+})
+</script>
+
+
+<script >
+    jQuery(function($) {
+        $(document).ready(function() {
+            $("body ul.et_mobile_menu li.menu-item-has-children, body ul.et_mobile_menu  li.page_item_has_children").append('<a href="index.html%3Fet_blog.html#" class="mobile-toggle"></a>');
+            $('ul.et_mobile_menu li.menu-item-has-children .mobile-toggle, ul.et_mobile_menu li.page_item_has_children .mobile-toggle').click(function(event) {
+                event.preventDefault();
+                $(this).parent('li').toggleClass('dt-open');
+                $(this).parent('li').find('ul.children').first().toggleClass('visible');
+                $(this).parent('li').find('ul.sub-menu').first().toggleClass('visible');
+            });
+            iconFINAL = 'P';
+            $('body ul.et_mobile_menu li.menu-item-has-children, body ul.et_mobile_menu li.page_item_has_children').attr('data-icon', iconFINAL);
+            $('.mobile-toggle').on('mouseover', function() {
+                $(this).parent().addClass('is-hover');
+            }).on('mouseout', function() {
+                $(this).parent().removeClass('is-hover');
+            })
+        });
+    }); 
+</script><link rel="icon" href="../../../wp-content/uploads/2023/10/cropped-Bellevue-mini-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="../../../wp-content/uploads/2023/10/cropped-Bellevue-mini-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="../../../wp-content/uploads/2023/10/cropped-Bellevue-mini-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://bellevuesolskydd.se/wp-content/uploads/2023/10/cropped-Bellevue-mini-icon-270x270.png" />
+<style id="et-divi-customizer-global-cached-inline-styles">body,.et_pb_column_1_2 .et_quote_content blockquote cite,.et_pb_column_1_2 .et_link_content a.et_link_main_url,.et_pb_column_1_3 .et_quote_content blockquote cite,.et_pb_column_3_8 .et_quote_content blockquote cite,.et_pb_column_1_4 .et_quote_content blockquote cite,.et_pb_blog_grid .et_quote_content blockquote cite,.et_pb_column_1_3 .et_link_content a.et_link_main_url,.et_pb_column_3_8 .et_link_content a.et_link_main_url,.et_pb_column_1_4 .et_link_content a.et_link_main_url,.et_pb_blog_grid .et_link_content a.et_link_main_url,body .et_pb_bg_layout_light .et_pb_post p,body .et_pb_bg_layout_dark .et_pb_post p{font-size:14px}.et_pb_slide_content,.et_pb_best_value{font-size:15px}a{color:#000000}body .et_pb_button{font-size:16px;border-radius:0px}body.et_pb_button_helper_class .et_pb_button,body.et_pb_button_helper_class .et_pb_module.et_pb_button{color:#000000}body .et_pb_button:after{content:'E';font-size:16px}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}	h1,h2,h3,h4,h5,h6{font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif}</style><link rel='stylesheet' id='mediaelement-css' href='../../../wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css%3Fver=4.2.17.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='../../../wp-includes/js/mediaelement/wp-mediaelement.min.css%3Fver=6.9.1.css' type='text/css' media='all' />
+
+</head>
+<body data-rsssl=1 class="paged wp-singular page-template-default page page-id-49254 wp-theme-Divi wp-child-theme-divi-child et-tb-has-template et-tb-has-header et-tb-has-footer et_button_no_icon et_button_custom_icon et_pb_button_helper_class et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db">
+	<div id="page-container">
+<div id="et-boc" class="et-boc">
+			
+		<header class="et-l et-l--header">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_2_tb_header et_pb_with_background et_section_regular et_pb_section--with-menu" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_header et_pb_row--with-menu">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_menu et_pb_menu_0_tb_header et_pb_bg_layout_light  et_pb_text_align_right et_dropdown_animation_fade et_pb_menu--with-logo et_pb_menu--style-left_aligned">
+					
+					
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						<div class="et_pb_menu__logo-wrap">
+			  <div class="et_pb_menu__logo">
+				<a href="../../../boka-hembesok/index.html" ><img decoding="async" width="154" height="40" src="../../../wp-content/uploads/2023/03/solskydd-pwa-screen-1-1.png" alt="Solskydd till fönster, altan och trädgård" srcset="../../../wp-content/uploads/2023/03/solskydd-pwa-screen-1-1.png 154w, ../../../wp-content/uploads/2023/03/solskydd-pwa-screen-1-1-150x40.png 150w" sizes="(max-width: 154px) 100vw, 154px" class="wp-image-18" /></a>
+			  </div>
+			</div>
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-main" class="et-menu nav"><li class="mega-menu et_pb_menu_page_id-25 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="../../../index.html%3Fp=25.html">Produkter</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-47959 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47959"><a href="../../../index.html%3Fp=25.html#inne">Inomhusmiljö</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-47831 menu-item menu-item-type-post_type menu-item-object-page menu-item-47962"><a href="../../../index.html%3Fp=47831.html">Persienner</a></li>
+		<li class="et_pb_menu_page_id-48082 menu-item menu-item-type-post_type menu-item-object-page menu-item-48200"><a href="../../../index.html%3Fp=48082.html">Plissegardiner</a></li>
+		<li class="et_pb_menu_page_id-48095 menu-item menu-item-type-post_type menu-item-object-page menu-item-48201"><a href="../../../index.html%3Fp=48095.html">Rullgardiner</a></li>
+		<li class="et_pb_menu_page_id-48123 menu-item menu-item-type-post_type menu-item-object-page menu-item-48198"><a href="../../../index.html%3Fp=48123.html">Lamellgardiner</a></li>
+		<li class="et_pb_menu_page_id-48689 menu-item menu-item-type-post_type menu-item-object-page menu-item-48697"><a href="../../../index.html%3Fp=48689.html">Panelgardiner</a></li>
+		<li class="et_pb_menu_page_id-49291 menu-item menu-item-type-post_type menu-item-object-page menu-item-49295"><a href="../../../index.html%3Fp=49291.html">Wavegardiner</a></li>
+		<li class="et_pb_menu_page_id-48135 menu-item menu-item-type-post_type menu-item-object-page menu-item-48205"><a href="../../../index.html%3Fp=48135.html">Träpersienner</a></li>
+		<li class="et_pb_menu_page_id-48139 menu-item menu-item-type-post_type menu-item-object-page menu-item-48203"><a href="../../../index.html%3Fp=48139.html">Insektsskydd</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-47960 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47960"><a href="../../../index.html%3Fp=25.html#ute">Utomhusmiljö</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-47933 menu-item menu-item-type-post_type menu-item-object-page menu-item-47961"><a href="../../../index.html%3Fp=47933.html">Parasoller</a></li>
+		<li class="et_pb_menu_page_id-48154 menu-item menu-item-type-post_type menu-item-object-page menu-item-48207"><a href="../../../index.html%3Fp=48154.html">Terrassmarkiser</a></li>
+		<li class="et_pb_menu_page_id-48159 menu-item menu-item-type-post_type menu-item-object-page menu-item-48208"><a href="../../../index.html%3Fp=48159.html">Fönstermarkiser</a></li>
+		<li class="et_pb_menu_page_id-48166 menu-item menu-item-type-post_type menu-item-object-page menu-item-48209"><a href="../../../index.html%3Fp=48166.html">Korgmarkiser</a></li>
+		<li class="et_pb_menu_page_id-48169 menu-item menu-item-type-post_type menu-item-object-page menu-item-48210"><a href="../../../index.html%3Fp=48169.html">Zip screen</a></li>
+		<li class="et_pb_menu_page_id-48179 menu-item menu-item-type-post_type menu-item-object-page menu-item-48211"><a href="../../../index.html%3Fp=48179.html">Pergola</a></li>
+		<li class="et_pb_menu_page_id-48185 menu-item menu-item-type-post_type menu-item-object-page menu-item-48213"><a href="../../../index.html%3Fp=48185.html">Vindskydd</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-49254 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-49254 current_page_item menu-item-49260"><a href="../../../index.html%3Fp=49254.html" aria-current="page">Solskyddsnytt</a></li>
+<li class="et_pb_menu_page_id-23 menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="../../../index.html%3Fp=23.html">Om oss</a></li>
+<li class="et_pb_menu_page_id-48729 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48729"><a href="index.html%3Fet_blog.html#">Övrig information</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-48725 menu-item menu-item-type-post_type menu-item-object-page menu-item-48734"><a href="../../../index.html%3Fp=48725.html">Övriga tjänster</a></li>
+	<li class="et_pb_menu_page_id-48720 menu-item menu-item-type-post_type menu-item-object-page menu-item-48731"><a href="../../../index.html%3Fp=48720.html">Samarbetspartner</a></li>
+	<li class="et_pb_menu_page_id-48715 menu-item menu-item-type-post_type menu-item-object-page menu-item-48732"><a href="../../../index.html%3Fp=48715.html">Unika funktioner</a></li>
+	<li class="et_pb_menu_page_id-48707 menu-item menu-item-type-post_type menu-item-object-page menu-item-48733"><a href="../../../index.html%3Fp=48707.html">Miljö &#038; kvalitetspolicy</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-29 menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="../../../index.html%3Fp=29.html">Konkursinformation</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</div>
+			</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_with_border et_pb_section et_pb_section_3_tb_header et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1_tb_header">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_header  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><strong>Bellevue Solskydd AB. </strong>En ny ägare tillträder inom kort.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</header>
+	<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-49254" class="post-49254 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Artiklar</h3>
+<h1>Bloggen om <span style="color: #434952;"><strong>solskydd</strong></span></h1></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1 et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blog_0 et_pb_blog_grid_wrapper et_pb_bg_layout_light">
+					<div class="et_pb_blog_grid clearfix ">
+					
+					
+					
+					
+					<div class="et_pb_ajax_pagination_container">
+						<div class="et_pb_salvattore_content" data-columns>
+			<article id="post-858" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_0 post-858 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=858.html">Jul &#038; Nyårsstängt</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Julen står för dörren och det är snart dags att avsluta år 2017. Vi har stängt för ledighet den 23 december och öppnar åter igen den 2:a januari. Vi vill passa på att tacka alla kunder för det gångna året och önskar alla en riktigt härlig Jul och fint avslut på året!...</p>
+</div></div>			
+			</article>
+				
+			<article id="post-855" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_1 post-855 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=855.html">Lussefirande 13/12</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Idag stänger vi kl 15:00 för att fira Lucia med julbord &amp; trevlig underhållning! ?✨ Trevlig Lucia!</p>
+</div></div>			
+			</article>
+				
+			<article id="post-851" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_2 post-851 post type-post status-publish format-standard hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=851.html">Störningar i telefonnätet åtgärdat!</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Nu skall störningarna i telefonnätet vara åtgärdat enligt vår teleoperatör! Vi ber om ursäkt för eventuella svårigheter med att komma i kontakt med oss! //Bellevue Solskydd AB &nbsp;</p>
+</div></div>			
+			</article>
+				
+			<article id="post-848" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_3 post-848 post type-post status-publish format-standard hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=848.html">Störningar i telefonnätet</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Vår telefonileverantör, Telavox, har drabbats av ett allvarligt fel och samtal kan just nu inte kopplas fram till oss som de skall. Vi beklagar givetvis detta! Under tiden är vi nåbara på E-mail: info@bellevuesolskydd.se.</p>
+</div></div>			
+			</article>
+				
+			<article id="post-833" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_4 post-833 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=833.html">Förläng säsongen på din uteplats/terrass</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Hösten är här med temperaturer som kryper nedåt! Önskas fler härliga dagar att tillbringa på din uteplats, eller har du ett hobbyrum/verkstad som behöver lite värmande hjälp? Vi kan numera erbjuda fantastiska värmare från Solamagic, 3 dubbel "bäst i test" vinnare!...</p>
+</div></div>			
+			</article>
+				
+			<article id="post-829" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_5 post-829 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=829.html">Semesterstängt</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Under veckorna 30-31 har vi semesterstängt. Butik och fabrik är återigen bemannade måndagen den 7 augusti. Under tiden så kan ni nå oss på telefon 040-181100 eller skicka oss ett mail till info@bellevuesolskydd.se. Svarstiden kommer dock att vara något längre än vi...</p>
+</div></div>			
+			</article>
+				
+			<article id="post-810" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_6 post-810 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=810.html">Förlängt mässerbjudande från Bellevue Solskydd</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>I morgon, söndag (5/3), är sista dagen på årets Stora Villamässa i Malmö. Under hela mässan erbjuder vi våra besökare fina mässkampanjer på både invändiga och utvändiga solskydd. Nu förlänger vi mässerbjudandet till alla våra kunder på samtliga solskyddsprodukter....</p>
+</div></div>			
+			</article>
+				
+			<article id="post-773" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_7 post-773 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=773.html">Vinn biljetter till Stora Villamässan i Malmö</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Missa inte chansen att vinna biljetter till årets Stora Villamässa! Vi ger bort 4st biljetter till en vinnare som får möjlighet att gå på mässan tillsammans med 3st vänner. Mässan hålls i Malmömässan (Hyllie) den 2-5 Mars. Läs mer om hur du ska gå tillväga för att...</p>
+</div></div>			
+			</article>
+				
+			<article id="post-740" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_8 post-740 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=740.html">Montageteam &#8211; Bellevue Solskydd</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Får vi lov att presentera vårt montageteam som nu står redo för kommande solsäsong! Solen börjar äntligen leta sig tillbaka till Skåne och dagarna blir märkbart längre men med ljuset kommer även värmen. Det är nu hög tid att se över era solskyddsbehov! Med vår...</p>
+</div></div>			
+			</article>
+				
+			<article id="post-725" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_9 post-725 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=725.html">Stora Villamässan i Malmö</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Vi är glada att meddela att Bellevue Solskydd AB deltar i årets Stora Villamässa som går av stapeln mellan den 2-5 mars på Malmömässan (Hyllie). Varmt välkomna att besöka oss i monter C30! / Adam, Markus, Daniel &amp; Heléne</p>
+</div></div>			
+			</article>
+				
+			<article id="post-689" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_10 post-689 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=689.html">Ny hemsida</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Bäste återförsäljare/kund,Bellevue Solskydd AB vill göra er uppmärksam på att vi har en ny hemsida, www.bellevuesolskydd.se.Det innebär att den gamla trötta sidan, www.bellevuepersienne.com, som ni är vana vid att besöka, inte längre existerar.Med andra ord så har ni...</p>
+</div></div>			
+			</article>
+				
+			<article id="post-282" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_11 post-282 post type-post status-publish format-standard has-post-thumbnail hentry category-nyheter">
+
+				
+														<h2 class="entry-title">
+													<a href="../../../index.html%3Fp=282.html">Bellevue Persienne = Bellevue Solskydd</a>
+											</h2>
+				
+					<div class="post-content"><div class="post-content-inner"><p>Omtyckt persiennfabrik i Malmö byter namn och ägare Den anrika persiennfabriken i Malmö, Bellevue Persienne, har fått nya ägare. Bolagets grundare Evert Christoffersson säljer sitt livsverk med blandade känslor Länk till de klassiska persiennerna från Malmö. – Jag har...</p>
+</div></div>			
+			</article>
+				</div><div><div class="pagination clearfix">
+	<div class="alignleft"></div>
+	<div class="alignright"><a href="../2/index.html%3Fet_blog.html" >Nästa Inlägg &raquo;</a></div>
+</div></div></div>
+					</div>
+					 
+				</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+						</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0_tb_footer">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="189" height="50" src="../../../wp-content/uploads/2023/03/persienner-malmo_vit-1.png" alt="" title="persienner-malmo_vit 1" class="wp-image-47653" /></span>
+			</div><div class="et_pb_module et_pb_image et_pb_image_1_tb_footer">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" width="109" height="47" src="../../../wp-content/uploads/2023/03/di-gasell-foretag-dagens-industri-2022-malmo-1.png" alt="" title="di-gasell-foretag-dagens-industri-2022-malmo 1" class="wp-image-11" /></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><strong>Bellevue Solskydd AB. </strong>En ny ägare tillträder inom kort.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<li
+            class='et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook'><a
+              href='https://www.facebook.com/Bellevue.Solskydd/'
+              class='icon et_pb_with_border'
+              title='Följ på Facebook'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Följ</span></a></li><li
+            class='et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram'><a
+              href='https://www.instagram.com/bellevuesolskydd.se/'
+              class='icon et_pb_with_border'
+              title='Följ på Instagram'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Följ</span></a></li>
+			</ul>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_1_tb_footer">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_divider et_pb_divider_0_tb_footer et_pb_divider_position_center et_pb_space"><div class="et_pb_divider_internal"></div></div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		</div>
+
+			<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/divi-child/*","/wp-content/themes/Divi/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHWHFCW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://bellevuesolskydd.se","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https://bellevuesolskydd.se/wp-admin/admin-ajax.php","images_uri":"https://bellevuesolskydd.se/wp-content/themes/Divi/images","builder_images_uri":"https://bellevuesolskydd.se/wp-content/themes/Divi/includes/builder/images","et_frontend_nonce":"480e62507e","subscription_failed":"Kontrollera f\u00e4lten nedan f\u00f6r att kontrollera att du angett korrekt information.","et_ab_log_nonce":"e4e2c84e8d","fill_message":"V\u00e4nligen fyll i f\u00f6ljande omr\u00e5den:","contact_error_message":"Var god l\u00f6s f\u00f6ljade fel:","invalid":"Ogiltiga e-post","captcha":"Robotfilter","prev":"F\u00f6reg\u00e5ende","previous":"F\u00f6reg\u00e5ende","next":"N\u00e4sta","wrong_captcha":"Du angav fel nummer i robotfiltret.","wrong_checkbox":"Kryssruta","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"49254","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":"https://bellevuesolskydd.se/wp-content/themes/Divi/includes/builder/frontend-builder/assets/vendors","accent_color":"#7EBEC5","waypoints_options":{"context":[".pum-overlay"]}};
+var et_pb_box_shadow_elements = [];
+//# sourceURL=divi-custom-script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../../wp-content/themes/Divi/js/scripts.min.js%3Fver=4.27.4" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="../../../wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js%3Fver=4.27.4" id="es6-promise-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LflfnYoAAAAADA8z6k3lO9ScqB57ioD7Sb6Zc4P&amp;ver=4.27.4" id="et-recaptcha-v3-js"></script>
+<script type="text/javascript" id="et-core-api-spam-recaptcha-js-extra">
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"6LflfnYoAAAAADA8z6k3lO9ScqB57ioD7Sb6Zc4P","page_action":{"action":"bloggen_om_solskydd"}};
+//# sourceURL=et-core-api-spam-recaptcha-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../../wp-content/themes/Divi/core/admin/js/recaptcha.js%3Fver=4.27.4" id="et-core-api-spam-recaptcha-js"></script>
+<script type="text/javascript" id="uacf7-redirect-script-js-extra">
+/* <![CDATA[ */
+var uacf7_redirect_object = {"49608":{"uacf7_redirect_to_type":"to_page","page_id":"49092","external_url":"","target":"","thankyou_page_url":"https://bellevuesolskydd.se/tack-meddelande/"}};
+var uacf7_redirect_enable = {"49608":"1"};
+//# sourceURL=uacf7-redirect-script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../../wp-content/plugins/ultimate-addons-for-contact-form-7/addons/redirection/js/redirect.js" id="uacf7-redirect-script-js"></script>
+<script type="text/javascript" src="../../../wp-content/themes/Divi/core/admin/js/common.js%3Fver=4.27.4" id="et-core-common-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LdWJukqAAAAAC7XItajBsn4537s9NPJEeRo0Rap&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="../../../wp-includes/js/dist/vendor/wp-polyfill.min.js%3Fver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-before">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {
+    "sitekey": "6LdWJukqAAAAAC7XItajBsn4537s9NPJEeRo0Rap",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../../wp-content/plugins/contact-form-7/modules/recaptcha/index.js%3Fver=6.1.3" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"sv","strings":{"mejs.download-file":"Ladda ner fil","mejs.install-flash":"Din webbl\u00e4sare har ingen Flash-spelare aktiverad eller installerad. Aktivera ditt till\u00e4gg f\u00f6r Flash eller h\u00e4mta senaste versionen p\u00e5 https://get.adobe.com/flashplayer/","mejs.fullscreen":"Fullsk\u00e4rm","mejs.play":"Spela upp","mejs.pause":"Paus","mejs.time-slider":"S\u00f6kare","mejs.time-help-text":"Anv\u00e4nd v\u00e4nster/h\u00f6ger-piltangenter f\u00f6r att hoppa en sekund, upp/ner-piltangenter f\u00f6r att hoppa tio sekunder.","mejs.live-broadcast":"Direkts\u00e4ndning","mejs.volume-help-text":"Anv\u00e4nd upp/ner-piltangenterna f\u00f6r att h\u00f6ja eller s\u00e4nka volymen.","mejs.unmute":"S\u00e4tt p\u00e5 ljud","mejs.mute":"Ljud av","mejs.volume-slider":"Volymkontroll","mejs.video-player":"Videospelare","mejs.audio-player":"Ljudspelare","mejs.captions-subtitles":"Textning","mejs.captions-chapters":"Kapitel","mejs.none":"Inget","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanska","mejs.arabic":"Arabiska","mejs.belarusian":"Vitryska","mejs.bulgarian":"Bulgariska","mejs.catalan":"Katalanska","mejs.chinese":"Kinesiska","mejs.chinese-simplified":"Kinesiska (f\u00f6renklad)","mejs.chinese-traditional":"Kinesiska (traditionell)","mejs.croatian":"Kroatiska","mejs.czech":"Tjeckiska","mejs.danish":"Danska","mejs.dutch":"Nederl\u00e4ndska","mejs.english":"Engelska","mejs.estonian":"Estniska","mejs.filipino":"Filippinska","mejs.finnish":"Finska","mejs.french":"Franska","mejs.galician":"Galiciska","mejs.german":"Tyska","mejs.greek":"Grekiska","mejs.haitian-creole":"Haitisk kreol","mejs.hebrew":"Hebreiska","mejs.hindi":"Hindi","mejs.hungarian":"Ungerska","mejs.icelandic":"Isl\u00e4ndska","mejs.indonesian":"Indonesiska","mejs.irish":"Iriska","mejs.italian":"Italienska","mejs.japanese":"Japanska","mejs.korean":"Koreanska","mejs.latvian":"Lettiska","mejs.lithuanian":"Litauiska","mejs.macedonian":"Makedonska","mejs.malay":"Malajiska","mejs.maltese":"Maltesiska","mejs.norwegian":"Norska","mejs.persian":"Persiska","mejs.polish":"Polska","mejs.portuguese":"Portugisiska","mejs.romanian":"Rum\u00e4nska","mejs.russian":"Ryska","mejs.serbian":"Serbiska","mejs.slovak":"Slovakiska","mejs.slovenian":"Slovenska","mejs.spanish":"Spanska","mejs.swahili":"Swahili","mejs.swedish":"Svenska","mejs.tagalog":"Tagalog","mejs.thai":"Thail\u00e4ndska","mejs.turkish":"Turkiska","mejs.ukrainian":"Ukrainska","mejs.vietnamese":"Vietnamesiska","mejs.welsh":"Kymriska","mejs.yiddish":"Jiddisch"}};
+//# sourceURL=mediaelement-core-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../../wp-includes/js/mediaelement/mediaelement-and-player.min.js%3Fver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="../../../wp-includes/js/mediaelement/mediaelement-migrate.min.js%3Fver=6.9.1" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"/wp-includes/js/mediaelement/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+//# sourceURL=mediaelement-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../../wp-includes/js/mediaelement/wp-mediaelement.min.js%3Fver=6.9.1" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="../../../wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js%3Fver=4.27.4" id="salvattore-js"></script>
+<script type="text/javascript" src="../../../wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js%3Fver=4.27.4" id="fitvids-js"></script>
+<script type="text/javascript" src="../../../wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js%3Fver=4.27.4" id="easypiechart-js"></script>
+<script type="text/javascript" id="et-builder-modules-script-sticky-js-extra">
+/* <![CDATA[ */
+var et_pb_sticky_elements = [];
+//# sourceURL=et-builder-modules-script-sticky-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../../wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/sticky-elements.js%3Fver=4.27.4" id="et-builder-modules-script-sticky-js"></script>
+<style id="et-builder-module-design-tb-48376-tb-48369-deferred-49254-cached-inline-styles">.et_pb_section_0.et_pb_section{padding-top:8vw;padding-bottom:8vw;background-color:#E5DFD8!important}.et_pb_text_0.et_pb_text{color:#434952!important}.et_pb_text_0{font-size:15px}.et_pb_text_0 h1{font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif;font-size:54px;color:#333333!important;line-height:1.2em}.et_pb_text_0 h3{font-family:'Poppins',Helvetica,Arial,Lucida,sans-serif;font-weight:500;text-transform:uppercase;font-size:14px;color:#333333!important;letter-spacing:4px;line-height:1.4em}.et_pb_row_1{background-color:#F4F3EF}.et_pb_row_1.et_pb_row{margin-top:-9vw!important}.et_pb_blog_0 .et_pb_blog_grid .et_pb_post{border-radius:20px 20px 0 0;overflow:hidden;border-width:0px 0px 6px 0px;border-color:#8D9CA4 #8D9CA4 #C3CACE #8D9CA4;background-color:#FFFFFF}.et_pb_blog_0 .et_pb_post .entry-featured-image-url,.et_pb_blog_0 .et_pb_post .et_pb_slides,.et_pb_blog_0 .et_pb_post .et_pb_video_overlay{border-bottom-width:8px;border-bottom-color:#8D9CA4}.et_pb_column_1{padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px}@media only screen and (max-width:980px){.et_pb_text_0{font-size:15px}.et_pb_text_0 h1{font-size:46px}.et_pb_row_1.et_pb_row{margin-top:-140px!important}.et_pb_blog_0 .et_pb_blog_grid .et_pb_post{border-bottom-width:6px;border-bottom-color:#C3CACE}.et_pb_blog_0 .et_pb_post .entry-featured-image-url,.et_pb_blog_0 .et_pb_post .et_pb_slides,.et_pb_blog_0 .et_pb_post .et_pb_video_overlay{border-bottom-width:8px;border-bottom-color:#8D9CA4}.et_pb_column_1{padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px}}@media only screen and (max-width:767px){.et_pb_text_0{font-size:14px}.et_pb_text_0 h1{font-size:32px}.et_pb_row_1.et_pb_row{margin-top:-120px!important}.et_pb_blog_0 .et_pb_blog_grid .et_pb_post{border-bottom-width:6px;border-bottom-color:#C3CACE}.et_pb_blog_0 .et_pb_post .entry-featured-image-url,.et_pb_blog_0 .et_pb_post .et_pb_slides,.et_pb_blog_0 .et_pb_post .et_pb_video_overlay{border-bottom-width:8px;border-bottom-color:#8D9CA4}.et_pb_column_1{padding-top:40px;padding-right:20px;padding-bottom:40px;padding-left:20px}}</style><style id="et-builder-module-design-tb-48376-tb-48369-49254-cached-inline-styles">.et_pb_section_2_tb_header.et_pb_section{padding-top:20px;padding-bottom:20px;margin-top:0px;margin-bottom:0px;background-color:#FFFFFF!important}.et_pb_section_2_tb_header{z-index:6;position:relative}.et_pb_sticky .et_pb_section_2_tb_header{z-index:6!important}.et_pb_row_0_tb_header.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important;margin-bottom:0px!important;padding-top:0px;padding-bottom:0px}.et_pb_menu_0_tb_header.et_pb_menu ul li a{color:#000000!important}.et_pb_menu_0_tb_header.et_pb_menu{background-color:#ffffff}.et_pb_menu_0_tb_header{padding-top:0px;padding-bottom:0px}.et_pb_menu_0_tb_header.et_pb_menu .nav li ul{background-color:#ffffff!important;border-color:#8D9CA4}.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu{border-color:#8D9CA4}.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu,.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu ul{background-color:#ffffff!important}.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,.et_pb_menu_0_tb_header .et_pb_menu__logo-slot{width:auto;max-width:100%}.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_menu_0_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img{height:auto;max-height:none}.et_pb_menu_0_tb_header .mobile_nav .mobile_menu_bar:before{color:#434952}.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button,.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__cart-button{color:#8D9CA4}.et_pb_section_3_tb_header{border-bottom-width:1px}.et_pb_section_3_tb_header.et_pb_section{padding-top:0px;padding-bottom:0px;background-color:#E5DFD8!important}.et_pb_text_0_tb_header.et_pb_text{color:#333333!important}.et_pb_text_0_tb_header a{font-weight:600}@media only screen and (max-width:980px){.et_pb_menu_0_tb_header{padding-top:10px;padding-bottom:10px}.et_pb_section_3_tb_header{border-bottom-width:1px}}@media only screen and (max-width:767px){.et_pb_menu_0_tb_header{padding-top:10px;padding-bottom:10px}.et_pb_section_3_tb_header{border-bottom-width:1px}}.et_pb_section_0_tb_footer.et_pb_section{padding-top:50px;padding-bottom:50px;background-color:#434952!important}.et_pb_image_0_tb_footer,.et_pb_image_1_tb_footer{text-align:left;margin-left:0}.et_pb_image_1_tb_footer .et_pb_image_wrap{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_text_0_tb_footer.et_pb_text a{color:#FFFFFF!important}.et_pb_social_media_follow_0_tb_footer li.et_pb_social_icon a.icon:before{color:#FFFFFF}.et_pb_divider_0_tb_footer:before{border-top-color:#F4F3EF;border-top-width:2px}@media only screen and (max-width:980px){.et_pb_section_0_tb_footer.et_pb_section{padding-top:80px;padding-bottom:80px}.et_pb_image_0_tb_footer .et_pb_image_wrap img,.et_pb_image_1_tb_footer .et_pb_image_wrap img{width:auto}}@media only screen and (max-width:767px){.et_pb_section_0_tb_footer.et_pb_section{padding-top:60px;padding-bottom:60px}.et_pb_image_0_tb_footer .et_pb_image_wrap img,.et_pb_image_1_tb_footer .et_pb_image_wrap img{width:auto}}</style>	
+	</body>
+</html>

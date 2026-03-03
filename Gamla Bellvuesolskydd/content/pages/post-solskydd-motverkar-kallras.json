@@ -1,0 +1,132 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/solskydd-motverkar-kallras/",
+  "slug": "solskydd-motverkar-kallras",
+  "title": "Solskydd motverkar kallras",
+  "excerpt": "Håll värmen inomhus genom att dra för solskydden i höst och vinter! När du ändå sparar energi, tänk på att fönster och glasdörrar släpper in kyla och ut värme. Dra helt enkelt för dina solskydd, lamellgardiner eller träpersienner när solen inte ger värme. Det blir visserligen mindre ljus in i rummen men samtidigt mindre värmeförlust […]",
+  "meta_description": "Sparar energi i höst och vinter med solskydd! Vi har lösningar på hur man sparar värme på vintern och får svalka på sommaren",
+  "date_published": "2022-12-07T18:07:55",
+  "date_modified": "2022-12-07T18:07:55",
+  "featured_media_id": 2876,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Håll värmen inomhus genom att dra för solskydden i höst och vinter! När du ändå sparar energi, tänk på att fönster och glasdörrar släpper in kyla och ut värme. Dra helt enkelt för dina solskydd, lamellgardiner eller träpersienner när solen inte ger värme. Det blir visserligen mindre ljus in i rummen men samtidigt mindre värmeförlust – och lite lägre elräkningar.\nHör av dig till oss på\nBellevue Solskydd\nså berättar vi om lösningar som sparar värme under vinterhalvåret och ger svalka under vår och sommar.\nBoka gärna ett gratis hembesök!",
+  "images": [
+    {
+      "src": "https://bellevuesolskydd.se/wp-content/uploads/2020/12/gardiner-wave-Bellevue-Solskydd-683x1024.jpg",
+      "alt": "gardiner wave",
+      "title": ""
+    }
+  ],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/kontakt/",
+      "text": "Bellevue Solskydd"
+    },
+    {
+      "url": "https://bellevuesolskydd.se/boka-hembesok/",
+      "text": "Boka gärna ett gratis hembesök!"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/solskydd-motverkar-kallras/",
+          "url": "https://bellevuesolskydd.se/solskydd-motverkar-kallras/",
+          "name": "Solskydd motverkar kallras - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/solskydd-motverkar-kallras/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/solskydd-motverkar-kallras/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2022-12-07T17:07:55+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035"
+          },
+          "description": "Sparar energi i höst och vinter med solskydd! Vi har lösningar på hur man sparar värme på vintern och får svalka på sommaren",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/solskydd-motverkar-kallras/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/solskydd-motverkar-kallras/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/solskydd-motverkar-kallras/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/solskydd-motverkar-kallras/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solskydd motverkar kallras"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035",
+          "name": "digitalnarvaro",
+          "url": "https://bellevuesolskydd.se/author/digitalnarvaro/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Håll värmen inomhus genom att dra för solskydden i höst och vinter! När du ändå sparar energi, tänk på att fönster och glasdörrar släpper in kyla och ut värme. Dra helt enkelt för dina solskydd, lamellgardiner eller träpersienner när solen inte ger värme. Det blir visserligen mindre ljus in i rummen men samtidigt mindre värmeförlust – och lite lägre elräkningar.</p>\n<p>Hör av dig till oss på <a href=\"https://bellevuesolskydd.se/kontakt/\">Bellevue Solskydd</a> så berättar vi om lösningar som sparar värme under vinterhalvåret och ger svalka under vår och sommar.<br />\n<a href=\"https://bellevuesolskydd.se/boka-hembesok/\">Boka gärna ett gratis hembesök!</a></p>\n<p><img decoding=\"async\" class=\"alignnone size-large wp-image-2873\" src=\"https://bellevuesolskydd.se/wp-content/uploads/2020/12/gardiner-wave-Bellevue-Solskydd-683x1024.jpg\" alt=\"gardiner wave\" width=\"683\" height=\"1024\" /></p>\n",
+  "categories": [
+    "Nyheter",
+    "Solskydd"
+  ]
+}

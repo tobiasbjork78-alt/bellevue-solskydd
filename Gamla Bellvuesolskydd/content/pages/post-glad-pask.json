@@ -1,0 +1,115 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/glad-pask/",
+  "slug": "glad-pask",
+  "title": "Glad Påsk!",
+  "excerpt": "Skärtorsdagen stänger vi kl 14:00. Vi önskar alla en riktigt härlig & solig påskhelg! // Adam & Markus med personal",
+  "meta_description": "Skärtorsdagen stänger vi kl 14:00. Vi önskar alla en riktigt härlig & solig påskhelg! // Adam & Markus med personal",
+  "date_published": "2019-04-16T12:25:07",
+  "date_modified": "2019-04-16T12:25:07",
+  "featured_media_id": 1472,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Skärtorsdagen stänger vi kl 14:00.\nVi önskar alla en riktigt härlig & solig påskhelg!\n// Adam & Markus med personal",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/glad-pask/",
+          "url": "https://bellevuesolskydd.se/glad-pask/",
+          "name": "Glad Påsk! - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/glad-pask/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/glad-pask/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2019-04-16T11:25:07+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/glad-pask/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/glad-pask/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/glad-pask/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/glad-pask/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Glad Påsk!"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Skärtorsdagen stänger vi kl 14:00.<br />\nVi önskar alla en riktigt härlig &amp; solig påskhelg!</p>\n<p>// Adam &amp; Markus med personal</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

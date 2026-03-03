@@ -1,0 +1,115 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/lussefirande-1312/",
+  "slug": "lussefirande-1312",
+  "title": "Lussefirande 13/12",
+  "excerpt": "Idag stänger vi kl 15:00 för att fira Lucia med julbord & trevlig underhållning! ?✨ Trevlig Lucia!",
+  "meta_description": "Idag stänger vi kl 15:00 för att fira Lucia med julbord & trevlig underhållning! ?✨ Trevlig Lucia!",
+  "date_published": "2017-12-13T10:31:14",
+  "date_modified": "2017-12-13T10:31:14",
+  "featured_media_id": 856,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Idag stänger vi kl 15:00 för att fira Lucia med julbord & trevlig underhållning! ?✨\nTrevlig Lucia!",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/lussefirande-1312/",
+          "url": "https://bellevuesolskydd.se/lussefirande-1312/",
+          "name": "Lussefirande 13/12 - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/lussefirande-1312/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/lussefirande-1312/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2017-12-13T09:31:14+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/lussefirande-1312/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/lussefirande-1312/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/lussefirande-1312/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/lussefirande-1312/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Lussefirande 13/12"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Idag stänger vi kl 15:00 för att fira Lucia med julbord &amp; trevlig underhållning! ?✨<br />\nTrevlig Lucia!</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/storningar-i-telefonnatet/",
+  "slug": "storningar-i-telefonnatet",
+  "title": "Störningar i telefonnätet",
+  "excerpt": "Vår telefonileverantör, Telavox, har drabbats av ett allvarligt fel och samtal kan just nu inte kopplas fram till oss som de skall. Vi beklagar givetvis detta! Under tiden är vi nåbara på E-mail: info@bellevuesolskydd.se.",
+  "meta_description": "Vår telefonileverantör, Telavox, har drabbats av ett allvarligt fel och samtal kan just nu inte kopplas fram till oss som de skall. Vi beklagar givetvis detta! Under tiden är vi nåbara på E-mail: info@bellevuesolskydd.se.",
+  "date_published": "2017-10-23T11:16:50",
+  "date_modified": "2017-10-23T11:16:50",
+  "featured_media_id": 0,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Vår telefonileverantör, Telavox, har drabbats av ett allvarligt fel och samtal kan just nu inte kopplas fram till oss som de skall. Vi beklagar givetvis detta! Under tiden är vi nåbara på E-mail:\ninfo@bellevuesolskydd.se\n.",
+  "images": [],
+  "internal_links": [],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/storningar-i-telefonnatet/",
+          "url": "https://bellevuesolskydd.se/storningar-i-telefonnatet/",
+          "name": "Störningar i telefonnätet - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "datePublished": "2017-10-23T10:16:50+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540"
+          },
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/storningar-i-telefonnatet/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/storningar-i-telefonnatet/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/storningar-i-telefonnatet/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Störningar i telefonnätet"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/584596278e91eeb3d2fb19eb55e14540",
+          "name": "bellevueadmin",
+          "url": "https://bellevuesolskydd.se/author/bellevueadmin/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p class=\"post-frontpage-text\">Vår telefonileverantör, Telavox, har drabbats av ett allvarligt fel och samtal kan just nu inte kopplas fram till oss som de skall. Vi beklagar givetvis detta! Under tiden är vi nåbara på E-mail: <a href=\"mailto:info@bellevuesolskydd.se\">info@bellevuesolskydd.se</a>.</p>\n",
+  "categories": [
+    "Nyheter"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "type": "post",
+  "url": "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/",
+  "slug": "stor-hostkampanj-med-20-rabatt-pa-alla-solskydd",
+  "title": "Stor höstkampanj med 20 % rabatt på alla solskydd",
+  "excerpt": "Missa inte vår stora höstkampanj under september Vi erbjuder 20% rabatt på alla våra olika solskydd. Bellevue Solskydd hjälper dig att ta kontroll över ljuset ☀️ Erbjudandet gäller till den 15/10-2022 Varmt välkomna att kontakta oss för att boka in ett kostnadsfritt hembesök i Malmö med omnejd! Telefon: 040-18 11 00 alt. info@bellevuesolskydd.se",
+  "meta_description": "Stor höstkampanj med 20% rabatt på alla solskydd. Passa på att ta kontroll över ljuset ☀️. Boka gratis hembesök!",
+  "date_published": "2022-09-15T13:40:48",
+  "date_modified": "2022-09-15T13:40:48",
+  "featured_media_id": 3038,
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "body_text": "Missa inte vår stora höstkampanj under september\nVi erbjuder 20% rabatt på alla våra olika solskydd.\nBellevue Solskydd hjälper dig att ta kontroll över ljuset\n☀️\nErbjudandet gäller till den 15/10-2022\nVarmt välkomna att kontakta oss för att\nboka in ett kostnadsfritt hembesök i Malmö med omnejd!\nTelefon: 040-18 11 00 alt.\ninfo@bellevuesolskydd.se",
+  "images": [],
+  "internal_links": [
+    {
+      "url": "https://bellevuesolskydd.se/boka-hembesok/",
+      "text": "boka in ett kostnadsfritt hembesök i Malmö med omnejd!"
+    }
+  ],
+  "external_links": [],
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/",
+          "url": "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/",
+          "name": "20 % rabatt på alla solskydd - Bellevue solskydd",
+          "isPartOf": {
+            "@id": "https://bellevuesolskydd.se/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/#primaryimage"
+          },
+          "image": {
+            "@id": "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/#primaryimage"
+          },
+          "thumbnailUrl": "",
+          "datePublished": "2022-09-15T12:40:48+00:00",
+          "author": {
+            "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035"
+          },
+          "description": "Stor höstkampanj med 20% rabatt på alla solskydd. Passa på att ta kontroll över ljuset ☀️. Boka gratis hembesök!",
+          "breadcrumb": {
+            "@id": "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/#breadcrumb"
+          },
+          "inLanguage": "sv-SE",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "sv-SE",
+          "@id": "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/#primaryimage",
+          "url": "",
+          "contentUrl": ""
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bellevuesolskydd.se/stor-hostkampanj-med-20-rabatt-pa-alla-solskydd/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Hem",
+              "item": "https://bellevuesolskydd.se/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Stor höstkampanj med 20 % rabatt på alla solskydd"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bellevuesolskydd.se/#website",
+          "url": "https://bellevuesolskydd.se/",
+          "name": "Bellevue solskydd",
+          "description": "Inte bara markiser och persienner",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://bellevuesolskydd.se/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "sv-SE"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bellevuesolskydd.se/#/schema/person/dc32e3bb2770de710f7bc8dd46445035",
+          "name": "digitalnarvaro",
+          "url": "https://bellevuesolskydd.se/author/digitalnarvaro/"
+        }
+      ]
+    }
+  ],
+  "raw_html": "<p>Missa inte vår stora höstkampanj under september<br />\n<strong>Vi erbjuder 20% rabatt på alla våra olika solskydd.</strong></p>\n<p>Bellevue Solskydd hjälper dig att ta kontroll över ljuset <strong class=\"schema-faq-question\">☀️<br />\n</strong><br />\nErbjudandet gäller till den 15/10-2022</p>\n<p>Varmt välkomna att kontakta oss för att <a href=\"https://bellevuesolskydd.se/boka-hembesok/\">boka in ett kostnadsfritt hembesök i Malmö med omnejd!</a><br />\nTelefon: 040-18 11 00 alt. <a href=\"mailto:info@bellevuesolskydd.se\">info@bellevuesolskydd.se</a></p>\n",
+  "categories": [
+    "Nyheter",
+    "Solskydd"
+  ]
+}
