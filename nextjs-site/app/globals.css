@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-teal: #4ABFBF;
+  --color-teal-dark: #2A9090;
+  --color-teal-light: #E8F7F7;
+  --color-charcoal: #2C2C2C;
+  --color-mid-gray: #5A5A5A;
+  --color-light-bg: #F8F8F8;
+  --color-border: #E5E5E5;
+  --font-heading: var(--font-raleway);
+  --font-body: var(--font-open-sans);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #ffffff;
+  color: var(--color-charcoal);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), system-ui, sans-serif;
+}
+
+/* Scroll animations */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-on-scroll {
+  opacity: 0;
+  animation: fade-up 0.5s ease-out forwards;
+  animation-play-state: paused;
+}
+
+.animate-on-scroll.is-visible {
+  animation-play-state: running;
+}
+
+.stagger-1 { animation-delay: 0.05s; }
+.stagger-2 { animation-delay: 0.1s; }
+.stagger-3 { animation-delay: 0.15s; }
+.stagger-4 { animation-delay: 0.2s; }
+.stagger-5 { animation-delay: 0.25s; }
+.stagger-6 { animation-delay: 0.3s; }
+.stagger-7 { animation-delay: 0.35s; }
+.stagger-8 { animation-delay: 0.4s; }
