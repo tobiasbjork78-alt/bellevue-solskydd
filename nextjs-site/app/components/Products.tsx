@@ -26,6 +26,7 @@ interface Product {
   href?: string;
   image?: string;
   imageAlt?: string;
+  badge?: string;
 }
 
 const indoorProducts: Product[] = [
@@ -33,10 +34,11 @@ const indoorProducts: Product[] = [
     icon: Blinds,
     title: "Persienner",
     description:
-      "Bäst i Test-persienn med patent och mönsterskydd. 7 modeller, aluminium fritt från bly och krom. Patenterad sidoskena — persiennen faller inte ur när fönstret vrids. Min 23cm, max 300×300cm.",
+      "Bäst i Test-persiennen av Testfakta med betyg 4,6 av 5. Sju modeller, aluminium fritt från bly, krom och arsenik. Sidoskenor håller persiennen på plats mot fönstret. Min 23 cm, max 300 × 300 cm.",
     href: "/persienner",
     image: "/images/Persienner-img.webp",
     imageAlt: "Måttanpassade persienner",
+    badge: "Bäst i Test",
   },
   {
     icon: Layers,
@@ -175,6 +177,11 @@ function CardInner({ product }: { product: Product }) {
             className="object-cover group-hover:scale-105 transition-transform duration-500"
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
           />
+          {product.badge && (
+            <span className="absolute top-3 left-3 bg-teal text-white text-xs font-bold tracking-wider uppercase px-2.5 py-1 rounded shadow-sm">
+              {product.badge}
+            </span>
+          )}
         </div>
       )}
       <div className="p-5 flex flex-col flex-1">
