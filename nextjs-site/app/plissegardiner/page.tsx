@@ -76,7 +76,6 @@ export default function PlissegardinerPage() {
           faq={faq}
           images={[
             { src: "/images/Plissegardiner-980x551-1.webp", alt: "Plissegardin i fönster" },
-            { src: "/images/Plissegardiner-980x551-1.jpg", alt: "Plissegardin med mjukt ljusinsläpp" },
           ]}
         >
           <section className="mb-12 space-y-8">

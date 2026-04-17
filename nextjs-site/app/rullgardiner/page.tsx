@@ -76,7 +76,6 @@ export default function RullgardinerPage() {
           faq={faq}
           images={[
             { src: "/images/Rullgardin-Bellevue.jpg", alt: "Rullgardin — närbild" },
-            { src: "/images/room-with-sunlight-coming-through-the-blinds-2023-06-15-22-23-44-utc-scaled.jpg", alt: "Sollljus genom rullgardin" },
             { src: "/images/Bellevue-rullgardin.jpg", alt: "Rullgardin i vardagsrum" },
           ]}
         >

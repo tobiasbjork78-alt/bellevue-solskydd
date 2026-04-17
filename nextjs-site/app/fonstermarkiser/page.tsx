@@ -76,7 +76,6 @@ export default function FonstermarkiserPage() {
           faq={faq}
           images={[
             { src: "/images/fonstermarkiser-vand.webp", alt: "Fönstermarkis monterad över fönster" },
-            { src: "/images/fonstermarkiser-vand.png", alt: "Fönstermarkis i vänt utförande" },
           ]}
         >
           <section className="mb-12 space-y-8">

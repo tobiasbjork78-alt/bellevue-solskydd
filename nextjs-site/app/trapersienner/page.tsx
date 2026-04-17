@@ -79,8 +79,7 @@ export default function TrapersiennerPage() {
           intro="I villorna kring Bellevue, Limhamn och Västra Hamnen har träpersiennen en självklar plats. En inredningsdetalj som ger atmosfär åt rummet och samtidigt reglerar ljuset naturligt. FSC-certifierat trä i flera träslag och färger."
           faq={faq}
           images={[
-            { src: "/images/a-line-med-dekorlist-oppen.jpg", alt: "Träpersienn i öppet läge" },
-            { src: "/images/classic2.webp", alt: "Träpersienn — klassisk design" },
+            { src: "/images/shutterstock_172695749-1024x576-1.jpg", alt: "Träpersienner i fönsterpartier i vardagsrum" },
           ]}
         >
           <section className="mb-12 space-y-8">
