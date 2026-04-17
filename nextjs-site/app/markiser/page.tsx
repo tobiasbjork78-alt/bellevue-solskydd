@@ -5,10 +5,13 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import ScrollAnimator from "../components/ScrollAnimator";
 
+const pageUrl = "https://bellevuesolskydd.se/markiser";
+
 export const metadata: Metadata = {
-  title: "Markiser Malmö — Sol- och vindskydd | Bellevue Solskydd",
+  title: "Markiser i Malmö — balkong och fasadmonterat | Bellevue Solskydd",
   description:
-    "Markiser i Malmö och södra Skåne. Terrassmarkiser, fönstermarkiser, korgmarkiser och Zip Screen med montering och 3 års garanti.",
+    "Måttanpassade markiser i Malmö. Balkongmarkiser, fasadmonterade terrassmarkiser, fönstermarkiser och korgmarkiser. Sänk temperaturen med upp till 10 °C. Kostnadsfritt hembesök.",
+  alternates: { canonical: pageUrl },
 };
 
 const faq = [
@@ -17,8 +20,8 @@ const faq = [
     a: "Ja, markiserna måttanpassas efter dina önskemål.",
   },
   {
-    q: "Erbjuder ni gratis hembesök?",
-    a: "Ja, vi erbjuder kostnadsfritt hembesök i Malmö, Lund, Helsingborg och hela södra Skåne där vi mäter, rådger och lämnar offert.",
+    q: "Erbjuder ni gratis hembesök i Malmö?",
+    a: "Ja, vi erbjuder kostnadsfritt hembesök i Malmö och södra Skåne där vi mäter, rådger och lämnar offert.",
   },
   {
     q: "Ingår montering?",
@@ -26,32 +29,76 @@ const faq = [
   },
   {
     q: "Vad kostar markiser?",
-    a: "Priset varierar beroende på typ, dimensioner och materialval. Kontakta oss för en offert anpassad efter dina förutsättningar.",
+    a: "Priset varierar beroende på typ, dimensioner, materialval och hur omfattande installationen är. Kontakta oss för en offert anpassad efter dina förutsättningar.",
+  },
+  {
+    q: "Går det att fasadmontera på lägenhetsbalkong i innerstan?",
+    a: "Ofta ja — men det beror på fastighetens regler. Vi går igenom bygglovs- och bostadsrättsfrågor vid hembesöket och anpassar monteringen efter fasaden.",
   },
 ];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HomeAndConstructionBusiness",
+      "name": "Bellevue Solskydd",
+      "telephone": "+46401811100",
+      "email": "info@bellevuesolskydd.se",
+      "url": pageUrl,
+      "areaServed": ["Malmö", "Staffanstorp", "Vellinge", "Trelleborg", "Svedala"],
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": faq.map((item) => ({
+        "@type": "Question",
+        "name": item.q,
+        "acceptedAnswer": { "@type": "Answer", "text": item.a },
+      })),
+    },
+  ],
+};
 
 export default function MarkiserPage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <ScrollAnimator />
       <Topbar />
       <Header />
       <main>
         <ProductPageLayout
-          title="Markiser Malmö — sol- och vindskydd för uteplatsen"
-          intro="Rätt markis kan sänka temperaturen på din uteplats med upp till 10°C. Vi levererar och monterar markiser i hela Malmö och södra Skåne — med kostnadsfritt hembesök."
+          title="Markiser i Malmö — balkong, fasad och innerstadsfastigheter"
+          intro="Rätt markis kan sänka temperaturen på uteplats eller balkong med upp till 10 °C. Vi fasadmonterar på balkong i innerstan, på funkisvillan i Limhamn och på radhuset i Bunkeflostrand. Kostnadsfritt hembesök — vi går igenom förutsättningarna på plats."
           faq={faq}
         >
           <section className="mb-12 space-y-8">
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
-                Terrassmarkiser med motordrift och sensorer
+                Terrassmarkiser för balkong och uteplats
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Terrassmarkiser är det populäraste valet för att skapa en skyddad uteplats.
-                Med motordrift, fjärrstyrning och sensorer för sol och vind får du en smidig och
-                bekväm användning. Vi anpassar markisen för allt från privata hem till
-                industri- och kontorskomplex.
+                Terrassmarkisen är det populäraste valet för balkonger och
+                uteplatser. Med motordrift, fjärrstyrning och sensorer för sol
+                och vind får du en smidig användning. Vi anpassar markisen för
+                allt från lägenhetsbalkonger i Malmö innerstad till större
+                fasadmonteringar på villa och radhus.
+              </p>
+            </div>
+
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Fasadmontering i innerstadsfastigheter
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                Fasadmontage i innerstan ställer särskilda krav — fastighetens
+                regler, bygglov och balkongens bärförmåga påverkar vilken
+                lösning som fungerar. Vi har lång erfarenhet av montering i
+                Malmös sekelskiftesfastigheter, funkishus och modernare
+                bostadsrätter.
               </p>
             </div>
 
@@ -60,9 +107,10 @@ export default function MarkiserPage() {
                 Fönstermarkiser — stoppar solen innan den når glaset
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Fönstermarkiser monteras utanpå fönstret och stoppar solens värme innan den
-                når glaset. Det minskar temperaturen inomhus markant och ger en behagligare
-                inomhusmiljö utan att behöva stänga ute ljuset helt.
+                Fönstermarkisen monteras utanpå fönstret och stoppar upp till
+                80 % av solstrålarna innan de når glaset. Det minskar
+                temperaturen inomhus markant och ger en behagligare miljö utan
+                att du behöver stänga ute ljuset helt.
               </p>
             </div>
 
@@ -71,9 +119,10 @@ export default function MarkiserPage() {
                 Korgmarkiser — klassisk design
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Korgmarkiser har en tidlös design som passar fasader i alla stilar. Ett populärt
-                val för butiker, restauranger och bostäder som vill ge sin fasad en klassisk
-                och välkomnande känsla.
+                Korgmarkisen har en tidlös design som passar fasader i alla
+                stilar. Populär för butiker, restauranger och bostäder som vill
+                ge fasaden en klassisk känsla — vanligt i Malmös butiksgator
+                och längs kanalstråken.
               </p>
             </div>
 
@@ -82,20 +131,20 @@ export default function MarkiserPage() {
                 Zip Screen — maximalt skydd i vind
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Zip Screen hålls på plats av sidoskenor och tål vind bättre än andra solskydd.
-                Ger maximalt skydd mot sol, insekter och insyn — perfekt för uteplatser som
-                används hela säsongen.
+                Zip Screen hålls på plats av sidoskenor och tål vind bättre än
+                andra solskydd. Ger maximalt skydd mot sol, insekter och insyn —
+                ett bra val för uteplatser som används hela säsongen.
               </p>
             </div>
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
-                Hela Öresundsregionen
+                Designa din markis
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Vi levererar och monterar markiser i Malmö, Lund, Helsingborg, Vellinge,
-                Staffanstorp och hela södra Skåne. Boka ett kostnadsfritt hembesök så
-                kommer vi till dig.
+                Välj bland många olika mönster och färger på markisväven. Vi
+                hjälper dig designa en markis som harmoniserar med fasaden och
+                förstärker stilen på huset.
               </p>
             </div>
           </section>

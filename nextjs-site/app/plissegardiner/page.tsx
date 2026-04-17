@@ -5,10 +5,13 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import ScrollAnimator from "../components/ScrollAnimator";
 
+const pageUrl = "https://bellevuesolskydd.se/plissegardiner";
+
 export const metadata: Metadata = {
-  title: "Plissegardiner — Elegant solskydd | Bellevue Solskydd",
+  title: "Plissegardiner i Malmö — snedfönster & takvåning | Bellevue Solskydd",
   description:
-    "Plissegardiner för alla fönstertyper — även takfönster och snedtak. Montering mot vägg, fönsterram eller tak. Kraftig draglina med låsmekanism.",
+    "Måttanpassade plissegardiner i Malmö. Passar snedfönster, takvåningar och nybyggen. Avskärma ljuset från botten, toppen eller hela fönstret. Kostnadsfritt hembesök.",
+  alternates: { canonical: pageUrl },
 };
 
 const faq = [
@@ -17,12 +20,16 @@ const faq = [
     a: "Ja, alla plissegardiner måttanpassas efter dina önskemål.",
   },
   {
-    q: "Erbjuder ni hembesök?",
-    a: "Ja, vi erbjuder kostnadsfritt hembesök i Malmö, Lund, Helsingborg och hela södra Skåne. En solskyddsexpert ger tips och råd kring plissegardiner och hur de passar ditt hem.",
+    q: "Passar plissegardiner för snedfönster och takfönster?",
+    a: "Ja. Plissegardinen är flexibel och fungerar på snedfönster, takfönster och fönster med ovanliga format — vanligt i takvåningar och nybyggen i Malmö och Vellinge.",
+  },
+  {
+    q: "Erbjuder ni kostnadsfritt hembesök?",
+    a: "Ja, en solskyddsexpert kommer hem till dig, ger tips och råd kring plissegardiner och hur de passar ditt hem. Erbjudandet gäller när vi är med från måttagning till montering.",
   },
   {
     q: "Ingår montering?",
-    a: "Ja, vi levererar och monterar de måttbeställda plisségardinerna efter dina önskemål.",
+    a: "Ja, vi levererar och monterar de måttbeställda plissegardinerna efter dina önskemål.",
   },
   {
     q: "Vad kostar plissegardiner?",
@@ -30,61 +37,102 @@ const faq = [
   },
 ];
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HomeAndConstructionBusiness",
+      "name": "Bellevue Solskydd",
+      "telephone": "+46401811100",
+      "email": "info@bellevuesolskydd.se",
+      "url": pageUrl,
+      "areaServed": ["Malmö", "Staffanstorp", "Vellinge", "Trelleborg", "Svedala"],
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": faq.map((item) => ({
+        "@type": "Question",
+        "name": item.q,
+        "acceptedAnswer": { "@type": "Answer", "text": item.a },
+      })),
+    },
+  ],
+};
+
 export default function PlissegardinerPage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <ScrollAnimator />
       <Topbar />
       <Header />
       <main>
         <ProductPageLayout
-          title="Plissegardiner — elegant solskydd för alla fönster"
-          intro="Plissegardinen är det eleganta valet för hem som vill ha mjukt ljus och diskret insyn. Passar alla fönstertyper — även snedtak och takfönster."
+          title="Plissegardiner i Malmö — eleganta för alla fönstertyper"
+          intro="Plissegardinen passar snedfönster, takfönster och ovanliga format. Vanligt i takvåningar på Väster, nybyggen i Hyllie och fritidshus i Vellinge. Avskärma ljuset från botten, toppen eller över hela fönstret."
           faq={faq}
         >
           <section className="mb-12 space-y-8">
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
-                Montering
+                Plisségardinen är ett elegant solskydd
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Bellevue Solskydd måttanpassar dina plissegardiner så att de sitter perfekt.
-                Montering mot vägg, fönsterram eller tak — vi anpassar efter dina önskemål.
-                Plissegardinen kan vara ett alternativ till persienner när du vill ha ett mjukare intryck.
+                Plisségardinen är ett elegant och modernt val som gör sig lika rätt
+                i hemmet som på kontoret. En av gardinens fördelar är hur flexibel
+                den är — du kan avskärma ljus från toppen eller botten av fönstret,
+                eller över hela ytan. Den ger ett mjukt, rogivande ljusinsläpp som
+                passar alla typer av rum.
               </p>
             </div>
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
-                Kraftig draglina med låsmekanism
+                Skydd mot ljus och insyn
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Plissegardinen hissas och regleras med en kraftig draglina. En smart mekanism låser
-                gardinen i det läge du vill ha den. Du kan avskärma ljuset från botten, toppen eller
-                över hela fönstret.
+                Plissegardinen fungerar som insynsskydd utan att göra rummet
+                mörkläggande — en perfekt balans mellan ljusreglering och privatliv.
+                Materialval och tjocklek styr hur mycket ljus som släpps in. Välj
+                mjuka tyger för ljus och luftig känsla, eller mörkläggande tyger
+                för sovrum.
               </p>
             </div>
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
-                Kvalitetssäkring
+                Hållbar och smart funktion
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Varje plisségardin kvalitetssäkras i våra egna lokaler före leverans. Vi erbjuder en
-                mängd olika kvaliteter på väv och i många färger och nyanser, så att du alltid kan
-                matcha din miljö och övrig inredning.
+                Plissegardinen hissas och regleras med en kraftig draglina. En
+                mekanism låser gardinen i önskat läge. Alternativt kan den
+                motorstyras — Bellevue Solskydd erbjuder båda varianterna.
               </p>
             </div>
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
-                Plisségardin vs rullgardin vs draperier
+                För takvåningar och snedfönster
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Plissegardiner ger insynsskydd utan mörkläggande effekt — en perfekt balans mellan
-                ljusreglering och privatliv. Rullgardiner erbjuder allt från transparent ljusfilter till
-                fullständig mörkläggning. Draperier ger en textil känsla med mer volym. Kontakta oss
-                så hjälper vi dig välja rätt för just dina fönster.
+                Det som gör plissegardinen unik är att den kan måttanpassas för
+                fönster som ingen annan gardin klarar — snedfönster i vindsvåningen,
+                triangulära fönsterpartier, takfönster i nybyggen. Vi mäter på plats
+                i Malmö och Vellinge och tar fram en lösning som faktiskt passar.
+              </p>
+            </div>
+
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Välj färg och material
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                Vi erbjuder många kvaliteter på väv i olika färger och nyanser,
+                så att du kan matcha din inredning. Solskyddsegenskaperna går från
+                transparent ljusfilter till fullständig mörkläggning.
               </p>
             </div>
           </section>

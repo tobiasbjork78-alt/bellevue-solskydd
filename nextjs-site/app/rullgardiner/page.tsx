@@ -5,10 +5,13 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import ScrollAnimator from "../components/ScrollAnimator";
 
+const pageUrl = "https://bellevuesolskydd.se/rullgardiner";
+
 export const metadata: Metadata = {
-  title: "Rullgardiner — Ljusfilter till mörkläggning | Bellevue Solskydd",
+  title: "Rullgardiner i Malmö — ljusfilter till mörkläggning | Bellevue Solskydd",
   description:
-    "Rullgardiner från lätt ljusfilter till fullständig mörkläggning. Kulkedja, fjädermekanism eller inbyggd motor med smart hem-integration.",
+    "Måttanpassade rullgardiner i Malmö för hemmakontoret, butiken eller lägenheten. Från transparent ljusfilter till fullständig mörkläggning. Kostnadsfritt hembesök.",
+  alternates: { canonical: pageUrl },
 };
 
 const faq = [
@@ -17,8 +20,8 @@ const faq = [
     a: "Ja, alla rullgardiner måttanpassas efter dina önskemål.",
   },
   {
-    q: "Erbjuder ni gratis hembesök?",
-    a: "Ja, vi erbjuder kostnadsfritt hembesök i Malmö, Lund, Helsingborg och hela södra Skåne där vi mäter, rådger och lämnar offert.",
+    q: "Erbjuder ni gratis hembesök i Malmö?",
+    a: "Ja, vi erbjuder kostnadsfritt hembesök i Malmö och södra Skåne. En solskyddsexpert ger tips och råd kring vilka rullgardiner som passar ditt hem.",
   },
   {
     q: "Ingår montering?",
@@ -26,23 +29,65 @@ const faq = [
   },
   {
     q: "Kan jag styra rullgardinerna med mobilen?",
-    a: "Ja, med motoriserade rullgardiner kan du integrera med smart hem-system och styra via app, röstkommando eller tidsinställning.",
+    a: "Ja. Med motordrift går det att integrera mot smart hem-system och styra via app, röstkommando eller tidsinställning.",
+  },
+  {
+    q: "Fungerar rullgardiner till butik och hemmakontor?",
+    a: "Ja. I butik används rullgardiner ofta för skyltfönster och bakre rum. I hemmakontoret hjälper de att dämpa reflexer i skärmen och ge kontrollerat ljus under arbetsdagen.",
   },
 ];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HomeAndConstructionBusiness",
+      "name": "Bellevue Solskydd",
+      "telephone": "+46401811100",
+      "email": "info@bellevuesolskydd.se",
+      "url": pageUrl,
+      "areaServed": ["Malmö", "Staffanstorp", "Vellinge", "Trelleborg", "Svedala"],
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": faq.map((item) => ({
+        "@type": "Question",
+        "name": item.q,
+        "acceptedAnswer": { "@type": "Answer", "text": item.a },
+      })),
+    },
+  ],
+};
 
 export default function RullgardinerPage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <ScrollAnimator />
       <Topbar />
       <Header />
       <main>
         <ProductPageLayout
-          title="Rullgardiner — från ljusfilter till mörkläggning"
-          intro="Välj exakt hur mycket ljus du vill ha. Rullgardinen finns från transparenta ljusfiltrerande tyger till fullständig mörkläggning — med manuell eller motoriserad styrning."
+          title="Rullgardiner i Malmö — från ljusfilter till mörkläggning"
+          intro="För hemmakontoret i lägenheten, skyltfönstret i butiken på Södra Förstadsgatan eller sovrummet i radhuset. Välj exakt hur mycket ljus du vill ha — från transparent ljusfilter till fullständig mörkläggning."
           faq={faq}
         >
           <section className="mb-12 space-y-8">
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Måttanpassade rullgardiner med montering
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                Rullgardinen är en favorit bland husägare sedan länge, och det är
+                inte svårt att förstå varför. Eleganta och funktionella solskydd
+                som passar en stor bredd av fönster. Vi skräddarsyr rullgardinerna
+                efter dina önskemål och monterar dem på plats.
+              </p>
+            </div>
+
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
                 Styrning
@@ -63,12 +108,26 @@ export default function RullgardinerPage() {
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Hemmakontor, butik eller lägenhet
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                I lägenheten ger rullgardinen diskret insynsskydd utan att ta
+                utrymme. I hemmakontoret rullar du ner gardinen när solen skiner
+                in i skärmen och rullar upp när det blivit överskyet. I butiken
+                används mörkläggande rullgardiner både till skyltfönster efter
+                stängning och till bakre rum där dagsljuset behöver stängas av
+                helt.
+              </p>
+            </div>
+
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
                 Smart hem
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Med motoriserade rullgardiner kan du integrera med ditt smart hem-system.
-                Styr via röstkommando, app eller tidsinställning. Modern teknologi som ger
-                dig full kontroll över ljuset i ditt hem.
+                Med motoriserade rullgardiner kan du integrera med ditt smart
+                hem-system. Styr via röstkommando, app eller tidsinställning — en
+                enkel knapptryckning räcker.
               </p>
             </div>
 
@@ -77,19 +136,9 @@ export default function RullgardinerPage() {
                 Montering
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                Rullgardinerna kan monteras på väggen, i fönsterkarmen eller i taket.
-                Välj bland en mängd olika färger, mönster och material — från transparent
-                ljusfilter till fullständig mörkläggning i flera färger.
-              </p>
-            </div>
-
-            <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
-                3 års garanti
-              </h2>
-              <p className="text-mid-gray leading-relaxed">
-                Alla rullgardiner levereras med 3 års garanti på både produkt och montage.
-                Bellevue Solskydds unika system gör upp- och nerrullningen stabil och tålig.
+                Rullgardinerna kan monteras på väggen, i fönsterkarmen eller i
+                taket. Välj bland en mängd olika färger, mönster och material —
+                från transparent ljusfilter till fullständig mörkläggning.
               </p>
             </div>
           </section>
