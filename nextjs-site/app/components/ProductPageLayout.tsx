@@ -75,30 +75,28 @@ export default function ProductPageLayout({
         {children}
       </div>
 
-      {/* Gallery */}
+      {/* Gallery — stackad enkel-kolumn, samma bredd och aspect som inline-bilden */}
       {images && images.length > 0 && (
         <div className="bg-light-bg border-t border-border">
-          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-            <div className={`grid gap-4 grid-cols-1 sm:grid-cols-2 ${images.length >= 3 ? "lg:grid-cols-3" : ""}`}>
-              {images.map((img) => (
-                <figure key={img.src} className="flex flex-col">
-                  <div className="relative aspect-[4/3] w-full overflow-hidden rounded-lg bg-white border border-border">
-                    <Image
-                      src={img.src}
-                      alt={img.alt}
-                      fill
-                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                      className="object-cover"
-                    />
-                  </div>
-                  {img.caption && (
-                    <figcaption className="mt-2 text-sm text-mid-gray">
-                      {img.caption}
-                    </figcaption>
-                  )}
-                </figure>
-              ))}
-            </div>
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10 sm:space-y-14">
+            {images.map((img) => (
+              <figure key={img.src} className="flex flex-col">
+                <div className="relative aspect-[16/9] w-full overflow-hidden rounded-lg bg-light-bg border border-border">
+                  <Image
+                    src={img.src}
+                    alt={img.alt}
+                    fill
+                    sizes="(max-width: 1024px) 100vw, 56rem"
+                    className="object-cover"
+                  />
+                </div>
+                {img.caption && (
+                  <figcaption className="mt-2 text-sm text-mid-gray">
+                    {img.caption}
+                  </figcaption>
+                )}
+              </figure>
+            ))}
           </div>
         </div>
       )}
