@@ -71,7 +71,8 @@ const indoorProducts: Product[] = [
     icon: PanelLeft,
     title: "Panelgardiner",
     description:
-      "Modernt alternativ för panoramafönster och som rumsavdelare. Smidigt sidledsystem.",
+      "Modernt alternativ för panoramafönster och som rumsavdelare. Smidigt sidledsystem med två till fem spår.",
+    href: "/panelgardiner",
     image: "/images/Gardiner-img.webp",
     imageAlt: "Panelgardiner i svenskt hem",
   },
@@ -79,7 +80,8 @@ const indoorProducts: Product[] = [
     icon: Shirt,
     title: "Draperier",
     description:
-      "Textila lösningar som kombinerar funktion med känsla. Skräddarsytt efter ditt fönster.",
+      "Wavegardiner med mjuk vågeffekt. Passar sekelskifteslägenheter och höga tak. Manuell, lindrag eller motor.",
+    href: "/draperier",
     image: "/images/Draperier-img.webp",
     imageAlt: "Draperier",
   },
@@ -87,7 +89,8 @@ const indoorProducts: Product[] = [
     icon: TreePine,
     title: "Träpersienner",
     description:
-      "Naturmaterial med tidlös design. Passar lika bra i vardagsrum som i badrum.",
+      "FSC-certifierat trä i flera träslag och färger. Stilren inredningsdetalj som reglerar ljuset naturligt.",
+    href: "/trapersienner",
     image: "/images/shutterstock_172695749-1024x576-1.jpg",
     imageAlt: "Träpersienner",
   },
@@ -95,7 +98,8 @@ const indoorProducts: Product[] = [
     icon: Bug,
     title: "Insektsskydd",
     description:
-      "Håll insekterna ute utan att stänga ute ljuset eller luften.",
+      "Transparent glasfiberväv med sidoskenor som håller. Släpp in ljuset och luften — stäng ute insekterna.",
+    href: "/insektsskydd",
     image: "/images/shutterstock_455819377-1024x576-1.jpg",
     imageAlt: "Insektsskydd",
   },
@@ -115,8 +119,8 @@ const outdoorProducts: Product[] = [
     icon: SolarPanel,
     title: "Fönstermarkiser",
     description:
-      "Stoppar solstrålningen innan den når glaset — minskar värme inomhus markant.",
-    href: "/markiser",
+      "Fallarmsmarkis som stoppar upp till 80 % av solstrålarna innan de når glaset. Klassiker för funkisvillor och äldre bestånd.",
+    href: "/fonstermarkiser",
     image: "/images/fonstermarkiser-vand.webp",
     imageAlt: "Fönstermarkis",
   },
@@ -159,7 +163,8 @@ const outdoorProducts: Product[] = [
     icon: Umbrella,
     title: "Parasoller",
     description:
-      "Flexibelt solskydd som du enkelt flyttar dit du behöver det.",
+      "Från klassiska runda till vindstarka premiummodeller upp till 12×12 m. Uteserveringar, terrasser och trädgårdar.",
+    href: "/parasoller",
     image: "/images/Parasoll_header_img.png",
     imageAlt: "Parasoll",
   },
