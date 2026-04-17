@@ -77,7 +77,7 @@ export default function MarkiserPage() {
           images={[
             { src: "/images/markiser_img1.png", alt: "Markis över uteplats" },
             { src: "/images/Markis-fran-Bellevue-Solskydd-1.png", alt: "Markis monterad på fasad" },
-            { src: "/images/markiser-malmo-lund-nykoping-1-980x653-1.webp", alt: "Markiser på villafasad" },
+            { src: "/images/exterior-shots-of-a-modern-terrace-with-dining-tab-2021-09-01-22-37-46-utc-1.jpg", alt: "Markis på modern terrass" },
           ]}
         >
           <section className="mb-12 space-y-8">
