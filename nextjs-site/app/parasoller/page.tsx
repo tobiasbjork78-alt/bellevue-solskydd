@@ -74,6 +74,12 @@ export default function ParasollerPage() {
           title="Parasoller i Malmö och Trelleborg — uteservering och trädgård"
           intro="På uteserveringarna i Malmös city och vid kustrestaurangerna i Trelleborg levererar vi parasoller för de mest utsatta lägena. Även för villaterrassen och trädgården — från klassiska runda till vindstarka premiummodeller upp till 12×12 m."
           faq={faq}
+          images={[
+            { src: "/images/parasoll-1.png", alt: "Parasoll — klassisk modell" },
+            { src: "/images/parasoll-2.png", alt: "Parasoll över uteplats" },
+            { src: "/images/parasoll_pool.png", alt: "Parasoll vid poolkant" },
+            { src: "/images/sun-bath-with-sun-loungers-and-parasol-3d-renderi-2022-06-01-23-59-17-utc-1.webp", alt: "Parasoll med solstolar" },
+          ]}
         >
           <section className="mb-12 space-y-8">
             <div>

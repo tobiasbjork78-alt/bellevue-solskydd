@@ -74,6 +74,10 @@ export default function InsektsskyddPage() {
           title="Insektsskydd i Malmö och Staffanstorp — fönster och dörrar"
           intro="I villan med trädgård, nära Pildammsparken eller vid skogskanten i Staffanstorp, är insektsskyddet det som gör att du kan ha fönstret öppet hela sommaren. Måttanpassat i transparent glasfiberväv med sidoskenor som håller."
           faq={faq}
+          images={[
+            { src: "/images/open-door-leading-to-the-courtyard-of-the-house-2021-12-09-14-13-34-utc-1.png", alt: "Öppen dörr mot trädgård" },
+            { src: "/images/back-yard-in-a-cozy-house-2022-03-02-19-15-34-utc-1.png", alt: "Bakgård vid villa med trädgård" },
+          ]}
         >
           <section className="mb-12 space-y-8">
             <div>

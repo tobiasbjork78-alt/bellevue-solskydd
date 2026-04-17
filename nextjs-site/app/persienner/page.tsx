@@ -119,6 +119,11 @@ export default function PersiennerPage() {
           title="Persienner i Malmö — Bäst i Test sedan 1982"
           intro="Det klassiska solskyddet för lägenheter, radhus och innerstadens fastigheter i Malmö. Hissa upp, vrid lamellerna, reglera sol och insyn i ett grepp. Bäst i Test av Testfakta med betyg 4,6 av 5."
           faq={faq}
+          images={[
+            { src: "/images/Persienner-img.webp", alt: "Måttanpassade persienner nedrullade" },
+            { src: "/images/blinds-1-scaled.jpg", alt: "Persienner i en ljus interiör" },
+            { src: "/images/shadow-of-window-blinds-on-wall-2022-12-16-11-04-06-utc-1.jpg", alt: "Skuggor från persienner mot vägg" },
+          ]}
         >
           <section className="mb-12">
             <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

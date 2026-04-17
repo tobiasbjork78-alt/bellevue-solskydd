@@ -1,5 +1,6 @@
 import { Phone, ChevronRight } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 import type { ReactNode } from "react";
 
 interface FAQItem {
@@ -7,11 +8,18 @@ interface FAQItem {
   a: string;
 }
 
+interface ProductImage {
+  src: string;
+  alt: string;
+  caption?: string;
+}
+
 interface ProductPageLayoutProps {
   title: string;
   intro: string;
   children: ReactNode;
   faq?: FAQItem[];
+  images?: ProductImage[];
 }
 
 export default function ProductPageLayout({
@@ -19,6 +27,7 @@ export default function ProductPageLayout({
   intro,
   children,
   faq,
+  images,
 }: ProductPageLayoutProps) {
   const shortTitle = title.split("—")[0].trim();
 
@@ -50,6 +59,34 @@ export default function ProductPageLayout({
         {children}
       </div>
 
+      {/* Gallery */}
+      {images && images.length > 0 && (
+        <div className="bg-light-bg border-t border-border">
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div className={`grid gap-4 grid-cols-1 sm:grid-cols-2 ${images.length >= 3 ? "lg:grid-cols-3" : ""}`}>
+              {images.map((img) => (
+                <figure key={img.src} className="flex flex-col">
+                  <div className="relative aspect-[4/3] w-full overflow-hidden rounded-lg bg-white border border-border">
+                    <Image
+                      src={img.src}
+                      alt={img.alt}
+                      fill
+                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                      className="object-cover"
+                    />
+                  </div>
+                  {img.caption && (
+                    <figcaption className="mt-2 text-sm text-mid-gray">
+                      {img.caption}
+                    </figcaption>
+                  )}
+                </figure>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* FAQ */}
       {faq && faq.length > 0 && (
         <div className="bg-light-bg border-y border-border">
@@ -79,7 +116,7 @@ export default function ProductPageLayout({
           </h2>
           <p className="text-white/80 mb-8 max-w-xl mx-auto">
             Vi kommer hem till dig i Malmö, Burlöv, Lomma, Staffanstorp,
-            Vellinge, Svedala, Lund, Kävlinge, Trelleborg, Skurup och Eslöv.
+            Vellinge, Svedala, Kävlinge, Trelleborg, Skurup och Eslöv.
             Mäter, rådger och presenterar rätt alternativ.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

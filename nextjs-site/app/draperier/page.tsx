@@ -74,6 +74,11 @@ export default function DraperierPage() {
           title="Draperier i Malmö — wavegardiner för äldre fastigheter"
           intro="I sekelskifteslägenheten på Möllan eller den takhöga vardagsrumsväggen i innerstans bostadsrätter gör draperier hela skillnaden. Mjuk vågeffekt, textil rumslighet — manuell, lindrag eller motorstyrd."
           faq={faq}
+          images={[
+            { src: "/images/Draperier-img.webp", alt: "Draperier med vågeffekt" },
+            { src: "/images/blue-silk-drapery-and-upholstery-fabric-from-the-c-2023-05-03-23-51-16-utc-1.jpg", alt: "Sidenliknande draperityg" },
+            { src: "/images/curtain-draperies-at-window-close-up-2023-10-10-15-44-51-utc-1.jpg", alt: "Draperier vid fönster — närbild" },
+          ]}
         >
           <section className="mb-12 space-y-8">
             <div>

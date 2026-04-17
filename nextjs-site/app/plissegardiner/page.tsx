@@ -74,6 +74,10 @@ export default function PlissegardinerPage() {
           title="Plissegardiner i Malmö — eleganta för alla fönstertyper"
           intro="Plissegardinen passar snedfönster, takfönster och ovanliga format. Vanligt i takvåningar på Väster, nybyggen i Hyllie och fritidshus i Vellinge. Avskärma ljuset från botten, toppen eller över hela fönstret."
           faq={faq}
+          images={[
+            { src: "/images/Plissegardiner-980x551-1.webp", alt: "Plissegardin i fönster" },
+            { src: "/images/Plissegardiner-980x551-1.jpg", alt: "Plissegardin med mjukt ljusinsläpp" },
+          ]}
         >
           <section className="mb-12 space-y-8">
             <div>

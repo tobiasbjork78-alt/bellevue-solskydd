@@ -74,6 +74,10 @@ export default function ZipScreenPage() {
           title="Zip Screen i Malmö — vindtålig vertikalmarkis"
           intro="För moderna villor i nyproduktion och uteplatser i Malmö, Hyllie, Bunkeflostrand och Vellinge. Zip Screen hålls på plats av sidoskenor även i vind — ett skydd mot sol och insyn som fungerar hela säsongen."
           faq={faq}
+          images={[
+            { src: "/images/Zip-screen-img-vand.png", alt: "Zip Screen vertikalmarkis" },
+            { src: "/images/zip-screen-img.webp", alt: "Zip Screen nedrullad på uteplats" },
+          ]}
         >
           <section className="mb-12 space-y-8">
             <div>
