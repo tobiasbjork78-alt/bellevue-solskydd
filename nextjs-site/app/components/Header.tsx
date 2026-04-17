@@ -1,8 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import { Menu, X, Blinds } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 
 const navLinks = [
   { label: "Persienner", href: "/persienner" },
@@ -22,11 +23,15 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white border-b border-border">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" className="flex items-center gap-2">
-            <Blinds className="w-6 h-6 text-teal" />
-            <span className="font-[family-name:var(--font-heading)] text-sm sm:text-base font-bold tracking-[0.15em] uppercase text-charcoal">
-              Bellevue Solskydd
-            </span>
+          <Link href="/" className="flex items-center" aria-label="Bellevue Solskydd — till startsidan">
+            <Image
+              src="/images/brand/bellevue-solskydd-logo.webp"
+              alt="Bellevue Solskydd"
+              width={980}
+              height={283}
+              priority
+              className="h-9 sm:h-10 w-auto"
+            />
           </Link>
 
           {/* Desktop nav */}
