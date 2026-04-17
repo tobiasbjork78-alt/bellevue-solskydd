@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -79,7 +79,6 @@ export default function LamellgardinerPage() {
           intro="För villor och radhus med stora fönsterpartier och altandörrar. Lamellgardinen ger dig full kontroll över ljuset — vrid lamellerna för precis så mycket ljus eller insyn som du vill ha. Vanlig lösning i radhusområden kring Malmö och Staffanstorp."
           faq={faq}
           images={[
-            { src: "/images/Lamellgardiner-img.webp", alt: "Lamellgardin i stort fönsterparti" },
             { src: "/images/vertical-blinds-outside-the-window-2021-08-28-11-59-36-utc-1.jpg", alt: "Lamellgardin från utsidan" },
           ]}
         >
@@ -107,6 +106,11 @@ export default function LamellgardinerPage() {
                 att rengöra — en regelbunden avtorkning räcker.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/Lamellgardiner-img.webp"
+              alt="Lamellgardin i stort fönsterparti"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -74,9 +74,6 @@ export default function PlissegardinerPage() {
           title="Plissegardiner i Malmö — eleganta för alla fönstertyper"
           intro="Plissegardinen passar snedfönster, takfönster och ovanliga format. Vanligt i takvåningar på Väster, nybyggen i Hyllie och fritidshus i Vellinge. Avskärma ljuset från botten, toppen eller över hela fönstret."
           faq={faq}
-          images={[
-            { src: "/images/Plissegardiner-980x551-1.webp", alt: "Plissegardin i fönster" },
-          ]}
         >
           <section className="mb-12 space-y-8">
             <div>
@@ -104,6 +101,11 @@ export default function PlissegardinerPage() {
                 för sovrum.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/Plissegardiner-980x551-1.webp"
+              alt="Plissegardin med mjukt ljusinsläpp"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

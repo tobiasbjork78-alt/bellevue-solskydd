@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -75,7 +75,6 @@ export default function PanelgardinerPage() {
           intro="För stora fönsterpartier och nyproduktion i Malmö. Panelgardinen fungerar som tygdörr, rumsavdelare eller solskydd för fönster — skjut panelerna åt sidan för att kontrollera ljuset."
           faq={faq}
           images={[
-            { src: "/images/Graa-panelgardiner-1.jpg", alt: "Grå panelgardiner" },
             { src: "/images/Ljusa-panelgardiner-1.jpg", alt: "Ljusa panelgardiner i modernt rum" },
           ]}
         >
@@ -103,6 +102,11 @@ export default function PanelgardinerPage() {
                 vanliga gardiner blir otympliga.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/Graa-panelgardiner-1.jpg"
+              alt="Grå panelgardiner framför stort fönsterparti"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

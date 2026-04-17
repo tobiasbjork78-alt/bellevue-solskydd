@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -77,7 +77,6 @@ export default function ParasollerPage() {
           images={[
             { src: "/images/parasoll-1.png", alt: "Parasoll — klassisk modell" },
             { src: "/images/parasoll-2.png", alt: "Parasoll över uteplats" },
-            { src: "/images/parasoll_pool.png", alt: "Parasoll vid poolkant" },
             { src: "/images/sun-bath-with-sun-loungers-and-parasol-3d-renderi-2022-06-01-23-59-17-utc-1.webp", alt: "Parasoll med solstolar" },
           ]}
         >
@@ -106,6 +105,11 @@ export default function ParasollerPage() {
                 exteriören eller stärka varumärket.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/parasoll_pool.png"
+              alt="Parasoll vid poolkant"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

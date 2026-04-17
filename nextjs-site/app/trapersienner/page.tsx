@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -78,9 +78,6 @@ export default function TrapersiennerPage() {
           title="Träpersienner i Malmö — premium för villan"
           intro="I villorna kring Bellevue, Limhamn och Västra Hamnen har träpersiennen en självklar plats. En inredningsdetalj som ger atmosfär åt rummet och samtidigt reglerar ljuset naturligt. FSC-certifierat trä i flera träslag och färger."
           faq={faq}
-          images={[
-            { src: "/images/shutterstock_172695749-1024x576-1.jpg", alt: "Träpersienner i fönsterpartier i vardagsrum" },
-          ]}
         >
           <section className="mb-12 space-y-8">
             <div>
@@ -106,6 +103,11 @@ export default function TrapersiennerPage() {
                 generationer utan dåligt samvete.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/shutterstock_172695749-1024x576-1.jpg"
+              alt="Träpersienner i fönsterpartier i vardagsrum"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

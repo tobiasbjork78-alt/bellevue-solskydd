@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -75,7 +75,6 @@ export default function TerrassmarkiserPage() {
           intro="På södervända villaterrasser i Malmö, Limhamn och Trelleborg gör terrassmarkisen hela skillnaden. Utöka utesäsongen, sänk temperaturen med upp till 10 °C och få skugga som följer solens gång. Motordrift, fjärrstyrning och sensorer för sol och vind."
           faq={faq}
           images={[
-            { src: "/images/classic2.webp", alt: "Terrassmarkis på villa" },
             { src: "/images/exterior-shots-of-a-modern-terrace-with-dining-tab-2021-09-01-22-37-46-utc-1.jpg", alt: "Terrassmarkis över takvåningens matplats" },
           ]}
         >
@@ -103,6 +102,11 @@ export default function TerrassmarkiserPage() {
                 för södervända lägen som tar emot både sol och sjöbris.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/classic2.webp"
+              alt="Terrassmarkis på villafasad"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

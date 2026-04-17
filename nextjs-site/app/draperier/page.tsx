@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -75,7 +75,6 @@ export default function DraperierPage() {
           intro="I sekelskifteslägenheten på Möllan eller den takhöga vardagsrumsväggen i innerstans bostadsrätter gör draperier hela skillnaden. Mjuk vågeffekt, textil rumslighet — manuell, lindrag eller motorstyrd."
           faq={faq}
           images={[
-            { src: "/images/Draperier-img.webp", alt: "Draperier med vågeffekt" },
             { src: "/images/blue-silk-drapery-and-upholstery-fabric-from-the-c-2023-05-03-23-51-16-utc-1.jpg", alt: "Sidenliknande draperityg" },
             { src: "/images/curtain-draperies-at-window-close-up-2023-10-10-15-44-51-utc-1.jpg", alt: "Draperier vid fönster — närbild" },
           ]}
@@ -104,6 +103,11 @@ export default function DraperierPage() {
                 sekelskifteslägenheten.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/Draperier-img.webp"
+              alt="Draperier med mjuk vågeffekt"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

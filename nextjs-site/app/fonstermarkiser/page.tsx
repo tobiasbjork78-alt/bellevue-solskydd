@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -74,9 +74,6 @@ export default function FonstermarkiserPage() {
           title="Fönstermarkiser i Malmö — funkisvillor och äldre bestånd"
           intro="På funkisvillan på Lorensborg eller trästaden i Kirseberg stoppar fönstermarkisen upp till 80 % av solstrålarna innan de når glaset. Klassisk fallarmsmarkis som ger svalare rum utan att du behöver dra för gardinerna."
           faq={faq}
-          images={[
-            { src: "/images/fonstermarkiser-vand.webp", alt: "Fönstermarkis monterad över fönster" },
-          ]}
         >
           <section className="mb-12 space-y-8">
             <div>
@@ -102,6 +99,11 @@ export default function FonstermarkiserPage() {
                 ha skyddande kassett eller utan.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/fonstermarkiser-vand.webp"
+              alt="Fönstermarkis monterad ovanför fönster"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

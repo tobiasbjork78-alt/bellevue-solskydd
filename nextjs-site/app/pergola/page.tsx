@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -81,7 +81,6 @@ export default function PergolaPage() {
           images={[
             { src: "/images/pergola_img1.png", alt: "Pergola över uteplats" },
             { src: "/images/pergola-img-vand.png", alt: "Pergola i trädgård" },
-            { src: "/images/low-angle-shot-of-a-pergola-wooden-ceiling-in-the-2023-01-17-15-51-35-utc-1.jpeg", alt: "Tak på pergola sett underifrån" },
           ]}
         >
           <section className="mb-12 space-y-8">
@@ -109,6 +108,11 @@ export default function PergolaPage() {
                 varianten en naturlig förlängning av huset.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/low-angle-shot-of-a-pergola-wooden-ceiling-in-the-2023-01-17-15-51-35-utc-1.jpeg"
+              alt="Pergolatak sett underifrån — trädetaljer mot himmel"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

@@ -22,6 +22,22 @@ interface ProductPageLayoutProps {
   images?: ProductImage[];
 }
 
+export function InlineProductImage({ src, alt }: { src: string; alt: string }) {
+  return (
+    <div className="my-10 sm:my-14">
+      <div className="relative aspect-[16/9] w-full overflow-hidden rounded-lg bg-light-bg border border-border">
+        <Image
+          src={src}
+          alt={alt}
+          fill
+          sizes="(max-width: 1024px) 100vw, 56rem"
+          className="object-cover"
+        />
+      </div>
+    </div>
+  );
+}
+
 export default function ProductPageLayout({
   title,
   intro,

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -77,7 +77,6 @@ export default function MarkiserPage() {
           images={[
             { src: "/images/markiser_img1.png", alt: "Markis över uteplats" },
             { src: "/images/Markis-fran-Bellevue-Solskydd-1.png", alt: "Markis monterad på fasad" },
-            { src: "/images/exterior-shots-of-a-modern-terrace-with-dining-tab-2021-09-01-22-37-46-utc-1.jpg", alt: "Markis på modern terrass" },
           ]}
         >
           <section className="mb-12 space-y-8">
@@ -118,6 +117,11 @@ export default function MarkiserPage() {
                 att du behöver stänga ute ljuset helt.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/exterior-shots-of-a-modern-terrace-with-dining-tab-2021-09-01-22-37-46-utc-1.jpg"
+              alt="Markis över takvåningens matplats"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">

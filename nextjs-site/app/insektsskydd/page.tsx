@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import ProductPageLayout from "../components/ProductPageLayout";
+import ProductPageLayout, { InlineProductImage } from "../components/ProductPageLayout";
 import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
@@ -75,8 +75,7 @@ export default function InsektsskyddPage() {
           intro="I villan med trädgård, nära Pildammsparken eller vid skogskanten i Staffanstorp, är insektsskyddet det som gör att du kan ha fönstret öppet hela sommaren. Måttanpassat i transparent glasfiberväv med sidoskenor som håller."
           faq={faq}
           images={[
-            { src: "/images/open-door-leading-to-the-courtyard-of-the-house-2021-12-09-14-13-34-utc-1.png", alt: "Öppen dörr mot trädgård" },
-            { src: "/images/back-yard-in-a-cozy-house-2022-03-02-19-15-34-utc-1.png", alt: "Bakgård vid villa med trädgård" },
+            { src: "/images/back-yard-in-a-cozy-house-2022-03-02-19-15-34-utc-1.png", alt: "Villa med trädgård — där insektsskydd gör skillnad" },
           ]}
         >
           <section className="mb-12 space-y-8">
@@ -103,6 +102,11 @@ export default function InsektsskyddPage() {
                 estetiskt tilltalande.
               </p>
             </div>
+
+            <InlineProductImage
+              src="/images/open-door-leading-to-the-courtyard-of-the-house-2021-12-09-14-13-34-utc-1.png"
+              alt="Öppna dörrar mot trädgård — där insektsskyddet kommer till sin rätt"
+            />
 
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
