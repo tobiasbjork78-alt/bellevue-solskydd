@@ -1,12 +1,11 @@
-import { Clock, Award, ShieldCheck, Home, Fingerprint, Factory } from "lucide-react";
+import { Clock, Award, Home, Ruler, Hammer } from "lucide-react";
 
 const items = [
   { icon: Clock, text: "Sedan 1982" },
   { icon: Award, text: "Bäst i Test – Testfakta 4.6/5" },
-  { icon: ShieldCheck, text: "3 års garanti" },
   { icon: Home, text: "Kostnadsfritt hembesök" },
-  { icon: Fingerprint, text: "Patent & mönsterskydd" },
-  { icon: Factory, text: "500 000+ persienner" },
+  { icon: Ruler, text: "Måttanpassat" },
+  { icon: Hammer, text: "Egen montering" },
 ];
 
 export default function TrustBar() {

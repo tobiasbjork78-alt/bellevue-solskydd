@@ -17,10 +17,10 @@ export default function Hero() {
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 sm:py-32 lg:py-40 text-center w-full">
         <h1 className="font-[family-name:var(--font-heading)] text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-tight mb-6">
-          Solskydd i Malmö &amp; södra Skåne
+          Solskydd i Malmö och södra Skåne
         </h1>
         <p className="text-lg sm:text-xl text-white/70 leading-relaxed mb-10 max-w-2xl mx-auto">
-          Måttanpassade markiser, persienner och gardiner — med montering, 3 års garanti och kostnadsfritt hembesök.
+          Måttanpassade markiser, persienner och gardiner — med montering och kostnadsfritt hembesök.
         </p>
         <a
           href="/kontakt"

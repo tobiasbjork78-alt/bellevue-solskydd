@@ -9,7 +9,8 @@ export default function Hembesok() {
             Kostnadsfritt hembesök — utan köptvång
           </h2>
           <p className="text-lg text-white/85 leading-relaxed mb-10">
-            Vi kommer hem till dig i Malmö, Lund, Helsingborg och hela södra Skåne.
+            Vi kommer hem till dig i Malmö, Burlöv, Lomma, Staffanstorp,
+            Vellinge, Svedala, Lund, Kävlinge, Trelleborg, Skurup och Eslöv.
             Mäter, rådger och presenterar rätt alternativ för just ditt hem.
             Du bestämmer om du vill gå vidare.
           </p>

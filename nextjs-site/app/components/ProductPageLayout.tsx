@@ -78,7 +78,8 @@ export default function ProductPageLayout({
             Kostnadsfritt hembesök — utan köptvång
           </h2>
           <p className="text-white/80 mb-8 max-w-xl mx-auto">
-            Vi kommer hem till dig i Malmö, Lund, Helsingborg och hela södra Skåne.
+            Vi kommer hem till dig i Malmö, Burlöv, Lomma, Staffanstorp,
+            Vellinge, Svedala, Lund, Kävlinge, Trelleborg, Skurup och Eslöv.
             Mäter, rådger och presenterar rätt alternativ.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

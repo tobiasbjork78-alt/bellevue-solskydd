@@ -16,9 +16,9 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Bellevue Solskydd — Måttanpassade solskydd i Malmö & södra Skåne",
+  title: "Bellevue Solskydd — Måttanpassade solskydd i Malmö och södra Skåne",
   description:
-    "Måttanpassade markiser, persienner och gardiner med montering, 3 års garanti och kostnadsfritt hembesök. Kvalitet sedan 1982.",
+    "Måttanpassade markiser, persienner och gardiner med montering och kostnadsfritt hembesök. Bäst i Test av Testfakta. Kvalitet sedan 1982.",
 };
 
 export default function RootLayout({
