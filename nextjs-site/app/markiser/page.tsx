@@ -114,7 +114,7 @@ export default function MarkiserPage() {
               <p className="text-mid-gray leading-relaxed">
                 Fönstermarkisen monteras utanpå fönstret och stoppar upp till
                 80 % av solstrålarna innan de når glaset. Det minskar
-                temperaturen inomhus markant och ger en behagligare miljö utan
+                temperaturen invändigt markant och ger en behagligare miljö utan
                 att du behöver stänga ute ljuset helt.
               </p>
             </div>

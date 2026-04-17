@@ -238,9 +238,9 @@ export default function Products() {
         {/* Indoor */}
         <div className="mb-20">
           <div className="text-center mb-10">
-            <p className="text-sm font-semibold text-teal uppercase tracking-wider mb-2">Inomhus</p>
+            <p className="text-sm font-semibold text-teal uppercase tracking-wider mb-2">Invändigt</p>
             <h2 className="font-[family-name:var(--font-heading)] text-3xl sm:text-4xl font-bold text-charcoal">
-              Solskydd för inomhusmiljö
+              Invändigt solskydd
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
@@ -253,9 +253,9 @@ export default function Products() {
         {/* Outdoor */}
         <div>
           <div className="text-center mb-10">
-            <p className="text-sm font-semibold text-teal uppercase tracking-wider mb-2">Utomhus</p>
+            <p className="text-sm font-semibold text-teal uppercase tracking-wider mb-2">Utvändigt</p>
             <h2 className="font-[family-name:var(--font-heading)] text-3xl sm:text-4xl font-bold text-charcoal">
-              Solskydd för utomhusmiljö
+              Utvändigt solskydd
             </h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">

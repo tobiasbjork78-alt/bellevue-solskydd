@@ -112,7 +112,7 @@ export default function DraperierPage() {
               <p className="text-mid-gray leading-relaxed">
                 Wavegardinen är inte bara en estetisk höjdpunkt, utan också en
                 funktionell lösning. Den erbjuder balans mellan ljus och
-                privatliv, vilket gör den idealisk för de flesta inomhusmiljöer —
+                privatliv, vilket gör den idealisk för de flesta invändiga miljöer —
                 från hem till kontor. Med olika tyger och färger kan gardinen
                 fungera som ljusfilter eller rumsavdelare.
               </p>

@@ -90,9 +90,9 @@ export default function PergolaPage() {
                 Pergolan är uterummet med möjligheter
               </h2>
               <p className="text-mid-gray leading-relaxed">
-                En pergola är en utomhusstruktur som lyxar till uteplatsen och
-                skapar ett extra rum i trädgården. Den ger skugga och luft till
-                dig som vistas ute — och med rätt utförande förlänger du
+                En pergola är en utvändig konstruktion som lyxar till uteplatsen
+                och skapar ett extra rum i trädgården. Den ger skugga och luft
+                till dig som vistas ute — och med rätt utförande förlänger du
                 utesäsongen till långt in på hösten.
               </p>
             </div>

@@ -86,7 +86,7 @@ export default function ZipScreenPage() {
               </h2>
               <p className="text-mid-gray leading-relaxed">
                 Zip Screen är en vertikalmarkis som stoppar solstrålningen innan
-                den når fönsterrutan — ger svalare inomhusmiljö och tillvaratar
+                den når fönsterrutan — ger svalare invändig miljö och tillvaratar
                 insynsskyddet. Särskilt effektiv på stora glaspartier i modern
                 nyproduktion.
               </p>
@@ -133,7 +133,7 @@ export default function ZipScreenPage() {
               <p className="text-mid-gray leading-relaxed">
                 Zip Screen ger dig tre skydd i ett: solskydd, insektsskydd och
                 insynsskydd. Ett bra val för uteplatser, altaner och balkonger
-                där du vill kunna njuta av utomhuslivet utan störande insekter.
+                där du vill kunna njuta av livet ute utan störande insekter.
               </p>
             </div>
           </section>

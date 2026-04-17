@@ -88,7 +88,7 @@ export default function FonstermarkiserPage() {
                 Våra måttillverkade fönstermarkiser är fallarmsmarkiser. De
                 stoppar upp till 80 % av solstrålarna redan innan de når
                 fönsterrutan — därför passar fönstermarkisen dig som vill ha en
-                behaglig inomhusmiljö även den soligaste dag.
+                behaglig invändig miljö även den soligaste dag.
               </p>
             </div>
 
