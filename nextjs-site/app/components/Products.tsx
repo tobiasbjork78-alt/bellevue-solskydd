@@ -47,7 +47,7 @@ const indoorProducts: Product[] = [
       "Elegant solskydd för alla fönstertyper — även takfönster och snedtak. Montering mot vägg, fönsterram eller tak. Kraftig draglina med låsmekanism.",
     href: "/plissegardiner",
     image: "/images/Plissegardiner-980x551-1.jpg",
-    imageAlt: "Plissegardiner",
+    imageAlt: "Plissegardin med mjukt ljusinsläpp",
   },
   {
     icon: ArrowDownFromLine,
@@ -65,7 +65,7 @@ const indoorProducts: Product[] = [
       "Klassiskt och funktionellt för större glaspartier. Enkel styrning av ljus och insyn. Passar kontor och hem.",
     href: "/lamellgardiner",
     image: "/images/Lamellgardiner-img.webp",
-    imageAlt: "Lamellgardiner",
+    imageAlt: "Lamellgardiner vid stort fönsterparti",
   },
   {
     icon: PanelLeft,
@@ -83,7 +83,7 @@ const indoorProducts: Product[] = [
       "Wavegardiner med mjuk vågeffekt. Passar sekelskifteslägenheter och höga tak. Manuell, lindrag eller motor.",
     href: "/draperier",
     image: "/images/Draperier-img.webp",
-    imageAlt: "Draperier",
+    imageAlt: "Draperi med mjuk vågeffekt",
   },
   {
     icon: TreePine,
@@ -92,7 +92,7 @@ const indoorProducts: Product[] = [
       "FSC-certifierat trä i flera träslag och färger. Stilren inredningsdetalj som reglerar ljuset naturligt.",
     href: "/trapersienner",
     image: "/images/shutterstock_172695749-1024x576-1.jpg",
-    imageAlt: "Träpersienner",
+    imageAlt: "Träpersienner i vardagsrum",
   },
   {
     icon: Bug,
@@ -101,7 +101,7 @@ const indoorProducts: Product[] = [
       "Transparent glasfiberväv med sidoskenor som håller. Släpp in ljuset och luften — stäng ute insekterna.",
     href: "/insektsskydd",
     image: "/images/shutterstock_455819377-1024x576-1.jpg",
-    imageAlt: "Insektsskydd",
+    imageAlt: "Insektsskydd vid villafönster",
   },
 ];
 
@@ -113,7 +113,7 @@ const outdoorProducts: Product[] = [
       "Utöka din uteplats med upp till 10°C. Motordrift med sol- och vindsensorer. Anpassas för hem och företag.",
     href: "/terrassmarkiser",
     image: "/images/classic2.webp",
-    imageAlt: "Terrassmarkis",
+    imageAlt: "Terrassmarkis över uteplats",
   },
   {
     icon: SolarPanel,
@@ -122,7 +122,7 @@ const outdoorProducts: Product[] = [
       "Fallarmsmarkis som stoppar upp till 80 % av solstrålarna innan de når glaset. Klassiker för funkisvillor och äldre bestånd.",
     href: "/fonstermarkiser",
     image: "/images/fonstermarkiser-vand.webp",
-    imageAlt: "Fönstermarkis",
+    imageAlt: "Fönstermarkis ovanför villafönster",
   },
   {
     icon: Store,
@@ -131,7 +131,7 @@ const outdoorProducts: Product[] = [
       "Klassisk markis med tidlös design. Passar fasader i alla stilar.",
     href: "/korgmarkiser",
     image: "/images/shutterstock_73378162-1024x576-1.jpg",
-    imageAlt: "Korgmarkis",
+    imageAlt: "Klassisk korgmarkis på fasad",
   },
   {
     icon: MonitorSmartphone,
@@ -140,7 +140,7 @@ const outdoorProducts: Product[] = [
       "Maximalt skydd mot sol, insekter och insyn. Hålls på plats av sidoskenor även i vind.",
     href: "/zip-screen",
     image: "/images/zip-screen-img.webp",
-    imageAlt: "Zip Screen",
+    imageAlt: "Zip Screen över uteplats",
   },
   {
     icon: Fence,
@@ -149,7 +149,7 @@ const outdoorProducts: Product[] = [
       "Tak till din terrass — regnskydd och solskydd i ett. Fristående eller väggmonterad.",
     href: "/pergola",
     image: "/images/Pergola-artikel-1.jpg",
-    imageAlt: "Pergola",
+    imageAlt: "Pergola i villaträdgård",
   },
   {
     icon: Wind,
@@ -158,7 +158,7 @@ const outdoorProducts: Product[] = [
       "Glas och textilpaneler som förlänger utelivssäsongen.",
     href: "/vindskydd",
     image: "/images/shutterstock_456666382-1024x576-1.jpg",
-    imageAlt: "Vindskydd",
+    imageAlt: "Vindskydd för balkong och uteplats",
   },
   {
     icon: Umbrella,
@@ -167,7 +167,7 @@ const outdoorProducts: Product[] = [
       "Från klassiska runda till vindstarka premiummodeller upp till 12×12 m. Uteserveringar, terrasser och trädgårdar.",
     href: "/parasoller",
     image: "/images/Parasoll_header_img.png",
-    imageAlt: "Parasoll",
+    imageAlt: "Parasoll över uteplats",
   },
 ];
 

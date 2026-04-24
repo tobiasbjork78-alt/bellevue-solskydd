@@ -12,6 +12,7 @@ import ScrollAnimator from "./components/ScrollAnimator";
 export const metadata: Metadata = {
   description:
     "Bellevue Solskydd i Malmö. Persienner, markiser, plissé och mer. Kostnadsfritt hembesök, upp till 10 års garanti. Sedan 1982.",
+  alternates: { canonical: "https://bellevuesolskydd.se" },
 };
 
 const jsonLd = {
