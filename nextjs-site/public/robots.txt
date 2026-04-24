@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bellevuesolskydd.se/sitemap.xml
+
+Disallow: /_next/
+Disallow: /api/
