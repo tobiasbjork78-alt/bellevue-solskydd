@@ -2,6 +2,7 @@ import { Phone, ChevronRight } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 import type { ReactNode } from "react";
+import TrustBar from "./TrustBar";
 
 interface FAQItem {
   q: string;
@@ -21,6 +22,7 @@ interface ProductPageLayoutProps {
   faq?: FAQItem[];
   images?: ProductImage[];
   category?: "invandigt" | "utvandigt";
+  guaranteeYears?: 10 | 3;
 }
 
 export function InlineProductImage({ src, alt }: { src: string; alt: string }) {
@@ -46,6 +48,7 @@ export default function ProductPageLayout({
   faq,
   images,
   category,
+  guaranteeYears = 3,
 }: ProductPageLayoutProps) {
   const shortTitle = title.split("—")[0].trim();
   const categoryLabel = category === "invandigt" ? "Invändigt solskydd" : category === "utvandigt" ? "Utvändigt solskydd" : undefined;
@@ -147,6 +150,8 @@ export default function ProductPageLayout({
           </div>
         </div>
       )}
+
+      <TrustBar variant="product" guaranteeYears={guaranteeYears} />
 
       {/* CTA */}
       <div className="bg-teal text-white">
