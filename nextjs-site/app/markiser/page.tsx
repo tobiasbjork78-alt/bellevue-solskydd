@@ -157,6 +157,35 @@ export default function MarkiserPage() {
                 förstärker stilen på huset.
               </p>
             </div>
+
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Pergolamarkis
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                En pergolamarkis i Malmö ger skugga och regnskydd under en
+                befintlig pergolakonstruktion. Duken löper i skenor och kan
+                dras ut eller in efter behov — du bestämmer hur mycket sol
+                du vill släppa igenom. Pergolamarkisen passar både fristående
+                pergolor och de som är monterade mot fasaden. Vi anpassar
+                bredden och djupet efter din pergola och monterar på plats.
+              </p>
+            </div>
+
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Motoriserade markiser
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                En motordriven markis gör det enkelt att fälla ut och in
+                markisduken med en knapptryckning. Motordriften kan kombineras
+                med sol- och vindsensorer som automatiskt fäller in markisen
+                vid hård vind och fäller ut den i solsken. Elstyrd markis
+                är standard på våra terrassmarkiser och finns som tillval
+                på fönstermarkiser och korgmarkiser. Vi installerar och
+                konfigurerar hela systemet vid montering.
+              </p>
+            </div>
           </section>
         </ProductPageLayout>
       </main>

@@ -142,6 +142,32 @@ export default function PlissegardinerPage() {
                 transparent ljusfilter till fullständig mörkläggning.
               </p>
             </div>
+
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Mörkläggningsgardiner — total ljusstopp
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                Söker du en mörkläggningsgardin i Malmö som verkligen stänger ute
+                allt ljus? Våra plissegardiner med aluminiumkärna och isolerande
+                väv ger fullständig mörkläggning — perfekt för sovrummet,
+                barnrummet eller hemmakontoret där du behöver total kontroll över
+                ljuset.
+              </p>
+              <p className="text-mid-gray leading-relaxed mt-3">
+                Plissé med mörkläggningsväv fungerar genom att det reflekterande
+                aluminiumskiktet blockerar solstrålarna helt. Det ger inte bara
+                mörkläggning utan också en isolerande effekt som håller värmen ute
+                på sommaren och inne på vintern. I barnrummet säkerställer den att
+                de små kan sova ostört även under ljusa sommarkvällar.
+              </p>
+              <p className="text-mid-gray leading-relaxed mt-3">
+                Vi erbjuder mörkläggning för barnrum i flera färger och material.
+                Samtliga vävar är barnsäkra och fria från skadliga ämnen. Vävarna
+                rengörs enkelt med en fuktig trasa eller dammsugare med mjukt
+                munstycke — gardinen behöver inte tas ner.
+              </p>
+            </div>
           </section>
         </ProductPageLayout>
       </main>

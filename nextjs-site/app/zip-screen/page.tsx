@@ -141,6 +141,34 @@ export default function ZipScreenPage() {
                 där du vill kunna njuta av livet ute utan störande insekter.
               </p>
             </div>
+
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Balkongskydd och insynsskydd
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                Letar du efter balkongskydd i Malmö som skyddar mot både insyn
+                och sol? Zip Screen fungerar som ett effektivt insynsskydd för
+                balkong — du ser ut, men grannar och förbipasserande ser inte in.
+                Väven finns i olika täthetsgrader så att du kan välja hur mycket
+                sikt du vill behålla. Särskilt populärt i flerbostadshus i
+                Limhamn, Hyllie och centrala Malmö där balkongerna ligger nära
+                varandra.
+              </p>
+            </div>
+
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Vindskydd för balkong
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                Sidoskenorna gör Zip Screen till ett vindskydd för uteplats som
+                håller även i byig vind från Öresund. Till skillnad från fristående
+                vindskydd sitter Zip Screen fast i fasaden och kan rullas upp när
+                den inte behövs. Det gör den till ett praktiskt vindskydd för
+                balkonger och altaner i havsnära lägen som Höllviken och Falsterbo.
+              </p>
+            </div>
           </section>
         </ProductPageLayout>
       </main>

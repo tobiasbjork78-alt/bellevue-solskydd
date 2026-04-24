@@ -151,6 +151,26 @@ export default function RullgardinerPage() {
                 från transparent ljusfilter till fullständig mörkläggning.
               </p>
             </div>
+
+            <div>
+              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+                Mörkläggande rullgardin
+              </h2>
+              <p className="text-mid-gray leading-relaxed">
+                Behöver du en mörkläggande rullgardin för sovrummet eller
+                barnrummet? Våra mörkläggande rullgardiner stänger ute ljuset
+                helt — även under de ljusaste sommarnätterna. Väven har en
+                ljusblockerande beläggning som ger total mörkläggning utan att
+                kompromissa med designen.
+              </p>
+              <p className="text-mid-gray leading-relaxed mt-3">
+                I barnrummet ger den mörkläggande rullgardinen bättre sömn
+                för de små. Välj bland barnsäkra manöveralternativ utan
+                lösa snören. Alla vävar är fria från skadliga ämnen och
+                enkla att rengöra. Finns i en mängd färger som matchar
+                barnrummets inredning.
+              </p>
+            </div>
           </section>
         </ProductPageLayout>
       </main>
