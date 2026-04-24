@@ -125,7 +125,7 @@ export default function PersiennerPage() {
           <GuaranteeBlock years={10} condition="Vid montering av våra montörer" />
 
           <section className="mb-12">
-            <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+            <h2 className="text-2xl text-black mb-3">
               Måttbeställda persienner med montering
             </h2>
             <p className="text-mid-gray leading-relaxed">
@@ -138,7 +138,7 @@ export default function PersiennerPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+            <h2 className="text-2xl text-black mb-3">
               Den patenterade Bäst i Test-persiennen
             </h2>
             <p className="text-mid-gray leading-relaxed">
@@ -156,13 +156,13 @@ export default function PersiennerPage() {
           />
 
           <section className="mb-12">
-            <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-6">
+            <h2 className="text-2xl text-black mb-6">
               7 modeller för alla behov
             </h2>
             <div className="grid gap-4">
               {models.map((m) => (
                 <div key={m.name} className="bg-light-bg border border-border rounded-lg p-5">
-                  <h3 className="font-[family-name:var(--font-heading)] font-bold text-charcoal mb-1">
+                  <h3 className="text-black mb-1">
                     {m.name}
                   </h3>
                   <p className="text-mid-gray text-sm leading-relaxed">{m.desc}</p>
@@ -172,7 +172,7 @@ export default function PersiennerPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+            <h2 className="text-2xl text-black mb-3">
               Checklista för att välja rätt persienner
             </h2>
             <ul className="text-mid-gray leading-relaxed list-disc pl-5 space-y-2">
@@ -184,7 +184,7 @@ export default function PersiennerPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-4">
+            <h2 className="text-2xl text-black mb-4">
               Mått
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">

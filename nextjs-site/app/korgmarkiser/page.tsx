@@ -81,7 +81,7 @@ export default function KorgmarkiserPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Korgmarkiser ger effektivt sol- och värmeskydd
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -95,7 +95,7 @@ export default function KorgmarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 För butiker, restauranger och villor
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -113,7 +113,7 @@ export default function KorgmarkiserPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Sekelskiftesfasader i Malmö
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -126,7 +126,7 @@ export default function KorgmarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Skräddarsydda och säkert monterade
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -139,7 +139,7 @@ export default function KorgmarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Fast eller fällbar korg
               </h2>
               <p className="text-mid-gray leading-relaxed">

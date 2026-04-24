@@ -82,7 +82,7 @@ export default function PlissegardinerPage() {
 
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Plisségardinen är ett elegant solskydd
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -95,7 +95,7 @@ export default function PlissegardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Skydd mot ljus och insyn
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -113,7 +113,7 @@ export default function PlissegardinerPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Hållbar och smart funktion
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -124,7 +124,7 @@ export default function PlissegardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 För takvåningar och snedfönster
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -136,7 +136,7 @@ export default function PlissegardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Välj färg och material
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -147,7 +147,7 @@ export default function PlissegardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Mörkläggningsgardiner — total ljusstopp
               </h2>
               <p className="text-mid-gray leading-relaxed">

@@ -27,8 +27,8 @@ interface ProductPageLayoutProps {
 
 export function InlineProductImage({ src, alt }: { src: string; alt: string }) {
   return (
-    <div className="my-10 sm:my-14">
-      <div className="relative aspect-[16/9] w-full overflow-hidden rounded-lg bg-light-bg border border-border">
+    <div className="my-12 sm:my-16">
+      <div className="relative aspect-[16/9] w-full overflow-hidden bg-light-gray" style={{ borderRadius: "20px" }}>
         <Image
           src={src}
           alt={alt}
@@ -72,45 +72,42 @@ export default function ProductPageLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
         />
       )}
-      {/* Header with breadcrumb */}
-      <div className="bg-light-bg border-b border-border">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
-          <nav className="flex items-center gap-1 text-sm text-mid-gray mb-4">
-            <Link href="/" className="hover:text-teal transition-colors">Hem</Link>
-            <ChevronRight className="w-3.5 h-3.5" />
+
+      <div className="bg-white" style={{ borderBottom: "1px solid rgba(0,0,0,0.05)" }}>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-14">
+          <nav className="flex items-center gap-1 text-warm-gray mb-5" style={{ fontSize: "13px", fontWeight: 500, letterSpacing: "0.13px" }}>
+            <Link href="/" className="hover:text-black transition-colors">Hem</Link>
+            <ChevronRight className="w-3.5 h-3.5" strokeWidth={1.5} />
             {categoryLabel && categoryAnchor && (
               <>
-                <Link href={categoryAnchor} className="hover:text-teal transition-colors">{categoryLabel}</Link>
-                <ChevronRight className="w-3.5 h-3.5" />
+                <Link href={categoryAnchor} className="hover:text-black transition-colors">{categoryLabel}</Link>
+                <ChevronRight className="w-3.5 h-3.5" strokeWidth={1.5} />
               </>
             )}
-            <span className="text-charcoal font-medium">{shortTitle}</span>
+            <span className="text-black">{shortTitle}</span>
           </nav>
-          <h1 className="font-[family-name:var(--font-heading)] text-3xl sm:text-4xl font-bold text-charcoal">
+          <h1 className="text-black text-4xl sm:text-5xl" style={{ fontWeight: 300, letterSpacing: "-0.02em", lineHeight: 1.08 }}>
             {title}
           </h1>
         </div>
       </div>
 
-      {/* Intro */}
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 pb-8">
-        <p className="text-lg text-mid-gray leading-relaxed max-w-3xl">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-10">
+        <p className="text-dark-gray max-w-3xl" style={{ fontSize: "20px", fontWeight: 400, letterSpacing: "0.18px", lineHeight: 1.5 }}>
           {intro}
         </p>
       </div>
 
-      {/* Content */}
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
         {children}
       </div>
 
-      {/* Gallery — stackad enkel-kolumn, samma bredd och aspect som inline-bilden */}
       {images && images.length > 0 && (
-        <div className="bg-light-bg border-t border-border">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-10 sm:space-y-14">
+        <div className="bg-light-gray" style={{ borderTop: "1px solid rgba(0,0,0,0.05)" }}>
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16 space-y-12 sm:space-y-16">
             {images.map((img) => (
               <figure key={img.src} className="flex flex-col">
-                <div className="relative aspect-[16/9] w-full overflow-hidden rounded-lg bg-light-bg border border-border">
+                <div className="relative aspect-[16/9] w-full overflow-hidden bg-light-gray" style={{ borderRadius: "20px" }}>
                   <Image
                     src={img.src}
                     alt={img.alt}
@@ -120,7 +117,7 @@ export default function ProductPageLayout({
                   />
                 </div>
                 {img.caption && (
-                  <figcaption className="mt-2 text-sm text-mid-gray">
+                  <figcaption className="mt-3 text-warm-gray" style={{ fontSize: "13px", letterSpacing: "0.13px" }}>
                     {img.caption}
                   </figcaption>
                 )}
@@ -130,20 +127,21 @@ export default function ProductPageLayout({
         </div>
       )}
 
-      {/* FAQ */}
       {faq && faq.length > 0 && (
-        <div className="bg-light-bg border-y border-border">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-            <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-8">
+        <div className="bg-white" style={{ borderTop: "1px solid rgba(0,0,0,0.05)", borderBottom: "1px solid rgba(0,0,0,0.05)" }}>
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20">
+            <h2 className="text-black mb-10" style={{ fontSize: "32px", fontWeight: 300, letterSpacing: "-0.01em", lineHeight: 1.13 }}>
               Vanliga frågor
             </h2>
-            <div className="space-y-6">
+            <div className="space-y-8">
               {faq.map((item) => (
                 <div key={item.q}>
-                  <h3 className="font-[family-name:var(--font-heading)] text-base font-bold text-charcoal mb-1.5">
+                  <h3 className="text-black mb-2" style={{ fontSize: "18px", fontWeight: 500, letterSpacing: "0.16px" }}>
                     {item.q}
                   </h3>
-                  <p className="text-mid-gray leading-relaxed">{item.a}</p>
+                  <p className="text-dark-gray" style={{ fontSize: "16px", fontWeight: 400, letterSpacing: "0.16px", lineHeight: 1.6 }}>
+                    {item.a}
+                  </p>
                 </div>
               ))}
             </div>
@@ -153,30 +151,26 @@ export default function ProductPageLayout({
 
       <TrustBar variant="product" guaranteeYears={guaranteeYears} />
 
-      {/* CTA */}
-      <div className="bg-teal text-white">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 text-center">
-          <h2 className="font-[family-name:var(--font-heading)] text-2xl sm:text-3xl font-bold mb-4">
+      <div className="bg-warm-stone">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
+          <h2 className="text-black mb-6" style={{ fontSize: "36px", fontWeight: 300, letterSpacing: "-0.01em", lineHeight: 1.17 }}>
             Kostnadsfritt hembesök — utan köptvång
           </h2>
-          <p className="text-white/80 mb-8 max-w-xl mx-auto">
+          <p
+            className="text-dark-gray mb-10 max-w-2xl mx-auto"
+            style={{ fontSize: "18px", fontWeight: 400, letterSpacing: "0.18px", lineHeight: 1.6 }}
+          >
             Vi kommer hem till dig i Malmö, Limhamn, Staffanstorp, Lund,
             Lomma, Löddeköpinge, Vellinge, Höllviken, Ljunghusen,
             Falsterbo, Skanör och Trelleborg.
             Mäter, rådger och presenterar rätt alternativ.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="tel:040181100"
-              className="inline-flex items-center justify-center gap-2 bg-white text-teal-dark hover:bg-light-bg px-8 py-3.5 rounded-md font-bold transition-colors"
-            >
-              <Phone className="w-5 h-5" />
+            <a href="tel:040181100" className="btn-black-pill" style={{ padding: "12px 22px", fontSize: "16px" }}>
+              <Phone className="w-4 h-4" />
               Ring 040-18 11 00
             </a>
-            <Link
-              href="/kontakt"
-              className="inline-flex items-center justify-center border-2 border-white/40 hover:bg-white/10 text-white px-8 py-3.5 rounded-md font-semibold transition-colors"
-            >
+            <Link href="/kontakt" className="btn-white-pill" style={{ padding: "12px 22px", fontSize: "16px" }}>
               Skicka förfrågan
             </Link>
           </div>

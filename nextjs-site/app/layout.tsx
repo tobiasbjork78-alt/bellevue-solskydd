@@ -1,18 +1,15 @@
 import type { Metadata } from "next";
-import { Raleway, Open_Sans } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 
-const raleway = Raleway({
-  variable: "--font-raleway",
+// Inter som singleton — används för både display (weight 200-300) och body
+// (weight 400-500). Waldenburg är proprietär och kan inte laddas via
+// next/font/google; Inter vid låg vikt är närmsta Google-font-approximation.
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
   display: "swap",
-  weight: ["400", "600", "700", "800"],
-});
-
-const openSans = Open_Sans({
-  variable: "--font-open-sans",
-  subsets: ["latin"],
-  display: "swap",
+  weight: ["200", "300", "400", "500", "700"],
 });
 
 export const metadata: Metadata = {
@@ -28,8 +25,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="sv" className={`${raleway.variable} ${openSans.variable}`}>
-      <body className="min-h-screen flex flex-col antialiased">{children}</body>
+    <html lang="sv" className={inter.variable}>
+      <body className="min-h-screen flex flex-col">{children}</body>
     </html>
   );
 }

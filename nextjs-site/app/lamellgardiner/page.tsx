@@ -85,7 +85,7 @@ export default function LamellgardinerPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Enkel styrning av ljus och insyn
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -97,7 +97,7 @@ export default function LamellgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Skräddarsydda lösningar för dina behov
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -114,7 +114,7 @@ export default function LamellgardinerPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Designa din atmosfär med färg och struktur
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -126,7 +126,7 @@ export default function LamellgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 För villor och kontor
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -138,7 +138,7 @@ export default function LamellgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Monteras med precision
               </h2>
               <p className="text-mid-gray leading-relaxed">

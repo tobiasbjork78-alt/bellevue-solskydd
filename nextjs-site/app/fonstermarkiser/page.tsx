@@ -78,7 +78,7 @@ export default function FonstermarkiserPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Stoppar solstrålningen
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -90,7 +90,7 @@ export default function FonstermarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Fönstermarkiser för alla
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -107,7 +107,7 @@ export default function FonstermarkiserPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Motordriven eller bandreglage
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -118,7 +118,7 @@ export default function FonstermarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Designa din markis själv
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -130,7 +130,7 @@ export default function FonstermarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Enkel installation
               </h2>
               <p className="text-mid-gray leading-relaxed">

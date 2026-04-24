@@ -82,7 +82,7 @@ export default function DraperierPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Exklusiva gardiner för ditt hem
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -93,7 +93,7 @@ export default function DraperierPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Wave-tekniken
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -111,7 +111,7 @@ export default function DraperierPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Funktionalitet och anpassningsbarhet
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -124,7 +124,7 @@ export default function DraperierPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Modern styrning
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -135,7 +135,7 @@ export default function DraperierPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Passform för innerstadens hem
               </h2>
               <p className="text-mid-gray leading-relaxed">

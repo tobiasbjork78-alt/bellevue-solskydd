@@ -81,7 +81,7 @@ export default function PanelgardinerPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Ett mångsidigt solskydd
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -93,7 +93,7 @@ export default function PanelgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Modernt och flexibelt val
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -110,7 +110,7 @@ export default function PanelgardinerPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Styrning och material
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -122,7 +122,7 @@ export default function PanelgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Kombinera mångsidighet och stil
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -134,7 +134,7 @@ export default function PanelgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Skräddarsydd för ditt hem
               </h2>
               <p className="text-mid-gray leading-relaxed">

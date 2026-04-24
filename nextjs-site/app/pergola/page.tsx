@@ -86,7 +86,7 @@ export default function PergolaPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Pergolan är uterummet med möjligheter
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -98,7 +98,7 @@ export default function PergolaPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Välj mellan tak, väggar eller fristående
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -116,7 +116,7 @@ export default function PergolaPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Pergola med tak och väggar
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -129,7 +129,7 @@ export default function PergolaPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Vädersäker och vacker
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -140,7 +140,7 @@ export default function PergolaPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Extrautrustning för utelivet
               </h2>
               <p className="text-mid-gray leading-relaxed">

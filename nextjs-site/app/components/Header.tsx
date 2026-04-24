@@ -29,6 +29,17 @@ const utvandigtItems: NavItem[] = [
   { label: "Vindskydd", href: "/vindskydd" },
 ];
 
+const navLinkClass =
+  "flex items-center gap-1 text-dark-gray hover:text-black transition-colors py-2";
+const navLinkStyle = { fontSize: "15px", fontWeight: 500, letterSpacing: "0.15px" };
+
+const dropdownCardClass = "absolute left-0 top-full w-60 bg-white py-2 mt-1";
+const dropdownCardStyle = {
+  borderRadius: "16px",
+  boxShadow:
+    "rgba(0,0,0,0.06) 0px 0px 0px 1px, rgba(0,0,0,0.04) 0px 1px 2px, rgba(0,0,0,0.04) 0px 2px 4px",
+};
+
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState<"inv" | "utv" | null>(null);
@@ -43,7 +54,10 @@ export default function Header() {
   }
 
   return (
-    <header className="sticky top-0 z-50 bg-white border-b border-border">
+    <header
+      className="sticky top-0 z-50 bg-white"
+      style={{ borderBottom: "1px solid rgba(0,0,0,0.05)" }}
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link
@@ -63,8 +77,7 @@ export default function Header() {
           </Link>
 
           {/* Desktop nav */}
-          <nav className="hidden lg:flex items-center gap-5">
-            {/* Invändigt dropdown */}
+          <nav className="hidden lg:flex items-center gap-6">
             <div
               className="relative"
               onMouseEnter={() => setOpenDropdown("inv")}
@@ -73,7 +86,8 @@ export default function Header() {
               <button
                 type="button"
                 onClick={() => setOpenDropdown(openDropdown === "inv" ? null : "inv")}
-                className="flex items-center gap-1 text-mid-gray hover:text-teal transition-colors text-sm font-medium py-2"
+                className={navLinkClass}
+                style={navLinkStyle}
                 aria-expanded={openDropdown === "inv"}
                 aria-haspopup="true"
               >
@@ -81,13 +95,14 @@ export default function Header() {
                 <ChevronDown className={`w-3.5 h-3.5 transition-transform ${openDropdown === "inv" ? "rotate-180" : ""}`} />
               </button>
               {openDropdown === "inv" && (
-                <div className="absolute left-0 top-full w-60 bg-white border border-border rounded-md shadow-lg py-2">
+                <div className={dropdownCardClass} style={dropdownCardStyle}>
                   {invandigtItems.map((item) => (
                     <Link
                       key={item.href}
                       href={item.href}
                       onClick={() => setOpenDropdown(null)}
-                      className="block px-4 py-2 text-sm text-mid-gray hover:text-teal hover:bg-light-bg transition-colors"
+                      className="block px-5 py-2 text-dark-gray hover:text-black hover:bg-light-gray transition-colors"
+                      style={{ fontSize: "15px", fontWeight: 500, letterSpacing: "0.15px" }}
                     >
                       {item.label}
                     </Link>
@@ -96,7 +111,6 @@ export default function Header() {
               )}
             </div>
 
-            {/* Utvändigt dropdown */}
             <div
               className="relative"
               onMouseEnter={() => setOpenDropdown("utv")}
@@ -105,7 +119,8 @@ export default function Header() {
               <button
                 type="button"
                 onClick={() => setOpenDropdown(openDropdown === "utv" ? null : "utv")}
-                className="flex items-center gap-1 text-mid-gray hover:text-teal transition-colors text-sm font-medium py-2"
+                className={navLinkClass}
+                style={navLinkStyle}
                 aria-expanded={openDropdown === "utv"}
                 aria-haspopup="true"
               >
@@ -113,13 +128,14 @@ export default function Header() {
                 <ChevronDown className={`w-3.5 h-3.5 transition-transform ${openDropdown === "utv" ? "rotate-180" : ""}`} />
               </button>
               {openDropdown === "utv" && (
-                <div className="absolute left-0 top-full w-60 bg-white border border-border rounded-md shadow-lg py-2">
+                <div className={dropdownCardClass} style={dropdownCardStyle}>
                   {utvandigtItems.map((item) => (
                     <Link
                       key={item.href}
                       href={item.href}
                       onClick={() => setOpenDropdown(null)}
-                      className="block px-4 py-2 text-sm text-mid-gray hover:text-teal hover:bg-light-bg transition-colors"
+                      className="block px-5 py-2 text-dark-gray hover:text-black hover:bg-light-gray transition-colors"
+                      style={{ fontSize: "15px", fontWeight: 500, letterSpacing: "0.15px" }}
                     >
                       {item.label}
                     </Link>
@@ -128,17 +144,11 @@ export default function Header() {
               )}
             </div>
 
-            <Link
-              href="/kontakt"
-              className="text-mid-gray hover:text-teal transition-colors text-sm font-medium"
-            >
+            <Link href="/kontakt" className="text-dark-gray hover:text-black transition-colors" style={navLinkStyle}>
               Kontakt
             </Link>
 
-            <Link
-              href="/kontakt"
-              className="bg-teal hover:bg-teal-dark text-white px-5 py-2 rounded-md text-sm font-semibold transition-colors"
-            >
+            <Link href="/kontakt" className="btn-black-pill">
               Boka hembesök
             </Link>
           </nav>
@@ -146,7 +156,7 @@ export default function Header() {
           {/* Mobile menu button */}
           <button
             onClick={() => setMenuOpen(!menuOpen)}
-            className="lg:hidden p-2 text-charcoal"
+            className="lg:hidden p-2 text-black"
             aria-label={menuOpen ? "Stäng meny" : "Öppna meny"}
             aria-expanded={menuOpen}
           >
@@ -156,25 +166,29 @@ export default function Header() {
 
         {/* Mobile nav */}
         {menuOpen && (
-          <nav className="lg:hidden pb-4 border-t border-border pt-2 flex flex-col">
-            {/* Invändigt mobil */}
+          <nav
+            className="lg:hidden pb-4 pt-2 flex flex-col"
+            style={{ borderTop: "1px solid rgba(0,0,0,0.05)" }}
+          >
             <button
               type="button"
               onClick={() => setMobileInv(!mobileInv)}
-              className="flex items-center justify-between w-full py-3 text-mid-gray hover:text-teal text-sm font-semibold"
+              className="flex items-center justify-between w-full py-3 text-dark-gray hover:text-black"
+              style={{ fontSize: "15px", fontWeight: 500, letterSpacing: "0.15px" }}
               aria-expanded={mobileInv}
             >
               <span>Invändigt solskydd</span>
               <ChevronDown className={`w-4 h-4 transition-transform ${mobileInv ? "rotate-180" : ""}`} />
             </button>
             {mobileInv && (
-              <div className="flex flex-col pl-4 border-l-2 border-teal-light mb-2">
+              <div className="flex flex-col pl-4 mb-2" style={{ borderLeft: "2px solid var(--color-warm-stone)" }}>
                 {invandigtItems.map((item) => (
                   <Link
                     key={item.href}
                     href={item.href}
                     onClick={closeAll}
-                    className="py-2 text-sm text-mid-gray hover:text-teal"
+                    className="py-2 text-dark-gray hover:text-black"
+                    style={{ fontSize: "15px", fontWeight: 400, letterSpacing: "0.15px" }}
                   >
                     {item.label}
                   </Link>
@@ -182,24 +196,30 @@ export default function Header() {
               </div>
             )}
 
-            {/* Utvändigt mobil */}
             <button
               type="button"
               onClick={() => setMobileUtv(!mobileUtv)}
-              className="flex items-center justify-between w-full py-3 text-mid-gray hover:text-teal text-sm font-semibold border-t border-border"
+              className="flex items-center justify-between w-full py-3 text-dark-gray hover:text-black"
+              style={{
+                fontSize: "15px",
+                fontWeight: 500,
+                letterSpacing: "0.15px",
+                borderTop: "1px solid rgba(0,0,0,0.05)",
+              }}
               aria-expanded={mobileUtv}
             >
               <span>Utvändigt solskydd</span>
               <ChevronDown className={`w-4 h-4 transition-transform ${mobileUtv ? "rotate-180" : ""}`} />
             </button>
             {mobileUtv && (
-              <div className="flex flex-col pl-4 border-l-2 border-teal-light mb-2">
+              <div className="flex flex-col pl-4 mb-2" style={{ borderLeft: "2px solid var(--color-warm-stone)" }}>
                 {utvandigtItems.map((item) => (
                   <Link
                     key={item.href}
                     href={item.href}
                     onClick={closeAll}
-                    className="py-2 text-sm text-mid-gray hover:text-teal"
+                    className="py-2 text-dark-gray hover:text-black"
+                    style={{ fontSize: "15px", fontWeight: 400, letterSpacing: "0.15px" }}
                   >
                     {item.label}
                   </Link>
@@ -210,16 +230,18 @@ export default function Header() {
             <Link
               href="/kontakt"
               onClick={closeAll}
-              className="py-3 text-sm text-mid-gray hover:text-teal font-semibold border-t border-border"
+              className="py-3 text-dark-gray hover:text-black"
+              style={{
+                fontSize: "15px",
+                fontWeight: 500,
+                letterSpacing: "0.15px",
+                borderTop: "1px solid rgba(0,0,0,0.05)",
+              }}
             >
               Kontakt
             </Link>
 
-            <Link
-              href="/kontakt"
-              onClick={closeAll}
-              className="bg-teal hover:bg-teal-dark text-white px-5 py-2.5 rounded-md text-sm font-semibold transition-colors text-center mt-3"
-            >
+            <Link href="/kontakt" onClick={closeAll} className="btn-black-pill text-center mt-3">
               Boka hembesök
             </Link>
           </nav>

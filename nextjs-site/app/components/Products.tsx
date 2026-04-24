@@ -175,7 +175,7 @@ function CardInner({ product }: { product: Product }) {
   return (
     <>
       {product.image && (
-        <div className="relative h-40 w-full overflow-hidden bg-light-bg">
+        <div className="relative h-44 w-full overflow-hidden bg-light-gray" style={{ borderRadius: "20px 20px 0 0" }}>
           <Image
             src={product.image}
             alt={product.imageAlt || product.title}
@@ -184,38 +184,41 @@ function CardInner({ product }: { product: Product }) {
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
           />
           {product.badge && (
-            <span className="absolute top-3 left-3 bg-teal text-white text-xs font-bold tracking-wider uppercase px-2.5 py-1 rounded shadow-sm">
+            <span
+              className="absolute top-3 left-3 bg-black text-white label-uppercase px-3 py-1"
+              style={{ borderRadius: "9999px", fontSize: "10px", letterSpacing: "0.5px" }}
+            >
               {product.badge}
             </span>
           )}
         </div>
       )}
-      <div className="p-5 flex flex-col flex-1">
-        <div className="flex items-center gap-2 mb-2">
-          <product.icon className="w-4 h-4 text-teal shrink-0" />
-          <h3 className="font-[family-name:var(--font-heading)] text-base font-bold text-charcoal">
+      <div className="p-6 flex flex-col flex-1">
+        <div className="flex items-center gap-2 mb-3">
+          <product.icon className="w-4 h-4 text-black shrink-0" strokeWidth={1.5} />
+          <h3 className="text-black" style={{ fontSize: "18px", fontWeight: 400, letterSpacing: "0.16px" }}>
             {product.title}
           </h3>
         </div>
-        <p className="text-sm text-mid-gray leading-relaxed mb-4 flex-1">
+        <p
+          className="text-dark-gray mb-5 flex-1"
+          style={{ fontSize: "14px", fontWeight: 400, letterSpacing: "0.14px", lineHeight: 1.5 }}
+        >
           {product.description}
         </p>
-        {product.href ? (
-          <span className="inline-flex items-center text-sm font-semibold text-teal group-hover:text-teal-dark transition-colors">
-            Läs mer →
-          </span>
-        ) : (
-          <span className="inline-flex items-center text-sm font-semibold text-teal group-hover:text-teal-dark transition-colors">
-            Kontakta oss →
-          </span>
-        )}
+        <span
+          className="inline-flex items-center text-black group-hover:opacity-70 transition-opacity"
+          style={{ fontSize: "14px", fontWeight: 500, letterSpacing: "0.14px" }}
+        >
+          {product.href ? "Läs mer" : "Kontakta oss"} →
+        </span>
       </div>
     </>
   );
 }
 
 function ProductCard({ product, index }: { product: Product; index: number }) {
-  const className = `animate-on-scroll stagger-${(index % 4) + 1} group bg-white rounded-lg shadow-sm border border-border hover:shadow-md transition-all duration-300 flex flex-col overflow-hidden`;
+  const className = `animate-on-scroll stagger-${(index % 4) + 1} group card-surface flex flex-col overflow-hidden`;
 
   if (product.href) {
     return (
@@ -234,32 +237,30 @@ function ProductCard({ product, index }: { product: Product; index: number }) {
 
 export default function Products() {
   return (
-    <section id="produkter" className="py-16 sm:py-24 bg-light-bg">
+    <section id="produkter" className="py-20 sm:py-28 bg-light-gray">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Indoor */}
-        <div className="mb-20">
-          <div className="text-center mb-10">
-            <p className="text-sm font-semibold text-teal uppercase tracking-wider mb-2">Invändigt</p>
-            <h2 className="font-[family-name:var(--font-heading)] text-3xl sm:text-4xl font-bold text-charcoal">
+        <div className="mb-24">
+          <div className="text-center mb-14">
+            <p className="label-uppercase text-warm-gray mb-3">Invändigt</p>
+            <h2 className="text-black" style={{ fontSize: "36px", fontWeight: 300, letterSpacing: "-0.01em", lineHeight: 1.17 }}>
               Invändigt solskydd
             </h2>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {indoorProducts.map((product, i) => (
               <ProductCard key={product.title} product={product} index={i} />
             ))}
           </div>
         </div>
 
-        {/* Outdoor */}
         <div>
-          <div className="text-center mb-10">
-            <p className="text-sm font-semibold text-teal uppercase tracking-wider mb-2">Utvändigt</p>
-            <h2 className="font-[family-name:var(--font-heading)] text-3xl sm:text-4xl font-bold text-charcoal">
+          <div className="text-center mb-14">
+            <p className="label-uppercase text-warm-gray mb-3">Utvändigt</p>
+            <h2 className="text-black" style={{ fontSize: "36px", fontWeight: 300, letterSpacing: "-0.01em", lineHeight: 1.17 }}>
               Utvändigt solskydd
             </h2>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {outdoorProducts.map((product, i) => (
               <ProductCard key={product.title} product={product} index={i} />
             ))}

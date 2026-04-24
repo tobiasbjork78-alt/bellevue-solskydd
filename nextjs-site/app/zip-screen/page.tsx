@@ -81,7 +81,7 @@ export default function ZipScreenPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Zip Screen mot värme och insyn
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -93,7 +93,7 @@ export default function ZipScreenPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Sidoskenor som håller i vind
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -110,7 +110,7 @@ export default function ZipScreenPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Måttanpassad för varje fönster
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -121,7 +121,7 @@ export default function ZipScreenPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Många valmöjligheter
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -132,7 +132,7 @@ export default function ZipScreenPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Trippelt skydd
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -143,7 +143,7 @@ export default function ZipScreenPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Balkongskydd och insynsskydd
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -158,7 +158,7 @@ export default function ZipScreenPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Vindskydd för balkong
               </h2>
               <p className="text-mid-gray leading-relaxed">

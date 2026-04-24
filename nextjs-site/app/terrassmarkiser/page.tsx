@@ -81,7 +81,7 @@ export default function TerrassmarkiserPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Terrassmarkiser monterade och säkra
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -93,7 +93,7 @@ export default function TerrassmarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Motordrift och sensorer
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -110,7 +110,7 @@ export default function TerrassmarkiserPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Välj takprofilering eller kassett
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -121,7 +121,7 @@ export default function TerrassmarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Design och materialval
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -133,7 +133,7 @@ export default function TerrassmarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 För hem och företag
               </h2>
               <p className="text-mid-gray leading-relaxed">

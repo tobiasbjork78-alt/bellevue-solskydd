@@ -82,7 +82,7 @@ export default function TrapersiennerPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Träpersienner skapar atmosfär
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -94,7 +94,7 @@ export default function TrapersiennerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Hållbar och certifierad träproduktion
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -111,7 +111,7 @@ export default function TrapersiennerPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Teknik som fungerar
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -123,7 +123,7 @@ export default function TrapersiennerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Skräddarsydd design
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -135,7 +135,7 @@ export default function TrapersiennerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Flera färger och träslag
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -147,7 +147,7 @@ export default function TrapersiennerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Enkel skötsel
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -159,7 +159,7 @@ export default function TrapersiennerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Montering
               </h2>
               <p className="text-mid-gray leading-relaxed">

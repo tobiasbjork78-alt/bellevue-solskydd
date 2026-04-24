@@ -85,7 +85,7 @@ export default function RullgardinerPage() {
 
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Måttanpassade rullgardiner med montering
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -97,7 +97,7 @@ export default function RullgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Styrning
               </h2>
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
@@ -107,7 +107,7 @@ export default function RullgardinerPage() {
                   { title: "Inbyggd motor", desc: "Motoriserad styrning med möjlighet till fjärrkontroll och smart hem-integration." },
                 ].map((item) => (
                   <div key={item.title} className="bg-light-bg border border-border rounded-lg p-5">
-                    <h3 className="font-[family-name:var(--font-heading)] font-bold text-charcoal mb-1">{item.title}</h3>
+                    <h3 className="text-black mb-1">{item.title}</h3>
                     <p className="text-sm text-mid-gray">{item.desc}</p>
                   </div>
                 ))}
@@ -120,7 +120,7 @@ export default function RullgardinerPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Hemmakontor, butik eller lägenhet
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -134,7 +134,7 @@ export default function RullgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Smart hem
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -145,7 +145,7 @@ export default function RullgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Montering
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -156,7 +156,7 @@ export default function RullgardinerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Mörkläggande rullgardin
               </h2>
               <p className="text-mid-gray leading-relaxed">

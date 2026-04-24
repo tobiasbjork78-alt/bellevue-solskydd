@@ -81,7 +81,7 @@ export default function InsektsskyddPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 För fönster och dörrar
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -93,7 +93,7 @@ export default function InsektsskyddPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Effektivt och estetiskt
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -110,7 +110,7 @@ export default function InsektsskyddPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Anpassat efter dina behov
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -122,7 +122,7 @@ export default function InsektsskyddPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Transparent glasfiberväv
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -134,7 +134,7 @@ export default function InsektsskyddPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Skräddarsytt skydd
               </h2>
               <p className="text-mid-gray leading-relaxed">

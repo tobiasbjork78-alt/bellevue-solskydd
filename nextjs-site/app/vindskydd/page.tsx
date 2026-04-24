@@ -81,7 +81,7 @@ export default function VindskyddPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Skydd mot vind och insyn
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -94,7 +94,7 @@ export default function VindskyddPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Havsnära lägen i Höllviken och Falsterbo
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -111,7 +111,7 @@ export default function VindskyddPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Skräddarsydda lösningar
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -124,7 +124,7 @@ export default function VindskyddPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 För restauranger och uteserveringar
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -136,7 +136,7 @@ export default function VindskyddPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Material och hållbarhet
               </h2>
               <p className="text-mid-gray leading-relaxed">

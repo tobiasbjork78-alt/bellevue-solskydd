@@ -1,15 +1,47 @@
 @import "tailwindcss";
 
+/*
+ * Designsystem inspirerat av ElevenLabs (DESIGN.md).
+ * Fonter: Inter används för både display och body — Waldenburg är
+ * proprietär och kan inte laddas via next/font/google. Display-effekten
+ * kommer från Inter på weight 200/300 + tight letter-spacing.
+ */
 @theme inline {
-  --color-teal: #4ABFBF;
-  --color-teal-dark: #2A9090;
-  --color-teal-light: #E8F7F7;
-  --color-charcoal: #2C2C2C;
-  --color-mid-gray: #5A5A5A;
-  --color-light-bg: #F8F8F8;
-  --color-border: #E5E5E5;
-  --font-heading: var(--font-raleway);
-  --font-body: var(--font-open-sans);
+  /* Primära ytor */
+  --color-white: #ffffff;
+  --color-light-gray: #f5f5f5;
+  --color-near-white: #f6f6f6;
+  --color-warm-stone: #f5f2ef;
+
+  /* Text */
+  --color-black: #000000;
+  --color-dark-gray: #4e4e4e;
+  --color-warm-gray: #777169;
+
+  /* Borders */
+  --color-border: #e5e5e5;
+  --color-border-subtle: rgba(0, 0, 0, 0.05);
+
+  /* Bakåtkompatibla alias — pekar på nya tokens så gamla klasser
+   * (text-charcoal, bg-light-bg osv.) fortsätter fungera under migreringen. */
+  --color-charcoal: var(--color-black);
+  --color-mid-gray: var(--color-dark-gray);
+  --color-light-bg: var(--color-light-gray);
+  --color-teal: var(--color-black);
+  --color-teal-dark: var(--color-black);
+  --color-teal-light: var(--color-warm-stone);
+
+  /* Radius-skala */
+  --radius-pill: 9999px;
+  --radius-warm-btn: 30px;
+  --radius-card-lg: 24px;
+  --radius-card: 20px;
+  --radius-card-sm: 16px;
+
+  /* Typografi */
+  --font-display: var(--font-inter);
+  --font-body: var(--font-inter);
+  --font-heading: var(--font-inter);
 }
 
 html {
@@ -17,13 +49,133 @@ html {
 }
 
 body {
-  background: #ffffff;
-  color: var(--color-charcoal);
-  font-family: var(--font-body), system-ui, sans-serif;
+  background: var(--color-white);
+  color: var(--color-black);
+  font-family: var(--font-body), "Inter Fallback", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+/* Displayrubriker: Inter light (300) med tajt letter-spacing.
+ * ElevenLabs använder Waldenburg 300 som är ännu tunnare — Inter 300
+ * är en approximation. */
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-heading), system-ui, sans-serif;
+  font-family: var(--font-display), "Inter Fallback", system-ui, sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.01em;
+  line-height: 1.17;
+}
+
+h1 {
+  font-weight: 300;
+  letter-spacing: -0.02em;
+  line-height: 1.08;
+}
+
+/* Utility-klasser för knappar enligt DESIGN.md */
+.btn-black-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: var(--color-black);
+  color: var(--color-white);
+  padding: 10px 18px;
+  border-radius: var(--radius-pill);
+  font-family: var(--font-body), "Inter Fallback", system-ui, sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.47;
+  letter-spacing: normal;
+  transition: opacity 0.15s ease;
+}
+.btn-black-pill:hover {
+  opacity: 0.85;
+}
+
+.btn-white-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: var(--color-white);
+  color: var(--color-black);
+  padding: 10px 18px;
+  border-radius: var(--radius-pill);
+  font-family: var(--font-body), "Inter Fallback", system-ui, sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.47;
+  box-shadow:
+    rgba(0, 0, 0, 0.4) 0px 0px 1px,
+    rgba(0, 0, 0, 0.04) 0px 4px 4px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.btn-white-pill:hover {
+  transform: translateY(-1px);
+  box-shadow:
+    rgba(0, 0, 0, 0.5) 0px 0px 1px,
+    rgba(0, 0, 0, 0.06) 0px 6px 6px;
+}
+
+.btn-warm-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: rgba(245, 242, 239, 0.8);
+  color: var(--color-black);
+  padding: 12px 20px 12px 14px;
+  border-radius: var(--radius-warm-btn);
+  font-family: var(--font-body), "Inter Fallback", system-ui, sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.47;
+  box-shadow: rgba(78, 50, 23, 0.04) 0px 6px 16px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+.btn-warm-pill:hover {
+  background: rgba(245, 242, 239, 1);
+  transform: translateY(-1px);
+  box-shadow: rgba(78, 50, 23, 0.08) 0px 8px 20px;
+}
+
+/* Uppercase-etikett i WaldenburgFH-anda (Inter 700 + uppercase + spacing). */
+.label-uppercase {
+  font-family: var(--font-body), "Inter Fallback", system-ui, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.7px;
+  text-transform: uppercase;
+}
+
+/* Kort med flerskikts-shadow (outline + elevation). */
+.card-surface {
+  background: var(--color-white);
+  border-radius: var(--radius-card);
+  box-shadow:
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px,
+    rgba(0, 0, 0, 0.04) 0px 1px 2px,
+    rgba(0, 0, 0, 0.04) 0px 2px 4px;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.card-surface:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px,
+    rgba(0, 0, 0, 0.06) 0px 4px 8px,
+    rgba(0, 0, 0, 0.04) 0px 8px 16px;
+}
+
+/* Inset-border-yta för sektioner där kortet definieras genom kanter. */
+.inset-edge {
+  box-shadow:
+    rgba(0, 0, 0, 0.075) 0px 0px 0px 0.5px inset,
+    #fff 0px 0px 0px 0px inset;
 }
 
 /* Scroll animations */

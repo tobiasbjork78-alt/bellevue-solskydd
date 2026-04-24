@@ -82,7 +82,7 @@ export default function MarkiserPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Terrassmarkiser för balkong och uteplats
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -95,7 +95,7 @@ export default function MarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Fasadmontering i innerstadsfastigheter
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -108,7 +108,7 @@ export default function MarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Fönstermarkiser — stoppar solen innan den når glaset
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -125,7 +125,7 @@ export default function MarkiserPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Korgmarkiser — klassisk design
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -137,7 +137,7 @@ export default function MarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Zip Screen — maximalt skydd i vind
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -148,7 +148,7 @@ export default function MarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Designa din markis
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -159,7 +159,7 @@ export default function MarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Pergolamarkis
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -173,7 +173,7 @@ export default function MarkiserPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Motoriserade markiser
               </h2>
               <p className="text-mid-gray leading-relaxed">

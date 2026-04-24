@@ -24,13 +24,21 @@ export default function TrustBar({ variant = "default", guaranteeYears = 3 }: Tr
       ];
 
   return (
-    <section className="bg-light-bg border-y border-border">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
-        <div className="flex flex-wrap justify-center gap-x-8 gap-y-3">
+    <section
+      className="bg-white"
+      style={{ borderTop: "1px solid rgba(0,0,0,0.05)", borderBottom: "1px solid rgba(0,0,0,0.05)" }}
+    >
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <div className="flex flex-wrap justify-center gap-x-10 gap-y-3">
           {items.map((item) => (
             <div key={item.text} className="flex items-center gap-2">
-              <item.icon className="w-4 h-4 text-teal shrink-0" />
-              <span className="text-sm text-mid-gray">{item.text}</span>
+              <item.icon className="w-4 h-4 text-black shrink-0" strokeWidth={1.5} />
+              <span
+                className="text-dark-gray"
+                style={{ fontSize: "14px", fontWeight: 400, letterSpacing: "0.14px" }}
+              >
+                {item.text}
+              </span>
             </div>
           ))}
         </div>

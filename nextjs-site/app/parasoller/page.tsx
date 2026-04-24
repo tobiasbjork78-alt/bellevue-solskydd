@@ -83,7 +83,7 @@ export default function ParasollerPage() {
         >
           <section className="mb-12 space-y-8">
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Specialtillverkade för företag och privat
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -95,7 +95,7 @@ export default function ParasollerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Många storlekar och färger
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -113,7 +113,7 @@ export default function ParasollerPage() {
             />
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Klassiska parasoller i stort urval
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -125,7 +125,7 @@ export default function ParasollerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Sammankopplade parasoller för stora ytor
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -138,7 +138,7 @@ export default function ParasollerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 Vindstarka parasoller för utsatta lägen
               </h2>
               <p className="text-mid-gray leading-relaxed">
@@ -150,7 +150,7 @@ export default function ParasollerPage() {
             </div>
 
             <div>
-              <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
+              <h2 className="text-2xl text-black mb-3">
                 För alla behov
               </h2>
               <p className="text-mid-gray leading-relaxed">
