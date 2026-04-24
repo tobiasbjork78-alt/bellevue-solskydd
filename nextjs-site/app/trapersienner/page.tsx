@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/trapersienner";
 export const metadata: Metadata = {
   title: "Träpersienner i Malmö — premium för villor | Bellevue Solskydd",
   description:
-    "Måttanpassade träpersienner i Malmö. FSC-certifierat trä, naturlig ljusreglering och stilren inredningsdetalj. Premium-segmentet för villan.",
+    "Träpersienner i Malmö — premiumsolskydd för villan. Hållbar certifierad träproduktion, kostnadsfritt hembesök. Bellevue Solskydd.",
   alternates: { canonical: pageUrl },
 };
 

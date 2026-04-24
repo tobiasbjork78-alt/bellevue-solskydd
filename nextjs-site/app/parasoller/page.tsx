@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/parasoller";
 export const metadata: Metadata = {
   title: "Parasoller i Malmö & Trelleborg — uteservering & trädgård | Bellevue Solskydd",
   description:
-    "Parasoller för uteserveringar, terrasser och trädgårdar i Malmö och Trelleborg. Från 2×2 m till 12×12 m. Specialtryck, belysning, värmare och värmetillval.",
+    "Parasoller i Malmö och Trelleborg för uteservering och trädgård. Specialtillverkade, många storlekar. Kostnadsfritt hembesök.",
   alternates: { canonical: pageUrl },
 };
 

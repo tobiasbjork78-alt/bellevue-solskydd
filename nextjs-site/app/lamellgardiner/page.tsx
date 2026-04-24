@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/lamellgardiner";
 export const metadata: Metadata = {
   title: "Lamellgardiner i Malmö — stora fönsterpartier | Bellevue Solskydd",
   description:
-    "Måttanpassade lamellgardiner i Malmö och Staffanstorp. Ljusstyrning för villor, radhus och stora fönsterpartier. Monteras med precision — kostnadsfritt hembesök.",
+    "Lamellgardiner i Malmö för villor och kontor. Stora fönsterpartier, måttanpassat. Kostnadsfritt hembesök från Bellevue Solskydd.",
   alternates: { canonical: pageUrl },
 };
 

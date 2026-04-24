@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/panelgardiner";
 export const metadata: Metadata = {
   title: "Panelgardiner i Malmö — för stora fönsterpartier | Bellevue Solskydd",
   description:
-    "Måttanpassade panelgardiner i Malmö. Stora fönsterpartier och nyproduktion. Två till fem spår, enfärgat eller mönster, från skira tyger till mörkläggande.",
+    "Panelgardiner i Malmö för stora fönsterpartier och nyproduktion. Måttanpassat, montering ingår. Boka kostnadsfritt hembesök.",
   alternates: { canonical: pageUrl },
 };
 

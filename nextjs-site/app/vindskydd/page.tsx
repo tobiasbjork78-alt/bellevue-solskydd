@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/vindskydd";
 export const metadata: Metadata = {
   title: "Vindskydd i Malmö — balkong & uteplats | Bellevue Solskydd",
   description:
-    "Måttanpassade vindskydd i Malmö. Glas- och textilpaneler för balkong, uteplats och uteservering. Havsnära lägen i Höllviken och Falsterbo. 3 års garanti.",
+    "Vindskydd i Malmö och Höllviken för balkong och uteplats. Måttanpassat för havsnära lägen. Kostnadsfritt hembesök från Bellevue Solskydd.",
   alternates: { canonical: pageUrl },
 };
 

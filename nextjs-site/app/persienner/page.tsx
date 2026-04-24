@@ -11,7 +11,7 @@ const pageUrl = "https://bellevuesolskydd.se/persienner";
 export const metadata: Metadata = {
   title: "Persienner i Malmö — Bäst i Test | Bellevue Solskydd",
   description:
-    "Måttanpassade persienner i Malmö. Bäst i Test av Testfakta med betyg 4.6/5. Sju modeller i aluminium fritt från bly, krom och arsenik. Kostnadsfritt hembesök.",
+    "Persienner i Malmö sedan 1982. Bäst i Test, patenterad Bellevue-persienn. 10 års garanti vid montering. Boka kostnadsfritt hembesök.",
   alternates: { canonical: pageUrl },
 };
 

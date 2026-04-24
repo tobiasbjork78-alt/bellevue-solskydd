@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/terrassmarkiser";
 export const metadata: Metadata = {
   title: "Terrassmarkiser i Malmö — motordrift & sensorer | Bellevue Solskydd",
   description:
-    "Måttanpassade terrassmarkiser i Malmö och Trelleborg. Södervända villaterrasser, motordrift och sol-/vindsensorer. Sänk temperaturen med upp till 10 °C.",
+    "Terrassmarkiser i Malmö och Trelleborg. Motordrivna, väderbeständiga, måttanpassade. Kostnadsfritt hembesök från Bellevue Solskydd.",
   alternates: { canonical: pageUrl },
 };
 

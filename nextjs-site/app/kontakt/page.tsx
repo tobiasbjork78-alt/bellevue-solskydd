@@ -8,7 +8,7 @@ import ScrollAnimator from "../components/ScrollAnimator";
 export const metadata: Metadata = {
   title: "Kontakta oss | Bellevue Solskydd",
   description:
-    "Kontakta Bellevue Solskydd för kostnadsfritt hembesök, offert eller rådgivning. Ring 040-18 11 00 eller fyll i formuläret.",
+    "Kontakta Bellevue Solskydd i Staffanstorp. Kostnadsfritt hembesök i Malmö, Lund, Vellinge med omnejd. Telefon 040-18 11 00.",
   alternates: { canonical: "https://bellevuesolskydd.se/kontakt" },
 };
 

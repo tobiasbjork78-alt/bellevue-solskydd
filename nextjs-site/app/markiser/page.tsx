@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/markiser";
 export const metadata: Metadata = {
   title: "Markiser i Malmö — balkong och fasadmonterat | Bellevue Solskydd",
   description:
-    "Måttanpassade markiser i Malmö. Balkongmarkiser, fasadmonterade terrassmarkiser, fönstermarkiser och korgmarkiser. Sänk temperaturen med upp till 10 °C. Kostnadsfritt hembesök.",
+    "Markiser i Malmö — terrassmarkis, fönstermarkis, pergolamarkis. Motoriserade eller manuella. Kostnadsfritt hembesök, 3 års garanti.",
   alternates: { canonical: pageUrl },
 };
 

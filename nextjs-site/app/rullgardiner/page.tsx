@@ -11,7 +11,7 @@ const pageUrl = "https://bellevuesolskydd.se/rullgardiner";
 export const metadata: Metadata = {
   title: "Rullgardiner i Malmö — ljusfilter till mörkläggning | Bellevue Solskydd",
   description:
-    "Måttanpassade rullgardiner i Malmö för hemmakontoret, butiken eller lägenheten. Från transparent ljusfilter till fullständig mörkläggning. Kostnadsfritt hembesök.",
+    "Rullgardiner i Malmö — från ljusfilter till mörkläggande. Måttanpassat, 10 års garanti. Boka hembesök hos Bellevue Solskydd.",
   alternates: { canonical: pageUrl },
 };
 

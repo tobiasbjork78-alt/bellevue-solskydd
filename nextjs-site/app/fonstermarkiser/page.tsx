@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/fonstermarkiser";
 export const metadata: Metadata = {
   title: "Fönstermarkiser i Malmö — funkisvilla & äldre bestånd | Bellevue Solskydd",
   description:
-    "Måttanpassade fönstermarkiser i Malmö. Fallarmsmarkis som stoppar upp till 80 % av solen innan den når fönstret. Passar funkisvillor och äldre bestånd.",
+    "Fönstermarkiser i Malmö för funkisvillor och äldre bestånd. Stoppar solstrålningen innan den når glaset. Kostnadsfritt hembesök.",
   alternates: { canonical: pageUrl },
 };
 

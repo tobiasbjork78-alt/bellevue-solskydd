@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/draperier";
 export const metadata: Metadata = {
   title: "Draperier i Malmö — wavegardiner för sekelskifte | Bellevue Solskydd",
   description:
-    "Måttanpassade draperier och wavegardiner i Malmö. Passar sekelskifteslägenheter och äldre fastigheter med hög takhöjd. Mjuk vågeffekt, manuellt eller motorstyrt.",
+    "Wavegardiner och draperier i Malmö — för sekelskifte och innerstadshem. Exklusiv måttbeställning. Bellevue Solskydd, hembesök ingår.",
   alternates: { canonical: pageUrl },
 };
 

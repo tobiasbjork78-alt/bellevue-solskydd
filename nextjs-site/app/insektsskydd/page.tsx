@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/insektsskydd";
 export const metadata: Metadata = {
   title: "Insektsskydd i Malmö & Staffanstorp — fönster & dörrar | Bellevue Solskydd",
   description:
-    "Måttanpassade insektsskydd i Malmö och Staffanstorp. Villor med trädgård nära grönområden. Transparent glasfiberväv med sidoskenor som håller.",
+    "Insektsskydd i Malmö och Staffanstorp — fönster och dörrar. Transparent glasfiberväv, skräddarsytt. Boka kostnadsfritt hembesök.",
   alternates: { canonical: pageUrl },
 };
 

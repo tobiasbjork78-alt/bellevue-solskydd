@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/korgmarkiser";
 export const metadata: Metadata = {
   title: "Korgmarkiser i Malmö — klassisk design för butik & villa | Bellevue Solskydd",
   description:
-    "Måttanpassade korgmarkiser i Malmö. Fast eller fällbar korg i hållbar, vädertålig väv. Sekelskiftesfasader, butiker och restauranger. 3 års garanti vid montering.",
+    "Korgmarkiser i Malmö — klassisk design för sekelskiftesfastigheter. Måttanpassat, montering ingår. Kostnadsfritt hembesök.",
   alternates: { canonical: pageUrl },
 };
 

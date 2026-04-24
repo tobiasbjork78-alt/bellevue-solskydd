@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/zip-screen";
 export const metadata: Metadata = {
   title: "Zip Screen i Malmö — vindtålig vertikalmarkis | Bellevue Solskydd",
   description:
-    "Vertikalmarkis Zip Screen för moderna villor och nyproduktion i Malmö och Vellinge. Vindtålig, skyddar mot sol och insyn, måttanpassad för varje fönster.",
+    "Zip Screen i Malmö — balkongskydd och insynsskydd som tål vind. Måttanpassat för varje fönster. Kostnadsfritt hembesök.",
   alternates: { canonical: pageUrl },
 };
 

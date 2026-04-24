@@ -11,7 +11,7 @@ const pageUrl = "https://bellevuesolskydd.se/plissegardiner";
 export const metadata: Metadata = {
   title: "Plissegardiner i Malmö — snedfönster & takvåning | Bellevue Solskydd",
   description:
-    "Måttanpassade plissegardiner i Malmö. Passar snedfönster, takvåningar och nybyggen. Avskärma ljuset från botten, toppen eller hela fönstret. Kostnadsfritt hembesök.",
+    "Plissegardiner och mörkläggningsgardiner i Malmö. Måttanpassat för alla fönster, 10 års garanti. Kostnadsfritt hembesök i södra Skåne.",
   alternates: { canonical: pageUrl },
 };
 

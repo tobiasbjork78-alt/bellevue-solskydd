@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Topbar from "./components/Topbar";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
@@ -7,6 +8,11 @@ import Hembesok from "./components/Hembesok";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import ScrollAnimator from "./components/ScrollAnimator";
+
+export const metadata: Metadata = {
+  description:
+    "Bellevue Solskydd i Malmö. Persienner, markiser, plissé och mer. Kostnadsfritt hembesök, upp till 10 års garanti. Sedan 1982.",
+};
 
 const jsonLd = {
   "@context": "https://schema.org",

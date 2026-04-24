@@ -10,7 +10,7 @@ const pageUrl = "https://bellevuesolskydd.se/pergola";
 export const metadata: Metadata = {
   title: "Pergola i Malmö & Svedala — uterum för trädgården | Bellevue Solskydd",
   description:
-    "Måttanpassad pergola för villaträdgårdar i Malmö och Svedala. Regn- och solskydd i ett. Tak, sidoväggar, fristående eller väggmonterad. Kostnadsfritt hembesök.",
+    "Pergola i Malmö och södra Skåne. Uterum med tak och väggar, vädersäkert. Boka kostnadsfritt hembesök från Bellevue Solskydd.",
   alternates: { canonical: pageUrl },
 };
 
