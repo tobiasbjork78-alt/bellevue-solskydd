@@ -4,6 +4,7 @@ import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import ScrollAnimator from "../components/ScrollAnimator";
+import GuaranteeBlock from "../components/GuaranteeBlock";
 
 const pageUrl = "https://bellevuesolskydd.se/persienner";
 
@@ -127,6 +128,8 @@ export default function PersiennerPage() {
             { src: "/images/shadow-of-window-blinds-on-wall-2022-12-16-11-04-06-utc-1.jpg", alt: "Skuggor från persienner mot vägg" },
           ]}
         >
+          <GuaranteeBlock years={10} condition="Vid montering av våra montörer" />
+
           <section className="mb-12">
             <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
               Måttbeställda persienner med montering

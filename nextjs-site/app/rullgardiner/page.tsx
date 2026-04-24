@@ -4,6 +4,7 @@ import Topbar from "../components/Topbar";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import ScrollAnimator from "../components/ScrollAnimator";
+import GuaranteeBlock from "../components/GuaranteeBlock";
 
 const pageUrl = "https://bellevuesolskydd.se/rullgardiner";
 
@@ -80,6 +81,8 @@ export default function RullgardinerPage() {
             { src: "/images/Bellevue-rullgardin.jpg", alt: "Rullgardin i vardagsrum" },
           ]}
         >
+          <GuaranteeBlock years={10} condition="Vid montering av våra montörer" />
+
           <section className="mb-12 space-y-8">
             <div>
               <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-3">
