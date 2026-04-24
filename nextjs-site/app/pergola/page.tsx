@@ -77,6 +77,7 @@ export default function PergolaPage() {
         <ProductPageLayout
           title="Pergola i Malmö och Svedala — uterum för trädgården"
           intro="I villaträdgårdar i Malmö, Bunkeflostrand och Svedala förvandlar pergolan uteplatsen till ett riktigt uterum. Regnskydd, solskydd och rumsligheten du saknar när terrassen bara är en öppen yta. Fristående eller väggmonterad."
+          category="utvandigt"
           faq={faq}
           images={[
             { src: "/images/pergola_img1.png", alt: "Pergola över uteplats" },

@@ -73,6 +73,7 @@ export default function RullgardinerPage() {
         <ProductPageLayout
           title="Rullgardiner i Malmö — från ljusfilter till mörkläggning"
           intro="För hemmakontoret i lägenheten, skyltfönstret i butiken på Södra Förstadsgatan eller sovrummet i radhuset. Välj exakt hur mycket ljus du vill ha — från transparent ljusfilter till fullständig mörkläggning."
+          category="invandigt"
           faq={faq}
           images={[
             { src: "/images/Bellevue-rullgardin.jpg", alt: "Rullgardin i vardagsrum" },

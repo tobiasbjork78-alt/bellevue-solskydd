@@ -73,6 +73,7 @@ export default function TerrassmarkiserPage() {
         <ProductPageLayout
           title="Terrassmarkiser i Malmö — för södervända uteplatser"
           intro="På södervända villaterrasser i Malmö, Limhamn och Trelleborg gör terrassmarkisen hela skillnaden. Utöka utesäsongen, sänk temperaturen med upp till 10 °C och få skugga som följer solens gång. Motordrift, fjärrstyrning och sensorer för sol och vind."
+          category="utvandigt"
           faq={faq}
           images={[
             { src: "/images/exterior-shots-of-a-modern-terrace-with-dining-tab-2021-09-01-22-37-46-utc-1.jpg", alt: "Terrassmarkis över takvåningens matplats" },

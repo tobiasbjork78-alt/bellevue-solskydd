@@ -77,6 +77,7 @@ export default function TrapersiennerPage() {
         <ProductPageLayout
           title="Träpersienner i Malmö — premium för villan"
           intro="I villorna kring Bellevue, Limhamn och Västra Hamnen har träpersiennen en självklar plats. En inredningsdetalj som ger atmosfär åt rummet och samtidigt reglerar ljuset naturligt. FSC-certifierat trä i flera träslag och färger."
+          category="invandigt"
           faq={faq}
         >
           <section className="mb-12 space-y-8">

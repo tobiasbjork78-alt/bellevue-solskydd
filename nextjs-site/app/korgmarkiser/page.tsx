@@ -73,6 +73,7 @@ export default function KorgmarkiserPage() {
         <ProductPageLayout
           title="Korgmarkiser i Malmö — klassisk design"
           intro="Korgmarkisen är en tidlös klassiker som pryder fasader i hela Malmö — från sekelskifteshus i innerstaden till butiker och restauranger längs gågatan. Med sin rundade form ger den effektivt sol- och värmeskydd från alla sidor, samtidigt som den tillför karaktär och elegans."
+          category="utvandigt"
           faq={faq}
           images={[
             { src: "/images/shutterstock_73378162-1024x576-1.jpg", alt: "Korgmarkis på fasad — klassisk design" },

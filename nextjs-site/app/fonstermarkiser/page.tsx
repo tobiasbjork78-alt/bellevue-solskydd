@@ -73,6 +73,7 @@ export default function FonstermarkiserPage() {
         <ProductPageLayout
           title="Fönstermarkiser i Malmö — funkisvillor och äldre bestånd"
           intro="På funkisvillan på Lorensborg eller trästaden i Kirseberg stoppar fönstermarkisen upp till 80 % av solstrålarna innan de når glaset. Klassisk fallarmsmarkis som ger svalare rum utan att du behöver dra för gardinerna."
+          category="utvandigt"
           faq={faq}
         >
           <section className="mb-12 space-y-8">

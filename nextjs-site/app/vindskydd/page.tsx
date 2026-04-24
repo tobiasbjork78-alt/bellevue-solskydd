@@ -73,6 +73,7 @@ export default function VindskyddPage() {
         <ProductPageLayout
           title="Vindskydd i Malmö — för balkong och uteplats"
           intro="Längs kusten i Höllviken, Falsterbo och Skanör — och på balkongerna i centrala Malmö — gör vinden från Öresund att uteplatsen ofta står oanvänd. Ett måttanpassat vindskydd förlänger säsongen och skapar en skyddad oas där du faktiskt vill sitta."
+          category="utvandigt"
           faq={faq}
           images={[
             { src: "/images/shutterstock_456666382-1024x576-1.jpg", alt: "Vindskydd för uteplats — skyddat uteliv" },

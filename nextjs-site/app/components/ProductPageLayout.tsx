@@ -20,6 +20,7 @@ interface ProductPageLayoutProps {
   children: ReactNode;
   faq?: FAQItem[];
   images?: ProductImage[];
+  category?: "invandigt" | "utvandigt";
 }
 
 export function InlineProductImage({ src, alt }: { src: string; alt: string }) {
@@ -44,17 +45,42 @@ export default function ProductPageLayout({
   children,
   faq,
   images,
+  category,
 }: ProductPageLayoutProps) {
   const shortTitle = title.split("—")[0].trim();
+  const categoryLabel = category === "invandigt" ? "Invändigt solskydd" : category === "utvandigt" ? "Utvändigt solskydd" : undefined;
+  const categoryAnchor = category === "invandigt" ? "/#invandigt" : category === "utvandigt" ? "/#utvandigt" : undefined;
+
+  const breadcrumbLd = category ? {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Hem", "item": "https://bellevuesolskydd.se" },
+      { "@type": "ListItem", "position": 2, "name": categoryLabel, "item": `https://bellevuesolskydd.se${categoryAnchor}` },
+      { "@type": "ListItem", "position": 3, "name": shortTitle },
+    ],
+  } : undefined;
 
   return (
     <div className="bg-white">
+      {breadcrumbLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+        />
+      )}
       {/* Header with breadcrumb */}
       <div className="bg-light-bg border-b border-border">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
           <nav className="flex items-center gap-1 text-sm text-mid-gray mb-4">
             <Link href="/" className="hover:text-teal transition-colors">Hem</Link>
             <ChevronRight className="w-3.5 h-3.5" />
+            {categoryLabel && categoryAnchor && (
+              <>
+                <Link href={categoryAnchor} className="hover:text-teal transition-colors">{categoryLabel}</Link>
+                <ChevronRight className="w-3.5 h-3.5" />
+              </>
+            )}
             <span className="text-charcoal font-medium">{shortTitle}</span>
           </nav>
           <h1 className="font-[family-name:var(--font-heading)] text-3xl sm:text-4xl font-bold text-charcoal">

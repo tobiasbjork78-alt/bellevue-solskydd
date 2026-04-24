@@ -21,6 +21,13 @@ const jsonLd = {
       "url": "https://bellevuesolskydd.se/kontakt",
     },
     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Hem", "item": "https://bellevuesolskydd.se" },
+        { "@type": "ListItem", "position": 2, "name": "Kontakt" },
+      ],
+    },
+    {
       "@type": "HomeAndConstructionBusiness",
       "name": "Bellevue Solskydd",
       "image": "https://bellevuesolskydd.se/images/brand/bellevue-solskydd-logo.webp",

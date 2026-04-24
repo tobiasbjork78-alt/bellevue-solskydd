@@ -73,6 +73,7 @@ export default function MarkiserPage() {
         <ProductPageLayout
           title="Markiser i Malmö — balkong, fasad och innerstadsfastigheter"
           intro="Rätt markis kan sänka temperaturen på uteplats eller balkong med upp till 10 °C. Vi fasadmonterar på balkong i innerstan, på funkisvillan i Limhamn och på radhuset i Bunkeflostrand. Kostnadsfritt hembesök — vi går igenom förutsättningarna på plats."
+          category="utvandigt"
           faq={faq}
           images={[
             { src: "/images/markiser_img1.png", alt: "Markis över uteplats" },

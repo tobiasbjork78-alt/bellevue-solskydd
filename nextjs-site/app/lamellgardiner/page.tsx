@@ -77,6 +77,7 @@ export default function LamellgardinerPage() {
         <ProductPageLayout
           title="Lamellgardiner i Malmö — för stora fönsterpartier"
           intro="För villor och radhus med stora fönsterpartier och altandörrar. Lamellgardinen ger dig full kontroll över ljuset — vrid lamellerna för precis så mycket ljus eller insyn som du vill ha. Vanlig lösning i radhusområden kring Malmö och Staffanstorp."
+          category="invandigt"
           faq={faq}
           images={[
             { src: "/images/vertical-blinds-outside-the-window-2021-08-28-11-59-36-utc-1.jpg", alt: "Lamellgardin från utsidan" },

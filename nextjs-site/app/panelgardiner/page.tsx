@@ -73,6 +73,7 @@ export default function PanelgardinerPage() {
         <ProductPageLayout
           title="Panelgardiner i Malmö — för stora fönsterpartier"
           intro="För stora fönsterpartier och nyproduktion i Malmö. Panelgardinen fungerar som tygdörr, rumsavdelare eller solskydd för fönster — skjut panelerna åt sidan för att kontrollera ljuset."
+          category="invandigt"
           faq={faq}
           images={[
             { src: "/images/Ljusa-panelgardiner-1.jpg", alt: "Ljusa panelgardiner i modernt rum" },

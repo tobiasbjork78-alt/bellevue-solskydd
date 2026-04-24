@@ -73,6 +73,7 @@ export default function ParasollerPage() {
         <ProductPageLayout
           title="Parasoller i Malmö och Trelleborg — uteservering och trädgård"
           intro="På uteserveringarna i Malmös city och vid kustrestaurangerna i Trelleborg levererar vi parasoller för de mest utsatta lägena. Även för villaterrassen och trädgården — från klassiska runda till vindstarka premiummodeller upp till 12×12 m."
+          category="utvandigt"
           faq={faq}
           images={[
             { src: "/images/parasoll-1.png", alt: "Parasoll — klassisk modell" },
