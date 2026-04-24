@@ -16,6 +16,7 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://bellevuesolskydd.se"),
   title: "Bellevue Solskydd — Måttanpassade solskydd i Malmö, Lund och Staffanstorp",
   description:
     "Måttanpassade markiser, persienner och gardiner med montering och kostnadsfritt hembesök. Upp till 10 års garanti. Kvalitet sedan 1982.",

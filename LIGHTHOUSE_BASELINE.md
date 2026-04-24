@@ -130,8 +130,23 @@ basen redan är rätt trimmad.
 
 ---
 
-## Efter-mätning (efter Steg 2–6)
+## Efter Steg 2 — Performance quick wins
 
-*Kan inte köras — se "Status" ovan. När Chrome finns tillgängligt i WSL
-ska motsvarande uppsättning köras och resultaten läggas in i en "After"-
-kolumn här.*
+Kodbasen var redan förhållandevis trimmad. Verifierat i Steg 2:
+
+| Punkt | Resultat |
+|-------|----------|
+| `next/image` med `priority` på Hero + Header-logo | Redan på plats, inget att ändra |
+| `sizes`-attribut på alla responsiva bilder | Redan korrekta (100vw på Hero, grid-medveten på Products-kort, 56rem-cap på ProductPageLayout) |
+| Inga råa `<img>`-taggar | Bekräftat |
+| `next/font/google` med `display: swap` + `latin`-subset | Redan på plats. `latin` innehåller å/ä/ö, `latin-ext` ej nödvändig |
+| Font-weight subsetting | Raleway 400/600/700/800 laddas — alla används (111×bold, 20×semibold, 1×extrabold, 10×medium som faller på Open Sans). Ingen reduktion möjlig utan att bryta design |
+| Bundle-size | ~696 KB JS + 36 KB CSS i `out/_next/static/chunks/` — ingen dynamisk import nödvändig |
+| Hero-bild | 253 KB webp — rimligt. Mobile-variant kräver `images.unoptimized: false` (skulle bryta statisk export) → ej scope |
+| Tredjepartsskript | Inga finns att trimma |
+
+**Enda konkreta ändring**: lagt till `metadataBase` i
+`app/layout.tsx` så att relativa URL:er i metadata (OG-bilder m.m.)
+resolveras korrekt mot produktionsdomänen.
+
+*Lighthouse-efter-mätning kan inte köras — se "Status" ovan.*
