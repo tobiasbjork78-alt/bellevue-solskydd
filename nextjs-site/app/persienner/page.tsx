@@ -46,12 +46,6 @@ const models = [
   },
 ];
 
-const colors = [
-  "B4 Brun", "B7 Beige", "B10 Vit/svart insida", "B13 Ljusgrå",
-  "B20 Glittrig Aluminium", "B22 Svart", "B23 Grå Aluminium", "B24 Antracit Grå",
-  "B25 Mellangrå", "B26 Mörkgrå", "B27 Silver Perforerad",
-];
-
 const faq = [
   {
     q: "Kan jag få persienner som är måttanpassade?",
@@ -215,22 +209,6 @@ export default function PersiennerPage() {
             </p>
           </section>
 
-          <section className="mb-12">
-            <h2 className="font-[family-name:var(--font-heading)] text-2xl font-bold text-charcoal mb-4">
-              11 standardfärger i aluminium
-            </h2>
-            <div className="flex flex-wrap gap-2">
-              {colors.map((c) => (
-                <span key={c} className="bg-light-bg border border-border rounded-md px-3 py-1.5 text-sm text-mid-gray">
-                  {c}
-                </span>
-              ))}
-            </div>
-            <p className="text-sm text-mid-gray mt-3">
-              Andra färgval mot pristillägg. Lamellerna är fria från bly, krom och
-              arsenik.
-            </p>
-          </section>
         </ProductPageLayout>
       </main>
       <Footer />
