@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+  }
+  body {
+    @apply bg-canvas text-ink;
+    font-family: var(--font-sans);
+  }
+  ::selection {
+    background-color: #2E4A38;
+    color: #FBFAF7;
+  }
+}
+
+@layer components {
+  .heading-display {
+    font-family: var(--font-display);
+    letter-spacing: -0.045em;
+    line-height: 0.95;
+    font-weight: 500;
+  }
+  .heading-section {
+    font-family: var(--font-display);
+    letter-spacing: -0.035em;
+    line-height: 1;
+  }
+  .body-copy {
+    font-family: var(--font-sans);
+    line-height: 1.7;
+    letter-spacing: -0.01em;
+  }
+  .reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 900ms cubic-bezier(.2,.8,.2,1),
+                transform 900ms cubic-bezier(.2,.8,.2,1);
+  }
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
