@@ -42,6 +42,7 @@ export function LocalProofSection() {
               icon={item.icon}
               title={item.title}
               description={item.description}
+              className="reveal"
             />
           ))}
         </div>

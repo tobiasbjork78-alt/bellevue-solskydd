@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Menu, X, ChevronDown } from "lucide-react";
 import { Button } from "@/components/atoms/Button";
 import { cn } from "@/lib/cn";
@@ -21,6 +21,8 @@ const navUtvandigt = [
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
+  const overlayRef = useRef<HTMLDivElement>(null);
+  const triggerRef = useRef<HTMLButtonElement>(null);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 8);
@@ -33,6 +35,52 @@ export function Header() {
     document.body.style.overflow = open ? "hidden" : "";
     return () => {
       document.body.style.overflow = "";
+    };
+  }, [open]);
+
+  useEffect(() => {
+    if (!open) return;
+
+    const overlay = overlayRef.current;
+    if (!overlay) return;
+
+    const focusables = () =>
+      Array.from(
+        overlay.querySelectorAll<HTMLElement>(
+          'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])'
+        )
+      ).filter((el) => !el.hasAttribute("aria-hidden"));
+
+    const all = focusables();
+    all[0]?.focus();
+
+    function onKey(event: KeyboardEvent) {
+      if (event.key === "Escape") {
+        event.preventDefault();
+        setOpen(false);
+        return;
+      }
+      if (event.key !== "Tab") return;
+
+      const list = focusables();
+      if (list.length === 0) return;
+      const first = list[0];
+      const last = list[list.length - 1];
+      const active = document.activeElement as HTMLElement | null;
+
+      if (event.shiftKey && active === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && active === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    }
+
+    document.addEventListener("keydown", onKey);
+    return () => {
+      document.removeEventListener("keydown", onKey);
+      triggerRef.current?.focus();
     };
   }, [open]);
 
@@ -84,9 +132,11 @@ export function Header() {
           </div>
 
           <button
+            ref={triggerRef}
             type="button"
             onClick={() => setOpen(true)}
             aria-label="Öppna meny"
+            aria-expanded={open}
             className="lg:hidden text-ink"
           >
             <Menu size={24} strokeWidth={1.6} />
@@ -95,7 +145,13 @@ export function Header() {
       </div>
 
       {open && (
-        <div className="fixed inset-0 z-50 bg-canvas-soft lg:hidden">
+        <div
+          ref={overlayRef}
+          role="dialog"
+          aria-modal="true"
+          aria-label="Huvudmeny"
+          className="fixed inset-0 z-50 bg-canvas-soft lg:hidden"
+        >
           <div className="flex h-20 items-center justify-between px-6">
             <span className="font-display uppercase tracking-[0.15em] text-base text-ink">
               Bellevue Solskydd

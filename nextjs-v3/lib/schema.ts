@@ -110,6 +110,33 @@ export function faqSchema(items: Array<{ question: string; answer: string }>) {
   };
 }
 
+export function articleSchema({
+  url,
+  headline,
+  description,
+  datePublished,
+  dateModified,
+}: {
+  url: string;
+  headline: string;
+  description: string;
+  datePublished: string;
+  dateModified?: string;
+}) {
+  return {
+    "@type": "Article",
+    headline,
+    description,
+    url,
+    mainEntityOfPage: { "@type": "WebPage", "@id": url },
+    datePublished,
+    dateModified: dateModified ?? datePublished,
+    inLanguage: "sv-SE",
+    author: { "@id": ORG_ID },
+    publisher: { "@id": ORG_ID },
+  };
+}
+
 export function contactPageSchema(url: string) {
   return {
     "@type": "ContactPage",
