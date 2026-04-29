@@ -3,11 +3,15 @@ import { Divider } from "@/components/atoms/Divider";
 
 const productLinks = [
   { label: "Markiser", href: "/markiser-malmo/" },
+  { label: "Fönstermarkiser", href: "/fonstermarkiser-malmo/" },
   { label: "Persienner", href: "/persienner-malmo/" },
+  { label: "Träpersienner", href: "/trapersienner-malmo/" },
   { label: "Plisségardiner", href: "/plissegardiner-malmo/" },
   { label: "Rullgardiner", href: "/rullgardiner-malmo/" },
+  { label: "Lamellgardiner", href: "/lamellgardiner-malmo/" },
   { label: "Zip Screen", href: "/zip-screen-malmo/" },
   { label: "Pergola", href: "/pergola-malmo/" },
+  { label: "Insektsskydd", href: "/insektsskydd-malmo/" },
 ];
 
 const serviceLinks = [
@@ -19,7 +23,9 @@ const serviceLinks = [
 
 const aboutLinks = [
   { label: "Om oss", href: "/om-oss/" },
+  { label: "Referenser", href: "/referenser/" },
   { label: "Guider", href: "/guider/" },
+  { label: "Kostnadsfri rådgivning", href: "/kostnadsfri-radgivning/" },
 ];
 
 export function Footer() {

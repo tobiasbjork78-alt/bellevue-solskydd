@@ -20,6 +20,14 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://www.bellevuesolskydd.se"),
   title: "Bellevue Solskydd",
   description: "Lokalt solskyddsföretag i Malmö.",
+  openGraph: {
+    siteName: "Bellevue Solskydd",
+    locale: "sv_SE",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+  },
 };
 
 export default function RootLayout({

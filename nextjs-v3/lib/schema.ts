@@ -1,8 +1,8 @@
 export const SITE_URL = "https://www.bellevuesolskydd.se";
 
-const ORG_ID = `${SITE_URL}/#organization`;
-const BUSINESS_ID = `${SITE_URL}/#localbusiness`;
-const SITE_ID = `${SITE_URL}/#website`;
+export const ORG_ID = `${SITE_URL}/#organization`;
+export const BUSINESS_ID = `${SITE_URL}/#localbusiness`;
+export const SITE_ID = `${SITE_URL}/#website`;
 
 const phone = "+46401811100";
 const email = "info@bellevuesolskydd.se";

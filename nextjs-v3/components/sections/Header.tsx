@@ -10,10 +10,13 @@ const navInvandigt = [
   { label: "Persienner", href: "/persienner-malmo/" },
   { label: "Plisségardiner", href: "/plissegardiner-malmo/" },
   { label: "Rullgardiner", href: "/rullgardiner-malmo/" },
+  { label: "Lamellgardiner", href: "/lamellgardiner-malmo/" },
+  { label: "Träpersienner", href: "/trapersienner-malmo/" },
 ];
 
 const navUtvandigt = [
   { label: "Markiser", href: "/markiser-malmo/" },
+  { label: "Fönstermarkiser", href: "/fonstermarkiser-malmo/" },
   { label: "Zip Screen", href: "/zip-screen-malmo/" },
   { label: "Pergola", href: "/pergola-malmo/" },
 ];
