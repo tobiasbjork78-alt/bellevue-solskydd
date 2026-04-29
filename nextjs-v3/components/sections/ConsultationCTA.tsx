@@ -35,7 +35,7 @@ export function ConsultationCTA({
             <Button
               href={href}
               size="lg"
-              className="bg-ink-inverse text-ink hover:bg-ink-inverse/90"
+              className="!bg-canvas-soft !text-brand-green hover:!bg-white"
             >
               {cta}
             </Button>
