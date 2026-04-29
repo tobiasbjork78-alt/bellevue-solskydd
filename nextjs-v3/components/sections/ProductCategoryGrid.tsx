@@ -14,7 +14,7 @@ const indoor = [
     title: "Plissé",
     description:
       "Plissegardiner som följer fönstrets form. Svala på sommaren, isolerande på vintern.",
-    href: "/plisse-malmo/",
+    href: "/plissegardiner-malmo/",
     color: "plisse" as const,
   },
   {
@@ -38,7 +38,7 @@ const outdoor = [
     title: "Zip Screen",
     description:
       "Vindstabil utvändig screen som monteras direkt på fasaden. Effektivt skydd mot värme och insyn.",
-    href: "/zipscreen-malmo/",
+    href: "/zip-screen-malmo/",
     color: "zipscreen" as const,
   },
   {

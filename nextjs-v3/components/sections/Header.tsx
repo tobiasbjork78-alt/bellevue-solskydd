@@ -8,13 +8,13 @@ import { cn } from "@/lib/cn";
 
 const navInvandigt = [
   { label: "Persienner", href: "/persienner-malmo/" },
-  { label: "Plissé", href: "/plisse-malmo/" },
+  { label: "Plisségardiner", href: "/plissegardiner-malmo/" },
   { label: "Rullgardiner", href: "/rullgardiner-malmo/" },
 ];
 
 const navUtvandigt = [
   { label: "Markiser", href: "/markiser-malmo/" },
-  { label: "Zip Screen", href: "/zipscreen-malmo/" },
+  { label: "Zip Screen", href: "/zip-screen-malmo/" },
   { label: "Pergola", href: "/pergola-malmo/" },
 ];
 

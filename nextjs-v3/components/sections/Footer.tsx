@@ -4,9 +4,9 @@ import { Divider } from "@/components/atoms/Divider";
 const productLinks = [
   { label: "Markiser", href: "/markiser-malmo/" },
   { label: "Persienner", href: "/persienner-malmo/" },
-  { label: "Plissé", href: "/plisse-malmo/" },
+  { label: "Plisségardiner", href: "/plissegardiner-malmo/" },
   { label: "Rullgardiner", href: "/rullgardiner-malmo/" },
-  { label: "Zip Screen", href: "/zipscreen-malmo/" },
+  { label: "Zip Screen", href: "/zip-screen-malmo/" },
   { label: "Pergola", href: "/pergola-malmo/" },
 ];
 
