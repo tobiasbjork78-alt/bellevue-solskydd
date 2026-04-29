@@ -96,6 +96,22 @@ export function servicePageSchema(
   };
 }
 
+export function localCityServiceSchema(
+  name: string,
+  url: string,
+  description: string,
+  cityName: string
+) {
+  return {
+    "@type": "Service",
+    name,
+    url,
+    description,
+    provider: { "@id": BUSINESS_ID },
+    areaServed: { "@type": "City", name: cityName },
+  };
+}
+
 export function faqSchema(items: Array<{ question: string; answer: string }>) {
   return {
     "@type": "FAQPage",
