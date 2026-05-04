@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { Header } from "@/components/sections/Header";
 import { Footer } from "@/components/sections/Footer";
 import { StickyMobileCTA } from "@/components/sections/StickyMobileCTA";
@@ -19,9 +20,9 @@ import {
 
 const PAGE_URL = `${SITE_URL}/plissegardiner-malmo/`;
 const PAGE_TITLE =
-  "Plisségardiner Malmö | Måttanpassade plissé med montering";
+  "Plisségardiner Malmö | Tvåvägs, isolerväv & glasmontering — Bellevue Solskydd";
 const PAGE_DESC =
-  "Plisségardiner i Malmö för moderna fönster och äldre fastigheter. Energibesparande dubbelväv, top-down/bottom-up och takfönsterlösningar — rådgivning och montering på plats.";
+  "Måttanpassade plisségardiner i Malmö och södra Skåne. Sex modeller från glasmonterad utan borrning till linspänd för stora fönster. Tvåvägs, isolerande dubbelväv och fukttåliga vävar — kostnadsfritt hembesök.";
 
 export const metadata: Metadata = {
   title: PAGE_TITLE,
@@ -31,29 +32,34 @@ export const metadata: Metadata = {
 
 const faqs = [
   {
-    question: "Fungerar plissé i kök och badrum?",
+    question: "Vad är skillnaden mellan en plissé och en rullgardin?",
     answer:
-      "Ja. Det finns plissévävar som är behandlade för fuktiga miljöer och som klarar både kondens och rengöring. För badrum och kök rekommenderar vi väv med fukttålig beläggning och spännvajrar i material som inte korroderar. Vi går igenom vävvalet utifrån fönstrets placering.",
+      "En rullgardin har bara två lägen i praktiken — uppe eller nere — eftersom väven rullas runt en stång ovanför fönstret. En plissé består av en veckad väv som hänger mellan en överlist och en underlist, och eftersom listerna kan parkeras var som helst i fönstret kan ni ha den uppe halvvägs, nere halvvägs, eller bara täcka mitten. På modeller med tvåvägsjustering går det att styra båda listerna oberoende av varandra. Det är den principiella skillnaden — fri positionering jämfört med en upp/ner-rörelse.",
   },
   {
-    question: "Hur mycket isolerar plissé egentligen?",
+    question: "Är dubbelväv (honeycomb) verkligen värt prispåslaget?",
     answer:
-      "En enkelvikt plissé sänker värmeförlusten i fönstret märkbart genom det stillastående luftlagret mellan väv och glas. En dubbelväv av honeycomb-typ skapar slutna luftceller och är betydligt mer effektiv — typiskt 30–40 procent reducerad värmeförlust på fönstret jämfört med utan plissé. Det märks framför allt på äldre fönster med sämre U-värde.",
+      "På fönster där värme- eller kylproblemet är märkbart, ja. Dubbelvävens slutna luftceller fungerar som ett stillastående luftlager mellan väv och glas. På söder- och västerlägen mot Öresund där eftermiddagssolen står hårt blir skillnaden tydlig under sommaren — rummet håller sig svalare. Vintertid minskar kallraset vid stora glasytor mot norr. På små fönster i mellanrum är effekten mindre uppenbar och då räcker enkelvävens prisbild ofta bättre.",
   },
   {
-    question: "Vad är skillnaden mellan plissé och persienner?",
+    question: "Kan plissé monteras utan att man borrar i fönsterkarmen?",
     answer:
-      "Persienner har horisontella lameller som vinklas i steg — de styr ljuset mer exakt och släpper igenom ett strimmigt ljus. Plissé är en plisserad tygduk som ger ett mjukare, jämnare ljus och bättre isolering. Plissé är också tystare i drift och passar bättre på små eller specialformade fönster.",
+      "Ja. Velo-modellen sitter med sidoskenor fästa direkt på rutan, så ingen åverkan görs på karmen. Det är en vanlig lösning i hyresrätter och bostadsrätter där man inte vill — eller får — borra i originalkarmar. Tvåvägsjustering ingår även i Velo, så ni får både den enkla monteringen och den fria positioneringen i samma modell.",
   },
   {
-    question: "Hur rengör jag plissén?",
+    question: "Funkar plissé i badrum trots fukten?",
     answer:
-      "Damma av väven regelbundet med dammvippa eller dammsugare med mjukt munstycke. Fläckar tas bort med en lätt fuktig svamp och milt rengöringsmedel — undvik blötläggning. För djuprengöring kan plissén tas ner och spolas försiktigt. Vi visar avmonteringen vid leverans.",
+      "Ja, så länge ni väljer en fukttålig väv. De vanliga vävarna är inte avsedda för en miljö som duschas i, men det finns vävar som tål kondens och som kan torkas av med en fuktig trasa. Vi tar med vävprover för fukttålig kategori vid hembesöket och visar skillnaden mot standardvävarna.",
   },
   {
-    question: "Klarar ni specialformade fönster?",
+    question: "Hur breda kan plisségardiner göras?",
     answer:
-      "Ja. Plissé är ett av de få solskydd som lämpar sig för triangulära, halvcirkelformade och snedställda fönster — vanligt i äldre fastigheter och nybyggda etagevåningar i Malmö. Vi måttar fönster med ovanlig form på plats och beställer en fast eller manuell plissé som följer formen.",
+      "Det beror på modellen. Optima — den linspända modellen med förstärkta lister — går i regel upp till cirka 200 cm bred med enkelväv och något smalare (150–180 cm) med isolerväv, eftersom dubbelväven väger mer. Frihängande Liora hanterar bredare fönster. För riktigt breda partier — typ kortväggsfönster i nyproduktion — är det ofta bättre att dela upp i flera plisségardiner sida vid sida än att tvinga fram en ovanligt bred enhet.",
+  },
+  {
+    question: "Tvättas vävarna i tvättmaskin?",
+    answer:
+      "Nej. Veckningen är permanent men inte tvättmaskinssäker — vecket riskerar att deformeras. Damma av med dammvippa eller dammsugare på låg effekt med mjukt munstycke. Punktrengöring med fuktig svamp och milt rengöringsmedel går bra på fläckar. Låt alltid väven torka helt utdragen innan ni fäller ihop den igen.",
   },
 ];
 
@@ -61,6 +67,7 @@ export default function PlissegardinerMalmoPage() {
   const jsonLd = graph(
     breadcrumbSchema([
       { name: "Start", url: `${SITE_URL}/` },
+      { name: "Invändigt solskydd", url: `${SITE_URL}/invandigt-solskydd/` },
       { name: "Plisségardiner Malmö", url: PAGE_URL },
     ]),
     servicePageSchema("Plisségardiner Malmö", PAGE_URL, PAGE_DESC),
@@ -76,6 +83,10 @@ export default function PlissegardinerMalmoPage() {
           <Breadcrumbs
             items={[
               { name: "Start", url: `${SITE_URL}/` },
+              {
+                name: "Invändigt solskydd",
+                url: `${SITE_URL}/invandigt-solskydd/`,
+              },
               { name: "Plisségardiner Malmö", url: PAGE_URL },
             ]}
           />
@@ -89,96 +100,301 @@ export default function PlissegardinerMalmoPage() {
           </div>
 
           <AnswerBox>
-            En plissé är en plisserad tygduk som dras ihop som ett dragspel
-            och kan placeras precis där du vill ha den i fönstret. Bellevue
-            Solskydd hjälper er i Malmö med plissé för moderna lägenheter,
-            äldre fastigheter och fönster med ovanlig form — med fokus på
-            isolering, ljus och stilrent uttryck.
+            En plisségardin är en permanent veckad väv som hänger mellan två
+            lister och som kan parkeras var som helst i fönstret — uppifrån,
+            nedifrån eller från båda håll samtidigt. Bellevue Solskydd
+            levererar plissé i sex modeller — från diskret glasmonterad utan
+            borrning till linspänd för stora fönster — och hjälper er välja
+            väv utifrån hur fönstret används.
           </AnswerBox>
 
-          <Section heading="När passar plissé?">
+          <Section heading="Varför plissé fungerar så bra i Malmö-bostäder">
             <p>
-              Plissé är förmodligen det mest mångsidiga invändiga
-              solskyddet. Den följer fönstrets form, släpper igenom ett
-              jämnt ljus utan strimmor och kan dras både uppifrån och
-              nerifrån — bra när ni vill ha insynsskydd nedtill men ändå
-              släppa in ljuset upptill.
+              Två förutsättningar gör plissé särskilt användbar här. Den
+              första är de många äldre fastigheterna i Möllevången,
+              Slottsstaden och centrum — där fönstren ofta är kopplade,
+              djupa och har avvikande mått. En linspänd plissé spänns mellan
+              karmens fyra hörn och följer fönstrets faktiska form, vilket
+              är enklare att lyckas med än att hitta en standardrullgardin
+              som inte ser klumpig ut.
             </p>
             <p>
-              I Malmös äldre fastigheter — i Möllevången, Slottsstaden och
-              centrala lägenheter — sitter ofta original- eller
-              kopplade fönster med oregelbundna mått. Där är plissé ofta en
-              enklare lösning än rullgardin eller persienn, eftersom den
-              kan måttanpassas helt och spänns mellan vajrar.
-            </p>
-          </Section>
-
-          <Section heading="Vilka typer finns?">
-            <p>
-              <strong className="font-medium text-ink">Enkelvikt plissé</strong>{" "}
-              är grundutförandet — en plisserad väv som dras ihop när den
-              inte används. Lätt, prisvärd och passar de flesta vanliga
-              fönster.
+              Den andra är insynssituationen. Bostadsrätter i markplan eller
+              på låga våningar mot gata — vanligt i hela inre Malmö — har
+              insyn nedtill men vill behålla dagsljuset uppifrån. Tvåvägs­-
+              justeringen, där över- och underlist går att styra var för
+              sig, är gjord för precis det här. Ni täcker nedre halvan,
+              släpper in ljus genom övre, och kan justera under dagen utan
+              att hela fönstret blockeras.
             </p>
             <p>
-              <strong className="font-medium text-ink">Dubbelväv (honeycomb)</strong>{" "}
-              har två tyglager som bildar slutna luftceller, ungefär som en
-              honungskaka. Det skapar en isolerande luftbarriär mellan väv
-              och glas och är märkbart effektivt mot värmeförluster — bra
-              på kalla skånska vintrar.
-            </p>
-            <p>
-              <strong className="font-medium text-ink">Top-down/bottom-up</strong>{" "}
-              kan styras både uppifrån och nedifrån. Praktiskt för
-              gatuvåningar där ni vill släppa in dagsljus upptill men
-              skärma av insyn nedtill.
-            </p>
-            <p>
-              <strong className="font-medium text-ink">Takfönster-plissé</strong>{" "}
-              är en variant där plissén löper i sidoskenor och spänns ut.
-              Vanlig för Velux och andra takfönster i sovloft.
+              Telefon: <strong className="text-ink">040-18 11 00</strong>{" "}
+              · E-post:{" "}
+              <a
+                href="mailto:info@bellevuesolskydd.se"
+                className="text-ink underline decoration-ink/30 hover:decoration-ink"
+              >
+                info@bellevuesolskydd.se
+              </a>
             </p>
           </Section>
 
-          <Section heading="Vad påverkar priset?">
+          <Section heading="Sex modeller — välj utifrån fönstret">
             <p>
-              För plissé styrs priset av fönstrets storlek, vävtypen och
-              hur plissén ska manövreras — handtag, snöre, kedja eller
-              motor. Honeycomb-väv kostar mer än enkelvikt men ger
-              isoleringseffekt som ofta tjänas in på lägre uppvärmnings-
-              och kylkostnader.
+              Sortimentet är uppdelat efter monteringsprincip. Frihängande
+              för enklare uppdrag, linspänd för exakt passform, och
+              glasmonterad där karmen inte får röras.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Frihängande
+            </h3>
+            <p>
+              <strong className="font-medium text-ink">Liora</strong> är
+              grundutförandet — envägsjustering, draglina i sidan och
+              utanpåliggande montering på karmen. Praktisk för stora,
+              regelbundna fönster där tvåvägsjusteringen inte tillför något.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Linspänd
+            </h3>
+            <p>
+              <strong className="font-medium text-ink">Mono</strong> är
+              envägs och styrs med ett mittmonterat handtag på underlisten.
+              Linorna spänns mellan karmens hörn och håller väven helt jämn
+              även vid lutande fönster.
             </p>
             <p>
-              Plissé är ett solskydd där det är vanligt att börja med ett
-              eller två rum och utöka till resten av bostaden i etapper.
-              Det fungerar bra eftersom varje plissé är fristående, både
-              i pris och installation.
+              <strong className="font-medium text-ink">Dualis</strong> ger
+              tvåvägsjustering med handtag på både över- och underlist och
+              magneter som klickar fast positionen. Bra för standardstora
+              fönster där insyn nedtill är problemet.
+            </p>
+            <p>
+              <strong className="font-medium text-ink">Optima</strong>{" "}
+              är linspänd tvåvägs med förstärkta lister som motverkar
+              bananeffekt — den tendens som lister kan få att svaja vid
+              breda fönster eller mörkläggande väv. Maxbredd cirka 200 cm
+              med enkelväv, något smalare med isolerväv.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Glasmonterad
+            </h3>
+            <p>
+              <strong className="font-medium text-ink">Velo</strong> sitter
+              med sidoskenor direkt på glaset utan att karmen behöver borras
+              i. Tvåvägs ingår. Den vanligaste lösningen vi installerar i
+              bostadsrätter där föreningen inte tillåter karmingrepp.
+            </p>
+            <p>
+              <strong className="font-medium text-ink">Atria</strong>{" "}
+              är specialvarianten för inglasade balkonger. Bygger 16 mm i
+              djup och passar de smala glasprofilerna på balkongsystem som
+              vanlig plissé inte rår på.
             </p>
           </Section>
 
-          <Section heading="Så går rådgivning och montering till">
-            <ol className="space-y-5 list-none">
-              <Step
-                index="01"
-                title="Hembesök"
-                body="Vi kommer hem till er, mäter alla fönster — inklusive specialformer — och går igenom hur rummen används."
-              />
-              <Step
-                index="02"
-                title="Vävprover"
-                body="Vi visar vävprover med olika ljusgenomsläpp så att ni kan välja från transparent till mörkläggande."
-              />
-              <Step
-                index="03"
-                title="Specificerad offert"
-                body="Pris per fönster med vävtyp, manövrering och eventuell motor — inga oklarheter."
-              />
-              <Step
-                index="04"
-                title="Montering"
-                body="Plissén monteras med diskreta beslag mellan karm och båge, eller utanpåliggande där det krävs."
-              />
-            </ol>
+          <Section heading="Tvåvägsjustering i praktiken">
+            <p>
+              Tvåvägsjustering är inte en gimmick — det är hela skillnaden
+              mellan plissé och rullgardin för insynsfönster. Med två
+              oberoende lister kan ni ge fönstret tre olika lägen utan att
+              bygga om något:
+            </p>
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                Nedre halvan täckt, övre öppen — insynsskydd dagtid med ljus
+                ovanifrån. Klassiskt val för kök eller hall mot gata.
+              </li>
+              <li>
+                Övre halvan täckt, nedre öppen — solavskärmning på
+                eftermiddagen utan att utsikten i ögonhöjd försvinner.
+              </li>
+              <li>
+                Båda halvorna inåt mitten — en band-formad öppning i mitten
+                där solen står lågt på vintern och ändå behöver släppas in.
+              </li>
+            </ul>
+            <p>
+              Av sex modeller har fyra tvåvägs (Dualis, Optima, Velo,
+              Atria). De två kvarvarande — Liora och Mono — är ren
+              envägslösning för fönster där tvåvägsfunktionen inte tillför
+              något.
+            </p>
+          </Section>
+
+          <Section heading="Vävvalet styr funktionen">
+            <p>
+              Konstruktionen är samma oavsett modell — vävvalet avgör vad
+              gardinen faktiskt ska göra. Vill ni ha morgonljus i sovrummet
+              eller helt mörkt? Vill ni dämpa solvärme eller bara bländning?
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Enkelväv
+            </h3>
+            <p>
+              Ett tyglager. Finns i hela skalan från transparent
+              (silhuettverkan) till ljusfiltrerande och helt mörkläggande.
+              Den ihopfällda enkelväven bygger cirka 1,5 cm per meter
+              fönsterhöjd — knappt synlig vid överlisten.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Isolerväv (dubbelväv / honeycomb)
+            </h3>
+            <p>
+              Två tyglager med slutna luftceller emellan. Luftcellerna
+              skapar ett stillastående luftlager och dämpar värmeöverföring
+              åt båda håll — solvärme på sommaren, kallras på vintern.
+              Bygger cirka 3 cm per meter fönsterhöjd ihopfälld. Den
+              mörkläggande varianten har dessutom en aluminiumkärna mellan
+              tyglagren som stoppar allt ljus och reflekterar värme — den
+              mest effektiva mörkläggningen i vårt sortiment.
+            </p>
+            <p>
+              Vävarna finns i många färger och flera funktionsklasser —
+              fukttåliga vävar för badrum, flamskyddade för kontor och
+              offentliga lokaler. Vi visar prover i ert ljus vid
+              hembesöket.
+            </p>
+          </Section>
+
+          <Section heading="Var fungerar plissé bäst?">
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Sovrum
+            </h3>
+            <p>
+              Mörkläggande isolerväv med aluminiumkärna stänger ute den
+              tidiga sommarmorgonen och dämpar samtidigt kallraset vintertid.
+              På större sovrumsfönster är Optima ett bättre val än Dualis —
+              de förstärkta listerna håller väven slät även med tyngre väv.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Badrum
+            </h3>
+            <p>
+              Fukttålig väv som inte mörknar av kondens. Tvåvägs ger
+              insynsskydd nedtill samtidigt som dagsljuset behålls — ett
+              vanligt badrumsfönster mot gata blir användbart utan att man
+              behöver hänga ned hela fönstret.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Vardagsrum mot gata
+            </h3>
+            <p>
+              Markplansfönster i Davidshall, Möllevången eller Sofielund har
+              ofta insyn från gata och gångväg. Tvåvägs translucent väv ger
+              en jämn dagsljuskvalitet inomhus utan att rummet exponeras.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Inglasade balkonger
+            </h3>
+            <p>
+              Atria är konstruerad för balkongsystem med smala glasprofiler
+              och 16 mm bygghöjd. Vanlig plissé får inte plats — den här
+              gör det.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Kontor
+            </h3>
+            <p>
+              Flamskyddade vävar finns för lokaler där brandkrav är
+              tillämpliga. Plissé tar mycket lite plats — även med
+              isolerväv bygger den sammanlagda paketet bara cirka 3 cm per
+              meter — vilket är märkbart mindre än en rullgardinkassett.
+            </p>
+          </Section>
+
+          <Section heading="Manövrering">
+            <p>
+              Plisségardiner är manuella — det finns ingen motoriserad
+              plissé i sortimentet. Det betyder också att det inte finns
+              något batteri att ladda eller någon elektronik att felsöka.
+              Manövreringen sker beroende på modell:
+            </p>
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                <strong className="font-medium text-ink">Draglina</strong>{" "}
+                med linlås (Liora) — drag i sidan, lås i önskad höjd.
+              </li>
+              <li>
+                <strong className="font-medium text-ink">
+                  Mittmonterat handtag
+                </strong>{" "}
+                (Mono, Dualis) — flytta listen direkt med handen.
+              </li>
+              <li>
+                <strong className="font-medium text-ink">
+                  Magnethandtag eller spår
+                </strong>{" "}
+                (Optima, Velo, Atria) — magneter klickar fast i exakt
+                position varje gång.
+              </li>
+            </ul>
+            <p>
+              På tvåvägsmodellerna sitter handtag eller spår på båda
+              listerna så över- och underkant kan styras separat.
+            </p>
+          </Section>
+
+          <Section heading="Pris och vad som påverkar det">
+            <p>
+              Slutpriset bestäms av fönstrets storlek, valet mellan enkelväv
+              och dubbelväv, modellens monteringsprincip och om det är en
+              specialväv som flamskyddad eller fukttålig. Mörkläggande
+              isolerväv med aluminiumkärna är dyraste vävvalet eftersom
+              både dubbelvävskonstruktionen och aluminiumlagret kostar att
+              tillverka.
+            </p>
+            <p>
+              Plissé fungerar bra att etappinstallera. Många kunder börjar
+              med sovrum och badrum — där tvåvägs och mörkläggning gör mest
+              skillnad — och utökar till resten av bostaden senare. Vi
+              specificerar pris per fönster i offerten.
+            </p>
+          </Section>
+
+          <Section heading="Montering och skötsel">
+            <p>
+              Vi monterar plissé i karmen, mellan båge och karm, eller med
+              sidoskenor direkt på glaset — beroende på modell. Beslagen
+              är diskreta och både fönstret och plissén lämnas i fungerande
+              skick innan vi går.
+            </p>
+            <p>
+              Skötseln är minimal: damma av med dammvippa eller dammsugare
+              på låg effekt med mjukt munstycke. Fläckar tas bort med en
+              fuktig svamp. Inget tvättmaskin — låt alltid väven torka
+              utdragen.
+            </p>
+          </Section>
+
+          <Section heading="Andra invändiga lösningar">
+            <p>
+              Plissé är inte alltid det rätta valet — vi pekar gärna på
+              alternativen om vi tror det passar bättre. För riktigt breda
+              fönster är{" "}
+              <Link
+                href="/rullgardiner-malmo/"
+                className="text-ink underline decoration-ink/30 hover:decoration-ink"
+              >
+                rullgardin Maxi
+              </Link>{" "}
+              ofta enklare. För kopplade fönster i sekelskifteshus kan en{" "}
+              <Link
+                href="/persienner-malmo/"
+                className="text-ink underline decoration-ink/30 hover:decoration-ink"
+              >
+                mellanglaspersienn
+              </Link>{" "}
+              vara mindre synlig. Och för fönsterpartier i storlekar över
+              tre meter brukar{" "}
+              <Link
+                href="/lamellgardiner-malmo/"
+                className="text-ink underline decoration-ink/30 hover:decoration-ink"
+              >
+                lamellgardiner
+              </Link>{" "}
+              vara den smidigare lösningen.
+            </p>
           </Section>
 
           <div className="mt-20">
@@ -202,8 +418,8 @@ export default function PlissegardinerMalmoPage() {
 
         <ConsultationCTA
           eyebrow="Plisségardiner Malmö"
-          heading="Boka kostnadsfri rådgivning för plissé."
-          body="Vi mäter på plats, visar vävprover och föreslår en plissélösning som passar fönstren — även de med ovanlig form. Hembesök och offert kostar inget."
+          heading="Boka kostnadsfritt hembesök för plissé."
+          body="Vi mäter, visar vävprover i ert ljus och föreslår modell utifrån fönstret. Hembesök, mätning och offert är gratis — gäller hela södra Skåne."
         />
       </main>
       <Footer />
@@ -228,27 +444,5 @@ function Section({
         {children}
       </div>
     </section>
-  );
-}
-
-function Step({
-  index,
-  title,
-  body,
-}: {
-  index: string;
-  title: string;
-  body: string;
-}) {
-  return (
-    <li className="flex gap-5">
-      <span className="font-display text-2xl text-brand-brass tracking-tight w-12 shrink-0">
-        {index}
-      </span>
-      <div>
-        <h3 className="font-medium text-ink mb-1">{title}</h3>
-        <p className="body-copy text-ink-soft">{body}</p>
-      </div>
-    </li>
   );
 }
