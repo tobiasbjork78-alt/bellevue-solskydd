@@ -254,8 +254,102 @@ export default function InvandigtSolskyddPage() {
             <p className="mt-8">
               Tabellen är en utgångspunkt — i verkligheten är det ofta en
               kombination som blir bäst. Plissé i sovrummet, rullgardin med
-                screen i hemmakontoret, persienn i köket. Vi går igenom rum för
+              screen i hemmakontoret, persienn i köket. Vi går igenom rum för
               rum vid hembesöket.
+            </p>
+          </Section>
+
+          <Section heading="Vävvalet — det som faktiskt styr funktionen">
+            <p>
+              För både plissé, rullgardin och lamellgardin är det vävvalet
+              som avgör vad solskyddet gör när det är på plats. Konstruktionen
+              är samma; väven är det som differentierar. Tre kategorier
+              dominerar och varje fönster brukar ha en självklar vinnare:
+            </p>
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                <strong className="font-medium text-ink">
+                  Mörkläggande (blackout)
+                </strong>{" "}
+                — opak väv som stoppar allt direktljus. Med vit baksida
+                reflekteras dessutom solvärme tillbaka mot glaset.
+                Sovrum, hemmakontor med videomöten och konferensrum är
+                typiska användningsområden.
+              </li>
+              <li>
+                <strong className="font-medium text-ink">Screen</strong>{" "}
+                — perforerad väv som dämpar bländning och solvärme men
+                behåller utsikten. Öppningsgraden anges i procent — lägre
+                ger mer skydd, högre ger mer genomsikt. Vanlig på kontor
+                och vardagsrum med utsikt.
+              </li>
+              <li>
+                <strong className="font-medium text-ink">
+                  Ljusfiltrerande
+                </strong>{" "}
+                — slutet vävmönster som mjukar upp dagsljuset utan att
+                stoppa det. Filtrerar bort direktstrålen men behåller
+                ljuskvaliteten i rummet.
+              </li>
+            </ul>
+            <p>
+              Utöver dessa finns specialvarianter — fukttåliga vävar för
+              badrum, flamskyddade vävar för kontor med brandkrav, och —
+              specifikt för plissé — isolerande dubbelväv (honeycomb) som
+              dämpar både kallras vintertid och solvärme sommartid genom
+              slutna luftceller mellan tyglagren. Vid hembesöket har vi
+              med oss vävprover i alla relevanta kategorier.
+            </p>
+          </Section>
+
+          <Section heading="Vanliga rum — vanliga val">
+            <p>
+              Det finns sällan ett enda rätt svar för en bostad. Olika
+              fönster har olika förutsättningar. Här är de vanligaste
+              kombinationerna vi installerar i Malmö-bostäder:
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Sovrum
+            </h3>
+            <p>
+              Blackout-rullgardin med motor (för tidsstyrd uppveckling)
+              eller mörkläggande plissé med isolerväv (för kombination av
+              mörker och klimatkomfort). Både stänger ute sommarmorgonens
+              tidiga ljus.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Vardagsrum mot väster
+            </h3>
+            <p>
+              Screen-rullgardin för bländskydd dagtid, ljusfiltrerande
+              variant för vardagligt bruk, eller persienn för stegvis
+              vinkling under dagen. Vid kraftig eftermiddagssol mot
+              Öresund kombineras invändigt skydd ofta med utvändig{" "}
+              <Link
+                href="/zip-screen-malmo/"
+                className="text-ink underline decoration-ink/30 hover:decoration-ink"
+              >
+                zip screen
+              </Link>{" "}
+              för bästa effekt.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Badrum
+            </h3>
+            <p>
+              Plissé tvåvägs med fukttålig väv (insynsskydd nedtill, ljus
+              ovanifrån) eller aluminiumpersienn (tål kondens utan
+              problem). Mellanglaspersienn fungerar utmärkt i kopplade
+              fönster vanliga i sekelskifteshus.
+            </p>
+            <h3 className="heading-section text-xl md:text-2xl text-ink mt-8 mb-3">
+              Hemmakontor och kök
+            </h3>
+            <p>
+              Screen-rullgardin för bildskärmsplatser, persienn för kök
+              med växlande ljusbehov, eller plissé för fönster där
+              insynsskydd kombineras med dagsljus. Vid altandörrar mot
+              uteplats är lamellgardin ofta den smidigaste lösningen.
             </p>
           </Section>
 

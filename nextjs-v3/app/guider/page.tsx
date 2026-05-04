@@ -18,18 +18,88 @@ export const metadata: Metadata = {
 
 const guides = [
   {
-    title: "Markis eller zip screen — vad passar bäst?",
+    title: "Välja rätt invändigt solskydd",
     excerpt:
-      "Två utvändiga solskydd som löser samma problem på olika sätt. Vi går igenom skillnaderna i värme, vind, utsikt och estetik.",
-    href: "/guider/markis-eller-zip-screen/",
-    eyebrow: "Jämförelse",
+      "Tre frågor smalnar av valet mellan plissé, rullgardin, persienn och lamellgardin — fönstertyp, funktion och om motor önskas.",
+    href: "/guider/valja-ratt-solskydd-inomhus/",
+    eyebrow: "Översikt",
   },
   {
     title: "Vilket solskydd passar bäst? En guide för Malmö",
     excerpt:
-      "Översikt av alla våra produkter — invändiga och utvändiga — med fokus på vad som faktiskt fungerar i skånskt klimat.",
+      "Översikt av invändigt och utvändigt solskydd — vad som funkar i skånskt klimat och hur man väljer mellan kategorier.",
     href: "/guider/vilket-solskydd-passar-bast/",
     eyebrow: "Översikt",
+  },
+  {
+    title: "Plisségardin eller rullgardin?",
+    excerpt:
+      "Positioneringsfrihet, isolering, motorisering och pris — vi pekar ut vilken som är rätt val för olika rum.",
+    href: "/guider/plissegardin-eller-rullgardin/",
+    eyebrow: "Jämförelse",
+  },
+  {
+    title: "Rullgardin eller persienn?",
+    excerpt:
+      "Två klassiska invändiga solskydd. Skillnader i ljuskontroll, mörkläggning, motor och vad som passar olika rum.",
+    href: "/guider/rullgardin-eller-persienn/",
+    eyebrow: "Jämförelse",
+  },
+  {
+    title: "Markis eller zip screen — vad passar bäst?",
+    excerpt:
+      "Två utvändiga solskydd som löser samma problem på olika sätt. Skillnader i värme, vind, utsikt och estetik.",
+    href: "/guider/markis-eller-zip-screen/",
+    eyebrow: "Jämförelse",
+  },
+  {
+    title: "Solskydd för sovrum",
+    excerpt:
+      "Mörkläggning utan ljusgloria runt karmen. Vi går igenom blackout-rullgardin, mörkläggande plissé och hur sidoskenor täter kanterna.",
+    href: "/guider/solskydd-sovrum/",
+    eyebrow: "Tema",
+  },
+  {
+    title: "Solskydd mot insyn",
+    excerpt:
+      "Tvåvägsplissé, vinklade persienner eller ljusfiltrerande rullgardin — så löser ni insynsfrågan utan att mörklägga.",
+    href: "/guider/solskydd-insyn/",
+    eyebrow: "Tema",
+  },
+  {
+    title: "Solskydd mot värme",
+    excerpt:
+      "Sänk temperaturen vid fönstret. Vi går igenom isolerväv, vit baksida på blackout, och varför utvändigt slår invändigt.",
+    href: "/guider/solskydd-varme/",
+    eyebrow: "Tema",
+  },
+  {
+    title: "Solskydd för kontor",
+    excerpt:
+      "Bländskydd vid skärmar, flamskyddade vävar för brandkrav och centraliserad styrning av fönsterrader.",
+    href: "/guider/solskydd-kontor/",
+    eyebrow: "Tema",
+  },
+  {
+    title: "Motoriserat solskydd",
+    excerpt:
+      "Motion eller Eve-Motion? Skillnaden mellan Bluetooth + brygga och Thread/Matter direkt mot HomeKit och Google Home.",
+    href: "/guider/motoriserat-solskydd/",
+    eyebrow: "Tema",
+  },
+  {
+    title: "Isolerande gardiner",
+    excerpt:
+      "Plissé med dubbelväv (honeycomb) — så fungerar luftcellernas isoleringseffekt åt båda håll, året runt.",
+    href: "/guider/isolerande-gardiner/",
+    eyebrow: "Tema",
+  },
+  {
+    title: "Skötsel av invändigt solskydd",
+    excerpt:
+      "Praktiskt underhåll av rullgardiner, plissé, persienner och lamellgardiner — vad ni får göra och vad ni ska undvika.",
+    href: "/guider/skotsel-invandigt-solskydd/",
+    eyebrow: "Praktiskt",
   },
 ];
 

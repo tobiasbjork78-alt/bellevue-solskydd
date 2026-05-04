@@ -7,6 +7,7 @@ import { Button } from "@/components/atoms/Button";
 import { cn } from "@/lib/cn";
 
 const navInvandigt = [
+  { label: "Översikt invändigt", href: "/invandigt-solskydd/" },
   { label: "Persienner", href: "/persienner-malmo/" },
   { label: "Plisségardiner", href: "/plissegardiner-malmo/" },
   { label: "Rullgardiner", href: "/rullgardiner-malmo/" },
