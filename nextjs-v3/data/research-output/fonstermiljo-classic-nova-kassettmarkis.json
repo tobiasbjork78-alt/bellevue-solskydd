@@ -1,0 +1,442 @@
+{
+  "entity": "Fonstermiljo Classic Nova kassettmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo Classic Nova kassettmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic Nova kassettmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "byggkatalogen.byggtjanst.se",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "uk.trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 10
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 4,
+      "url": "https://skanskfonstermiljo.se/",
+      "domain": "skanskfonstermiljo.se",
+      "title": "Vägvalet - Skånsk Fönstermiljö",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 584,
+      "fetchedAt": "2026-05-20T10:53:58.872Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706",
+      "domain": "byggkatalogen.byggtjanst.se",
+      "title": "AMA Nova Classic/Nova Classic Kassett, hitta de bästa produkterna | Byggkatalogen",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 2259,
+      "fetchedAt": "2026-05-20T10:54:02.303Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://fonstermiljo.se/wp-content/uploads/2025/04/FM_ClassicNova_2026.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/www.scandicmarkiser.no",
+      "reason": "review-not-model-specific (model tokens [classic, nova, kassettmarkis] absent in fetched text)"
+    },
+    {
+      "url": "https://fonstersolskydd.se/wp-content/uploads/2022/08/Produktblad_classic_nova.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://uk.trustpilot.com/review/plisseshop.no",
+      "reason": "review-not-model-specific (model tokens [classic, nova, kassettmarkis] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "skanskfonstermiljo.se",
+        "sourceIdx": 4,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "byggkatalogen.byggtjanst.se",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Vikarmsmarkis för villaterasser, balkonger, uteserveringar, kiosker, butiker m.m. där fri gång erfodras under markisen. Monteras på vägg eller i tak. Robust konstruktion gör att markiserna passar över de flesta uteplatser.",
+    "kalla": {
+      "domän": "byggkatalogen.byggtjanst.se",
+      "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Vikarmsmarkis – ger fri gång under markisen",
+      "kalla": {
+        "domän": "byggkatalogen.byggtjanst.se",
+        "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+      }
+    },
+    {
+      "text": "Monteras på vägg eller i tak",
+      "kalla": {
+        "domän": "byggkatalogen.byggtjanst.se",
+        "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+      }
+    },
+    {
+      "text": "Robust konstruktion som passar över de flesta uteplatser",
+      "kalla": {
+        "domän": "byggkatalogen.byggtjanst.se",
+        "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+      }
+    },
+    {
+      "text": "Finns i kassettutförande (Nova Classic Kassett)",
+      "kalla": {
+        "domän": "byggkatalogen.byggtjanst.se",
+        "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Villaterasser",
+      "kalla": {
+        "domän": "byggkatalogen.byggtjanst.se",
+        "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+      }
+    },
+    {
+      "text": "Balkonger",
+      "kalla": {
+        "domän": "byggkatalogen.byggtjanst.se",
+        "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+      }
+    },
+    {
+      "text": "Uteserveringar",
+      "kalla": {
+        "domän": "byggkatalogen.byggtjanst.se",
+        "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+      }
+    },
+    {
+      "text": "Kiosker och butiker",
+      "kalla": {
+        "domän": "byggkatalogen.byggtjanst.se",
+        "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundcitat hittade efter sökning på 2 källor. Källa index 4 (skanskfonstermiljo.se) innehöll enbart cookiemeddelande och navigeringstext, inga recensioner. Källa index 5 (byggkatalogen) innehöll enbart kort produktbeskrivning utan kundrecensioner."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Produkten är markerad som 'UTGÅNGEN PRODUKT' i Byggkatalogen, och tillverkaren Sikram AB gick i likvidation 2011-09-06. Produktsidan saknar bild och utförlig information.",
+        "kalla": {
+          "domän": "byggkatalogen.byggtjanst.se",
+          "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga detaljerade begränsningar, vanliga problem eller olämpliga lägen beskrivna i de 2 tillgängliga källorna. Den mest relevanta negativa informationen är att produkten och dess ursprungliga tillverkare inte längre är aktiva."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [],
+    "vanliga_felval": [],
+    "monteringskunskap": [],
+    "tomhetsanteckning": "Ingen återförsäljarkunskap, monteringstips eller information om vanliga felval hittade i de 2 tillgängliga källorna."
+  },
+  "prisklass_positionering": {
+    "klass": "okand",
+    "motivation": "Inga prisuppgifter eller positioneringsdata finns i de tillgängliga källorna. Produkten är markerad som utgången och tillverkaren är likviderad sedan 2011.",
+    "indikativa_priser": []
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Nova Classic Kassett",
+        "kalla": {
+          "domän": "byggkatalogen.byggtjanst.se",
+          "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+        }
+      },
+      {
+        "text": "AMA Nova Classic",
+        "kalla": {
+          "domän": "byggkatalogen.byggtjanst.se",
+          "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Kassettmarkis",
+        "kalla": {
+          "domän": "byggkatalogen.byggtjanst.se",
+          "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Vikarmsmarkis",
+        "kalla": {
+          "domän": "byggkatalogen.byggtjanst.se",
+          "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+        }
+      },
+      {
+        "text": "BSAB: NSC.733 Markiser",
+        "kalla": {
+          "domän": "byggkatalogen.byggtjanst.se",
+          "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+        }
+      },
+      {
+        "text": "Solskydd / Solavskärmning",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Fönstermiljö Classic Nova",
+        "kalla": {
+          "domän": "byggkatalogen.byggtjanst.se",
+          "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+        }
+      },
+      {
+        "text": "Nova Classic kassettmarkis",
+        "kalla": {
+          "domän": "byggkatalogen.byggtjanst.se",
+          "url": "https://byggkatalogen.byggtjanst.se/produkt/huskomplettering/solskydd/markiser/ama-nova-classic-nova-classic-kassett/62706"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:54:36.047Z"
+}

@@ -1,0 +1,979 @@
+{
+  "entity": "Fonstermiljo FA 42 vikarmsmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo FA 42 vikarmsmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 42 vikarmsmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "markispersienn.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "vaxjomarkisfabrik.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "markis24.se",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "7h.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "webbmarkis.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "uppsol.se",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "deltemamarkis.se",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "calameo.com",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "uppsol.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "vaxjomarkisfabrik.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "calameo.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "7h.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "webbmarkis.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "s3-eu-west-1.amazonaws.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "deltemamarkis.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "ledigajobblaholm.se",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "prisjakt.nu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "uppsol.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "7h.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "webbmarkis.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "vaxjomarkisfabrik.se",
+      "category": "negative",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "markis24.se",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "bennstroms.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "city-kej.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "7h.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "webbmarkis.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "vaxjomarkisfabrik.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "uppsol.se",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "deltemamarkis.se",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "markis24.se",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "tibrings.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "bennstroms.se",
+      "category": "practical",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "markispersienn.se",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "calameo.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 1,
+      "url": "https://www.prisjakt.nu/produkt.php?p=9142652",
+      "domain": "prisjakt.nu",
+      "title": "⁣Solskydd Terrassmarkis Ditt Nordic Light FA42 Brun Utfall: 250. Vävid: 926 926-530/250/FA - Hitta bästa pris på Prisjakt",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 824,
+      "fetchedAt": "2026-05-20T10:53:43.461Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://www.trustpilot.com/review/fasadeprodukter.no",
+      "domain": "trustpilot.com",
+      "title": "Fasadeprodukter Reviews | Read Customer Service Reviews of fasadeprodukter.no",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 4317,
+      "fetchedAt": "2026-05-20T10:53:59.950Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.webbmarkis.se/markiser/fa42-classic.php",
+      "domain": "webbmarkis.se",
+      "title": "Terrassmarkis & markis till bäst pris online - Webbmarkis",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 2079,
+      "fetchedAt": "2026-05-20T10:54:02.527Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.7h.se/markiser/terrassmarkiser/fa-42/",
+      "domain": "7h.se",
+      "title": "FA 42 - 7H.se",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 984,
+      "fetchedAt": "2026-05-20T10:54:06.386Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/",
+      "domain": "markis24.se",
+      "title": "FA 42",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 4559,
+      "fetchedAt": "2026-05-20T10:54:09.833Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/",
+      "domain": "uppsol.se",
+      "title": "FA42 markis till terrass på villa, restaurang eller café | Uppsol AB",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 4023,
+      "fetchedAt": "2026-05-20T10:54:14.791Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://www.calameo.com/books/008178187162c5c5de341",
+      "domain": "calameo.com",
+      "title": "Calaméo - Föntermiljö produktkatalog 2026",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:54:18.019Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/",
+      "domain": "bennstroms.se",
+      "title": "FA 40, en prisvärd och robust terassmarkis - Bennströms",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 3851,
+      "fetchedAt": "2026-05-20T10:54:20.961Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://fonstermiljo.se/wp-content/uploads/2025/04/FM_FA42_2026.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.vaxjomarkisfabrik.se/wp-content/uploads/2017/02/FA40-Component-Book-1-2019.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://fonstersolskydd.se/wp-content/uploads/2022/08/Produktblad_FA42.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.markispersienn.se/wp-content/uploads/2020/01/FA42_2016.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "prisjakt.nu",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "trustpilot.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "webbmarkis.se",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "7h.se",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markis24.se",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "uppsol.se",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "calameo.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "bennstroms.se",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "FA42 är en vikarmsmarkis för villaterrasser och balkonger som förvandlar din uteplats till ett trivsamt och flexibelt uterum. Armfäste med justerenhet (finns som tillval) gör att du själv enkelt kan luta din markis beroende på hur solen står, vilket ger ökad flexibilitet. Aluminiumtak och gavlar (finns som tillval) skyddar markisduken mot väder och vind.",
+    "kalla": {
+      "domän": "7h.se",
+      "url": "https://www.7h.se/markiser/terrassmarkiser/fa-42/"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Kraftiga vikarmar med Dyneema-band i knäleden, vilket ger hög hållfasthet, stabil dukspänning och lång livslängd.",
+      "kalla": {
+        "domän": "markis24.se",
+        "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+      }
+    },
+    {
+      "text": "Band över både knäled och axelled ger ökad stabilitet.",
+      "kalla": {
+        "domän": "webbmarkis.se",
+        "url": "https://www.webbmarkis.se/markiser/fa42-classic.php"
+      }
+    },
+    {
+      "text": "Lutningsvinkeln justeras steglöst från -5° till +40° genom att rotera öglorna med veven.",
+      "kalla": {
+        "domän": "webbmarkis.se",
+        "url": "https://www.webbmarkis.se/markiser/fa42-classic.php"
+      }
+    },
+    {
+      "text": "Armutfall: 160-400 cm. Max bredd: 7,0 m per enhet.",
+      "kalla": {
+        "domän": "7h.se",
+        "url": "https://www.7h.se/markiser/terrassmarkiser/fa-42/"
+      }
+    },
+    {
+      "text": "Bärprofilen består av 40×40 mm stål och skruvar samt axlar är tillverkade av rostfritt eller förzinkat stål.",
+      "kalla": {
+        "domän": "markis24.se",
+        "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+      }
+    },
+    {
+      "text": "Seriekoppling: 15.0m med motor.",
+      "kalla": {
+        "domän": "uppsol.se",
+        "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/"
+      }
+    },
+    {
+      "text": "Vindklass: 2 (1 vid 3m utfall) enligt EN13561.",
+      "kalla": {
+        "domän": "uppsol.se",
+        "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/"
+      }
+    },
+    {
+      "text": "Markisstativet med detaljer finns som standard i tre färger: pulverlackerad svart, vit och grått. Med något längre leveranstid kan man få stativet i ytterligare 10 färger. Utöver dessa färger erbjuds valfri RAL-kulör.",
+      "kalla": {
+        "domän": "bennstroms.se",
+        "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+      }
+    },
+    {
+      "text": "Manövrering: Vev & växel, Radiomotor & fjärrkontroll Somfy, eller Trådbunden motor Somfy. Tillval: Sol & vindautomatik Somfy.",
+      "kalla": {
+        "domän": "markis24.se",
+        "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+      }
+    },
+    {
+      "text": "Tillval: Pitchcontrol, tak, rullkappa, teleskopstag.",
+      "kalla": {
+        "domän": "uppsol.se",
+        "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/"
+      }
+    },
+    {
+      "text": "Appstyrning via smartphone (Smart Control via wifi/iPhone), fjärrkontroll och sol- och vindautomatik.",
+      "kalla": {
+        "domän": "bennstroms.se",
+        "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+      }
+    },
+    {
+      "text": "Denna produkt tillverkas på beställning. Levereras normalt inom 14 dagar.",
+      "kalla": {
+        "domän": "7h.se",
+        "url": "https://www.7h.se/markiser/terrassmarkiser/fa-42/"
+      }
+    },
+    {
+      "text": "Kappan är standard på alla markiser. Löstagbar kappa med rakt eller vågigt avslut.",
+      "kalla": {
+        "domän": "webbmarkis.se",
+        "url": "https://www.webbmarkis.se/markiser/fa42-classic.php"
+      }
+    },
+    {
+      "text": "Justerbara teleskopstag som fälls ned vid behov och säkrar markisens front mot underlaget. Fotplatta medföljer. Stabiliserar markisen vid vindbyar (upp till 10 m/s). Steglös höjd 1,5 – 2,5 m.",
+      "kalla": {
+        "domän": "bennstroms.se",
+        "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+      }
+    },
+    {
+      "text": "En nedrullningsbar kappa i markisens front löser enkelt problem med lågt stående sol. Finns med markisduk eller genomsiktlig screenväv. Manövreras med vev.",
+      "kalla": {
+        "domän": "bennstroms.se",
+        "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Vikarmsmarkis för villaterrasser och balkonger.",
+      "kalla": {
+        "domän": "webbmarkis.se",
+        "url": "https://www.webbmarkis.se/markiser/fa42-classic.php"
+      }
+    },
+    {
+      "text": "Markisens mångsidighet gör att den passar lika bra för uteplatsen till villan som till uteserveringen på restaurang och café.",
+      "kalla": {
+        "domän": "uppsol.se",
+        "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/"
+      }
+    },
+    {
+      "text": "Anpassad för villaterrasser, balkonger, uteplatser och mindre uteserveringar där fri gånghöjd och effektivt solskydd önskas.",
+      "kalla": {
+        "domän": "markis24.se",
+        "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+      }
+    },
+    {
+      "text": "Öppen terrassmarkis med traditionella gavlar. Instegsprodukten i standardutförande.",
+      "kalla": {
+        "domän": "bennstroms.se",
+        "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundrecensioner specifikt för Fönstermiljö FA 42 hittade efter sökning på 8 källor. Prisjakt hade inga recensioner, Calameo innehöll ingen relevant produktrecension, och Trustpilot-recensionerna gällde en norsk montageföretag (Fasadeprodukter) utan specifik koppling till FA 42-modellen."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Vindklass 2 enligt EN13561, men nedgraderas till vindklass 1 vid 3 m utfall.",
+        "kalla": {
+          "domän": "uppsol.se",
+          "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/"
+        }
+      },
+      {
+        "text": "Utfall 4,0 m max bredd 6 m (begränsning jämfört med max 7 m vid kortare utfall).",
+        "kalla": {
+          "domän": "bennstroms.se",
+          "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+        }
+      },
+      {
+        "text": "Önskas 400 cm utfall rekommenderas istället FA 44 Design.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Öppen konstruktion (ej kassett) — duken är exponerad för väder och vind i infällt läge om man inte väljer tillvalet skyddstak med gavlar.",
+        "kalla": {
+          "domän": "bennstroms.se",
+          "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+        }
+      },
+      {
+        "text": "Markisens lutning påverkar hur stor yta som täcks — skuggytan är kortare än armarnas längd.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [
+      {
+        "text": "FA 48 med halvkassett nämns som alternativ där kassetten skyddar duken och ger längre livslängd — implicit att FA 42 utan kassett är olämpad där väderexponering i infällt läge är ett problem.",
+        "kalla": {
+          "domän": "bennstroms.se",
+          "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga specifika rapporterade kundproblem eller klagomål hittade i de 8 genomsökta källorna. Informationen ovan baseras på tekniska begränsningar beskrivna av återförsäljare."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "För bästa skuggning rekommenderas att välja ett något större utfall än det faktiska behovet, eftersom markisens lutning gör att den inte täcker lika långt som armarnas längd.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Skyddstak inklusive gavlar bygger totalt 6 cm mer än vald markisbredd. Exempelvis får en markis med bredd 574 cm en totalbredd på 580 cm med skyddstak och gavlar monterade.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Markisen monteras enkelt direkt på väggen eller under takfoten. Flexibla monteringskonsoler finns för snedtak.",
+        "kalla": {
+          "domän": "webbmarkis.se",
+          "url": "https://www.webbmarkis.se/markiser/fa42-classic.php"
+        }
+      },
+      {
+        "text": "Med något längre leveranstid kan man få stativet i ytterligare 10 färger matchade för att passa ihop med de vanligast förekommande hus och fasader. Utöver dessa erbjuds valfri RAL-kulör.",
+        "kalla": {
+          "domän": "bennstroms.se",
+          "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+        }
+      },
+      {
+        "text": "Batteridriven skaksensor finns som tillval och kör automatiskt in markisen vid kraftig vind.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "FA 42 kan beställas med utfall upp till 350 cm. Önskas 400 cm utfall rekommenderas istället FA 44 Design.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Markisen kan monteras på vägg eller i tak och levereras med tydliga monteringsanvisningar.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Beställningsbredden avser ytterkant gavlar och anges i hela centimeter.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Min och maxbredder: Vid utfall 160 cm minbredd 2 armar 196 cm, minbredd 3 armar 290 cm. Vid utfall 350 cm minbredd 2 armar 389 cm, minbredd 3 armar 580 cm.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "FA 42 beskrivs av Bennströms som 'Instegsprodukten i standardutförande' i FA 40-serien, vilket tyder på att den är positionerad som en grundmodell inom ett professionellt segment. Det enda pris som hittats (17 546 kr för bredd 250–399 cm) indikerar ett mellanprissegment för terrassmarkiser.",
+    "indikativa_priser": [
+      {
+        "text": "FA 42 (bredd 250-399 cm): 17 546 kr (pris från webbshop, datum ej angivet)",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "FA 42 vikarmsmarkis",
+        "kalla": {
+          "domän": "uppsol.se",
+          "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/"
+        }
+      },
+      {
+        "text": "Terrassmarkis FA 42",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "FA 42 Classic",
+        "kalla": {
+          "domän": "webbmarkis.se",
+          "url": "https://www.webbmarkis.se/markiser/fa42-classic.php"
+        }
+      },
+      {
+        "text": "FA42 terassmarkis",
+        "kalla": {
+          "domän": "uppsol.se",
+          "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Dyneema-band (högstyrkeband i vikarmsled)",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Pitchcontrol (steglös vinkeljustering)",
+        "kalla": {
+          "domän": "bennstroms.se",
+          "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+        }
+      },
+      {
+        "text": "Vindklass (enligt EN13561)",
+        "kalla": {
+          "domän": "bennstroms.se",
+          "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+        }
+      },
+      {
+        "text": "Sol- och vindautomatik",
+        "kalla": {
+          "domän": "uppsol.se",
+          "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/"
+        }
+      },
+      {
+        "text": "Rullkappa (nedrullningsbar kappa mot lågt stående sol)",
+        "kalla": {
+          "domän": "bennstroms.se",
+          "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+        }
+      },
+      {
+        "text": "Halvkassett (jmfr FA 48)",
+        "kalla": {
+          "domän": "bennstroms.se",
+          "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+        }
+      },
+      {
+        "text": "Armutfall",
+        "kalla": {
+          "domän": "7h.se",
+          "url": "https://www.7h.se/markiser/terrassmarkiser/fa-42/"
+        }
+      },
+      {
+        "text": "Pulverlackerad aluminium",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Fönstermiljö FA 42",
+        "kalla": {
+          "domän": "bennstroms.se",
+          "url": "https://www.bennstroms.se/utomhus/terrassmarkiser/fa-42/"
+        }
+      },
+      {
+        "text": "FA42 markis",
+        "kalla": {
+          "domän": "uppsol.se",
+          "url": "https://www.uppsol.se/markiser/terrassmarkis/markis-fa42/"
+        }
+      },
+      {
+        "text": "FA 42 terrassmarkis",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-42-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "FA 42 Classic vikarmsmarkis",
+        "kalla": {
+          "domän": "webbmarkis.se",
+          "url": "https://www.webbmarkis.se/markiser/fa42-classic.php"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:55:43.421Z"
+}

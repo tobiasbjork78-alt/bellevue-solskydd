@@ -1,0 +1,1215 @@
+{
+  "entity": "Selt Jamaica awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt Jamaica awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Jamaica awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Jamaica awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Jamaica awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Jamaica awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Jamaica awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Jamaica awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Jamaica awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Selt Jamaica awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Jamaica awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Jamaica awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Jamaica awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Jamaica awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Jamaica awning forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Jamaica awning ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Jamaica awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Jamaica awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Jamaica awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Jamaica awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Jamaica awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Jamaica awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Jamaica awning usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Jamaica awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Jamaica awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Jamaica awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Jamaica awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Jamaica awning montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Jamaica awning instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "yelp.com",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "zaluzie24.eu",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "slpro.lv",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "phancyscreensny.com",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "magpergole.pl",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "kmproject.net",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "konturbilgoraj.pl",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "yelp.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "nyc.gov",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "salesforce.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "podcasts.apple.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "moonfab.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "thespruce.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 8
+    },
+    {
+      "domain": "uk.trustpilot.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "findyello.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "cruisersforum.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "sparklewashfranchise.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "boards.cruisecritic.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "heartlandrvs.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "tripadvisor.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "campingworld.co.uk",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "ubuy.com.jm",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "employmenthero.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "kmproject.net",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.de",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "konturbilgoraj.pl",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "landcruiserforum.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "rcgroups.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "forum.gofastcampers.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "forum.expeditionportal.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "overlandbound.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "t6forum.com",
+      "category": "reviews",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "ceneo.pl",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 1,
+      "hits": 12
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "pikeawning.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "cflawnings.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "slpro.lv",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "aknakate.ee",
+      "category": "negative",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "images.thdstatic.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "libertydoorandawning.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "codelibrary.amlegal.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "yelp.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "data.cityofnewyork.us",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "nyc.gov",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "todayifoundout.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "waterproofing.com.sg",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "awningbrosjamaica.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "outdoorprojectsjamaica.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "ripointernational.lv",
+      "category": "negative",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "taloon.com",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "yelp.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "lednorhome.com",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "awningbrosjamaica.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "static1.squarespace.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "slpro.lv",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "tenteks.com.tr",
+      "category": "practical",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "aknakate.ee",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/",
+      "domain": "shopsun.eu",
+      "title": "Jamaica Selt Terrace Awning - Measurement and Technical Data",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 6299,
+      "fetchedAt": "2026-05-20T11:22:11.893Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://www.yelp.com/biz/capitol-awning-jamaica-2",
+      "domain": "yelp.com",
+      "title": "CAPITOL AWNING - Updated May 2026 - 39 Photos - 105-15 180th St, Jamaica, New York - Awnings - Phone Number - Yelp",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 1692,
+      "fetchedAt": "2026-05-20T11:22:21.178Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393993.html",
+      "domain": "archiexpo.com",
+      "title": "Box awning - JAMAICA - Selt Sun Protection Systems - manual",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 4682,
+      "fetchedAt": "2026-05-20T11:22:44.358Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html",
+      "domain": "pdf.archiexpo.com",
+      "title": "Vänta...",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 288,
+      "fetchedAt": "2026-05-20T11:22:46.738Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://markizes24.lv/Awnings-JAMAICA",
+      "domain": "markizes24.lv",
+      "title": "Awnings JAMAICA",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1902,
+      "fetchedAt": "2026-05-20T11:22:49.453Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://aluprof.com/en/product/jamaica-awning",
+      "domain": "aluprof.com",
+      "title": "JAMAICA AWNING - Aluprof",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 3485,
+      "fetchedAt": "2026-05-20T11:22:54.537Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://e-markizy.pl/markiza-tarasowa-jamaica-selt-dane-techniczne/?srsltid=AfmBOopvkc3scfBkOMrC-7yFDb-MtyrMxhbbAvdnKO6d4CgVBPa8rxly",
+      "domain": "e-markizy.pl",
+      "title": "Markiza Tarasowa Jamaica Selt - Pomiar i Dane techniczne - Szer. do 700cm",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:22:57.143Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://plikiapi.selt.com/download/Technical%20&%20installation%20document%20Jamaica.pdf?nazwa=dokument/4579345114_DT_E_JAMAICA_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/stephenboyceawningspecialists.co.uk",
+      "reason": "review-not-model-specific (model tokens [jamaica] absent in fetched text)"
+    },
+    {
+      "url": "https://www.slpro.lv/content/files/Markizes/ST%20Jamaica.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.findyello.com/jamaica/E-S-Best-For-Less-Aluminum-and-Canvas-Awning/profile/",
+      "reason": "review-not-model-specific (model tokens [jamaica] absent in fetched text)"
+    },
+    {
+      "url": "https://www.zaluzie24.eu/data/blob/produkt-application-pdf-20210624-110632-95698278-markyza-jamaica.pdf?srsltid=AfmBOoqJZvvaeNXx5tIr0wTmuqbODoupJv8V9sO08Mk_qFfhzk6lhv4Z",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 0,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "yelp.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiexpo.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "pdf.archiexpo.com",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markizes24.lv",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "aluprof.com",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "e-markizy.pl",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Jamaica combines elegance and strength. Its construction provides high durability under intensive use. It is therefore the perfect choice for big terraces and for commercial applications. The awning's folding arms are installed on special-construction aluminium brackets, made by machines using numerical control. A plate link chain used in the arms and precisely made articulated joints provide long-term dependable operation of the awning. A central support for the roller tube in big awnings ensures even tension of the fabric. The construction is supported with a square steel beam that gives relative freedom of bracket location and simplifies the awning installation. An optional aluminium hood protects the rolled-up fabric. The construction of the awning is powder lacquered in white, graphite, silver with graphite finishing, beige, and brown. There is a possibility to use overlapping arms in this awning.",
+    "kalla": {
+      "domän": "archiexpo.com",
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393993.html"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Construction made from extruded aluminium with Flyer's chain system in the arms, reinforcing folding arm joints for stable operation even in wide awnings with large projections.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/jamaica-awning"
+      }
+    },
+    {
+      "text": "Adjustable tilt angle from 5° to 40°.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+      }
+    },
+    {
+      "text": "Maximum width 7.0 m, maximum projection 3.6 m. Volant version max width 5.9 m, max projection 3.1 m.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+      }
+    },
+    {
+      "text": "Optional aluminium hood (half-cassette) protects the rolled-up fabric from weather conditions. Non-cassette awning by design.",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393993.html"
+      }
+    },
+    {
+      "text": "Optional Rollo-Volant valance with a maximum height of 1.2 m intensifies the sun protection effect and increases the sense of privacy. The valance has a separate manual drive.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/jamaica-awning"
+      }
+    },
+    {
+      "text": "Fabric: over 100 colors (150 patterns per aluprof), Teflon coated acrylic fabric.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+      }
+    },
+    {
+      "text": "Rolling tube diameter 70mm or 80mm. Central support for roller tube in big awnings ensures even tension of the fabric.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+      }
+    },
+    {
+      "text": "Possibility to use overlapping (cross) arms, allowing greater reach than with the standard awning configuration. Overlapping arms not available with a projection of 360 cm.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/jamaica-awning"
+      }
+    },
+    {
+      "text": "Construction color options: RAL 9010 MAT Alpine white, RAL 1015 MAT Ivory, RAL 8014 MAT Brown, RAL 9006 MAT Silver, FSM 71319 MAT Graphite fine structure, RAL 7016 STR Anthracite grey structure, RAL 9005 STR Black structure. Any other RAL color available for an additional fee.",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-jamaica-selt-dane-techniczne/?srsltid=AfmBOopvkc3scfBkOMrC-7yFDb-MtyrMxhbbAvdnKO6d4CgVBPa8rxly"
+      }
+    },
+    {
+      "text": "Drive options: manual crank (1.5 m, 1.8 m, or 2.2 m long), electric motor with or without emergency opening. Automation includes key switch, control unit, remote control, wind sensor.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+      }
+    },
+    {
+      "text": "Mounting brackets: wall, ceiling, or rafter mounting. Number of brackets (2 to 5) depends on awning width.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+      }
+    },
+    {
+      "text": "Optional telescopic front bar supports (Standard and Plus versions).",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/jamaica-awning"
+      }
+    },
+    {
+      "text": "Valance: height 21 cm, 3 patterns to choose from, can be ordered without a valance, can be quickly dismantled by pulling it out.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+      }
+    },
+    {
+      "text": "Square supporting bar (4x4 cm cross-section) gives relative freedom of bracket location and simplifies the awning installation.",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-jamaica-selt-dane-techniczne/?srsltid=AfmBOopvkc3scfBkOMrC-7yFDb-MtyrMxhbbAvdnKO6d4CgVBPa8rxly"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Recommended as a cover to shade restaurant terraces or café gardens. Often chosen for commercial use.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/jamaica-awning"
+      }
+    },
+    {
+      "text": "It will also work well as part of the relaxation zone in the house.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/jamaica-awning"
+      }
+    },
+    {
+      "text": "Perfectly suitable for shading of balcony, restaurant or cafe.",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-JAMAICA"
+      }
+    },
+    {
+      "text": "With Rollo-Volant: not only for protection against the sun's rays, but also for shielding the surface from prying eyes and gusts of wind.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+      }
+    },
+    {
+      "text": "Can be attached to a wall insulated with e.g. Styrofoam, up to 20 cm thick.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella konsumentomdömen eller kundcitat hittade efter sökning på 7 källor. Yelp-resultatet (index=1) avser 'Capitol Awning' i Jamaica, NY – ett helt annat företag, ej relaterat till Selt Jamaica-markisen. Ingen av källorna innehåller kundrecensioner av Selt Jamaica-produkten."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Non-cassette awning (no full cassette protection). Only optional hood/half-cassette available for rolled fabric protection.",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393993.html"
+        }
+      },
+      {
+        "text": "Overlapping arms are not available with a projection of 360 cm.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/jamaica-awning"
+        }
+      },
+      {
+        "text": "Projection is strictly dependent on the width of the awning – narrower awnings have more limited projection options. E.g. width 205–254 cm only allows 160 cm projection; full 360 cm projection requires width of at least 410 cm.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-jamaica-selt-dane-techniczne/?srsltid=AfmBOopvkc3scfBkOMrC-7yFDb-MtyrMxhbbAvdnKO6d4CgVBPa8rxly"
+        }
+      },
+      {
+        "text": "When using the Volant valance, maximum dimensions are reduced: width max 5.9 m (vs 7.0 m) and projection max 3.1 m (vs 3.6 m).",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      },
+      {
+        "text": "External application only – not suitable for internal application.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/jamaica-awning"
+        }
+      },
+      {
+        "text": "Production tolerance of width dimensions -+2 cm.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [
+      {
+        "text": "Not available for internal application (external use only).",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/jamaica-awning"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga vanliga problem rapporterade i källorna – inga konsumentrecensioner hittades som nämner problem med produkten."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Awning installation is very simple and limited to attaching the brackets to wall or ceiling. The awning arrives fully assembled and adjusted. Tilt angle can be freely set after installation.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      },
+      {
+        "text": "Can be attached to insulated walls (e.g. Styrofoam) up to 20 cm thick.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      },
+      {
+        "text": "Number of arms: at projection 160/210/260 cm – 3 arms from width 531 cm; at projection 310 cm – 3 arms from width 591 cm; at projection 360 cm – 3 arms from width 651 cm. The additional arm increases stability and durability at larger dimensions.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-jamaica-selt-dane-techniczne/?srsltid=AfmBOopvkc3scfBkOMrC-7yFDb-MtyrMxhbbAvdnKO6d4CgVBPa8rxly"
+        }
+      },
+      {
+        "text": "Telescopic front bar supports are an optional accessory that increases wind resistance of the system.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/jamaica-awning"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Choosing a narrow awning width and expecting maximum projection – projection is strictly limited by width. For example, to get 360 cm projection you need at least 410 cm width.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-jamaica-selt-dane-techniczne/?srsltid=AfmBOopvkc3scfBkOMrC-7yFDb-MtyrMxhbbAvdnKO6d4CgVBPa8rxly"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Angle adjustment procedure: fully unroll awning, find arm holder with adjustment screw, loosen M70 screw with Allen key, use open-end wrench to unscrew (increase angle) or tighten (decrease angle) the adjusting screws of arm holders, tighten M70 screw. Use a spirit level to check the front beam is horizontal.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      },
+      {
+        "text": "Three mounting methods: (1) wall mounts, (2) ceiling mounts combined with wall mounts, (3) rafter handles integrated with wall handles. Number of mounting brackets from 2 to 5 depending on width.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      },
+      {
+        "text": "Valance (ruffle) can be quickly dismantled by the user by pulling it out.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "Starting price of 750 EUR (ex. tax ~620 EUR) from a Latvian retailer positions it below the Selt Casablanca (1,465 EUR) and Selt Dakar (1,370 EUR) full-cassette models, but above entry-level Selt Italia folding-arm awnings (from ~510 EUR). The Jamaica Volant variant is listed at an indicative 1,590 EUR on ArchiExpo. Being a non-cassette awning with an optional hood, it sits in the mid-range of Selt's own product line.",
+    "indikativa_priser": [
+      {
+        "text": "Starting from 750.00 € (ex tax: 619.83 €) – Latvian retailer, no date specified",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-JAMAICA"
+        }
+      },
+      {
+        "text": "Jamaica Volant variant: indicative price €1,590 excl. tax (ArchiExpo listing, no date specified)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393993.html"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Jamaica awning / Markiza Jamaica",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/jamaica-awning"
+        }
+      },
+      {
+        "text": "Selt Jamaica",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Jamaica Selt terrace awning / markiza tarasowa Jamaica Selt",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-jamaica-selt-dane-techniczne/?srsltid=AfmBOopvkc3scfBkOMrC-7yFDb-MtyrMxhbbAvdnKO6d4CgVBPa8rxly"
+        }
+      },
+      {
+        "text": "Jamaica Volant (variant with roll-out front valance)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393993.html"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "box awning (product type classification on ArchiExpo, though technically non-cassette with optional hood)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393993.html"
+        }
+      },
+      {
+        "text": "folding-arm awning / retractable awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      },
+      {
+        "text": "Flyer's chain / łańcuch Flyera (chain link system in folding arms)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393993.html"
+        }
+      },
+      {
+        "text": "Rollo-Volant (roll-out front valance system)",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/jamaica-awning"
+        }
+      },
+      {
+        "text": "half-cassette / półkaseta (optional protective hood over roller tube)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      },
+      {
+        "text": "overlapping arms / ramiona krzyżowe (cross arms for greater reach)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-jamaica-selt-dane-techniczne/?srsltid=AfmBOopvkc3scfBkOMrC-7yFDb-MtyrMxhbbAvdnKO6d4CgVBPa8rxly"
+        }
+      },
+      {
+        "text": "valance / falbana (decorative front drape)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      },
+      {
+        "text": "roller tube / rura nawojowa",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-jamaica-selt-dane-techniczne/?srsltid=AfmBOopvkc3scfBkOMrC-7yFDb-MtyrMxhbbAvdnKO6d4CgVBPa8rxly"
+        }
+      },
+      {
+        "text": "telescopic front bar supports / słupki teleskopowe",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/jamaica-awning"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "markiza Jamaica Selt, selt awnings, jamaica awning quote, markizy tarasowe cennik, e-markizy, zwijane zadaszenie markizowe, markiza bez kasety, markiza na wymiar, retractable awning canopy, terrace cover, awning Jamaica, Jamaica Selt terrace awning technical data",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:24:30.173Z"
+}

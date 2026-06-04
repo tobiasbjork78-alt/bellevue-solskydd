@@ -1,0 +1,1215 @@
+{
+  "entity": "Pratic Opera pergola bioclimatic",
+  "brand": "pratic",
+  "locales": [
+    "en",
+    "it"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Pratic Opera pergola bioclimatic",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic specifiche tecniche",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic review",
+      "category": "reviews"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Pratic Opera pergola bioclimatic",
+      "category": "reviews"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic recensione",
+      "category": "reviews"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic esperienza",
+      "category": "reviews"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic forum esperienza",
+      "category": "reviews"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic problem",
+      "category": "negative"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic issue",
+      "category": "negative"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic broken",
+      "category": "negative"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic problema",
+      "category": "negative"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic difetto",
+      "category": "negative"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic installation",
+      "category": "practical"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic setup",
+      "category": "practical"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic installazione",
+      "category": "practical"
+    },
+    {
+      "query": "Pratic Opera pergola bioclimatic montaggio",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "pratic.it",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "architonic.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 4
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "designdiffusion.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "archello.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "sarkcustomawnings.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "theplan.it",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "shop.formadesign.it",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "ideco.mu",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "stroff.at",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "pratic.it",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 23
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 8
+    },
+    {
+      "domain": "architonic.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "shop.formadesign.it",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "designdiffusion.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 6
+    },
+    {
+      "domain": "elunapiena.it",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "stroff.at",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "it.trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "ch.trustpilot.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "surfacesinternational.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "archello.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "scenaritende.it",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "pozzoli.net",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "milanotendedasole.it",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "theoutdoormag.it",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "pratic.it",
+      "category": "negative",
+      "rank": 0,
+      "hits": 29
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "theplan.it",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "skyeoutdoorliving.co.uk",
+      "category": "negative",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "designdiffusion.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "shop.formadesign.it",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "architonic.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "stroff.at",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "archello.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "akena.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "khades.tr",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "solisysteme.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "electrotile.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "distinctivepergolas.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "pratic.it",
+      "category": "practical",
+      "rank": 0,
+      "hits": 25
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "shop.formadesign.it",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "practical",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "shade-space.co.uk",
+      "category": "practical",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "isotra.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "tanit-pergotech.com",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "sarkcustomawnings.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "skyeoutdoorliving.co.uk",
+      "category": "practical",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "progolas.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "theplan.it",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.de",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://www.pratic.it/en/product/opera/",
+      "domain": "pratic.it",
+      "title": "Opera - Bioclimatic Pergolas - Pratic",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:30:36.198Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://www.archiproducts.com/en/news/opera-and-vision-a-new-bioclimatic-pergola-by-pratic_36262?srsltid=AfmBOorpkDJKXjMuuZO9MZueq6tBULJi1gQ0IW9P6BhON-IFjO8y7vhH",
+      "domain": "archiproducts.com",
+      "title": "How to add Archiproducts to Google Favorite Sources",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:30:39.321Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://designdiffusion.com/en/2023/05/25/opera-the-bioclimatic-pergola-by-pratic/",
+      "domain": "designdiffusion.com",
+      "title": "Opera, the bioclimatic pergola by Pratic - Design Diffusion",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 3839,
+      "fetchedAt": "2026-05-20T11:30:42.124Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.architonic.com/en/p/pratic-opera-20062822/",
+      "domain": "architonic.com",
+      "title": "OPERA - Pergolas from Pratic | Architonic",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 5679,
+      "fetchedAt": "2026-05-20T11:31:59.974Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://shade-space.co.uk/brands/pratic/",
+      "domain": "shade-space.co.uk",
+      "title": "Pratic Pergolas - Nationwide Installation - Shade Space",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:32:03.848Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.reddit.com/r/HomeImprovement/comments/1rmaynf/bioclimatic_pergola_vs_fixed_pergola_in_high_wind/",
+      "domain": "reddit.com",
+      "title": "Bioclimatic pergola vs fixed pergola in high wind areas? : r/HomeImprovement",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:32:06.224Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://it.trustpilot.com/review/pratic.it",
+      "domain": "it.trustpilot.com",
+      "title": "Pratic S.p.A. | Leggi le recensioni dei servizi di pratic.it",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:32:23.590Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://www.trustpilot.com/review/pratic.it",
+      "domain": "trustpilot.com",
+      "title": "Pratic S.p.A. Reviews | Read Customer Service Reviews of pratic.it",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 2545,
+      "fetchedAt": "2026-05-20T11:32:40.128Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/",
+      "domain": "skyeoutdoorliving.co.uk",
+      "title": "8 Questions You Need To Ask When You Are Investing In A Bioclimatic Pergola | Skye Outdoor Living",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:32:43.015Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://sunairawnings.com/media/files/pergola-opera-overview-sunair.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://shop.formadesign.it/en/prodotto/pratic-bioclimatic-pergola-opera/",
+      "reason": "no-text"
+    },
+    {
+      "url": "https://sarkcustomawnings.com/wp-content/uploads/2021/12/PRATIC-PERGOLA-2019.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "pratic"
+    ],
+    "acceptedDomains": [
+      "pratic.it"
+    ],
+    "candidates": [
+      {
+        "domain": "pratic.it",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "archiproducts.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "designdiffusion.com",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "architonic.com",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "shade-space.co.uk",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "reddit.com",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "it.trustpilot.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "trustpilot.com",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "skyeoutdoorliving.co.uk",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": null,
+    "kalla": null,
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Aluminium bioclimatic pergola with sunshade blades which are adjustable from 0 to 140°",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    },
+    {
+      "text": "Maximum dimensions for each module: Opera: 550L × 700P cm; H max: Opera 300 cm; Post profiles dimensions: Opera 15 × 15 cm",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    },
+    {
+      "text": "Self-supporting or wall-mounted version",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    },
+    {
+      "text": "Gutters with water drainage integrated into the post profiles",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    },
+    {
+      "text": "Motorised",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    },
+    {
+      "text": "Opera, differently from Vision, is compatible also with Raso and Connect",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    },
+    {
+      "text": "Optional: Connect (fixed panels which can be mirrored or smoked with minimal profiles), Set (aluminium platform structurally tested to be fully integrated into the pergola), Glass Series (panoramic perimeter glass walls), Raso (retractable vertical awning made of screening fabrics with cloth traction system PSS), LED Line (white or RGB), dimmable Spot lighting, Comfort Blade (partial insulation of blades), Google Assistant and Amazon Alexa voice control, temperature/brightness/rain/snow/wind sensors",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    },
+    {
+      "text": "Raso drop-down awnings: fabrics can be customized in terms of texture and color; once closed, are hidden and shielded inside Opera's horizontal profiles, which are only 22 cm thick",
+      "kalla": {
+        "domän": "designdiffusion.com",
+        "url": "https://designdiffusion.com/en/2023/05/25/opera-the-bioclimatic-pergola-by-pratic/"
+      }
+    },
+    {
+      "text": "Lighting made of spotlights integrated into the blades, matching the Led Line perimeter strips, adjustable in intensity and colors",
+      "kalla": {
+        "domän": "designdiffusion.com",
+        "url": "https://designdiffusion.com/en/2023/05/25/opera-the-bioclimatic-pergola-by-pratic/"
+      }
+    },
+    {
+      "text": "All Pratic Bioclimatic Pergolas are made of aluminium and fine-certified materials that meet resistance and lightness requirements even in climatic conditions with significant temperature changes, salty air, or constant wind, guaranteeing durability and reduced maintenance",
+      "kalla": {
+        "domän": "skyeoutdoorliving.co.uk",
+        "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+      }
+    },
+    {
+      "text": "Eco-friendly painting process means there are no solvents used, and the powders are 100% recoverable",
+      "kalla": {
+        "domän": "skyeoutdoorliving.co.uk",
+        "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+      }
+    },
+    {
+      "text": "All Pratic pergolas are delivered with the pre-mounted electrical system and this will be reflected in the design right at the beginning of the project for electrical connection",
+      "kalla": {
+        "domän": "skyeoutdoorliving.co.uk",
+        "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+      }
+    },
+    {
+      "text": "6 post profiles are required if n° blades > 29",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    },
+    {
+      "text": "Year of Launch: 2014",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    },
+    {
+      "text": "It can be made in many configurations and several modules can be pulled together",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "In the renovation project of an old farmstead in Lonato del Garda, the garden takes on great importance as the perfect meeting place for the family and its guests, thanks to a cozy outdoor living area, nestled between two modules of Opera. Overlooking the pool, hosting an open-air kitchen as well as a living room and a dining room, covering over 50 square meters under the sunshade blades of the pergola.",
+      "kalla": {
+        "domän": "designdiffusion.com",
+        "url": "https://designdiffusion.com/en/2023/05/25/opera-the-bioclimatic-pergola-by-pratic/"
+      }
+    },
+    {
+      "text": "Pergola's structure is also conceived to protect from rainfall, thus becoming an open-air space that you can enjoy all the year round with a perfect climatization",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/news/opera-and-vision-a-new-bioclimatic-pergola-by-pratic_36262?srsltid=AfmBOorpkDJKXjMuuZO9MZueq6tBULJi1gQ0IW9P6BhON-IFjO8y7vhH"
+      }
+    },
+    {
+      "text": "Exploiting the outdoor environments of private homes and contract spaces throughout the year",
+      "kalla": {
+        "domän": "architonic.com",
+        "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [
+      {
+        "text": "Pratic produce e commercializza i suoi prodotti attraverso dei rivenditori autonomi e non sempre siamo a conoscenza delle possibili problematiche insorte (repeated company response indicating dealer-dependent service quality is a known concern)",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Post-sale assistance managed through external commercial network proved ineffective, and from Pratic customer care no response was ever received (recurrent theme in negative reviews)",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      }
+    ],
+    "aterkommande_glaedjepunkter": [
+      {
+        "text": "Product quality, solidity and design are praised repeatedly: 'Prodotto ottimo! Solido e di design' and 'Ottimo prodotto'",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Installation teams praised for attention to detail: 'I ragazzi che hanno provveduto all'installazione sono stati davvero bravi, attenti ai dettagli'",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "After-sales service praised when company intervenes directly: 'Prodotti validi e assistenza post vendita esemplare, una rarità. Ho avuto un problema in garanzia che il rivenditore non voleva riconoscere e sono intervenuti loro per risolvere la questione.'",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Technicians rated as highly competent: 'I tecnici che sono venuti a fare l'intervento di assistenza sono stati molto competenti, efficienti, professionali.'",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      }
+    ],
+    "aterkommande_klagomal": [
+      {
+        "text": "Water leakage, LED failures, and glass panels not sliding properly: one customer called it 'UNA GRANDE FREGATURA' (a big rip-off)",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Post-sale support through dealer network described as ineffective; direct Pratic customer care unresponsive for years: 'Nonostante anni di segnalazioni, l'assistenza post vendita gestita tramite la rete commerciale esterna si è rivelata inefficace, e dal customer care Pratic non ho mai ricevuto risposta'",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Brera model (same brand) experienced repeated transformer failures within 2 years: 'i problemi sono iniziati neanche 2 anni dopo... trasformatori fusi uno dopo l altro'",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "24% of Trustpilot reviews are 1-star (8 out of 33), indicating a significant polarization between very satisfied and very dissatisfied customers",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      }
+    ],
+    "kundsprak_citat": [
+      {
+        "text": "OPERA SLIDE GLASS Prodotto ottimo! Solido e di design I ragazzi che hanno provveduto all'installazione sono stati davvero bravi, attenti ai dettagli (che e' la parte sempre piu delicata di un lavoro artigianale) CINQUE STELLE TUTTE MERITATE!",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "HO ACQUISTATO LA PERGOLA BIOCLIMATICA MA DEVO DIRE CHE È STATA UNA GRANDE FREGATURA. ACQUA CHE ENTRA DAPPERTUTTO, LED CHE NON FUNZIONANO E ANCHE LE VETRATE CHE NON SCORRONO.",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Esperienza deludente. Ho acquistato tende da esterno motorizzate Pratic, premontate e da sempre difettose. Nonostante anni di segnalazioni, l'assistenza post vendita gestita tramite la rete commerciale esterna si è rivelata inefficace, e dal customer care Pratic non ho mai ricevuto risposta. Migliaia di euro spesi e nessun supporto concreto. Davvero inaccettabile per un marchio che si definisce premium.",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Azienda molto seria. Prodotti validi e assistenza post vendita esemplare, una rarità. Ho avuto un problema in garanzia che il rivenditore non voleva riconoscere e sono intervenuti loro per risolvere la questione. Consigliatissimo.",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Servizio eccellente sotto ogni punto di vista. Il personale si distingue per professionalità, disponibilità e attenzione al cliente. Ogni dettaglio viene spiegato in modo chiaro e preciso, mettendo subito a proprio agio e trasmettendo fiducia.",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "I tecnici che sono venuti a fare l'intervento di assistenza sono stati molto competenti ,efficienti ,professionali .Mi hanno risolto il problema con molta accortezza e precisione.",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Great company. I have been Pratic partner for the last 3 years in Poland. Sales and Aftersales services are excellent. Easy and quick installation.",
+        "kalla": {
+          "domän": "trustpilot.com",
+          "url": "https://www.trustpilot.com/review/pratic.it"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Vision model has lower max height (270 cm) and smaller post profiles (10 × 15 cm) vs Opera (300 cm, 15 × 15 cm); Opera needed for Raso and Connect compatibility",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "6 post profiles are required if number of blades exceeds 29, potentially impacting open-plan layouts for larger configurations",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "Adding heating at a later date can be costly, not to mention, disruptive to the overall design of your garden and pergola — heating must be planned from the beginning",
+        "kalla": {
+          "domän": "skyeoutdoorliving.co.uk",
+          "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Water ingress reported: 'ACQUA CHE ENTRA DAPPERTUTTO'",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "LED lighting failures reported",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Glass panels not sliding correctly reported",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Transformer failures (reported for Brera model, same brand/system family): 'trasformatori fusi uno dopo l altro'",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "Post-sale support inconsistency: Pratic sells through independent dealers and states they are 'non sempre a conoscenza delle possibili problematiche insorte', meaning service quality is dealer-dependent",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "General bioclimatic pergola concern (not Opera-specific): cheaper louvered systems have motors that can fail when hit with salt spray repeatedly; worth investing in marine-grade components",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/HomeImprovement/comments/1rmaynf/bioclimatic_pergola_vs_fixed_pergola_in_high_wind/"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Watch out for bioclimatic pergolas with lower-grade aluminium, thinner leg supports, and narrow roof blades, as well as the quality of the powder coating, which is often liable to flake (general category warning from dealer, not Opera-specific limitation)",
+        "kalla": {
+          "domän": "skyeoutdoorliving.co.uk",
+          "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "The floor, supported by an iron substructure, frames Opera's self-supporting profiles, allowing for a firm hooking — a raised floor/platform approach was used in the Lonato del Garda installation to house the pergola",
+        "kalla": {
+          "domän": "designdiffusion.com",
+          "url": "https://designdiffusion.com/en/2023/05/25/opera-the-bioclimatic-pergola-by-pratic/"
+        }
+      },
+      {
+        "text": "Most integrated heater systems will require an electrical supply installed during the building process and must be included in the drawings before the structure has been approved and finalised",
+        "kalla": {
+          "domän": "skyeoutdoorliving.co.uk",
+          "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+        }
+      },
+      {
+        "text": "All Pratic pergolas are delivered with the pre-mounted electrical system and this will be reflected in the design right at the beginning of the project for electrical connection",
+        "kalla": {
+          "domän": "skyeoutdoorliving.co.uk",
+          "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+        }
+      },
+      {
+        "text": "Make sure that the fabrics available offer a sun filter for sun protection or that they have blackout fabric in different colours to suit your overall design",
+        "kalla": {
+          "domän": "skyeoutdoorliving.co.uk",
+          "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+        }
+      },
+      {
+        "text": "One remote should manage the entire setup (besides the heating, which is separate), giving you functions and variants to operate the blades, Raso drop awnings, and customisation of your chosen lighting system",
+        "kalla": {
+          "domän": "skyeoutdoorliving.co.uk",
+          "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+        }
+      },
+      {
+        "text": "For general louvered pergola installations in coastal/windy areas: making sure the mounting system was overbuilt for the wind ratings in their area was the key factor; the maintenance difference between aluminum and wood in those conditions is night and day",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/HomeImprovement/comments/1rmaynf/bioclimatic_pergola_vs_fixed_pergola_in_high_wind/"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Not planning heating integration from the start: 'Adding heating at a later date can be costly, not to mention, disruptive to the overall design of your garden and pergola'",
+        "kalla": {
+          "domän": "skyeoutdoorliving.co.uk",
+          "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+        }
+      },
+      {
+        "text": "Choosing cheaper louvered systems with lower-grade aluminium, thinner leg supports, narrow roof blades and poor powder coating quality",
+        "kalla": {
+          "domän": "skyeoutdoorliving.co.uk",
+          "url": "https://www.skyeoutdoorliving.co.uk/8-questions-you-need-to-ask-when-you-areinvesting-in-a-bioclimatic-pergola/"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Easy and quick installation (from a Pratic dealer partner's perspective)",
+        "kalla": {
+          "domän": "trustpilot.com",
+          "url": "https://www.trustpilot.com/review/pratic.it"
+        }
+      },
+      {
+        "text": "The installation in Lonato del Garda used two modules of Opera on a raised floor with iron substructure for firm hooking of self-supporting profiles",
+        "kalla": {
+          "domän": "designdiffusion.com",
+          "url": "https://designdiffusion.com/en/2023/05/25/opera-the-bioclimatic-pergola-by-pratic/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Trustpilot reviewer explicitly describes Pratic as 'un marchio che si definisce premium'. The product has extensive optional systems (glass panels, smart home integration, RGB LED, sensors, retractable awnings), is sold through selected dealer networks, and the company is an Italian manufacturer based in Fagagna. Trustpilot comparison panel shows competitors like Pergolux and BELLE at lower positioning. A reviewer mentions 'migliaia di euro spesi' (thousands of euros spent). No specific price points are available in the sources.",
+    "indikativa_priser": [],
+    "tomhetsanteckning": null
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Pratic Opera",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "bioclimatic pergola",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/news/opera-and-vision-a-new-bioclimatic-pergola-by-pratic_36262?srsltid=AfmBOorpkDJKXjMuuZO9MZueq6tBULJi1gQ0IW9P6BhON-IFjO8y7vhH"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "bioclimatic pergola shade",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/news/opera-and-vision-a-new-bioclimatic-pergola-by-pratic_36262?srsltid=AfmBOorpkDJKXjMuuZO9MZueq6tBULJi1gQ0IW9P6BhON-IFjO8y7vhH"
+        }
+      },
+      {
+        "text": "pergola with adjustable louvers / freestanding pergola with adjustable louvers",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/news/opera-and-vision-a-new-bioclimatic-pergola-by-pratic_36262?srsltid=AfmBOorpkDJKXjMuuZO9MZueq6tBULJi1gQ0IW9P6BhON-IFjO8y7vhH"
+        }
+      },
+      {
+        "text": "louvered aluminum system / louvered pergola",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/HomeImprovement/comments/1rmaynf/bioclimatic_pergola_vs_fixed_pergola_in_high_wind/"
+        }
+      },
+      {
+        "text": "pergola bioclimatica (Italian)",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "sunshade blades / adjustable blades",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "Raso (retractable vertical awning / drop-down awning)",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "Connect (fixed glass panels, mirrored or smoked)",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "Comfort Blade (partial insulation of blades)",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "LED Line (perimeter lighting system)",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "PSS (cloth traction system for Raso awnings)",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "Opera Slide Glass (product variant name used by customer)",
+        "kalla": {
+          "domän": "it.trustpilot.com",
+          "url": "https://it.trustpilot.com/review/pratic.it"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Pratic Opera pergola",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      },
+      {
+        "text": "Pratic bioclimatic pergola",
+        "kalla": {
+          "domän": "designdiffusion.com",
+          "url": "https://designdiffusion.com/en/2023/05/25/opera-the-bioclimatic-pergola-by-pratic/"
+        }
+      },
+      {
+        "text": "Opera bioclimatic",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/news/opera-and-vision-a-new-bioclimatic-pergola-by-pratic_36262?srsltid=AfmBOorpkDJKXjMuuZO9MZueq6tBULJi1gQ0IW9P6BhON-IFjO8y7vhH"
+        }
+      },
+      {
+        "text": "Pratic Opera adjustable louver pergola",
+        "kalla": {
+          "domän": "architonic.com",
+          "url": "https://www.architonic.com/en/p/pratic-opera-20062822/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:34:39.917Z"
+}

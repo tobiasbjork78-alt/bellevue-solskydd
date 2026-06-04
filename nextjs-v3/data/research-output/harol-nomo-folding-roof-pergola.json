@@ -1,0 +1,1082 @@
+{
+  "entity": "Harol Nomo folding roof pergola",
+  "brand": "harol",
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Harol Nomo folding roof pergola",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola caractéristiques techniques",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Harol Nomo folding roof pergola",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola avis",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola forum expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola problem",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola issue",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola broken",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola problème",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola inconvénient",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola défaut",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola installation",
+      "category": "practical"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola setup",
+      "category": "practical"
+    },
+    {
+      "query": "Harol Nomo folding roof pergola montage",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "harol.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "arccan.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "thelandscapeexpo.com",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "pratic.it",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 3
+    },
+    {
+      "domain": "svenskpersienn.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "usercontent.one",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "landscapearchitect.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "nichebeverly.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "caddetails.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 2
+    },
+    {
+      "domain": "atriadesigns.ca",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 32
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "caddetails.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "atriadesigns.ca",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "thelandscapeexpo.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "pratic.it",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 4
+    },
+    {
+      "domain": "nichebeverly.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "approvedbusiness.co.uk",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "docs.daviecountync.gov",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "topcoder.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "ime.usp.br",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "aadl.org",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "openriver.winona.edu",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "sos.ks.gov",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "digital.lib.ecu.edu",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "elks.org",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "usmodernist.org",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "kellmanndesign.dk",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "usercontent.one",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "cdn.euclidlibrary.org",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "ecms.newportbeachca.gov",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 28
+    },
+    {
+      "domain": "svenskpersienn.se",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "kellmanndesign.dk",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "search.baldwinpark.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "dawnlandvoices.org",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "elks.org",
+      "category": "negative",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "history.meigslibrary.org",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "wwwx.cs.unc.edu",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "host69-005.meigs.lib.oh.us",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "thelandscapeexpo.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "atriadesigns.ca",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "nichebeverly.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "arccan.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 3
+    },
+    {
+      "domain": "usmodernist.org",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "scholarship.shu.edu",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "libsysdigi.library.illinois.edu",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "approvedbusiness.co.uk",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "sos.ks.gov",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "digital.lib.ecu.edu",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "pratic.it",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "huggingface.co",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "caddetails.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 17
+    },
+    {
+      "domain": "svenskpersienn.se",
+      "category": "practical",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "kellmanndesign.dk",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 5
+    },
+    {
+      "domain": "usercontent.one",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "thelandscapeexpo.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "atriadesigns.ca",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "arccan.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "wwwx.cs.unc.edu",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "web.eecs.utk.edu",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/",
+      "domain": "harol.com",
+      "title": "Horizontal pergola with folding roof | Harol",
+      "category": "reviews",
+      "isManufacturer": true,
+      "textLength": 4456,
+      "fetchedAt": "2026-05-20T11:08:13.169Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.pratic.it/en/product/nomo/",
+      "domain": "pratic.it",
+      "title": "Nomo - Aluminium Pergolas - Pratic",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:08:16.312Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.arccan.com/products/nomo-retractable-roof/",
+      "domain": "arccan.com",
+      "title": "Nomo Retractable Roof Pergola - Arccan Shade Structures Ltd",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1734,
+      "fetchedAt": "2026-05-20T11:08:21.416Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://thelandscapeexpo.com/outdoor-living-residential-landscape/outdoor-living/sunair-pergolas-awnings-amp-solar-screens/nomo-rialto-retractable-fabric-roof-pergola-for-commercial-spaces-such-as-restaurants-and-hotels/20006/58712",
+      "domain": "thelandscapeexpo.com",
+      "title": "The Landscape Expo | Webinar - Seminar Info",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 4934,
+      "fetchedAt": "2026-05-20T11:08:25.249Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.atriadesigns.ca/products/retractable-pvc-pergolas/nomo",
+      "domain": "atriadesigns.ca",
+      "title": "Atria Designs | Product: Pratic Nomo | Integrated Fabric Pergola",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 1447,
+      "fetchedAt": "2026-05-20T11:08:28.613Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://nichebeverly.com/pergola/aluminium-pergolas/nomo-pergola/",
+      "domain": "nichebeverly.com",
+      "title": "Experience Nomo Pergola: Elegant And Beautiful Design",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 2827,
+      "fetchedAt": "2026-05-20T11:08:32.217Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://www.approvedbusiness.co.uk/companies/outashade-ltd",
+      "domain": "approvedbusiness.co.uk",
+      "title": "Outashade Ltd - High-Quality Pergolas, Verandas, Awnings & Outdoor Kitchens",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:08:35.166Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://sunairawnings.com/media/files/nomo-rialto-pergola-overview-2022.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://svenskpersienn.se/wp-content/uploads/2022/07/LL_Nomo.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://kellmanndesign.dk/wp-content/uploads/2024/11/Outdoor_living.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://usercontent.one/wp/svenskpersienn.se/wp-content/uploads/2021/08/BR_Outdoor_Living.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.sos.ks.gov/publications/Register/Volume-43/PDF/Vol-43-No-35-August-29-2024-July-2024-Forfeitures.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "harol"
+    ],
+    "acceptedDomains": [
+      "harol.com"
+    ],
+    "candidates": [
+      {
+        "domain": "harol.com",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "pratic.it",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "arccan.com",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "thelandscapeexpo.com",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "atriadesigns.ca",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "nichebeverly.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "approvedbusiness.co.uk",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Nomo's horizontal folding roof system lets you enjoy the outdoors, even when it rains. The smart design of the curved fabric profiles ensures elegant water drainage. Add glass or wooden sliding walls and LED lighting for extra comfort. The folding roof can be opened fully, allowing you to enjoy maximum light. The folding fabric is made of PVC and is 100% waterproof. The curved fabric profiles also means there is great drainage so you stay nice and dry during a shower. With a maximum width of 5.5 m, a depth of 7 m and a surface area of 38.5 m² per module, Nomo offers endless options. The maximum height of 3 m and sturdy posts of 15 x 15 cm ensure a robust and spacious design. Will you opt for a lean-to or for a fully self-supporting structure? Nomo offers an elegant and practical solution. Opt for glass sliding walls, built-in screens all around and sustainable LED lighting for even more comfort.",
+    "kalla": {
+      "domän": "harol.com",
+      "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Fully retractable folding roof made of PVC, 100% waterproof",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+      }
+    },
+    {
+      "text": "Curved fabric profiles ensure elegant water drainage",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+      }
+    },
+    {
+      "text": "Available as lean-to (wall-mounted) or fully self-supporting (freestanding)",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+      }
+    },
+    {
+      "text": "Maximum dimensions: width 5.5 m, depth 7 m, surface area 38.5 m² per module, max height 3 m, posts 15 x 15 cm",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+      }
+    },
+    {
+      "text": "Aluminium frame with stainless steel components and integrated gutters",
+      "kalla": {
+        "domän": "arccan.com",
+        "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+      }
+    },
+    {
+      "text": "The only model that hides its vertical side screens inside the frame for a clean, seamless look",
+      "kalla": {
+        "domän": "atriadesigns.ca",
+        "url": "https://www.atriadesigns.ca/products/retractable-pvc-pergolas/nomo"
+      }
+    },
+    {
+      "text": "Unique horizontal profile measuring 32 cm cleverly conceals the vertical Zip Raso awning when closed, ensuring a clean and minimalist look",
+      "kalla": {
+        "domän": "nichebeverly.com",
+        "url": "https://nichebeverly.com/pergola/aluminium-pergolas/nomo-pergola/"
+      }
+    },
+    {
+      "text": "Tecnic retractable cover operated by remote control; PVC that is blockout, waterproof, fire-resistant, and highly stable",
+      "kalla": {
+        "domän": "nichebeverly.com",
+        "url": "https://nichebeverly.com/pergola/aluminium-pergolas/nomo-pergola/"
+      }
+    },
+    {
+      "text": "Tilting gutters for water drainage; rainwater is collected by a tilting gutter and channeled down the legs",
+      "kalla": {
+        "domän": "atriadesigns.ca",
+        "url": "https://www.atriadesigns.ca/products/retractable-pvc-pergolas/nomo"
+      }
+    },
+    {
+      "text": "Can be enhanced with RGB perimeter LED lights or traditional LED Line lights",
+      "kalla": {
+        "domän": "nichebeverly.com",
+        "url": "https://nichebeverly.com/pergola/aluminium-pergolas/nomo-pergola/"
+      }
+    },
+    {
+      "text": "Available in 8 standard colours at no additional cost; all RAL colours and an extensive range of textured coatings; available with Tiger coating class II",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+      }
+    },
+    {
+      "text": "Standard fabrics: PVC 302 or Soltis Opaque 622 fabrics from Sergé Ferrari. Optional: fabric collections from Sergé Ferrari (Soltis Horizon 86, Soltis Perform 92) and Copaco (Sergé 600)",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+      }
+    },
+    {
+      "text": "Modules can be combined to create larger systems; designed to be easily linked together to cover even the largest patios or dining areas",
+      "kalla": {
+        "domän": "atriadesigns.ca",
+        "url": "https://www.atriadesigns.ca/products/retractable-pvc-pergolas/nomo"
+      }
+    },
+    {
+      "text": "Framework comes powder coated in Iron Grey as standard with a wide range of optional colours at additional cost",
+      "kalla": {
+        "domän": "arccan.com",
+        "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+      }
+    },
+    {
+      "text": "Built-in profiles for Raso blinds as standard, so it's easily possible to enclose the space",
+      "kalla": {
+        "domän": "arccan.com",
+        "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Ideal for small to medium sized commercial installations such as restaurants, hotels, outdoor deck and patio spaces",
+      "kalla": {
+        "domän": "thelandscapeexpo.com",
+        "url": "https://thelandscapeexpo.com/outdoor-living-residential-landscape/outdoor-living/sunair-pergolas-awnings-amp-solar-screens/nomo-rialto-retractable-fabric-roof-pergola-for-commercial-spaces-such-as-restaurants-and-hotels/20006/58712"
+      }
+    },
+    {
+      "text": "Restaurant and hotel outdoor dining areas and outdoor kitchens & BBQ areas in private homes",
+      "kalla": {
+        "domän": "arccan.com",
+        "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+      }
+    },
+    {
+      "text": "Ideal for both open spaces and more intimate environments; can go from an open-air terrace to a fully enclosed room in seconds",
+      "kalla": {
+        "domän": "atriadesigns.ca",
+        "url": "https://www.atriadesigns.ca/products/retractable-pvc-pergolas/nomo"
+      }
+    },
+    {
+      "text": "The minimum size profiles and compacted blades mean that this retractable roof pergola can be easily inserted in inner courtyards and in pre-existing spaces with minimal disruption",
+      "kalla": {
+        "domän": "arccan.com",
+        "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+      }
+    },
+    {
+      "text": "Optional integrated Raso retractable side screens are available for those cooler days or to keep mosquitos at bay",
+      "kalla": {
+        "domän": "thelandscapeexpo.com",
+        "url": "https://thelandscapeexpo.com/outdoor-living-residential-landscape/outdoor-living/sunair-pergolas-awnings-amp-solar-screens/nomo-rialto-retractable-fabric-roof-pergola-for-commercial-spaces-such-as-restaurants-and-hotels/20006/58712"
+      }
+    },
+    {
+      "text": "Enjoy your pergola all year round with protection from wind, weather and curious glances using sliding walls or screens; on hot days, chilly summer days and evenings, or when the weather is wet and cold",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundrecensioner eller omdömen hittade efter sökning på 7 källor. Approvedbusiness.co.uk-sidan för Outashade Ltd visar (2) recensioner men inget recensionsinnehåll finns tillgängligt i källtexten. Övriga källor är återförsäljare/tillverkarbeskrivningar utan kundcitat."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Maximum width 5.5 m and maximum depth 7 m per single module — larger installations require combining multiple modules",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+        }
+      },
+      {
+        "text": "Maximum height of 3 m",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+        }
+      },
+      {
+        "text": "Optional colours available at additional cost beyond the Iron Grey standard powder coat",
+        "kalla": {
+          "domän": "arccan.com",
+          "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga explicit negativa rapporter, vanliga problem eller olämpliga användningsfall hittade i de 7 genomsökta källorna. Atriadesigns.ca (kategoriserad som 'negative') innehåller enbart produktbeskrivning utan negativ information."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Both systems (Nomo and Rialto) have built in water drainage with integrated rain gutter and post downspouts",
+        "kalla": {
+          "domän": "thelandscapeexpo.com",
+          "url": "https://thelandscapeexpo.com/outdoor-living-residential-landscape/outdoor-living/sunair-pergolas-awnings-amp-solar-screens/nomo-rialto-retractable-fabric-roof-pergola-for-commercial-spaces-such-as-restaurants-and-hotels/20006/58712"
+        }
+      },
+      {
+        "text": "The structure can be custom-made to meet your specific needs. You also have the option to combine multiple modules for a larger installation",
+        "kalla": {
+          "domän": "nichebeverly.com",
+          "url": "https://nichebeverly.com/pergola/aluminium-pergolas/nomo-pergola/"
+        }
+      },
+      {
+        "text": "Please contact Sunair for any Technical Info and DWG drawings you need for slightly different configurations beyond what is in this document",
+        "kalla": {
+          "domän": "thelandscapeexpo.com",
+          "url": "https://thelandscapeexpo.com/outdoor-living-residential-landscape/outdoor-living/sunair-pergolas-awnings-amp-solar-screens/nomo-rialto-retractable-fabric-roof-pergola-for-commercial-spaces-such-as-restaurants-and-hotels/20006/58712"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Minimum size profiles and compacted blades mean this retractable roof pergola can be easily inserted in inner courtyards and in pre-existing spaces with minimal disruption",
+        "kalla": {
+          "domän": "arccan.com",
+          "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+        }
+      },
+      {
+        "text": "Retractable roof accompanied by built-in profiles for Raso blinds as standard",
+        "kalla": {
+          "domän": "arccan.com",
+          "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Begränsad återförsäljarspecifik kunskap tillgänglig — ingen källa innehåller typiska felval eller detaljerade monteringsanvisningar."
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Prices start from £8,050 + VAT (ArcCan UK) for what is described as an aluminium-and-stainless-steel motorised structure with integrated drainage and remote control. Harol positions it alongside a 5-year quality guarantee, made-to-measure solutions, and 80 years of manufacturing heritage. The product targets both residential and commercial (restaurants/hotels) segments, consistent with a premium positioning. Pratic's paint process and 38-colour customisation option further support premium tier.",
+    "indikativa_priser": [
+      {
+        "text": "Prices from £8,050 + VAT (UK, via ArcCan, date not specified)",
+        "kalla": {
+          "domän": "arccan.com",
+          "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Nomo",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+        }
+      },
+      {
+        "text": "folding roof",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "retractable roof pergola",
+        "kalla": {
+          "domän": "arccan.com",
+          "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+        }
+      },
+      {
+        "text": "retractable fabric roof pergola",
+        "kalla": {
+          "domän": "thelandscapeexpo.com",
+          "url": "https://thelandscapeexpo.com/outdoor-living-residential-landscape/outdoor-living/sunair-pergolas-awnings-amp-solar-screens/nomo-rialto-retractable-fabric-roof-pergola-for-commercial-spaces-such-as-restaurants-and-hotels/20006/58712"
+        }
+      },
+      {
+        "text": "horizontal folding roof system",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+        }
+      },
+      {
+        "text": "motorised retractable roof horizontal pergola system",
+        "kalla": {
+          "domän": "arccan.com",
+          "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+        }
+      },
+      {
+        "text": "retractable PVC pergola",
+        "kalla": {
+          "domän": "atriadesigns.ca",
+          "url": "https://www.atriadesigns.ca/products/retractable-pvc-pergolas/nomo"
+        }
+      },
+      {
+        "text": "flat-roof pergola",
+        "kalla": {
+          "domän": "atriadesigns.ca",
+          "url": "https://www.atriadesigns.ca/products/retractable-pvc-pergolas/nomo"
+        }
+      },
+      {
+        "text": "aluminium pergola with PVC fabric",
+        "kalla": {
+          "domän": "approvedbusiness.co.uk",
+          "url": "https://www.approvedbusiness.co.uk/companies/outashade-ltd"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Tecnic retractable cover",
+        "kalla": {
+          "domän": "nichebeverly.com",
+          "url": "https://nichebeverly.com/pergola/aluminium-pergolas/nomo-pergola/"
+        }
+      },
+      {
+        "text": "Zip Raso awning",
+        "kalla": {
+          "domän": "nichebeverly.com",
+          "url": "https://nichebeverly.com/pergola/aluminium-pergolas/nomo-pergola/"
+        }
+      },
+      {
+        "text": "Raso retractable side screens / Raso blinds",
+        "kalla": {
+          "domän": "arccan.com",
+          "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+        }
+      },
+      {
+        "text": "Tiger coating class II",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+        }
+      },
+      {
+        "text": "tilting gutter",
+        "kalla": {
+          "domän": "atriadesigns.ca",
+          "url": "https://www.atriadesigns.ca/products/retractable-pvc-pergolas/nomo"
+        }
+      },
+      {
+        "text": "Slide Glass windows",
+        "kalla": {
+          "domän": "approvedbusiness.co.uk",
+          "url": "https://www.approvedbusiness.co.uk/companies/outashade-ltd"
+        }
+      },
+      {
+        "text": "bioclimatic pergola",
+        "kalla": {
+          "domän": "approvedbusiness.co.uk",
+          "url": "https://www.approvedbusiness.co.uk/companies/outashade-ltd"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Harol Nomo",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/folding-roofs/nomo/"
+        }
+      },
+      {
+        "text": "Pratic Nomo",
+        "kalla": {
+          "domän": "atriadesigns.ca",
+          "url": "https://www.atriadesigns.ca/products/retractable-pvc-pergolas/nomo"
+        }
+      },
+      {
+        "text": "Nomo pergola",
+        "kalla": {
+          "domän": "nichebeverly.com",
+          "url": "https://nichebeverly.com/pergola/aluminium-pergolas/nomo-pergola/"
+        }
+      },
+      {
+        "text": "Nomo retractable roof",
+        "kalla": {
+          "domän": "arccan.com",
+          "url": "https://www.arccan.com/products/nomo-retractable-roof/"
+        }
+      },
+      {
+        "text": "Nomo Rialto retractable fabric roof pergola",
+        "kalla": {
+          "domän": "thelandscapeexpo.com",
+          "url": "https://thelandscapeexpo.com/outdoor-living-residential-landscape/outdoor-living/sunair-pergolas-awnings-amp-solar-screens/nomo-rialto-retractable-fabric-roof-pergola-for-commercial-spaces-such-as-restaurants-and-hotels/20006/58712"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:09:52.361Z"
+}

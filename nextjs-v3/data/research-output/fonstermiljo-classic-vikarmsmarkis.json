@@ -1,0 +1,520 @@
+{
+  "entity": "Fonstermiljo Classic vikarmsmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo Classic vikarmsmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Classic vikarmsmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 30
+    },
+    {
+      "domain": "calameo.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "calameo.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 34
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 2
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 1,
+      "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/",
+      "domain": "skanskfonstermiljo.se",
+      "title": "Våra produkter - Skånsk Fönstermiljö",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 2714,
+      "fetchedAt": "2026-05-20T10:53:30.196Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.calameo.com/books/008178187162c5c5de341",
+      "domain": "calameo.com",
+      "title": "Calaméo - Föntermiljö produktkatalog 2026",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:53:33.620Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "http://www.fonstermiljo.se/wp-content/uploads/2017/03/Produktblad_classic.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://fonstersolskydd.se/wp-content/uploads/2022/08/Produktblad_classic_terrassmarkis.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "skanskfonstermiljo.se",
+        "sourceIdx": 1,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "calameo.com",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": null,
+    "kalla": null,
+    "kanal_typ": "saknas",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Förstärkt markis som tål stora vindpåfrestningar",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Fälls in i en diskret kassett som skyddar väven extra mot regn, sol och smuts",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Kan monteras på fasaden, i ett fönsterfoder eller i en nisch",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Styrs med en motor som kan seriekopplas. Genom att lägga till sensorer för sol och vind kan markiserna styras automatiskt",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Stort utbud av färger, antingen i tät markisväv eller screenväv som man kan se igenom. Alla vävar är vattenavvisande",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Kan fås med eller utan kappa som hänger ner längst fram",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Kassett kan fås lackerad i valfri färg",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Fungerar på bredare fönsterpartier",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Klassisk solavskärmning som passar på äldre fasader",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Bidrar med karaktär till en fasad och fungerar väldigt fint på äldre byggnader",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Stoppar värmen innan den når fönsterrutan – solavskärmning och klimatkontroll",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Riktar sig till arkitekter, fastighetsägare och byggare (proffskunder)",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Fastighetstyper som nämns: skola, kultur, myndighet, flerbostadshus, idrott och bad, vård och omsorg, kontor",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundcitat hittade efter sökning på 2 källor. Ingen av källorna innehåller kundrecensioner eller foruminlägg."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "För extra höga fönster rekommenderas andra solavskärmningar såsom zipscreen eller fasadpersienn istället för fönstermarkis",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [
+      {
+        "text": "Extra höga fönster – där rekommenderas zipscreen eller fasadpersienn istället",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Mycket begränsad information om begränsningar och problem; endast 2 källor tillgängliga varav en inte innehöll produktinformation."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Markisen kan monteras på tre sätt: på fasaden, i ett fönsterfoder eller i en nisch",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Motorerna kan seriekopplas och kompletteras med sensorer för sol och vind för automatisk styrning",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Att välja fönstermarkis för extra höga fönster – andra produkter (zipscreen, fasadpersienn) är bättre lämpade",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Monteras på fasaden, i ett fönsterfoder eller i en nisch",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Begränsad återförsäljarkunskap tillgänglig; information härrör från en enda säljares produktsida."
+  },
+  "prisklass_positionering": {
+    "klass": "okand",
+    "motivation": "Inga priser anges i de tillgängliga källorna. Produkten riktar sig till proffskunder (arkitekter, fastighetsägare, byggare) med förstärkt konstruktion och motoriserad styrning, vilket antyder en professionell/kommersiell positionering snarare än konsumentbudget, men utan prisdata kan ingen klass fastställas.",
+    "indikativa_priser": []
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Fönstermarkis",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Vikarmsmarkis",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Solavskärmning",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Kassett (det hölje markisväven fälls in i)",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Screenväv (genomskinlig markisväv)",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Markisväv (tät väv)",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Kappa (hängande del längst fram på markisen)",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Klimatkontroll",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Fönstermiljö Classic vikarmsmarkis",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Fönstermarkis äldre fasad",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Utvändig solavskärmning fönster",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:54:07.516Z"
+}

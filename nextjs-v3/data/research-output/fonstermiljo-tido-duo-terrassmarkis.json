@@ -1,0 +1,926 @@
+{
+  "entity": "Fonstermiljo Tido Duo terrassmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo Tido Duo terrassmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Tido Duo terrassmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "lagun.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "markisgiganten.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "enyroom.se",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "styrasolskydd.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "markisbutiken.se",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "perkis.se",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "dittsolskydd.se",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "lagun.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "markisgiganten.se",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "markisbutiken.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "amagruppen.se",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "perkis.se",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "lagun.se",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "enyroom.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "markisbutiken.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "dittsolskydd.se",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "markisgiganten.se",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://fonstermiljo.se/produkter/tido-duo/",
+      "domain": "fonstermiljo.se",
+      "title": "Tidö Duo – Fönstermiljö i Laholm",
+      "category": "reviews",
+      "isManufacturer": true,
+      "textLength": 1611,
+      "fetchedAt": "2026-05-20T11:00:16.037Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/",
+      "domain": "lagun.se",
+      "title": "Terrassmarkis FA92 DUO - Lagun Solskydd",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1826,
+      "fetchedAt": "2026-05-20T11:00:39.681Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://markisbutiken.se/produkt/bat-1/",
+      "domain": "markisbutiken.se",
+      "title": "Terassmarkis DUO - markisbutiken.se",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 2371,
+      "fetchedAt": "2026-05-20T11:00:43.728Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://markisgiganten.se/produkter/terrassmarkiser/terrassmarkis-duo",
+      "domain": "markisgiganten.se",
+      "title": "Terrassmarkis DUO - Fristående Markis | Markisgiganten",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1582,
+      "fetchedAt": "2026-05-20T11:00:46.496Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://skanskfonstermiljo.se/produkt/terassmarkiser/",
+      "domain": "skanskfonstermiljo.se",
+      "title": "Våra produkter - Skånsk Fönstermiljö",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 3007,
+      "fetchedAt": "2026-05-20T11:00:49.158Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.dittsolskydd.se/file.php?file=Montageanvisning%20StyRa%20DUO_2.pdf&srsltid=AfmBOorvnS25Eq3X1WIkejFMfx55vngeZ6DdQsnvtjDNaLfYnHNKxUYq",
+      "domain": "dittsolskydd.se",
+      "title": "",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:00:50.682Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa92-duo",
+      "domain": "enyroom.se",
+      "title": "Terrassmarkis FA92 DUO | Enyroom",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 6139,
+      "fetchedAt": "2026-05-20T11:00:55.652Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://perkis.se/produkt/bure/",
+      "domain": "perkis.se",
+      "title": "Perkis | StyRa® DUO terrassmarkis",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1219,
+      "fetchedAt": "2026-05-20T11:00:59.333Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://amagruppen.se/produkter/utvandiga-solskydd/tido-fonstermarkis/",
+      "domain": "amagruppen.se",
+      "title": "Tidö fönstermarkis - AMA Norrland AB",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 748,
+      "fetchedAt": "2026-05-20T11:01:02.512Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.trustpilot.com/review/www.wallners.se",
+      "reason": "review-not-model-specific (model tokens [tido, duo, terrassmarkis] absent in fetched text)"
+    },
+    {
+      "url": "https://www.styrasolskydd.se/wp-content/uploads/2022/08/StyRa-Produktblad-Terrassmarkis-DUO.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [
+      "fonstermiljo.se",
+      "skanskfonstermiljo.se"
+    ],
+    "candidates": [
+      {
+        "domain": "fonstermiljo.se",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "lagun.se",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markisbutiken.se",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markisgiganten.se",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "skanskfonstermiljo.se",
+        "sourceIdx": 5,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "dittsolskydd.se",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "enyroom.se",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "perkis.se",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "amagruppen.se",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "TIDÖ DUO är en fristående markis som man fäster direkt i terrassgolvet med en fästplatta. Den fungerar även till gjutna plintar. Alternativt ställer man vikter på en fördelningsplatta, som ligger i en låda. Lådan går att sitta på, ifall man önskar fler sittplatser. Markisen behöver alltså inte förankras i någon byggnad. Den har endast ett vävrör, vilket gör att en sida är överrullad medan den andra är underrullad. Denna produkt öppnar upp nya möjligheter för privata trädgårdar, men självklart passar den även för caféer och restauranger.",
+    "kalla": {
+      "domän": "fonstermiljo.se",
+      "url": "https://fonstermiljo.se/produkter/tido-duo/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Helt fristående konstruktion – behöver inte förankras i någon byggnad eller fasad",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Kan fästas direkt i terrassgolvet med fästplatta, fungerar även till gjutna plintar. Alternativt vikter på fördelningsplatta i en låda som även fungerar som sittplats",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Har endast ett vävrör, vilket gör att en sida är överrullad medan den andra är underrullad",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Kan täcka en yta på upp till 36 m2",
+      "kalla": {
+        "domän": "markisbutiken.se",
+        "url": "https://markisbutiken.se/produkt/bat-1/"
+      }
+    },
+    {
+      "text": "Max mått: 6000 x 6000 mm (BxU)",
+      "kalla": {
+        "domän": "markisgiganten.se",
+        "url": "https://markisgiganten.se/produkter/terrassmarkiser/terrassmarkis-duo"
+      }
+    },
+    {
+      "text": "Utfall: 100, 160, 200, 250, 300 cm. Min. bredd: 155–365 cm beroende på utfall. Max. bredd: 600 cm",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Stativet består av lackerade strängpressade aluminiumprofiler och med detaljer i pulverlackerat pressgjutet eller strängpressat aluminium. Skruvar och axlar är av rostfritt eller förzinkat stål.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Vikarmar med dyneema band i knäleden",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Markisväven är av 100% spinnfärgad acryl",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Standardfärger: vit och svart. Kan speciallackeras i valfri RAL-kulör",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Kappan levereras rak eller med våg, efter kundens önskemål. Den är avtagbar.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Standard: Snäckväxel & vev, Tak / Kassett. Tillval: Motor, Teleskopstag",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Reglage: Vev (manuell) eller Motor (fjärrkontroll). Tillval: Sol- & vindautomatik, Appstyrning, Smarta hem integration",
+      "kalla": {
+        "domän": "markisgiganten.se",
+        "url": "https://markisgiganten.se/produkter/terrassmarkiser/terrassmarkis-duo"
+      }
+    },
+    {
+      "text": "Extra funktioner som tillval: LED-belysning, Viktlåda, Terrassvärmare",
+      "kalla": {
+        "domän": "markisgiganten.se",
+        "url": "https://markisgiganten.se/produkter/terrassmarkiser/terrassmarkis-duo"
+      }
+    },
+    {
+      "text": "Viktlådorna fylls med 12st 40x40 plattor var och fungerar utmärkt som extra sittplats",
+      "kalla": {
+        "domän": "markisbutiken.se",
+        "url": "https://markisbutiken.se/produkt/bat-1/"
+      }
+    },
+    {
+      "text": "Fästen anpassade för montering av värmare i stativet (tillval)",
+      "kalla": {
+        "domän": "lagun.se",
+        "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Privata trädgårdar – öppnar upp nya möjligheter för skuggning mitt i trädgården utan fasadmontering",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Caféer och restauranger – perfekt för uteserveringar",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/tido-duo/"
+      }
+    },
+    {
+      "text": "Uteserveringar som inte får ha fast monterat solskydd, eller bara har tillstånd under sommarhalvåret – viktlådor gör att den inte behöver skruvas fast",
+      "kalla": {
+        "domän": "lagun.se",
+        "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+      }
+    },
+    {
+      "text": "Kan ställas över sandlådan, på altanen, restaurangen eller över din pool där barnen leker för fullt",
+      "kalla": {
+        "domän": "perkis.se",
+        "url": "https://perkis.se/produkt/bure/"
+      }
+    },
+    {
+      "text": "Det självklara valet till förskolor med behov av skugga vid lekplatsen",
+      "kalla": {
+        "domän": "markisbutiken.se",
+        "url": "https://markisbutiken.se/produkt/bat-1/"
+      }
+    },
+    {
+      "text": "När det inte är tillåtet eller ens möjligt att montera någonting på husets fasad",
+      "kalla": {
+        "domän": "lagun.se",
+        "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+      }
+    },
+    {
+      "text": "Öppna ytor vid villor, förskolor, caféer och restauranger",
+      "kalla": {
+        "domän": "enyroom.se",
+        "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa92-duo"
+      }
+    },
+    {
+      "text": "Perfekt att placera över poolen eller trädäcket, på altanen eller mitt på gräsmattan för en skuggad yta",
+      "kalla": {
+        "domän": "markisgiganten.se",
+        "url": "https://markisgiganten.se/produkter/terrassmarkiser/terrassmarkis-duo"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundomdömen eller recensioner hittade efter sökning på 9 källor. Markisbutiken.se visar 0 recensioner. Inga forum- eller konsumentrecensioner återfanns i något av de genomsökta materialen."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Har endast ett vävrör, vilket gör att en sida är överrullad medan den andra är underrullad – innebär asymmetrisk konstruktion",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "Kräver antingen fastskruvning i golv/plintar eller tunga viktlådor med betongplattor (12 st 40×40 plattor per låda) för att stå stabilt",
+        "kalla": {
+          "domän": "markisbutiken.se",
+          "url": "https://markisbutiken.se/produkt/bat-1/"
+        }
+      },
+      {
+        "text": "Motor är standard (snäckväxel & vev), motor är tillval hos Fönstermiljö – medan FA92 DUO-varianten hos Enyroom alltid är motordriven",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "Minsta bredd vid max utfall (300 cm) är 365 cm, vilket ger en stor fotavtryck",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga vanliga problem eller olämpligheter rapporterade i de genomsökta källorna – detta beror sannolikt på avsaknad av användarrecensioner snarare än att problem inte existerar."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Markisen monteras enkelt direkt på trädäck eller gjutna plintar med hjälp av en fästplatta. Markisen kan också monteras med vikter på en fördelningsplatta i en låda som skapar extra sittyta.",
+        "kalla": {
+          "domän": "perkis.se",
+          "url": "https://perkis.se/produkt/bure/"
+        }
+      },
+      {
+        "text": "Viktlådorna fylls med 40×40 cm trädgårdsplattor av betong och för att höja utseendet lite extra, samt kunna använda viktlådan som sittplats går det att få den inklädd i trä",
+        "kalla": {
+          "domän": "lagun.se",
+          "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+        }
+      },
+      {
+        "text": "Vi rekommenderar att detta solskydd regleras med motor men möjlighet för vevreglage finns",
+        "kalla": {
+          "domän": "perkis.se",
+          "url": "https://perkis.se/produkt/bure/"
+        }
+      },
+      {
+        "text": "Genom att montera med viktlådor behöver den inte skruvas fast i underlaget, vilket kan passa extra bra på uteserveringar som inte får ha fast monterat solskydd, eller bara har tillstånd under sommarhalvåret",
+        "kalla": {
+          "domän": "lagun.se",
+          "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Skruvas i golv eller mark. Fristående med viktlådor.",
+        "kalla": {
+          "domän": "lagun.se",
+          "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+        }
+      },
+      {
+        "text": "Fäster direkt i terrassgolvet med en fästplatta. Fungerar även till gjutna plintar.",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Markisbutiken.se anger ett startpris på 39 475 kr, vilket för en fristående terrassmarkis med aluminiumprofiler, dyneema-band och spinnfärgad acrylväv indikerar en premiumprodukt. Produkten är måttanpassad, kräver professionell hantering och säljs via återförsäljare – inte som budgetprodukt i storlek eller prissättning.",
+    "indikativa_priser": [
+      {
+        "text": "39 475 kr (startpris, markisbutiken.se, inget datum angivet)",
+        "kalla": {
+          "domän": "markisbutiken.se",
+          "url": "https://markisbutiken.se/produkt/bat-1/"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "TIDÖ DUO",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "StyRa® DUO terrassmarkis",
+        "kalla": {
+          "domän": "perkis.se",
+          "url": "https://perkis.se/produkt/bure/"
+        }
+      },
+      {
+        "text": "Terrassmarkis FA92 DUO",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa92-duo"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Terrassmarkis DUO",
+        "kalla": {
+          "domän": "markisbutiken.se",
+          "url": "https://markisbutiken.se/produkt/bat-1/"
+        }
+      },
+      {
+        "text": "Fristående markis",
+        "kalla": {
+          "domän": "lagun.se",
+          "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+        }
+      },
+      {
+        "text": "Terrassmarkis DA92 DUO",
+        "kalla": {
+          "domän": "lagun.se",
+          "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Vikarmsmarkis",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "Dyneema band (i vikarmarnas knäled)",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "Spinnfärgad acryl / akryl",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "Strängpressade aluminiumprofiler",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "Snäckväxel",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "Viktlåda / viktlådor",
+        "kalla": {
+          "domän": "lagun.se",
+          "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+        }
+      },
+      {
+        "text": "Teleskopstag",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "RAL-kulör",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "Pulverlackerat",
+        "kalla": {
+          "domän": "markisbutiken.se",
+          "url": "https://markisbutiken.se/produkt/bat-1/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "fristående terrassmarkis",
+        "kalla": {
+          "domän": "lagun.se",
+          "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+        }
+      },
+      {
+        "text": "terrassmarkis duo",
+        "kalla": {
+          "domän": "markisgiganten.se",
+          "url": "https://markisgiganten.se/produkter/terrassmarkiser/terrassmarkis-duo"
+        }
+      },
+      {
+        "text": "Fönstermiljö Tidö Duo",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/tido-duo/"
+        }
+      },
+      {
+        "text": "StyRa DUO",
+        "kalla": {
+          "domän": "perkis.se",
+          "url": "https://perkis.se/produkt/bure/"
+        }
+      },
+      {
+        "text": "FA92 DUO",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa92-duo"
+        }
+      },
+      {
+        "text": "terrassmarkis utan fasadmontering",
+        "kalla": {
+          "domän": "lagun.se",
+          "url": "https://www.lagun.se/produkter/utomhus/terrassmarkis/terrassmarkis-fa92-duo/"
+        }
+      },
+      {
+        "text": "fristående markis pool",
+        "kalla": {
+          "domän": "perkis.se",
+          "url": "https://perkis.se/produkt/bure/"
+        }
+      },
+      {
+        "text": "terrassmarkis förskola",
+        "kalla": {
+          "domän": "markisbutiken.se",
+          "url": "https://markisbutiken.se/produkt/bat-1/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:02:25.885Z"
+}

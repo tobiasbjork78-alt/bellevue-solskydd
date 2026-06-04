@@ -1,0 +1,523 @@
+{
+  "entity": "Fonstermiljo Solliden fallarmsmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo Solliden fallarmsmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Solliden fallarmsmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 24
+    },
+    {
+      "domain": "amagruppen.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "calameo.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 24
+    },
+    {
+      "domain": "calameo.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "amagruppen.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "prisjakt.nu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 23
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 17
+    },
+    {
+      "domain": "amagruppen.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "calameo.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 2,
+      "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/",
+      "domain": "amagruppen.se",
+      "title": "Solliden fönstermarkis - AMA Norrland AB",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 661,
+      "fetchedAt": "2026-05-20T10:58:11.451Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/",
+      "domain": "skanskfonstermiljo.se",
+      "title": "Våra produkter - Skånsk Fönstermiljö",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 2923,
+      "fetchedAt": "2026-05-20T10:58:18.296Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.fonstermiljo.se/wp-content/uploads/2014/10/Produktblad_Solliden_rida.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.prisjakt.nu/produkt.php?p=10555890",
+      "reason": "review-not-model-specific (model tokens [solliden] absent in fetched text)"
+    },
+    {
+      "url": "https://www.calameo.com/books/008178187162c5c5de341",
+      "reason": "review-not-model-specific (model tokens [solliden] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "amagruppen.se",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "skanskfonstermiljo.se",
+        "sourceIdx": 4,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Solliden är en enkel och stilren fönstermarkis utan kassett som manövreras inifrån eller utifrån med band, lina. Solliden går att montera på balkongben (stödben) som spänns fast mellan golv och tak strax innanför balkongens framkant. Det ger en fristående markis som inte är fast monterad i byggnaden.",
+    "kalla": {
+      "domän": "amagruppen.se",
+      "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Fönstermarkis utan kassett",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Kan manövreras inifrån eller utifrån med band, lina",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Kan monteras på balkongben (stödben) som spänns fast mellan golv och tak strax innanför balkongens framkant – ger en fristående markis som inte är fast monterad i byggnaden",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Max bredd: 440 cm, Utfall: 120 cm (90 cm motoriserat), Täckhöjd: 240 cm",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Reglagealternativ: Invändigt/Utvändigt dragband, Invändig/Utvändig lina, Motorstyrning",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Stativfärg: Aluminium",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Montering på balkonger via balkongben/stödben utan fast montering i byggnaden – lämplig för bostadsrätter och liknande där fasadmontering kan vara problematisk",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Svalare inomhusklimat eftersom värmen stoppas innan den når fönstret; skärmar av bländande skarpt ljus och skyddar inredningen från att blekas",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundcitat hittade efter sökning på 2 källor. Båda källorna är produkt-/företagssidor utan kundrecensioner."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Modell utan kassett – väven saknar skyddande kassett till skillnad från andra modeller (t.ex. SFM Fönstermarkis 300 som har kassett som skyddar väven)",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/"
+        }
+      },
+      {
+        "text": "Motoriserat utfall begränsat till 90 cm jämfört med 120 cm manuellt",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Begränsad negativ information tillgänglig. Inga rapporterade problem eller olämpliga användningsområden specificerade i de 2 tillgängliga källorna."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Kan monteras på balkongben (stödben) som spänns fast mellan golv och tak strax innanför balkongens framkant, vilket ger en fristående markis",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Det finns olika markismodeller för olika hus – korgmodellen ger ett klassiskt intryck medan raka modeller är fina på modernare husfasader",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/"
+        }
+      },
+      {
+        "text": "Kan komplettera med motor och fjärrkontroll, samt sensorer för automatisk styrning",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Solliden kan monteras fristående via balkongben utan att fästas i byggnaden – stödben spänns fast mellan golv och tak innanför balkongens framkant",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "okand",
+    "motivation": "Inga priser anges i någon av de 2 tillgängliga källorna. Solliden beskrivs som en 'enkel' modell utan kassett, vilket antyder att den kan positioneras lägre i sortimentet jämfört med kassettmodeller, men detta kan inte bekräftas med prisdata.",
+    "indikativa_priser": []
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Solliden fönstermarkis",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Fallarmsmarkis",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Fönstermarkis",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/"
+        }
+      },
+      {
+        "text": "Utvändiga solskydd",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Kassett (skyddande hölje för väven)",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/"
+        }
+      },
+      {
+        "text": "Balkongben / stödben",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Utfall (hur långt markisen sträcker sig ut)",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Täckhöjd",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Dragband / lina (reglagetyper)",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Vattenavvisande vävar",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Fönstermiljö Solliden",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Solliden fonstermarkis",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Fallarmsmarkis balkong",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Fristående markis balkong",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/solliden-fonstermarkis/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:58:52.570Z"
+}

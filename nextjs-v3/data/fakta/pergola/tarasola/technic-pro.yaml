@@ -1,0 +1,389 @@
+modell: Technic Pro
+leverantör: Tarasola
+kategori: pergola-lamell
+produkttyp: Pergola lamelltak
+schema_version: 2
+hämtad: 2026-05-12
+primär_sidkategori: /pergola-malmo/
+sekundär_sidkategori: /pergola-tarasola/
+källor:
+  - url: https://tarasola.com/en/products/pergola-technic-pro/
+    titel: 404 Not Found
+    typ: produktsida
+    tier: A
+    hämtad_at: 2026-05-12T12:32:58.603Z
+  - url: https://tarasola.co.uk/terrace-roofing/technic-pro/
+    titel: Technic Pro | Tarasola - roofing of the terrace and garden Tarasola
+    typ: korsreferens
+    tier: C
+    hämtad_at: 2026-05-12T12:33:21.407Z
+  - url: https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    typ: datasheet
+    tier: C
+    hämtad_at: 2026-05-12T12:33:21.998Z
+tekniska_specs:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Maxbredd (enkel modul)
+    värde: 450 cm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Maxbredd (bas + modul)
+    värde: 900 cm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Maxbredd (bas + 2x modul)
+    värde: 1350 cm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Max projektion (med ZIP)
+    värde: 586 cm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Max projektion (utan ZIP)
+    värde: 696 cm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Höjd standard
+    värde: 270 cm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Höjd max
+    värde: 320 cm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Lamellrotation
+    värde: 0° till 135°
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Lamelldelning
+    värde: 200 mm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Vindtålighet
+    värde: 160 km/h
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Snölast (4 pelare, 200 cm proj, 220 cm bredd)
+    värde: 620 kg/m²
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Snölast (4 pelare, 600 cm proj, 450 cm bredd)
+    värde: 120 kg/m²
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Infästningsplatta intern (standard)
+    värde: 150 × 150 mm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Infästningsplatta extern Z1
+    värde: 250 × 150 mm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Infästningsplatta extern Z2
+    värde: 150 × 200 mm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Infästningsplatta extern Z3
+    värde: 200 × 200 mm
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Styrskena tvärsnitt
+    värde: 150 × 39 mm (med integrerad ZIP)
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Motor
+    värde: 24 V DC kabelansluten motor med 150 W nätaggregat
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    spec: Gardena Louvres Perpendicular max bredd (bas + 2x modul, med ZIP)
+    värde: 1818 cm (ZIP) / 2058 cm
+garantier:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: 5 år
+    typ: Garanti
+utmärkelser: []
+certifieringar:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: The Machinery Directive 2006/42/EC
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: PN-EN 13561 + A1:2010 External blinds – operational requirements
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: CPR 305/2011 (Regulation of the construction products) / EUROCODE
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: CE
+material_konstruktion:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: Konstruktion av extruderad pulverlackerad aluminium och rostfritt stål
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: 100 % aluminium (konstruktion)
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: Externa infästningsplattor i olackerat rostfritt stål
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: Integrerat rullgardinssystem (ZIP) inbyggt i takramen
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: Patenterat avancerat vattenavrinningssystem som minskar stänk
+motorisering_styrning:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: Elmotor ingår i priset
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: 24 V DC radiostyrningsenhet (TELECO) för 1 motor
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: 24 V DC radiostyrningsenhet (TELECO) för 1–2 motorer, integrerad med LED-mottagare (max 75 LED-spotlights)
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: Fjärrkontroll TELECO 42-kanaler, vit/svart
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: Fjärrkontroll TELECO 63-kanaler, vit/svart
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Tillval sensorer: vind, regn, temperatur, kombination regn+temperatur (snödetektering)"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: Smartphonestyrning via DAISY TELECO
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Radiostyrningsenhet för ZIP: 230 V för 1 motor, alternativt upp till 4 motorer (valfri vindgivare)"
+usp_formuleringar:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    påstående: Integrerat ZIP-rullgardinssystem inbyggt i takramen ger minimalistisk kubisk form utan separat utanpåliggande ZIP-kassett
+    baserat_på: A distinctive feature is the integrated roller blind system inside the canopy frame…does not require the presence of a separate ZIP cassette protruding outside the construction.
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    påstående: Patenterat vattenavrinningssystem som minskar stänk och förhindrar droppfall under taket
+    baserat_på: This patent has been granted for an advanced water drainage system which reduces splashing of drops, thus preventing them from falling under the roof.
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    påstående: Nästan helårsanvändbar konstruktion med ökad motståndskraft mot väderförändringar
+    baserat_på: Tarasola Technic Pro is an almost year-round structure…more resistant to changes in weather conditions.
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    påstående: Minimalt antal skruvförbindelser för modernt utseende
+    baserat_på: The reduction of screw connections to a minimum gives the roof a modern character and makes it pleasing to the eye.
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    påstående: Modulär koppling möjlig
+    baserat_på: Option of modular connection.
+relevans_för_sida:
+  - /pergola-malmo/
+  - /pergola-tarasola/
+oklassificerad_fakta:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Standardfärger konstruktion: 9010ST (cream-white ~RAL9010), 9007ST (grey aluminium ~RAL9007), 7016ST (anthracite-metallic ~RAL7016)"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Standardfärger lameller: 9010ST, 9010, 9007ST, 7016ST"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Tilläggsfärger: valfri RAL-färg, träliknande lack (wood-like varnish)"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: Omfattande dräneringssystem som standard
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Tillval belysning: LED-spotlights (min 8 st på konstruktionen, min 3 på lameller), LED-tubes 3×12,5 cm i lameller, LED-tubes 1×50 cm i lameller, LED-strip (8W vit/RGB) integrerad i ränna"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Tillval infraröd värmare GR1: 1,5 kW, LOW GLARE, IP65, vit/svart"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Tillval infraröd värmare GR2 IR: 1,5 kW, LOW GLARE, IP65, med inbyggd IR-mottagare och fjärrkontroll"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Styrenhet för 1–2 infraröda värmare: max 3 kW"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Tillval audiosystem TELECO: Bluetooth, 25 W högtalare diameter 10 cm inbyggd i ram"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Tillval: glasning, skjutluckor (shutters), screener ZIP-solskydd"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Tillval: 230 V uttag (socket)"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Projektionsvärden tillgängliga i steg: 116–696 cm"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf
+    hämtad: 2026-05-12
+    värde: "Modellvarianter: Technic Pro (Pavilon/Tende), Technic Pro (Gardena), Technic Pro (Gardena – Louvres Perpendicular)"

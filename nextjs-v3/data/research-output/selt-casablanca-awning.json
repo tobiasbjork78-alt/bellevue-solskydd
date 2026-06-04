@@ -1,0 +1,1128 @@
+{
+  "entity": "Selt Casablanca awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt Casablanca awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Casablanca awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Casablanca awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Casablanca awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Casablanca awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Casablanca awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Casablanca awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Casablanca awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Casablanca awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Casablanca awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Casablanca awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Casablanca awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Casablanca awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Casablanca awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Casablanca awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Casablanca awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Casablanca awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Casablanca awning montaż",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "archiexpo.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "globalblinds.com.au",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "zaluzie24.eu",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 4
+    },
+    {
+      "domain": "selt.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "aknakate.ee",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "magpergole.pl",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "solidneprzemiany.pl",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "kmproject.net",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "ukcampsite.co.uk",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "homedepot.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "selt.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "zaluzie24.eu",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "dopasujrolety.pl",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "kmproject.net",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "ceneo.pl",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "sunstateawning.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "lednorhome.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "zaluzie24.eu",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "negative",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "cflawnings.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "aladdininc.net",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "libertydoorandawning.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "durkinsinc.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "anchorinc.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "zingashome.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "patioandgardenshading.co.uk",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "issuu.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "capecodretractableawning.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "practical",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "globalblinds.com.au",
+      "category": "practical",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "zaluzie24.eu",
+      "category": "practical",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "acmedia.s3.amazonaws.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "static1.squarespace.com",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "media.adeo.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "phancyscreensny.com",
+      "category": "practical",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "petersoncanvas.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "additionsbybh.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "american-awnings.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "appealshading.com",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "libertydoorandawning.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/",
+      "domain": "shopsun.eu",
+      "title": "Installation of the Casablanca Selt awning",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 2662,
+      "fetchedAt": "2026-05-20T10:00:19.869Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://markizes24.lv/Awnings-system-CASABLANCA",
+      "domain": "markizes24.lv",
+      "title": "Awnings CASABLANCA",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 1809,
+      "fetchedAt": "2026-05-20T10:00:22.965Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.alandeko.lv/en/product/selt-cassette-awning-casablanca/",
+      "domain": "alandeko.lv",
+      "title": "Cassette awning CASABLANCA | ALANDEKO",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:00:28.153Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754341.html",
+      "domain": "archiexpo.com",
+      "title": "Box awning - CASABLANCA - Selt Sun Protection Systems - manual / commercial",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 4344,
+      "fetchedAt": "2026-05-20T10:00:31.315Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/",
+      "domain": "globalblinds.com.au",
+      "title": "Casablanca Folding Arm Awning | Motorised or Manual | Global Blinds",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 5025,
+      "fetchedAt": "2026-05-20T10:00:38.167Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://www.manualslib.com/products/Selt-Casablanca-11170210.html",
+      "domain": "manualslib.com",
+      "title": "Selt CASABLANCA Manuals | ManualsLib",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 3545,
+      "fetchedAt": "2026-05-20T10:00:41.092Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS",
+      "domain": "e-markizy.pl",
+      "title": "Markiza Casablanca Selt dane techniczne i instrukcja pomiaru",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 5329,
+      "fetchedAt": "2026-05-20T10:00:46.263Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://plikiapi.selt.com/dokument/3311798FOLDER_INSPIRACJE_27052024_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.zaluzie24.eu/data/blob/shop_products-application_download-20150428090733-3438-casablanca.pdf?srsltid=AfmBOooC_XlgBVN5ko0Sfh-TlSg1lkjefalafZCPC806YmiF3Y_KwOHk",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://aluprof.com/files/downloads/3146179DT_E_1182_IOiBE_CASABLANCA_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://brevo.lt/wp-content/uploads/2023/06/Casablanca-instrukcija.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.archiselt.com/media/system/oferta/Karta-Katalogowa-Markiza-Casablanca.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 0,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markizes24.lv",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "alandeko.lv",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiexpo.com",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "globalblinds.com.au",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "manualslib.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "e-markizy.pl",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Casablanca is a cassette awning perfect for large terraces. Thanks to its built this awning is not only a perfect way of protecting from the sun, but also an aesthetic decorative part of the building. Specially designed construction from extruded aluminium ensures strength and durability of the awning, and Flyer's chain used in the arms guarantees its long-term dependable operation. Wide awnings are equipped with roller tube support to ensure that the fabric is evenly tightened. Special gaskets placed in the cassette further protect the fabric from weather conditions. What is more, properly selected electric control with weather sensors will make handling the Casablanca awning very easy and functional.",
+    "kalla": {
+      "domän": "archiexpo.com",
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754341.html"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Construction made from extruded aluminium ensuring strength and durability",
+      "kalla": {
+        "domän": "globalblinds.com.au",
+        "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+      }
+    },
+    {
+      "text": "Flyer's chains in the arms guaranteeing long-term dependable operation",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CASABLANCA"
+      }
+    },
+    {
+      "text": "Roller tube support with big widths — central support for the roller tube in the case of particularly wide awnings compensates for tube deflection, providing good fabric tension",
+      "kalla": {
+        "domän": "globalblinds.com.au",
+        "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+      }
+    },
+    {
+      "text": "Cassette (half-cassette) protecting the fabric from weather conditions with in-cassette gasket providing extra protection",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CASABLANCA"
+      }
+    },
+    {
+      "text": "Maximum width 6.0 m, maximum projection 3.6 m",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754341.html"
+      }
+    },
+    {
+      "text": "Tilt angle adjustable from 5° to 40°",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754341.html"
+      }
+    },
+    {
+      "text": "Available projections: 1.6m; 2.1m; 2.6m; 3.1m; 3.6m — projection dependent on awning width (wider awning allows greater projection)",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+      }
+    },
+    {
+      "text": "Roller tube diameter: 78mm",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+      }
+    },
+    {
+      "text": "Aluminium end caps",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CASABLANCA"
+      }
+    },
+    {
+      "text": "Construction supported by a square steel beam that gives relative freedom of bracket location and simplifies the awning installation",
+      "kalla": {
+        "domän": "globalblinds.com.au",
+        "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+      }
+    },
+    {
+      "text": "Construction colour options: RAL 9010 MAT Alpine white, RAL 1015 MAT Ivory, RAL 8014 MAT Brown, RAL 9006 MAT Silver, FSM 71319 MAT Graphite fine structure, RAL 7016 STR Anthracite grey structure, RAL 9005 STR Black structure",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+      }
+    },
+    {
+      "text": "Fabric: over 100 colours, Teflon-coated acrylic fabric; provides UV protection and increased resistance to soiling",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+      }
+    },
+    {
+      "text": "Valance: 21cm height, 3 patterns to choose from, option to order without valance, user-removable by sliding out",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+      }
+    },
+    {
+      "text": "Manual drive: crank with length 1.5m, 1.8m, or 2.2m; Electric drive: motor with or without emergency manual override",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+      }
+    },
+    {
+      "text": "Automation options: key switch, control unit, remote control, wind sensor",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+      }
+    },
+    {
+      "text": "Motor drives have IP 44 housing protection, meaning protection against water splashes from any direction",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+      }
+    },
+    {
+      "text": "Motorisation powered by Somfy RTS; weather sensors (motion, rain, sun & wind) can be individually set to automatically open/close; smartphone control via Radio Technology Somfy and voice control via third-party assistants",
+      "kalla": {
+        "domän": "globalblinds.com.au",
+        "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+      }
+    },
+    {
+      "text": "5 year warranty",
+      "kalla": {
+        "domän": "globalblinds.com.au",
+        "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+      }
+    },
+    {
+      "text": "140 fabric patterns available",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754341.html"
+      }
+    },
+    {
+      "text": "Fabric options include: Acrylic (lightweight, breathable, 126 colours), All Weather (acrylic fibre, water resistant, 3 colours), Plain polyester PVC coated (strong & durable, 11 colours), Soltis 92 polyester PVC coated (solar protection, 8 colours). Properties: anti-fungal, anti-static, fire retardant, repels water, tear resistant, dimensional stability",
+      "kalla": {
+        "domän": "globalblinds.com.au",
+        "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Large terraces and patio areas — described as 'great for large outdoor areas'",
+      "kalla": {
+        "domän": "globalblinds.com.au",
+        "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+      }
+    },
+    {
+      "text": "Can be installed onto walls, ceilings, and roof rafters — making it suitable for various building configurations",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+      }
+    },
+    {
+      "text": "Can be mounted on walls insulated with polystyrene up to 20cm thickness using chemical anchors with rods (without cutting holes in the insulation)",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+      }
+    },
+    {
+      "text": "Commercial market application indicated",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754341.html"
+      }
+    },
+    {
+      "text": "Sun protection and aesthetic decorative element for buildings",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CASABLANCA"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundomdömen eller recensioner hittade efter sökning på 7 källor. Samtliga källor är återförsäljar-/produktsidor och tekniska specifikationer utan konsumentrecensioner."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Projection is strictly dependent on awning width — narrower awnings have limited projection options. Width 200–249cm only allows 160cm projection; width 250–299cm allows 160 or 210cm; width 300–349cm allows up to 260cm; width 350–399cm allows up to 310cm; only widths 400–600cm allow the full 360cm projection",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "Manufacturing tolerance on width dimensions: ±2cm",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "No optional hood available; no valance in the ArchiExpo spec listing (though e-markizy.pl lists a valance option — possible configuration difference)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754341.html"
+        }
+      },
+      {
+        "text": "Ceiling brackets and roof rafter brackets require an additional charge beyond the standard wall brackets",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga kundrapporterade problem eller negativa erfarenheter hittade i de 7 sökta källorna. Kategorin 'negative' (archiexpo.com) innehöll enbart produktspecifikationer utan kritik."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "The product is intended for self-assembly. Assembly is basically very simple and is limited to mounting the brackets to the wall/ceiling/rafter.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+        }
+      },
+      {
+        "text": "When using a chemical anchor with rods, you can mount the awning on polystyrene insulation without cutting holes. This set is especially recommended for awnings with a long projection, e.g. 250cm.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+        }
+      },
+      {
+        "text": "To change the tilt angle: fully extend the awning, loosen the internal screw and M10 Allen screws securing the movable part of the wall brackets, then turn the hex-head adjustment screw (unscrew to decrease angle, screw in to increase). Use a spirit level to check the front beam is level.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "Brackets can be moved along the cassette within a certain range. Details are in the manufacturer's installation instructions and technical declaration.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "Wall brackets are painted in the same colour as the structure. The number of pieces is adjusted to the width of the awning (2 brackets for widths 200–410cm, 3 brackets for widths 411–600cm).",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+        }
+      },
+      {
+        "text": "Ceiling bracket is joined (screwed) together with the wall bracket to form one unit; same for rafter bracket. The number of ceiling/rafter brackets always matches the number of wall brackets.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+        }
+      },
+      {
+        "text": "If needed, it is possible to use more brackets than the standard number provided by the manufacturer.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Installation manual available (19 pages) covering: product safety tips, technical parameters, construction details, bracket types (wall/ceiling/rafter), preparation to installation, electric drive connection to electrical installation, remote operation, start-up and adjustment, manual drive, CE marking compliance.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/products/Selt-Casablanca-11170210.html"
+        }
+      },
+      {
+        "text": "Awning components: 1 – Cassette with roller tube, 2 – Wall bracket, 3 – Fabric, 4 – Arm, 5 – Front beam end cap, 6 – Arm, 7 – Side cover",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "The indicative price of €1,400 (excl. tax) on ArchiExpo and starting from €1,465 (incl. tax) / €1,210.74 (excl. tax) on markizes24.lv positions it in the mid-range among Selt's own product line — above the Italia (€510), Box Italia (€710), and Balcony Italia (€620) models, slightly above Corsica (€1,280), but below the Jamaica Volant (€1,590). For a cassette awning with up to 6m width and motorisation options, this suggests a mid-range positioning.",
+    "indikativa_priser": [
+      {
+        "text": "€1,400 indicative price excl. tax",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754341.html"
+        }
+      },
+      {
+        "text": "Starting from €1,465.00 (incl. tax) / €1,210.74 (excl. tax)",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-system-CASABLANCA"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Casablanca cassette awning",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-system-CASABLANCA"
+        }
+      },
+      {
+        "text": "Casablanca folding arm awning",
+        "kalla": {
+          "domän": "globalblinds.com.au",
+          "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "box awning CASABLANCA",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754341.html"
+        }
+      },
+      {
+        "text": "markiza tarasowa Casablanca (terrace awning Casablanca)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "markiza Casablanca Selt",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Flyer's chain — chain mechanism used in the folding arms",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-system-CASABLANCA"
+        }
+      },
+      {
+        "text": "half-cassette (półkaseta) — the enclosure protecting the roller tube and fabric when retracted",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "roller tube (rura nawojowa) — the tube around which the fabric winds",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "valance (falbana) — decorative fabric strip hanging from the front bar",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "projection (wysięg) — the horizontal distance the awning extends outward from the wall",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "IP 44 — ingress protection rating for motor housing, meaning protection against water splashes from any direction",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-casablanca-selt-dane-techniczne/?srsltid=AfmBOoqULYIEDXohSOMLmKT-cp4yvwH4eiZ2C0LkrgL2ShrAoG3ZNBmS"
+        }
+      },
+      {
+        "text": "Somfy RTS — Radio Technology Somfy, motorisation and remote control system",
+        "kalla": {
+          "domän": "globalblinds.com.au",
+          "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+        }
+      },
+      {
+        "text": "chemical anchor (kotwa chemiczna) — fastening method for mounting on insulated walls",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Selt Casablanca",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/products/Selt-Casablanca-11170210.html"
+        }
+      },
+      {
+        "text": "SELT CASABLANCA",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/products/Selt-Casablanca-11170210.html"
+        }
+      },
+      {
+        "text": "Casablanca Selt awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-casablanca-selt-awning/"
+        }
+      },
+      {
+        "text": "Awnings CASABLANCA",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-system-CASABLANCA"
+        }
+      },
+      {
+        "text": "Casablanca folding arm awning",
+        "kalla": {
+          "domän": "globalblinds.com.au",
+          "url": "https://globalblinds.com.au/folding-arm-awnings/casablanca/"
+        }
+      },
+      {
+        "text": "Selt cassette awning Casablanca",
+        "kalla": {
+          "domän": "alandeko.lv",
+          "url": "https://www.alandeko.lv/en/product/selt-cassette-awning-casablanca/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:02:28.629Z"
+}

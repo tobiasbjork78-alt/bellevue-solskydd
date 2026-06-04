@@ -1,0 +1,1212 @@
+Research batch: 49 entries · parallel=4 · force=false
+
+▶ Fönstermiljö / Classic (terrassmarkis)
+
+▶ Fönstermiljö / Classic Nova (terrassmarkis)
+
+▶ Fönstermiljö / FA 42 (terrassmarkis)
+
+▶ Fönstermiljö / FA 44 Design (terrassmarkis)
+
+research: "Fonstermiljo FA 44 Design vikarmsmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+
+research: "Fonstermiljo FA 42 vikarmsmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+
+research: "Fonstermiljo Classic Nova kassettmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+
+research: "Fonstermiljo Classic vikarmsmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 12 (category × domain) candidates; picked 6 for fetching.
+STEP 4: fetching 6 hosts...
+  strict review check requires one of these tokens in text: [classic, nova, kassettmarkis]
+STEP 3: 11 (category × domain) candidates; picked 4 for fetching.
+STEP 4: fetching 4 hosts...
+  strict review check requires one of these tokens in text: [classic]
+STEP 3: 42 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [fa, 42]
+  fetched: 2 | failed: 2
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=(none)
+STEP 6: extracting research via Claude...
+STEP 3: 16 (category × domain) candidates; picked 8 for fetching.
+STEP 4: fetching 8 hosts...
+  strict review check requires one of these tokens in text: [fa, 44, design]
+  fetched: 2 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=(none)
+STEP 6: extracting research via Claude...
+  fetched: 7 | failed: 1
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=fonstermiljo.se
+STEP 6: extracting research via Claude...
+  3979/3166 tokens
+
+✓ research-output/fonstermiljo-classic-vikarmsmarkis.json
+✓ research-output/fonstermiljo-classic-vikarmsmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (159.8s)
+  [w0] progress: 1/49 (ok=1 skip=0 fail=0)
+
+▶ Fönstermiljö / Haga (fonstermarkis)
+
+research: "Fonstermiljo Haga fallarmsmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=(none)
+STEP 6: extracting research via Claude...
+  2467/2493 tokens
+
+✓ research-output/fonstermiljo-classic-nova-kassettmarkis.json
+✓ research-output/fonstermiljo-classic-nova-kassettmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (188.4s)
+  [w1] progress: 2/49 (ok=2 skip=0 fail=0)
+
+▶ Fönstermiljö / Läckö (fonstermarkis)
+
+research: "Fonstermiljo Lacko fallarmsmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  11242/5058 tokens
+
+✓ research-output/fonstermiljo-fa-44-design-vikarmsmarkis.json
+✓ research-output/fonstermiljo-fa-44-design-vikarmsmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (238.2s)
+  [w3] progress: 3/49 (ok=3 skip=0 fail=0)
+
+▶ Fönstermiljö / Sofiero (fonstermarkis)
+
+research: "Fonstermiljo Sofiero fallarmsmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  10935/5350 tokens
+
+✓ research-output/fonstermiljo-fa-42-vikarmsmarkis.json
+✓ research-output/fonstermiljo-fa-42-vikarmsmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (255.8s)
+  [w2] progress: 4/49 (ok=4 skip=0 fail=0)
+
+▶ Fönstermiljö / Solliden (fonstermarkis)
+
+research: "Fonstermiljo Solliden fallarmsmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 29 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [haga]
+STEP 3: 22 (category × domain) candidates; picked 9 for fetching.
+STEP 4: fetching 9 hosts...
+  strict review check requires one of these tokens in text: [lacko]
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=fonstermiljo.se
+STEP 6: extracting research via Claude...
+STEP 3: 14 (category × domain) candidates; picked 7 for fetching.
+STEP 4: fetching 7 hosts...
+  strict review check requires one of these tokens in text: [sofiero]
+  fetched: 2 | failed: 7
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=(none)
+STEP 6: extracting research via Claude...
+STEP 3: 13 (category × domain) candidates; picked 5 for fetching.
+STEP 4: fetching 5 hosts...
+  strict review check requires one of these tokens in text: [solliden]
+  fetched: 2 | failed: 5
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=fonstermiljo.se
+STEP 6: extracting research via Claude...
+  fetched: 2 | failed: 3
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=(none)
+STEP 6: extracting research via Claude...
+  2571/3445 tokens
+
+✓ research-output/fonstermiljo-lacko-fallarmsmarkis.json
+✓ research-output/fonstermiljo-lacko-fallarmsmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (225.1s)
+  [w1] progress: 5/49 (ok=5 skip=0 fail=0)
+
+▶ Fönstermiljö / Tidö Duo (terrassmarkis)
+
+research: "Fonstermiljo Tido Duo terrassmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  3425/2725 tokens
+
+✓ research-output/fonstermiljo-sofiero-fallarmsmarkis.json
+✓ research-output/fonstermiljo-sofiero-fallarmsmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (197.2s)
+  [w3] progress: 6/49 (ok=6 skip=0 fail=0)
+
+▶ Fönstermiljö / Vindskydd (vindskydd)
+
+research: "Fonstermiljo Vindskydd balkongskydd"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  16616/5887 tokens
+
+✓ research-output/fonstermiljo-haga-fallarmsmarkis.json
+✓ research-output/fonstermiljo-haga-fallarmsmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (279.9s)
+  [w0] progress: 7/49 (ok=7 skip=0 fail=0)
+
+▶ Fönstermiljö / Ängsö (korgmarkis)
+
+research: "Fonstermiljo Angso korgmarkis"
+  brand-token=fonstermiljo
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  2730/3163 tokens
+
+✓ research-output/fonstermiljo-solliden-fallarmsmarkis.json
+✓ research-output/fonstermiljo-solliden-fallarmsmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (189.1s)
+  [w2] progress: 8/49 (ok=8 skip=0 fail=0)
+
+▶ Harol / Brera (pergola)
+
+research: "Harol Brera louvered pergola"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 23 (category × domain) candidates; picked 11 for fetching.
+STEP 4: fetching 11 hosts...
+  strict review check requires one of these tokens in text: [tido, duo, terrassmarkis]
+STEP 3: 79 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [balkongskydd]
+STEP 3: 72 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [brera, louvered]
+STEP 3: 8 (category × domain) candidates; picked 5 for fetching.
+STEP 4: fetching 5 hosts...
+  strict review check requires one of these tokens in text: [angso]
+  fetched: 9 | failed: 2
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=fonstermiljo.se, skanskfonstermiljo.se
+STEP 6: extracting research via Claude...
+  fetched: 1 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=(none)
+STEP 6: extracting research via Claude...
+  fetched: 10 | failed: 2
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[fonstermiljo]  channels=(none)
+STEP 6: extracting research via Claude...
+  fetched: 7 | failed: 5
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+  2136/2911 tokens
+
+✓ research-output/fonstermiljo-angso-korgmarkis.json
+✓ research-output/fonstermiljo-angso-korgmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (209.2s)
+  [w0] progress: 9/49 (ok=9 skip=0 fail=0)
+
+▶ Harol / BX260 (terrassmarkis)
+
+research: "Harol BX260 folding arm awning"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  14085/5606 tokens
+
+✓ research-output/fonstermiljo-tido-duo-terrassmarkis.json
+✓ research-output/fonstermiljo-tido-duo-terrassmarkis.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (244.7s)
+  [w1] progress: 10/49 (ok=10 skip=0 fail=0)
+
+▶ Harol / BX270 (terrassmarkis)
+
+research: "Harol BX270 folding arm awning"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  18608/5521 tokens
+
+✓ research-output/fonstermiljo-vindskydd-balkongskydd.json
+✓ research-output/fonstermiljo-vindskydd-balkongskydd.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (275.9s)
+  [w3] progress: 11/49 (ok=11 skip=0 fail=0)
+
+▶ Harol / CADIZ (terrassmarkis)
+
+research: "Harol CADIZ folding arm awning"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  12235/6005 tokens
+
+✓ research-output/harol-brera-louvered-pergola.json
+✓ research-output/harol-brera-louvered-pergola.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (270.1s)
+  [w2] progress: 12/49 (ok=12 skip=0 fail=0)
+
+▶ Harol / LUX (terrassmarkis)
+
+research: "Harol LUX folding arm awning"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 56 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [bx260, folding, arm]
+STEP 3: 46 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [bx270, folding, arm]
+STEP 3: 40 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [lux, folding, arm]
+STEP 3: 50 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [cadiz, folding, arm]
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+  fetched: 6 | failed: 6
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+  fetched: 6 | failed: 6
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+  fetched: 9 | failed: 3
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+  8903/6372 tokens
+
+✓ research-output/harol-bx260-folding-arm-awning.json
+✓ research-output/harol-bx260-folding-arm-awning.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (262.9s)
+  [w0] progress: 13/49 (ok=13 skip=0 fail=0)
+
+▶ Harol / Nomo (pergola)
+
+research: "Harol Nomo folding roof pergola"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  10587/5193 tokens
+
+✓ research-output/harol-cadiz-folding-arm-awning.json
+✓ research-output/harol-cadiz-folding-arm-awning.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (213.1s)
+  [w3] progress: 14/49 (ok=14 skip=0 fail=0)
+
+▶ Harol / Opera (pergola)
+
+research: "Harol Opera louvered pergola"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  11454/8670 tokens
+
+✓ research-output/harol-bx270-folding-arm-awning.json
+✓ research-output/harol-bx270-folding-arm-awning.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (284.0s)
+  [w1] progress: 15/49 (ok=15 skip=0 fail=0)
+
+▶ Harol / PRAIA (terrassmarkis)
+
+research: "Harol PRAIA folding arm awning"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  14610/6100 tokens
+
+✓ research-output/harol-lux-folding-arm-awning.json
+✓ research-output/harol-lux-folding-arm-awning.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (233.7s)
+  [w2] progress: 16/49 (ok=16 skip=0 fail=0)
+
+▶ Harol / TUCAN (terrassmarkis)
+
+research: "Harol TUCAN folding arm awning"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 65 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [nomo, folding, roof]
+STEP 3: 80 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [opera, louvered]
+  fetched: 7 | failed: 5
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+STEP 3: 70 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [praia, folding, arm]
+STEP 3: 71 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [tucan, folding, arm]
+  fetched: 9 | failed: 3
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+  fetched: 9 | failed: 3
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+  fetched: 7 | failed: 5
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+  10096/5313 tokens
+
+✓ research-output/harol-nomo-folding-roof-pergola.json
+✓ research-output/harol-nomo-folding-roof-pergola.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (192.8s)
+  [w0] progress: 17/49 (ok=17 skip=0 fail=0)
+
+▶ Harol / Versuz (pergola)
+
+research: "Harol Versuz pergola roll-up fabric"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 51 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [versuz, roll, up, fabric]
+  17492/6783 tokens
+
+✓ research-output/harol-opera-louvered-pergola.json
+✓ research-output/harol-opera-louvered-pergola.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (258.5s)
+  [w3] progress: 18/49 (ok=18 skip=0 fail=0)
+
+▶ Selt / AUSTRALIA (terrassmarkis)
+
+research: "Selt Australia awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  11825/7044 tokens
+
+✓ research-output/harol-praia-folding-arm-awning.json
+✓ research-output/harol-praia-folding-arm-awning.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (247.6s)
+  [w1] progress: 19/49 (ok=19 skip=0 fail=0)
+
+▶ Selt / BORA Side Screen (sidoskärm)
+
+research: "Selt BORA Side Screen awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+    valueserp fail: The operation was aborted due to timeout
+  11957/7472 tokens
+
+✓ research-output/harol-tucan-folding-arm-awning.json
+✓ research-output/harol-tucan-folding-arm-awning.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (268.4s)
+  [w2] progress: 20/49 (ok=20 skip=0 fail=0)
+  [w2] progress: 21/49 (ok=20 skip=1 fail=0)
+
+▶ Selt / CORSICA (terrassmarkis)
+
+research: "Selt Corsica awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  fetched: 11 | failed: 1
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+STEP 3: 88 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [bora, side]
+STEP 3: 100 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [australia]
+STEP 3: 111 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [corsica]
+  fetched: 10 | failed: 2
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+  16011/7316 tokens
+
+✓ research-output/harol-versuz-pergola-roll-up-fabric.json
+✓ research-output/harol-versuz-pergola-roll-up-fabric.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (251.7s)
+  [w0] progress: 22/49 (ok=21 skip=1 fail=0)
+
+▶ Selt / DAKAR (terrassmarkis)
+
+research: "Selt Dakar awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  fetched: 7 | failed: 5
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+  fetched: 7 | failed: 5
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+  13980/6083 tokens
+
+✓ research-output/selt-bora-side-screen-awning.json
+✓ research-output/selt-bora-side-screen-awning.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (236.4s)
+  [w1] progress: 23/49 (ok=22 skip=1 fail=0)
+
+▶ Selt / GIANT (terrassmarkis)
+
+research: "Selt Giant awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+    valueserp fail: The operation was aborted due to timeout
+  12595/5407 tokens
+
+✓ research-output/selt-corsica-awning.json
+✓ research-output/selt-corsica-awning.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (245.0s)
+  [w2] progress: 24/49 (ok=23 skip=1 fail=0)
+
+▶ Selt / ITALIA (fonstermarkis)
+
+research: "Selt Italia awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 97 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [dakar]
+  14324/6902 tokens
+
+✓ research-output/selt-australia-awning.json
+✓ research-output/selt-australia-awning.md
+
+ValueSerp: 28 searches (1 failed)
+  ✓ done (297.0s)
+  [w3] progress: 25/49 (ok=24 skip=1 fail=0)
+
+▶ Selt / ITALIA Balcony (fonstermarkis)
+
+research: "Selt Italia Balcony awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  fetched: 9 | failed: 3
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+STEP 3: 121 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [giant]
+STEP 3: 82 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [italia]
+STEP 3: 89 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [italia, balcony]
+  fetched: 6 | failed: 6
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+  20394/7246 tokens
+
+✓ research-output/selt-dakar-awning.json
+✓ research-output/selt-dakar-awning.md
+
+ValueSerp: 28 searches (1 failed)
+  ✓ done (288.6s)
+  [w0] progress: 26/49 (ok=25 skip=1 fail=0)
+
+▶ Selt / ITALIA Box (fonstermarkis)
+
+research: "Selt Italia Box awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  fetched: 6 | failed: 6
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+  11124/5781 tokens
+
+✓ research-output/selt-giant-awning.json
+✓ research-output/selt-giant-awning.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (283.4s)
+  [w1] progress: 27/49 (ok=26 skip=1 fail=0)
+
+▶ Selt / JAMAICA (terrassmarkis)
+
+research: "Selt Jamaica awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  15155/6975 tokens
+
+✓ research-output/selt-italia-awning.json
+✓ research-output/selt-italia-awning.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (291.2s)
+  [w2] progress: 28/49 (ok=27 skip=1 fail=0)
+
+▶ Selt / MALTA (terrassmarkis)
+
+research: "Selt Malta awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  9574/4963 tokens
+
+✓ research-output/selt-italia-balcony-awning.json
+✓ research-output/selt-italia-balcony-awning.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (284.4s)
+  [w3] progress: 29/49 (ok=28 skip=1 fail=0)
+
+▶ Selt / PALLADIO (terrassmarkis)
+
+research: "Selt Palladio awning"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 76 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [italia, box]
+  fetched: 9 | failed: 3
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+STEP 3: 87 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [jamaica]
+STEP 3: 94 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [malta]
+    valueserp fail: The operation was aborted due to timeout
+STEP 3: 99 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [palladio]
+  fetched: 7 | failed: 5
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+  fetched: 9 | failed: 3
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+  10533/6455 tokens
+
+✓ research-output/selt-italia-box-awning.json
+✓ research-output/selt-italia-box-awning.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (289.9s)
+  [w0] progress: 30/49 (ok=29 skip=1 fail=0)
+
+▶ Pratic / Brera B (pergola)
+
+research: "Pratic Brera B pergola"
+  brand-token=pratic
+  locales=[en, it]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=(none)
+STEP 6: extracting research via Claude...
+  9781/5808 tokens
+
+✓ research-output/selt-jamaica-awning.json
+✓ research-output/selt-jamaica-awning.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (272.9s)
+  [w1] progress: 31/49 (ok=30 skip=1 fail=0)
+
+▶ Pratic / Brera P (pergola)
+
+research: "Pratic Brera P pergola autoportante"
+  brand-token=pratic
+  locales=[en, it]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  13893/5964 tokens
+
+✓ research-output/selt-malta-awning.json
+✓ research-output/selt-malta-awning.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (245.9s)
+  [w2] progress: 32/49 (ok=31 skip=1 fail=0)
+
+▶ Pratic / Brera S (pergola)
+
+research: "Pratic Brera S pergola slim"
+  brand-token=pratic
+  locales=[en, it]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  13447/6366 tokens
+
+✓ research-output/selt-palladio-awning.json
+✓ research-output/selt-palladio-awning.md
+
+ValueSerp: 28 searches (1 failed)
+  ✓ done (285.4s)
+  [w3] progress: 33/49 (ok=32 skip=1 fail=0)
+
+▶ Pratic / Nomo (pergola)
+
+research: "Pratic Nomo pergola rullvav"
+  brand-token=pratic
+  locales=[en, it]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 56 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [brera]
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[pratic]  channels=pratic.it
+STEP 6: extracting research via Claude...
+STEP 3: 74 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [brera, autoportante]
+STEP 3: 67 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [brera, slim]
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[pratic]  channels=pratic.it
+STEP 6: extracting research via Claude...
+STEP 3: 59 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [nomo, rullvav]
+  fetched: 6 | failed: 6
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[pratic]  channels=pratic.it
+STEP 6: extracting research via Claude...
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[pratic]  channels=pratic.it
+STEP 6: extracting research via Claude...
+  16175/6526 tokens
+
+✓ research-output/pratic-brera-s-pergola-slim.json
+✓ research-output/pratic-brera-s-pergola-slim.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (249.8s)
+  [w2] progress: 34/49 (ok=33 skip=1 fail=0)
+
+▶ Pratic / Opera (pergola)
+
+research: "Pratic Opera pergola bioclimatic"
+  brand-token=pratic
+  locales=[en, it]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  15374/8847 tokens
+
+✓ research-output/pratic-brera-b-pergola.json
+✓ research-output/pratic-brera-b-pergola.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (314.8s)
+  [w0] progress: 35/49 (ok=34 skip=1 fail=0)
+
+▶ MTH Scandinavia / Plissénätdörr Exclusive (insektsskydd)
+
+research: "MTH Plissenatdorr Exclusive insektsdorr"
+  brand-token=mth
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  12831/8195 tokens
+
+✓ research-output/pratic-brera-p-pergola-autoportante.json
+✓ research-output/pratic-brera-p-pergola-autoportante.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (302.8s)
+  [w1] progress: 36/49 (ok=35 skip=1 fail=0)
+
+▶ MTH Scandinavia / Rullgardin Deluxe (insektsskydd)
+
+research: "MTH Rullgardin Deluxe insektsnat fonster"
+  brand-token=mth
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  10775/4718 tokens
+
+✓ research-output/pratic-nomo-pergola-rullvav.json
+✓ research-output/pratic-nomo-pergola-rullvav.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (269.7s)
+  [w3] progress: 37/49 (ok=36 skip=1 fail=0)
+
+▶ MTH Scandinavia / Rullgardinsdörr Deluxe (insektsskydd)
+
+research: "MTH Rullgardinsdorr Deluxe insektsdorr"
+  brand-token=mth
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 57 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [opera, bioclimatic]
+STEP 3: 15 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [plissenatdorr, exclusive, insektsdorr]
+STEP 3: 54 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [deluxe, insektsnat, fonster]
+STEP 3: 40 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [rullgardinsdorr, deluxe, insektsdorr]
+  fetched: 10 | failed: 2
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[mth]  channels=mthab.se
+STEP 6: extracting research via Claude...
+  fetched: 9 | failed: 3
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[pratic]  channels=pratic.it
+STEP 6: extracting research via Claude...
+  fetched: 7 | failed: 5
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[mth]  channels=(none)
+STEP 6: extracting research via Claude...
+  18161/779 tokens
+
+✓ research-output/mth-rullgardinsdorr-deluxe-insektsdorr.json
+✓ research-output/mth-rullgardinsdorr-deluxe-insektsdorr.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (200.1s)
+  [w3] progress: 38/49 (ok=37 skip=1 fail=0)
+
+▶ MTH Scandinavia / Takfönster Deluxe (insektsskydd)
+
+research: "MTH Takfonster Deluxe insektsskydd"
+  brand-token=mth
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  fetched: 3 | failed: 9
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[mth]  channels=(none)
+STEP 6: extracting research via Claude...
+  8144/694 tokens
+
+✓ research-output/mth-plissenatdorr-exclusive-insektsdorr.json
+✓ research-output/mth-plissenatdorr-exclusive-insektsdorr.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (291.2s)
+  [w0] progress: 39/49 (ok=38 skip=1 fail=0)
+
+▶ Tarasola / Technic Pro (pergola)
+
+research: "Tarasola Technic Pro pergola louvered zip"
+  brand-token=tarasola
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  15053/5340 tokens
+
+✓ research-output/mth-rullgardin-deluxe-insektsnat-fonster.json
+✓ research-output/mth-rullgardin-deluxe-insektsnat-fonster.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (269.0s)
+  [w1] progress: 40/49 (ok=39 skip=1 fail=0)
+
+▶ Tarasola / Technic View (pergola)
+
+research: "Tarasola Technic View retractable louvered roof"
+  brand-token=tarasola
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+    valueserp fail: The operation was aborted due to timeout
+  17512/7993 tokens
+
+✓ research-output/pratic-opera-pergola-bioclimatic.json
+✓ research-output/pratic-opera-pergola-bioclimatic.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (343.4s)
+  [w2] progress: 41/49 (ok=40 skip=1 fail=0)
+
+▶ Pagunette / Lysdämpande gardin (gardin)
+
+research: "Pagunette Lysdaempende gardin"
+  brand-token=pagunette
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 39 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [takfonster, deluxe, insektsskydd]
+STEP 3: 38 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [technic, pro, louvered, zip]
+STEP 3: 43 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [technic, view, retractable, louvered, roof]
+STEP 3: 33 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [lysdaempende, gardin]
+  fetched: 10 | failed: 2
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[tarasola]  channels=(none)
+STEP 6: extracting research via Claude...
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[mth]  channels=mthab.se
+STEP 6: extracting research via Claude...
+  fetched: 10 | failed: 2
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[tarasola]  channels=tarasola.co.uk
+STEP 6: extracting research via Claude...
+  fetched: 11 | failed: 1
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[pagunette]  channels=pagunette.no, pagunette.dk, b2b.pagunette.dk, pagunette.se
+STEP 6: extracting research via Claude...
+  14676/5593 tokens
+
+✓ research-output/tarasola-technic-pro-pergola-louvered-zip.json
+✓ research-output/tarasola-technic-pro-pergola-louvered-zip.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (268.0s)
+  [w0] progress: 42/49 (ok=41 skip=1 fail=0)
+
+▶ Pagunette / Mörkläggningsgardin (gardin)
+
+research: "Pagunette Morklaggningsgardin"
+  brand-token=pagunette
+  locales=[sv, en]
+  max-sources=12
+
+STEP 1: 31 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  13645/4756 tokens
+
+✓ research-output/mth-takfonster-deluxe-insektsskydd.json
+✓ research-output/mth-takfonster-deluxe-insektsskydd.md
+
+ValueSerp: 31 searches (1 failed)
+  ✓ done (290.4s)
+  [w3] progress: 43/49 (ok=42 skip=1 fail=0)
+
+▶ Harol / Coolscreen (zip-screen)
+
+research: "Harol Coolscreen zip screen facade blind"
+  brand-token=harol
+  locales=[en, fr]
+  max-sources=12
+
+STEP 1: 26 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  22607/5550 tokens
+
+✓ research-output/pagunette-lysdaempende-gardin.json
+✓ research-output/pagunette-lysdaempende-gardin.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (277.0s)
+  [w2] progress: 44/49 (ok=43 skip=1 fail=0)
+
+▶ Selt / R Ziiip 125 (zip-screen)
+
+research: "Selt Refleksol 125 ZIIIP facade zip screen"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+  18472/7504 tokens
+
+✓ research-output/tarasola-technic-view-retractable-louvered-roof.json
+✓ research-output/tarasola-technic-view-retractable-louvered-roof.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (318.8s)
+  [w1] progress: 45/49 (ok=44 skip=1 fail=0)
+
+▶ Selt / R Ziiip 95 (zip-screen)
+
+research: "Selt Refleksol 95 ZIIIP facade zip screen"
+  brand-token=selt
+  locales=[en, pl]
+  max-sources=12
+
+STEP 1: 28 queries generated (4 categories × locales).
+STEP 2: running ValueSerp searches...
+STEP 3: 52 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [coolscreen, zip, facade]
+    valueserp fail: The operation was aborted due to timeout
+STEP 3: 40 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [morklaggningsgardin]
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[harol]  channels=harol.com
+STEP 6: extracting research via Claude...
+STEP 3: 62 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [refleksol, 125, ziiip, facade, zip]
+  fetched: 6 | failed: 6
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[pagunette]  channels=(none)
+STEP 6: extracting research via Claude...
+STEP 3: 53 (category × domain) candidates; picked 12 for fetching.
+STEP 4: fetching 12 hosts...
+  strict review check requires one of these tokens in text: [refleksol, 95, ziiip, facade, zip]
+  11263/6268 tokens
+
+✓ research-output/harol-coolscreen-zip-screen-facade-blind.json
+✓ research-output/harol-coolscreen-zip-screen-facade-blind.md
+
+ValueSerp: 26 searches (0 failed)
+  ✓ done (243.2s)
+  [w3] progress: 46/49 (ok=45 skip=1 fail=0)
+  fetched: 8 | failed: 4
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=selt.com
+STEP 6: extracting research via Claude...
+  fetched: 10 | failed: 2
+STEP 5: detecting manufacturer channels...
+  brand-tokens=[selt]  channels=selt.com, archiselt.com
+STEP 6: extracting research via Claude...
+  10998/4424 tokens
+
+✓ research-output/pagunette-morklaggningsgardin.json
+✓ research-output/pagunette-morklaggningsgardin.md
+
+ValueSerp: 31 searches (0 failed)
+  ✓ done (276.5s)
+  [w0] progress: 47/49 (ok=46 skip=1 fail=0)
+  16313/7337 tokens
+
+✓ research-output/selt-refleksol-95-ziiip-facade-zip-screen.json
+✓ research-output/selt-refleksol-95-ziiip-facade-zip-screen.md
+
+ValueSerp: 28 searches (1 failed)
+  ✓ done (288.0s)
+  [w1] progress: 48/49 (ok=47 skip=1 fail=0)
+  21182/6745 tokens
+
+✓ research-output/selt-refleksol-125-ziiip-facade-zip-screen.json
+✓ research-output/selt-refleksol-125-ziiip-facade-zip-screen.md
+
+ValueSerp: 28 searches (0 failed)
+  ✓ done (295.0s)
+  [w2] progress: 49/49 (ok=48 skip=1 fail=0)
+
+============================================================
+Research batch complete: 48 ok · 1 skipped · 0 failed · 3164s
+
+✓ summary: research-output/_batch-summary.json

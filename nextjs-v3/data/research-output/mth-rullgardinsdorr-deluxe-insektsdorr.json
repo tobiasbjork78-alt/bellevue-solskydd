@@ -1,0 +1,580 @@
+{
+  "entity": "MTH Rullgardinsdorr Deluxe insektsdorr",
+  "brand": "mth",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr recension",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr test",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot MTH Rullgardinsdorr Deluxe insektsdorr",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr review",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr problem",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr issue",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr drawback",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr complaint",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr broken",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr montering",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr installation",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr köptips",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Rullgardinsdorr Deluxe insektsdorr setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "mthab.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "saaressa.blogspot.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "bygggrossen.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "miljoma.se",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "alpgruppen.se",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "u2006271.fsdata.se",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "mthtrains.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "search.patentstyret.no",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "scribd.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "asisbiz.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "abc80.net",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "mthab.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "skurupspersiennservice.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "bygggrossen.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 8
+    },
+    {
+      "domain": "markispersienn.se",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "patrikwoss.se",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "miljoma.se",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "drumpublications.org",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "saaressa.blogspot.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "in-spite-of-it-all-trots-allt.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "asisbiz.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "search.patentstyret.no",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "in-spite-of-it-all-trots-allt.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "scribd.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "bygggrossen.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "mthab.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "patrikwoss.se",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "saaressa.blogspot.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "healthdepartment.org",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "tripadvisor.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "justanswer.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "mthab.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "bygggrossen.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "alpgruppen.se",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "u2006271.fsdata.se",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "asisbiz.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "drumpublications.org",
+      "category": "practical",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "scribd.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "in-spite-of-it-all-trots-allt.se",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 2,
+      "url": "https://www.mthtrains.com/",
+      "domain": "mthtrains.com",
+      "title": "Welcome to MTH Trains | MTH Trains",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:32:38.662Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://asisbiz.com/Swedish-English.html",
+      "domain": "asisbiz.com",
+      "title": "Asisbiz,english to Swedish,Swedish to english,Translation tool,dictionary,Keyword Research,Search Engine Optimization,SEO,Mirror Sites,Swedish,sv",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:32:42.417Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.in-spite-of-it-all-trots-allt.se/blog/newscbm_109221/150/",
+      "domain": "in-spite-of-it-all-trots-allt.se",
+      "title": "Blog :: In Spite Of It All, Trots Allt",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:32:47.073Z"
+    },
+    {
+      "idx": 5,
+      "url": "http://saaressa.blogspot.com/2024/05/miksi-ihmeessa-tuo-postaus-on-niin.html",
+      "domain": "saaressa.blogspot.com",
+      "title": "Miksi ihmeessä tuo postaus on niin suosittu | Bazaar-Oppitori",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:32:51.538Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.scribd.com/doc/60033005/English-Swedish-Dictionary",
+      "domain": "scribd.com",
+      "title": "English - Swedish Dictionary | PDF",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:32:59.619Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://www.justanswer.com/home-improvement/p0aa7-sliding-security-door-rollers-broken.html",
+      "domain": "justanswer.com",
+      "title": "How to Remove Broken Rollers from Sliding Security Door - FAQ",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:33:03.090Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://www.reddit.com/r/Handwerker/comments/1ncg638/mutter_meint_mein_sohn_h%C3%A4tte_ihre_neue_zimmert%C3%BCr/?tl=en",
+      "domain": "reddit.com",
+      "title": "Mom thinks my son \"destroyed\" her new bedroom door : r/Handwerker",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:33:05.475Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://mthab.se/dorrar/rullgardin-deluxe/",
+      "reason": "review-not-model-specific (model tokens [rullgardinsdorr, deluxe, insektsdorr] absent in fetched text)"
+    },
+    {
+      "url": "https://www.bygggrossen.se/product.html/myggrullgardin-mth-68?srsltid=AfmBOopDIzvJ8DfVak8Lnd9yPVEKBuqDmCfb2KQgTgYWeLRjp1JWSnuk",
+      "reason": "review-not-model-specific (model tokens [rullgardinsdorr, deluxe, insektsdorr] absent in fetched text)"
+    },
+    {
+      "url": "https://www.drumpublications.org/download/Swedish_Karendictionary.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://search.patentstyret.no/tidende/varemerke/2016/varemerketidende-nr17-2016.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://healthdepartment.org/wp-content/uploads/2016/08/11.04.02-Bedbug-Complaint-Procedure.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "mth"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "mthtrains.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "asisbiz.com",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "in-spite-of-it-all-trots-allt.se",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "saaressa.blogspot.com",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "scribd.com",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "justanswer.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "reddit.com",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": null,
+    "kalla": null,
+    "kanal_typ": "saknas",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [],
+  "anvandningsfall": [],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen hittade efter sökning på 7 källor. Ingen av de hämtade källorna innehåller information om produkten 'MTH Rullgardinsdorr Deluxe insektsdorr'. Källorna bestod av: en modellstillverkare (MTH Trains, ej relaterad), ordlistor/lexikon (asisbiz.com, scribd.com, saaressa.blogspot.com), en kulturhistorisk blogg (in-spite-of-it-all-trots-allt.se), en fråga om skjutdörrsrullar (justanswer.com), samt en Reddit-tråd om en barndomsdörr-incident (reddit.com). Ingen källa berör insektsdörrar, rullgardinsdörrar eller det aktuella varumärket/produkten."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga begränsningar eller negativ information hittade efter sökning på 7 källor. Ingen källa behandlar produkten MTH Rullgardinsdorr Deluxe insektsdorr."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [],
+    "vanliga_felval": [],
+    "monteringskunskap": [],
+    "tomhetsanteckning": "Ingen återförsäljarkunskap hittad efter sökning på 7 källor. Ingen källa innehåller praktiska tips, monteringsanvisningar eller expertkunskap relaterad till denna produkt."
+  },
+  "prisklass_positionering": {
+    "klass": "okand",
+    "motivation": "Ingen av de 7 hämtade källorna innehåller prisinformation eller positioneringsinformation för produkten MTH Rullgardinsdorr Deluxe insektsdorr.",
+    "indikativa_priser": []
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [],
+    "synonymer": [],
+    "branschord": [],
+    "sokord_varianter": []
+  },
+  "generatedAt": "2026-05-20T11:33:27.355Z"
+}

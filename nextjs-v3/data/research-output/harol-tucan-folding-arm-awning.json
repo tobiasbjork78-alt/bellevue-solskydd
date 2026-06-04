@@ -1,0 +1,1240 @@
+{
+  "entity": "Harol TUCAN folding arm awning",
+  "brand": "harol",
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Harol TUCAN folding arm awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning caractéristiques techniques",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Harol TUCAN folding arm awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning avis",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning forum expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning problème",
+      "category": "negative"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning inconvénient",
+      "category": "negative"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning défaut",
+      "category": "negative"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Harol TUCAN folding arm awning montage",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "harol.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "albanblinds.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "dickson-constant.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "shadespec.com.au",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "vanbeem.nl",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "dickson-constant.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "retractableawningreview.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "albanblinds.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "choice.community",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "forum.homeone.com.au",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "aima.cs.berkeley.edu",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "cs.cornell.edu",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "huggingface.co",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "worksheets.codalab.org",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "ufdcimages.uflib.ufl.edu",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "consumeraffairs.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "awningworksinc.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "fashioninteriors.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "approvedbusiness.co.uk",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "snap.berkeley.edu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "euclid.nmu.edu",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "pacermonitor.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "passwortcheck.ch",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "downloads.cs.stanford.edu",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "luvifem.nl",
+      "category": "negative",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "dickson-constant.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 8
+    },
+    {
+      "domain": "qualityoverheaddoor.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "cflawnings.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "sunstateawning.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "indesignblinds.com.au",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "pikeawning.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "aladdininc.net",
+      "category": "negative",
+      "rank": 8,
+      "hits": 2
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "negative",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "sterkzonweringen.nl",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "negative",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "justice.gov",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "rollac.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "portal.311.nyc.gov",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "law360.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "vitallaw.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "dorchesterawning.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "libertydoorandawning.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "barlowblinds.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "discountmikeblinds.net",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "keoutdoordesign.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "awningsell.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "albanblinds.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "labona.eu",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "undercoverblinds.com.au",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "halfpriceblinds.com.au",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "choice.community",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "imagineerremodeling.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "fraserjamesblinds.co.uk",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/",
+      "domain": "harol.com",
+      "title": "Folding arm awning Tucan – Perfect for apartments | Harol",
+      "category": "reviews",
+      "isManufacturer": true,
+      "textLength": 4690,
+      "fetchedAt": "2026-05-20T11:09:05.797Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://www.dickson-constant.com/en/how-to-repare-folding-arm-awning/",
+      "domain": "dickson-constant.com",
+      "title": "All the methods to repair your folding arm awning fabric",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 5903,
+      "fetchedAt": "2026-05-20T11:09:08.645Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A",
+      "domain": "archiproducts.com",
+      "title": "TUCAN Fabric Folding arm awning By Harol",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 3727,
+      "fetchedAt": "2026-05-20T11:09:11.481Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.trustpilot.com/review/retractableawningsreviews.com",
+      "domain": "trustpilot.com",
+      "title": "RetractableAwningsReviews.com Reviews | Read Customer Service Reviews of retractableawningsreviews.com",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 3029,
+      "fetchedAt": "2026-05-20T11:09:28.461Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/",
+      "domain": "luvifem.nl",
+      "title": "Repairing a folding arm awning? Solving the most common problems",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 4516,
+      "fetchedAt": "2026-05-20T11:09:32.210Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html",
+      "domain": "manualslib.com",
+      "title": "HAROL TUCAN 065842 MOUNTING INSTRUCTION Pdf Download | ManualsLib",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:09:35.187Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://rollac.com/r/retractable-awning-problems/",
+      "domain": "rollac.com",
+      "title": "Retractable Awning Problems & How To Avoid Them | Rollac",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:09:38.913Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://albanblinds.com/albanblinds/wp-content/uploads/2023/07/Tucan-Brochure.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.labona.eu/www/upload/products/documents/20210210105903892.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://enviroblinds.co.uk/wp-content/uploads/2023/10/Enviroblinds-LL_Lux.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://retractableawningreview.com/",
+      "reason": "review-not-model-specific (model tokens [tucan, folding, arm] absent in fetched text)"
+    },
+    {
+      "url": "https://www.cs.cornell.edu/courses/cs1110/2014fa/assignments/assignment4/code/complete.txt",
+      "reason": "review-not-model-specific (model tokens [tucan, folding, arm] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "harol"
+    ],
+    "acceptedDomains": [
+      "harol.com"
+    ],
+    "candidates": [
+      {
+        "domain": "harol.com",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "dickson-constant.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiproducts.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "trustpilot.com",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "luvifem.nl",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "manualslib.com",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "rollac.com",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "The folding arm awning Tucan combines a minimalist look with innovative features. Specially designed for apartment terraces, the Tucan is a lightweight screen and compact system which offers maximum sun protection. Sun canopy Tucan is characterised by a closed, rounded-edge box and offers a choice between a semi-open or closed system. The closed box keeps your fabric bright for years to come. Tucan is perfect for apartment terraces thanks to the light screen and compact system. Tucan can be easily installed against the wall or a ceiling. Tucan has a maximum width of 6 m, a maximum drop of 3,5 m, and can be fitted with a valance to keep the sun out when it is low in the sky.",
+    "kalla": {
+      "domän": "harol.com",
+      "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Closed, rounded-edge box with choice between semi-open or closed system. The closed box keeps fabric bright for years.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    },
+    {
+      "text": "Maximum width of 6 m, maximum drop of 3,5 m, box dimensions 200 x 130 mm, valance up to 25 cm.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    },
+    {
+      "text": "Tested for durability with rigorous tests of up to 25,000 cycles, which equates to 25 years of opening and closing every day.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    },
+    {
+      "text": "Two durable, stainless steel cables made of galvanised steel in each arm. Invisible, integrated cabling for a refined look.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    },
+    {
+      "text": "Energy-efficient, dimmable LED lighting fully integrated in the arms.",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A"
+      }
+    },
+    {
+      "text": "100% made-to-order to fit your patio and your personal requirements. Extra-sturdy aluminium for the box and extension pole, high-quality stainless steel for the fastening materials.",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A"
+      }
+    },
+    {
+      "text": "Fabric easily replaceable. Wide range of acrylic fabrics that are sound-absorbing, water-repellent, dirt- and rot-resistant, with spun-dyed fibres. Maximum UV protection.",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A"
+      }
+    },
+    {
+      "text": "Standard fabric collection: Dickson Orchestra and Sattler Elements. Optional: full collections of Dickson, Swela and Sattler. Widest choice of over 200 colours and designs.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    },
+    {
+      "text": "Boxes and profiles available in over 300 RAL colours and diverse textured paints, all without a surcharge.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    },
+    {
+      "text": "Accessories available: heating, LED lighting, wind and sun sensors, valance.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    },
+    {
+      "text": "Can be installed against wall or ceiling. Four mounting types: Type 1 wall mounting (5°–38° angle), Type 2 wall mounting (38°–90°), Type 3 ceiling mounting (14°–52°), Type 4 ceiling mounting (52°–90°).",
+      "kalla": {
+        "domän": "manualslib.com",
+        "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+      }
+    },
+    {
+      "text": "Available with electric motor operation (Somfy OREA 50 WT motors) or manual crank handle operation.",
+      "kalla": {
+        "domän": "manualslib.com",
+        "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+      }
+    },
+    {
+      "text": "Manufacture year: 2020.",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A"
+      }
+    },
+    {
+      "text": "5-year quality guarantee.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Specially designed for apartment terraces — lightweight and compact system ideal for balconies and apartment settings.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    },
+    {
+      "text": "Sun protection: the terrace, balcony or living room remain pleasantly cool, even when it's unbearably hot outside. Also protects against harmful UV rays.",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A"
+      }
+    },
+    {
+      "text": "Semi-open box ideal for fitting under a balcony or overhang; fully closed box offers optimum protection of the fabric against all weather conditions.",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A"
+      }
+    },
+    {
+      "text": "Evening use with integrated dimmable LED lighting in the arms.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    },
+    {
+      "text": "Ceiling mounting option (Types 3 and 4) enables installation on ceilings/soffits, not just walls.",
+      "kalla": {
+        "domän": "manualslib.com",
+        "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+      }
+    },
+    {
+      "text": "Natural cooling: smart solar shading as the most natural and energy-efficient way to block heat, offering passive cooling in summer and insulation in winter, with savings on energy bill.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundrecensioner specifikt för Harol TUCAN hittade efter sökning på 7 källor. Trustpilot-källan (index 3) gällde en annan awning-relaterad webbplats (retractableawningsreviews.com), inte Harol eller TUCAN specifikt. Inga kundcitat om TUCAN kunde extraheras."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Maximum width limited to 6 m and maximum drop to 3,5 m.",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      },
+      {
+        "text": "Folding arm awnings are sensitive to wind (gusts) — never leave in off/on position when not around, as this can result in considerable damage.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Mounting requires pressure-resistant substrate (drukvaste ondergrond). Minimum anchor diameter 12 mm, with chemical anchoring required.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Cracks appearing in the facade to which the folding arm awning cassette is mounted and/or cassette coming loose — usually indicates facade is not resistant to the leverage caused by the awning. May need chemical anchors, extended roof supports or alternative sun protection product.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Cassette no longer closing completely, leaving a small part of the sunshade visible (and sometimes discoloured) — usually because almost all sunshades expand over time. Usually easily remedied by reprogramming the motor setting.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Front panel hangs higher on one side than the other — can usually be adjusted using adjusting screws; the affected arm must be held up during adjustment to avoid damage.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Sun sail no longer neatly tight — usually because fabric expands over time. Fix by reprogramming motor adjustment.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "No response from remote control — usually means battery needs replacement; reprogramming may be necessary.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Sagging fabric from strong winds whipping the awning back and forth, possibly overextending the canopy.",
+        "kalla": {
+          "domän": "rollac.com",
+          "url": "https://rollac.com/r/retractable-awning-problems/"
+        }
+      },
+      {
+        "text": "Motor issues: awning jams or jerks when retracting — most complex mechanical issue, best handled by a professional.",
+        "kalla": {
+          "domän": "rollac.com",
+          "url": "https://rollac.com/r/retractable-awning-problems/"
+        }
+      },
+      {
+        "text": "Fabric damage from tears, UV fading, mold and mildew — repair with special patches/tape; waterproof adhesive for waterproof fabric. Mold prevention: spray with hose, apply mildew remover, let dry completely before retracting.",
+        "kalla": {
+          "domän": "rollac.com",
+          "url": "https://rollac.com/r/retractable-awning-problems/"
+        }
+      },
+      {
+        "text": "Fabric tears near seams or areas of tension require professional intervention. Fabric must be dismantled for sewing repairs, remembering to immobilise the arms to avoid the spring effect.",
+        "kalla": {
+          "domän": "dickson-constant.com",
+          "url": "https://www.dickson-constant.com/en/how-to-repare-folding-arm-awning/"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "If facade is not resistant to the leverage caused by the folding arm awning, alternative sun protection such as a facade-mounted or freestanding pergola awning may be needed instead.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Not suitable for leaving extended unattended — sensitive to wind gusts which can cause considerable damage.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Use folding arm awning regularly and watch for abnormalities, acting immediately. After a period of non-use, always pay extra attention.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Annual servicing recommended: inspect moving parts for breakage, rust, or corrosion; inspect fabric for fading or rips; lubricate tracks with silicone lubricant spray.",
+        "kalla": {
+          "domän": "rollac.com",
+          "url": "https://rollac.com/r/retractable-awning-problems/"
+        }
+      },
+      {
+        "text": "When adjusting the front panel levelling, the affected jib arm must be held up during adjustment; otherwise nothing will happen and/or you risk damage.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Fabric can be replaced without changing hinged arms, motor, box, and fixed parts — a durable, aesthetic and relatively economical solution for replacing a damaged awning fabric.",
+        "kalla": {
+          "domän": "dickson-constant.com",
+          "url": "https://www.dickson-constant.com/en/how-to-repare-folding-arm-awning/"
+        }
+      },
+      {
+        "text": "Thorough cleaning once a year recommended. Choose a wind-free, warm and sunny spring day. Allow to dry completely after washing and restoring water repellency.",
+        "kalla": {
+          "domän": "dickson-constant.com",
+          "url": "https://www.dickson-constant.com/en/how-to-repare-folding-arm-awning/"
+        }
+      },
+      {
+        "text": "Always contact the original installer first before attempting DIY repairs, as you may still have warranty — or invalidate existing warranty by doing it yourself.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Mounting on a facade that cannot withstand the leverage of the folding arm awning — leads to cracks and loosening. May need chemical anchors or extended roof supports.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Choosing DIY installation without experience — improperly installed awnings are more susceptible to wind damage since some parts will not be secured correctly.",
+        "kalla": {
+          "domän": "rollac.com",
+          "url": "https://rollac.com/r/retractable-awning-problems/"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "36-page mounting instruction manual available in Dutch, French, English, and German. Includes technical drawings, mounting steps with video reference, and electrical schemes.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      },
+      {
+        "text": "Four mounting types: Type 1 wall mount (5°–38°), Type 2 wall mount (38°–90°), Type 3 ceiling mount (14°–52°), Type 4 ceiling mount (52°–90°).",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      },
+      {
+        "text": "Requires minimum Ø 12 mm anchors with chemical anchoring (chemisch verankeren). Fixation on pressure-resistant substrate required.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      },
+      {
+        "text": "Electric operation uses Somfy OREA 50 WT 25/17 or OREA 50 WT 40/17 motors; see Somfy instruction manual included. Also compatible with Orea 25/17 LT50 RTS.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      },
+      {
+        "text": "For ceiling mounting (Type 3–4): minimum 20 mm and 55 mm clearances specified.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      },
+      {
+        "text": "Before sewing repairs on fabric, fabric must be dismantled and arms immobilised to avoid the spring effect. This operation can be tricky — professional recommended.",
+        "kalla": {
+          "domän": "dickson-constant.com",
+          "url": "https://www.dickson-constant.com/en/how-to-repare-folding-arm-awning/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "No explicit pricing found in any source. Positioned as a made-to-measure Belgian product with 80+ years of manufacturing heritage, 5-year guarantee, and 25,000-cycle testing. Described as 'lightweight' and 'compact' and specifically aimed at apartments, suggesting it is not the top-of-range Harol model. The emphasis on custom-made quality and accessory options (LED, sensors, heating) plus RAL colour range without surcharge suggests a mid-to-upper positioning but not top-segment given the apartment/terrace focus and compact dimensions. Classification as 'mellan' is an estimate based on positioning cues only.",
+    "indikativa_priser": [],
+    "tomhetsanteckning": null
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Harol TUCAN",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      },
+      {
+        "text": "Folding arm awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Knikarmscherm (Dutch)",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Sun canopy",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      },
+      {
+        "text": "Retractable awning",
+        "kalla": {
+          "domän": "rollac.com",
+          "url": "https://rollac.com/r/retractable-awning-problems/"
+        }
+      },
+      {
+        "text": "Fabric folding arm awning",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A"
+        }
+      },
+      {
+        "text": "Sun awning / sun protection",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Cassette (closed box housing for retracted awning)",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Valance (drop-down front panel for low sun)",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      },
+      {
+        "text": "Drop / Uitval (projection distance)",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      },
+      {
+        "text": "Semi-open box vs. closed box",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A"
+        }
+      },
+      {
+        "text": "Chemical anchoring (chemisch verankeren)",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      },
+      {
+        "text": "Angle of displacement / instellingshoek (inclination angle range)",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      },
+      {
+        "text": "Spun-dyed fibres (colouring method for UV-resistant fabric)",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-tucan_470662?srsltid=AfmBOorygoob4YOvQCKaiKN5lSJuIdaC3dGGWvDM7zYjH5Cf6dzD3j2A"
+        }
+      },
+      {
+        "text": "Re-interfacing (changing the fabric while keeping arms, motor, box and fixed parts)",
+        "kalla": {
+          "domän": "dickson-constant.com",
+          "url": "https://www.dickson-constant.com/en/how-to-repare-folding-arm-awning/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Harol Tucan awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      },
+      {
+        "text": "Harol TUCAN 065842",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      },
+      {
+        "text": "Harol folding arm awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      },
+      {
+        "text": "Tucan sun canopy",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/tucan/"
+        }
+      },
+      {
+        "text": "Harol zonwering Tucan",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3314125/Harol-Tucan-065842.html"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:11:44.676Z"
+}

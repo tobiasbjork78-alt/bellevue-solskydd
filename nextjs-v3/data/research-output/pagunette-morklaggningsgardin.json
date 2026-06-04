@@ -1,0 +1,837 @@
+{
+  "entity": "Pagunette Morklaggningsgardin",
+  "brand": "pagunette",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Pagunette Morklaggningsgardin specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin test",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Pagunette Morklaggningsgardin",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin review",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin problem",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin issue",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin broken",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin montering",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin installation",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Morklaggningsgardin setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "pagunette.dk",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "pagunette.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "pagunette.no",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "b2b.pagunette.dk",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "gardinbutiken.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "issuu.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "pagunette.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "moogio.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "kallionkaihdin.fi",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "botex.dk",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "axaminterior.se",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "dk.trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "gardinbutiken.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "bryma.se",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "pagunette.dk",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "textilgallerian.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "persienngiganten.se",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "pagunette.no",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "b2b.pagunette.dk",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "prisjakt.nu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "minhembio.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "no.trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "pagunette.no",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "gardinbutiken.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "pagunette.dk",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "pagunette.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "b2b.pagunette.dk",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "kallionkaihdin.fi",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "faktiskt.io",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "nt.se",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "lfinterior.fi",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "textilgallerian.se",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "moogio.se",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "issuu.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "pagunette.dk",
+      "category": "practical",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "gardinbutiken.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "b2b.pagunette.dk",
+      "category": "practical",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "pagunette.no",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "pagunette.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "minhembio.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://b2b.pagunette.dk/gardiner/gardiner/metervarer-alle/plain-wool-18",
+      "domain": "b2b.pagunette.dk",
+      "title": "PLAIN WOOL",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1088,
+      "fetchedAt": "2026-05-20T11:40:33.851Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.pagunette.dk/produkter",
+      "domain": "pagunette.dk",
+      "title": "Produkter",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 730,
+      "fetchedAt": "2026-05-20T11:40:56.414Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.pagunette.se/inspiration/guider/ljusakthet",
+      "domain": "pagunette.se",
+      "title": "Ljusäkthet",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 5715,
+      "fetchedAt": "2026-05-20T11:40:59.411Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.faktiskt.io/phpBB3/viewtopic.php?f=20&t=55751&start=0",
+      "domain": "faktiskt.io",
+      "title": "faktiskt.io • Visa tråd - Dämpning och gardiner",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:41:02.126Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.minhembio.com/forum/index.php?showtopic=281286",
+      "domain": "minhembio.com",
+      "title": "Färger i Biorummet? - Inredning & Möbler - Minhembio forum",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:41:04.994Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering",
+      "domain": "pagunette.no",
+      "title": "Liftgardin - montering",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 2142,
+      "fetchedAt": "2026-05-20T11:41:08.244Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.gardinbutiken.com/gardiner-och-solskydd-for-foretag/?srsltid=AfmBOorHkv9h0OX0m_UHqQEA3P3xdQJziXyxJv9LNJretetwVGm3bytZ",
+      "reason": "review-not-model-specific (model tokens [morklaggningsgardin] absent in fetched text)"
+    },
+    {
+      "url": "https://www.prisjakt.nu/tillverkare.php?t=71427",
+      "reason": "review-not-model-specific (model tokens [morklaggningsgardin] absent in fetched text)"
+    },
+    {
+      "url": "https://dk.trustpilot.com/review/pagunette.dk",
+      "reason": "review-not-model-specific (model tokens [morklaggningsgardin] absent in fetched text)"
+    },
+    {
+      "url": "https://www.textilgallerian.se/tyger/bla-grona",
+      "reason": "review-not-model-specific (model tokens [morklaggningsgardin] absent in fetched text)"
+    },
+    {
+      "url": "https://moogio.se/gardiner/hissgardiner/pagunette/",
+      "reason": "review-not-model-specific (model tokens [morklaggningsgardin] absent in fetched text)"
+    },
+    {
+      "url": "https://bryma.se/produkt/pagunette-gardiner/",
+      "reason": "review-not-model-specific (model tokens [morklaggningsgardin] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "pagunette"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "b2b.pagunette.dk",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "pagunette.dk",
+        "sourceIdx": 3,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "pagunette.se",
+        "sourceIdx": 4,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "faktiskt.io",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "minhembio.com",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "pagunette.no",
+        "sourceIdx": 7,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": null,
+    "kalla": null,
+    "kanal_typ": "saknas",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Pagunette erbjuder textilier med ljusäkthetsinformation enligt ISO 105-B02 (skala 1–8, där 8 är högst motstånd mot blekning). Information om ljusäkthet finns på hemsidan för de flesta textilier.",
+      "kalla": {
+        "domän": "pagunette.se",
+        "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+      }
+    },
+    {
+      "text": "Gardiner kan fodras för att skydda textilier från att blekna — de fodrade lagren fungerar som en barriär som absorberar eller reflekterar en stor del av solljusets energi, vilket hjälper till att bibehålla färgernas intensitet.",
+      "kalla": {
+        "domän": "pagunette.se",
+        "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+      }
+    },
+    {
+      "text": "Pagunette tillverkar liftgardiner som kan monteras i vägg eller tak, med antingen ändlös kedja eller snördrag som manövreringsmekanism.",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering"
+      }
+    },
+    {
+      "text": "Pagunettes produktkategorier inkluderar bl.a. lysdämpande metervarer, gardintillbehör, mönstrade och enfärgade textilier, extra breda textilier och slitstarka tyger med Martindale-klassning.",
+      "kalla": {
+        "domän": "pagunette.dk",
+        "url": "https://www.pagunette.dk/produkter"
+      }
+    },
+    {
+      "text": "Plain Wool-textilen (exempel på Pagunette-metervara) har komposition 70% WOOL / 30% PES (100% RECYCLED WOOL), egenskaper Akustik, Flammehæmmende (FR), Recycled, Martindale 60.000, ljusäkthet ISO 105 B02 SCALE 5 (1-8), och certifiering enligt Global Recycled Standard (GRS).",
+      "kalla": {
+        "domän": "b2b.pagunette.dk",
+        "url": "https://b2b.pagunette.dk/gardiner/gardiner/metervarer-alle/plain-wool-18"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Användning i hemmabiosammanhang: en användare valde Pagunette Mount Lhotse 6868 i svart, 'främst vald för akustiken men gav även en fördel när det gäller bilden' genom att absorbera reflekterat ljus från filmduken.",
+      "kalla": {
+        "domän": "minhembio.com",
+        "url": "https://www.minhembio.com/forum/index.php?showtopic=281286"
+      }
+    },
+    {
+      "text": "Gardiner framför akustisk dämpning i hemmabiorum — diskussion om att använda genomsläppliga gardiner för att dölja akustikdämpning utan att förlora dämpningseffekt.",
+      "kalla": {
+        "domän": "faktiskt.io",
+        "url": "https://www.faktiskt.io/phpBB3/viewtopic.php?f=20&t=55751&start=0"
+      }
+    },
+    {
+      "text": "Ljusabsorberande gardinval i biosammanhang: 'Där är dock den ljusabsorberande faktorn ganska stor i gardinvalet.'",
+      "kalla": {
+        "domän": "faktiskt.io",
+        "url": "https://www.faktiskt.io/phpBB3/viewtopic.php?f=20&t=55751&start=0"
+      }
+    },
+    {
+      "text": "Fodring av gardiner som åtgärd för att skydda textilier mot solblekning och förlänga livslängden.",
+      "kalla": {
+        "domän": "pagunette.se",
+        "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [
+      {
+        "text": "En användare i hemmabio-forum valde specifikt Pagunette Mount Lhotse 6868 för sin akustik- och ljusabsorberande egenskap och upplevde fördelar för både ljud och bild.",
+        "kalla": {
+          "domän": "minhembio.com",
+          "url": "https://www.minhembio.com/forum/index.php?showtopic=281286"
+        }
+      }
+    ],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [
+      {
+        "text": "\"Pagunette Mount Lhotse 6868, svart, främst vald för akustiken men gav även en fördel när det gäller bilden.\"",
+        "kalla": {
+          "domän": "minhembio.com",
+          "url": "https://www.minhembio.com/forum/index.php?showtopic=281286"
+        }
+      },
+      {
+        "text": "\"Ganska genomsläpplig gardin framför dämpning.\"",
+        "kalla": {
+          "domän": "faktiskt.io",
+          "url": "https://www.faktiskt.io/phpBB3/viewtopic.php?f=20&t=55751&start=0"
+        }
+      },
+      {
+        "text": "\"Har förmig att det lilla tricket med att andas genom tyget brukar gå hem. Kan man andas så är det ok går det trögt så är det mindra lämpligt\"",
+        "kalla": {
+          "domän": "faktiskt.io",
+          "url": "https://www.faktiskt.io/phpBB3/viewtopic.php?f=20&t=55751&start=0"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga substantiella konsumentrecensioner specifikt om Pagunette mörkläggningsgardiner hittade efter sökning på 6 källor. De citat som finns berör Pagunette-tyg i hemmabiorum, inte mörkläggningsgardiner specifikt."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Alla gardiner som utsätts för solljus kommer att blekna med tiden — även med hög ljusäkthet. Naturfibrer som bomull, linne och siden är särskilt känsliga för blekning.",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+        }
+      },
+      {
+        "text": "Vissa färger är mer mottagliga för nyansförändringar — t.ex. om det gula färgämnet bleknar snabbare än det blå skiftar nyansen mot blått. Röd färg kan utveckla en mer orange eller rosa nyans med tiden.",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+        }
+      },
+      {
+        "text": "Övergång till mer hållbara och miljövänliga färgningsmetoder kan innebära att moderna textilier bleknar lättare jämfört med äldre textilier som använde mer kemikalier.",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Liftgardiner: snören kan ibland 'hoppa' ut ur det lilla hålet i spolarna, vilket ger problem med gardinens funktion. Kontrollera att snören sitter korrekt i spolarna.",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Tjocka gardiner framför akustisk dämpning kan påverka dämpningens effekt negativt — tunna, genomsläppliga tyger rekommenderas istället.",
+        "kalla": {
+          "domän": "faktiskt.io",
+          "url": "https://www.faktiskt.io/phpBB3/viewtopic.php?f=20&t=55751&start=0"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Variera vikningen av gardiner regelbundet för att undvika fasta veck som ger ojämn blekning och tydliga bleka ränder med tiden.",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+        }
+      },
+      {
+        "text": "Fodra gardiner för att skydda mot UV-blekning — fodringslagren fungerar som barriär som absorberar/reflekterar solljusets energi.",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+        }
+      },
+      {
+        "text": "Vid montering av liftgardin: lossa stoffet från kardborrband för att göra monteringen enklare. Skruvar medföljer inte — olika underlag kräver olika skruvar, använd skruvar med platt huvud.",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering"
+        }
+      },
+      {
+        "text": "Andningstestet för tyg framför akustikdämpning: 'Kan man andas så är det ok går det trögt så är det mindra lämpligt' — dvs. gardintyget bör vara tillräckligt genomsläppligt.",
+        "kalla": {
+          "domän": "faktiskt.io",
+          "url": "https://www.faktiskt.io/phpBB3/viewtopic.php?f=20&t=55751&start=0"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Liftgardin med ändlös kedja: montera medföljande beslag i vägg eller tak. Fäst gardinens främre spor till beslaget, tryck gardinen in och vipp upp bakifrån så att bakre hakarna klickar fast. Fäst sedan tyget på kardborrbandet.",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering"
+        }
+      },
+      {
+        "text": "Liftgardin med snördrag: montera beslag med tappen pekande nedåt. För gardinens spor in så att tappens huvud sitter i sporet, vrid sedan tappen uppåt för att låsa gardinen.",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering"
+        }
+      },
+      {
+        "text": "Felsökning: om liftgardinen inte fungerar, kontrollera att snören sitter korrekt i spolarna — snören kan ha hoppat ur det lilla hålet.",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "okand",
+    "motivation": "Inga priser för Pagunette mörkläggningsgardiner hittades i de tillgängliga källorna. Produktsortimentet inkluderar kategorin 'METERVARER MAX 50 KR!' på den danska siten, men det är oklart om mörkläggningsgardiner ingår i den kategorin.",
+    "indikativa_priser": []
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Mörkläggningsgardin",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+        }
+      },
+      {
+        "text": "Lysdæmpende (danskt begrepp för ljusdämpande)",
+        "kalla": {
+          "domän": "pagunette.dk",
+          "url": "https://www.pagunette.dk/produkter"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Liftgardin (typ av gardin, inte synonym men relaterad Pagunette-produkt med mörkläggningsfunktion)",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Ljusäkthet / Lysægthed — textiliers motståndskraft mot blekning, mätt enligt ISO 105-B02 (skala 1–8)",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+        }
+      },
+      {
+        "text": "Martindale — mått på slitstyrka, t.ex. 60.000",
+        "kalla": {
+          "domän": "b2b.pagunette.dk",
+          "url": "https://b2b.pagunette.dk/gardiner/gardiner/metervarer-alle/plain-wool-18"
+        }
+      },
+      {
+        "text": "Flammehæmmende (FR) — flamhämmande egenskap",
+        "kalla": {
+          "domän": "b2b.pagunette.dk",
+          "url": "https://b2b.pagunette.dk/gardiner/gardiner/metervarer-alle/plain-wool-18"
+        }
+      },
+      {
+        "text": "Borrelås / kardborrband — fästmekanism för liftgardinens tyg",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering"
+        }
+      },
+      {
+        "text": "Scenmolton — tjockt scentyg som används framför akustikdämpning",
+        "kalla": {
+          "domän": "faktiskt.io",
+          "url": "https://www.faktiskt.io/phpBB3/viewtopic.php?f=20&t=55751&start=0"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Pagunette mörkläggningsgardin",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/inspiration/guider/ljusakthet"
+        }
+      },
+      {
+        "text": "Pagunette mørklægningsgardin",
+        "kalla": {
+          "domän": "pagunette.dk",
+          "url": "https://www.pagunette.dk/produkter"
+        }
+      },
+      {
+        "text": "Pagunette liftgardin",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/guider/liftgardin-montering"
+        }
+      },
+      {
+        "text": "Pagunette lysdæmpende",
+        "kalla": {
+          "domän": "pagunette.dk",
+          "url": "https://www.pagunette.dk/produkter"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:42:53.142Z"
+}

@@ -1,0 +1,1482 @@
+{
+  "entity": "Sonos Era 100 speaker",
+  "brand": "sonos",
+  "locales": [
+    "en",
+    "sv"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Sonos Era 100 speaker",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Sonos Era 100 speaker specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Sonos Era 100 speaker datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Sonos Era 100 speaker specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Sonos Era 100 speaker datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Sonos Era 100 speaker review",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Sonos Era 100 speaker",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Sonos Era 100 speaker problem",
+      "category": "negative"
+    },
+    {
+      "query": "Sonos Era 100 speaker issue",
+      "category": "negative"
+    },
+    {
+      "query": "Sonos Era 100 speaker drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Sonos Era 100 speaker complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Sonos Era 100 speaker broken",
+      "category": "negative"
+    },
+    {
+      "query": "Sonos Era 100 speaker nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Sonos Era 100 speaker fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Sonos Era 100 speaker klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Sonos Era 100 speaker installation",
+      "category": "practical"
+    },
+    {
+      "query": "Sonos Era 100 speaker mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Sonos Era 100 speaker buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Sonos Era 100 speaker setup",
+      "category": "practical"
+    },
+    {
+      "query": "Sonos Era 100 speaker montering",
+      "category": "practical"
+    },
+    {
+      "query": "Sonos Era 100 speaker köptips",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "sonos.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "rtings.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "cnet.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "listenup.com",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "wichitafurniture.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "audioadvice.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "bestbuy.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "bhphotovideo.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "cdn.mediavalet.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "d3gqasl9vmjfd8.cloudfront.net",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "dxomark.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "smarthomesounds.co.uk",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "support.sonos.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "crutchfield.com",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "redsharknews.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "hitechcentury.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "rtings.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 8
+    },
+    {
+      "domain": "cnet.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "whathifi.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 6
+    },
+    {
+      "domain": "smarthomesounds.co.uk",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "crutchfield.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "cnn.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 4
+    },
+    {
+      "domain": "goodhousekeeping.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "dxomark.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "worldwidestereo.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "audiosciencereview.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "crutchfield.ca",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "theguardian.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "en.community.sonos.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 8
+    },
+    {
+      "domain": "forum.wiimhome.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "thedisconnekt.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "en.homecinesolutions.fr",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "musictech.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "audioadvice.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "sonos.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "dreamediaav.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "gadgetguy.com.au",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "theshortcut.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "prisjakt.nu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "consumerreports.org",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "forums.appleinsider.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "n01ze.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "en.community.sonos.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 22
+    },
+    {
+      "domain": "reddit.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "support.sonos.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "justanswer.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 4
+    },
+    {
+      "domain": "rtings.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "redsharknews.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "pcmag.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "crutchfield.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "ifixit.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "audiosciencereview.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "sonos.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "dreamediaav.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "whathifi.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "support.sonos.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "sonos.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "sanus.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "reddit.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "en.community.sonos.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "vogels.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "redsharknews.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "worldwidestereo.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "audioadvice.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "whathifi.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "justanswer.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "audiosciencereview.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094",
+      "domain": "en.community.sonos.com",
+      "title": "Ongoing Era 100 Connection Issues – Frustrated by Support Responses | Sonos Community",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:44:39.834Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D",
+      "domain": "sonos.com",
+      "title": "SONOS User Guide | Era 100",
+      "category": "practical",
+      "isManufacturer": true,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:44:43.720Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/",
+      "domain": "reddit.com",
+      "title": "I am blown away by the Sonos Era 100! The sound quality is better or at least equal to my Sony HST100F Soundbar which I no longer own. : r/sonos",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:44:46.106Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.rtings.com/speaker/reviews/sonos/era-100",
+      "domain": "rtings.com",
+      "title": "Sonos Era 100 Review - RTINGS.com",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:44:49.153Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.justanswer.com/home-theater-stereo/u1xxc-sonos-era-100-error-100-multiple-sources.html",
+      "domain": "justanswer.com",
+      "title": "Sonos Era 100 Connection Issues? Expert Q&A & Troubleshooting Guide",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:44:52.593Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://support.sonos.com/en-us/article/set-up-your-sonos-era-100",
+      "domain": "support.sonos.com",
+      "title": "Set up your Sonos Era 100 | Sonos",
+      "category": "practical",
+      "isManufacturer": true,
+      "textLength": 5820,
+      "fetchedAt": "2026-05-20T10:44:55.403Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s",
+      "domain": "audioadvice.com",
+      "title": "Sonos Era 100 & Era 300 Review – Audio Advice",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:44:58.689Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.smarthomesounds.co.uk/blog/sonos/sonos-era-100-review-truly-impressive-stereo-sound",
+      "domain": "smarthomesounds.co.uk",
+      "title": "Vänta...",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 296,
+      "fetchedAt": "2026-05-20T10:45:01.092Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://www.whathifi.com/reviews/sonos-era-100",
+      "domain": "whathifi.com",
+      "title": "Sonos Era 100 review: a terrific step up in performance and features | What Hi-Fi?",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:45:03.801Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://www.redsharknews.com/sonos-era-100-stereo-pair-review-how-do-they-compare-to-two-sonos-era-300s",
+      "domain": "redsharknews.com",
+      "title": "Sonos Era 100 vs Era 300 Stereo Pair Review: Sound, Features & 2025 Pricing Comparison",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:45:07.277Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/",
+      "domain": "hitechcentury.com",
+      "title": "Sonos Era 100 Review - Sonically Superior Smart Speaker with Sweet Sound | Hitech Century",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:45:09.887Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.bhphotovideo.com/lit_files/970689.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "sonos"
+    ],
+    "acceptedDomains": [
+      "en.community.sonos.com",
+      "sonos.com",
+      "support.sonos.com"
+    ],
+    "candidates": [
+      {
+        "domain": "en.community.sonos.com",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "sonos.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "reddit.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "rtings.com",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "justanswer.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "support.sonos.com",
+        "sourceIdx": 5,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "audioadvice.com",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "smarthomesounds.co.uk",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "whathifi.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "redsharknews.com",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "hitechcentury.com",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "The compact smart speaker designed for room-filling sound. Compact design fits beautifully on bookshelf, kitchen counter, nightstand, or mounted to a wall or stand. Flexible connectivity with WiFi, Bluetooth, and USB-C line-in. Easy control using the Sonos app, your voice, or the intuitive touch controls. Pair two Era 100 speakers for an even wider soundstage, or use two as rear surrounds with the latest Sonos soundbars.",
+    "kalla": {
+      "domän": "sonos.com",
+      "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Two angled tweeters with custom waveguides that disperse sound waves for a wider soundstage, delivering stereo sound (the predecessor Sonos One was mono only). Midwoofer is 25% larger than the One's, with an oval shape for faithful playback of mid-range vocal frequencies and deep bass notes. Three Class D amplifiers, one per driver.",
+      "kalla": {
+        "domän": "audioadvice.com",
+        "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+      }
+    },
+    {
+      "text": "Bluetooth 5.0 connectivity (SBC, AAC codecs). First time Sonos has included Bluetooth in its wi-fi-based home speakers. WiFi 6 for more reliable streaming. Also supports Apple AirPlay 2.",
+      "kalla": {
+        "domän": "whathifi.com",
+        "url": "https://www.whathifi.com/reviews/sonos-era-100"
+      }
+    },
+    {
+      "text": "USB-C port on the back designed for line-in and Ethernet connections using the Sonos Line-In Adapter or Combo Adapter (sold separately). Not a power source for the speaker.",
+      "kalla": {
+        "domän": "sonos.com",
+        "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+      }
+    },
+    {
+      "text": "Trueplay tuning: Advanced tuning (iOS, ~5 minutes, uses phone microphone while walking around room) and Quick tuning (uses speaker's built-in mic, available for Android users too).",
+      "kalla": {
+        "domän": "audioadvice.com",
+        "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+      }
+    },
+    {
+      "text": "Universal microphone switch on the back physically disables all microphones. Separate voice services button on top turns voice control on/off without affecting Trueplay and other microphone-dependent features.",
+      "kalla": {
+        "domän": "sonos.com",
+        "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+      }
+    },
+    {
+      "text": "Volume control via a 'trough' in the top panel with haptic feedback. Touch capacitive buttons for play/pause, next, and previous. Eliminated the sliding volume control found on the Sonos One.",
+      "kalla": {
+        "domän": "audioadvice.com",
+        "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+      }
+    },
+    {
+      "text": "Supports Sonos Voice Control, Amazon Alexa (with Sonos skill), and Siri (via Apple Home app, limited to Apple Music). Google Assistant is no longer available.",
+      "kalla": {
+        "domän": "hitechcentury.com",
+        "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+      }
+    },
+    {
+      "text": "24-bit audio streaming supported for local files and through Qobuz and Amazon Music Unlimited.",
+      "kalla": {
+        "domän": "whathifi.com",
+        "url": "https://www.whathifi.com/reviews/sonos-era-100"
+      }
+    },
+    {
+      "text": "Dimensions: 182.5 x 120 x 130.5mm. Weight: 2.02kg. Comes in matte black or matte white finish.",
+      "kalla": {
+        "domän": "hitechcentury.com",
+        "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+      }
+    },
+    {
+      "text": "Can be paired as stereo pair, or used as rear surround speakers with Sonos soundbars (Arc, Arc Ultra, Beam Gen 2, Ray).",
+      "kalla": {
+        "domän": "sonos.com",
+        "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+      }
+    },
+    {
+      "text": "Era 100 SL variant available — same speaker without built-in microphone, lacking voice assistant and Trueplay capabilities.",
+      "kalla": {
+        "domän": "rtings.com",
+        "url": "https://www.rtings.com/speaker/reviews/sonos/era-100"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Compact design fits on bookshelf, kitchen counter, nightstand, or mounted to a wall or stand.",
+      "kalla": {
+        "domän": "sonos.com",
+        "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+      }
+    },
+    {
+      "text": "Stereo pair setup: two Era 100s paired for wider soundstage with one handling left channel and the other the right. User reports: 'A bit late but saw your question about pairing 2 era 100 over Bluetooth to a tv, it works! Just need to pair the 2 era 100 in the sonos app and then connect one speaker to the Bluetooth via your tv and they will work as a pair.'",
+      "kalla": {
+        "domän": "reddit.com",
+        "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+      }
+    },
+    {
+      "text": "Home theater surround use: two Era 100s as rear surrounds paired with Sonos soundbars. Example setups listed include Arc + Sub + 2x Era 100 and similar configurations.",
+      "kalla": {
+        "domän": "audioadvice.com",
+        "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+      }
+    },
+    {
+      "text": "Music listening: tested with intricate orchestral pieces (Vaughan Williams' The Lark Ascending), vocal tracks (Joanna Wang's Vincent), bass-heavy tracks (Bear McCreary's Prelude to War), and ambient electronica (Télépopmusik's Breathe).",
+      "kalla": {
+        "domän": "hitechcentury.com",
+        "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+      }
+    },
+    {
+      "text": "TV audio via Bluetooth: user reports connecting Era 100 to LG TV via Bluetooth 5.1 for movie watching. 'I am watching Thunderbolts currently with default settings on Sonos and it's the Blu-ray disc. The bass and low end is insane.'",
+      "kalla": {
+        "domän": "reddit.com",
+        "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+      }
+    },
+    {
+      "text": "Line-in for turntable/CD player: by using an RCA-to-aux cable adapter and aux-to-USB-C adapter, you can play records through the Era 100. Line input works with stereo pair using just one speaker's connection.",
+      "kalla": {
+        "domän": "audioadvice.com",
+        "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+      }
+    },
+    {
+      "text": "Entry point to Sonos ecosystem: 'If you haven't hopped onto the Sonos ecosystem, the Sonos Era 100 is an ideal entry point.'",
+      "kalla": {
+        "domän": "hitechcentury.com",
+        "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [
+      {
+        "text": "Persistent WiFi connectivity issues between the Sonos app (especially Android) and the Era 100, with the app connecting only about 1 out of 10 attempts. Factory resets sometimes work once, then fail again.",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "The Sonos app has been a source of pain for Sonos and its users. The upgrade was overambitious and underdeveloped. Users with older equipment and large local stores of ripped CDs have struggled to get their original setup to work with the new app.",
+        "kalla": {
+          "domän": "redsharknews.com",
+          "url": "https://www.redsharknews.com/sonos-era-100-stereo-pair-review-how-do-they-compare-to-two-sonos-era-300s"
+        }
+      },
+      {
+        "text": "Bluetooth limitation: Era 100 can only connect to one device at a time via Bluetooth, causing concern about pairing with TV while using another device.",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+        }
+      }
+    ],
+    "aterkommande_glaedjepunkter": [
+      {
+        "text": "Sound quality praised across multiple reviews: big, open, room-filling sound from a compact form factor. Stereo separation is a major upgrade from mono Sonos One.",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      },
+      {
+        "text": "Surprisingly spacious and rich sound with excellent detail, good vocals, and solid bass presence. Easily outclasses many budget speakers and even outperforms several pricier models.",
+        "kalla": {
+          "domän": "hitechcentury.com",
+          "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+        }
+      },
+      {
+        "text": "Build quality repeatedly praised. Compact size that fits anywhere.",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      },
+      {
+        "text": "Bluetooth addition welcomed for convenience, particularly for gatherings/parties where guests can pair any phone without downloading an app or sharing WiFi password.",
+        "kalla": {
+          "domän": "audioadvice.com",
+          "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+        }
+      },
+      {
+        "text": "Trueplay tuning highly valued for adapting sound to room acoustics.",
+        "kalla": {
+          "domän": "hitechcentury.com",
+          "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+        }
+      }
+    ],
+    "aterkommande_klagomal": [
+      {
+        "text": "Rival Apple HomePod 2 is more natural with voices.",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      },
+      {
+        "text": "Adapter for wired connection (line-in, Ethernet) costs extra and is not included in the box. Line-in adapter (USB-C to 3.5mm) sold for £19/$19, described as 'a rather steep price to pay for a small dongle.'",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      },
+      {
+        "text": "Not quite loud enough for larger rooms. Some compression at max volume.",
+        "kalla": {
+          "domän": "rtings.com",
+          "url": "https://www.rtings.com/speaker/reviews/sonos/era-100"
+        }
+      },
+      {
+        "text": "Google Assistant no longer available, downgrade from predecessor.",
+        "kalla": {
+          "domän": "hitechcentury.com",
+          "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+        }
+      },
+      {
+        "text": "Both Era 100 and Era 300 default to a sound somewhat lacking in sparkle; reviewer had to turn up higher frequencies on the EQ slider in the Sonos App.",
+        "kalla": {
+          "domän": "redsharknews.com",
+          "url": "https://www.redsharknews.com/sonos-era-100-stereo-pair-review-how-do-they-compare-to-two-sonos-era-300s"
+        }
+      },
+      {
+        "text": "Repetitive, scripted support responses from Sonos when reporting connectivity issues. Support repeatedly blames user's WiFi extenders despite the problem existing before extenders were installed.",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      }
+    ],
+    "kundsprak_citat": [
+      {
+        "text": "I have to lower the bass setting on my Sonos app since it's too phenomenal.",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+        }
+      },
+      {
+        "text": "The bass and low end is insane. I saw this in theaters and the punches/kicks/explosions sound almost as impactful/punchy as in the theaters. Goodness sake, volume is at 60% and it gets loud from just this little speaker. Holy shit. I don't need Mini Sub or I will get complaints from downstairs neighbor.",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+        }
+      },
+      {
+        "text": "It truly is great. Very room filling in such a small package.",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+        }
+      },
+      {
+        "text": "The price of this was hard to digest since it's $200 CAD. I know the build quality is going to be like Apple products back in 2002-2013 era (meaning immaculate, beautiful and high quality in build and aesthetics).",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+        }
+      },
+      {
+        "text": "The app connects to my Era 100 only about 1 out of every 10 attempts... I am extremely disappointed with the repetitive, scripted responses from support and the lack of a real solution.",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "I didn't know there is an ethernet adapter. But this defeats the purpose. The idea is to be wireless..",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "Switching to the Era 100s kind-of 'collapsed' this detailed stereo image into something much more conventional and familiar. But it was still very good. The Era 100s don't have the same degree of bass extension as the Era 300s, but they can still blast out a song without distortion and with quite acceptable bass.",
+        "kalla": {
+          "domän": "redsharknews.com",
+          "url": "https://www.redsharknews.com/sonos-era-100-stereo-pair-review-how-do-they-compare-to-two-sonos-era-300s"
+        }
+      },
+      {
+        "text": "The track truly 'breathed,' thanks to the speaker's wide soundstage and vocal clarity—where lesser speakers would've muddied the mix, the Era 100 stayed composed and immersive.",
+        "kalla": {
+          "domän": "hitechcentury.com",
+          "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "No Dolby Atmos support (unlike the larger Era 300). Sonos says the Era 100's small form factor wouldn't do justice to the spatial audio effect.",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      },
+      {
+        "text": "Mains-powered only — no built-in battery, cannot be taken on the go. Not rated for dust or water resistance (unlike the Move 2).",
+        "kalla": {
+          "domän": "rtings.com",
+          "url": "https://www.rtings.com/speaker/reviews/sonos/era-100"
+        }
+      },
+      {
+        "text": "Cannot connect to a SonosNet signal. Must connect to WiFi directly. If the rest of your speakers are older and connected to SonosNet, the Era 100 won't join that network.",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "Bluetooth connects to only one active device at a time. Phones tend to reconnect aggressively to the last used speaker.",
+        "kalla": {
+          "domän": "justanswer.com",
+          "url": "https://www.justanswer.com/home-theater-stereo/u1xxc-sonos-era-100-error-100-multiple-sources.html"
+        }
+      },
+      {
+        "text": "No Google Assistant support (removed from predecessor).",
+        "kalla": {
+          "domän": "hitechcentury.com",
+          "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+        }
+      },
+      {
+        "text": "Not quite loud enough for larger rooms. Some compression at max volume.",
+        "kalla": {
+          "domän": "rtings.com",
+          "url": "https://www.rtings.com/speaker/reviews/sonos/era-100"
+        }
+      },
+      {
+        "text": "Era 100 must be set up on a WiFi network before it can be used as a Bluetooth speaker.",
+        "kalla": {
+          "domän": "support.sonos.com",
+          "url": "https://support.sonos.com/en-us/article/set-up-your-sonos-era-100"
+        }
+      },
+      {
+        "text": "Line-in and Ethernet require separately sold adapters (Line-In Adapter $19 or Combo Adapter $39). USB-C port is not a power source and shouldn't be used to charge other devices.",
+        "kalla": {
+          "domän": "sonos.com",
+          "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Persistent WiFi connectivity issues with the Sonos app on Android. Speaker connects only intermittently. Factory resets sometimes work once but the issue returns. Multiple users reporting similar problems.",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "Bluetooth Error 100: occurs when Era 100 remains actively connected to one device (e.g. iPhone), preventing it from accepting a new Bluetooth connection from computers. Old/buggy pairing records can cause issues.",
+        "kalla": {
+          "domän": "justanswer.com",
+          "url": "https://www.justanswer.com/home-theater-stereo/u1xxc-sonos-era-100-error-100-multiple-sources.html"
+        }
+      },
+      {
+        "text": "Volume slider on top can be a bit too keen at times — adjusting volume smoothly but sometimes overshooting.",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Not suitable for outdoor/portable use — mains-powered only with no battery and no IP dust/water resistance rating.",
+        "kalla": {
+          "domän": "rtings.com",
+          "url": "https://www.rtings.com/speaker/reviews/sonos/era-100"
+        }
+      },
+      {
+        "text": "Not suitable as sole speaker for large rooms — not quite loud enough, some compression at max volume.",
+        "kalla": {
+          "domän": "rtings.com",
+          "url": "https://www.rtings.com/speaker/reviews/sonos/era-100"
+        }
+      },
+      {
+        "text": "Not ideal for users heavily invested in Google Assistant ecosystem, as Google Assistant is no longer supported.",
+        "kalla": {
+          "domän": "hitechcentury.com",
+          "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Place speaker at least 1 inch (2.5 cm) from walls/shelves for best performance. If using as surrounds, leave at least 8 inches (203 mm) clearance around each speaker.",
+        "kalla": {
+          "domän": "sonos.com",
+          "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+        }
+      },
+      {
+        "text": "Keep the speaker at least 1 meter / 3 feet away from the router for optimal WiFi signal. Too close is often as difficult for a radio signal as too far away.",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "For connectivity stability: ensure router security is set to WPA 2 Personal (AES), consider assigning a fixed/static IP address to the speaker, and disable 'Band Steering' if supported by the router.",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "WiFi still recommended over Bluetooth for best audio quality and to avoid interruptions from notifications or calls.",
+        "kalla": {
+          "domän": "audioadvice.com",
+          "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+        }
+      },
+      {
+        "text": "Run Trueplay tuning after setup for best sound. iOS Advanced Tuning is superior to Quick Tuning but Quick Tuning works for Android. Best choice for large rooms is Advanced Tuning; open concept spaces may experience less precise tuning.",
+        "kalla": {
+          "domän": "sonos.com",
+          "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+        }
+      },
+      {
+        "text": "Getting tweeters closer to ear-level makes a big difference. Even an end table, stool, or anything stable that gets it off the floor will help.",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+        }
+      },
+      {
+        "text": "When pairing with subwoofer (Sub Gen 3), reduce sub volume to a level where you don't hear it as a distinct speaker to achieve proper integration. Sub Mini may be a better match than the full Sub.",
+        "kalla": {
+          "domän": "redsharknews.com",
+          "url": "https://www.redsharknews.com/sonos-era-100-stereo-pair-review-how-do-they-compare-to-two-sonos-era-300s"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Assuming you can use it as a Bluetooth speaker straight out of the box — Era 100 must be set up on WiFi first before Bluetooth mode is available.",
+        "kalla": {
+          "domän": "support.sonos.com",
+          "url": "https://support.sonos.com/en-us/article/set-up-your-sonos-era-100"
+        }
+      },
+      {
+        "text": "Expecting it to connect to existing SonosNet mesh from older Sonos speakers — Era 100 cannot connect to SonosNet, it needs direct WiFi.",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "Placing speaker directly next to the router — too close causes signal difficulties just like being too far.",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "Expecting line-in to work out of the box — requires a separately purchased adapter (Line-In Adapter or Combo Adapter) that is not included.",
+        "kalla": {
+          "domän": "audioadvice.com",
+          "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Accessories available: Era 100 Stand and Era 100 Wall Mount (sold separately).",
+        "kalla": {
+          "domän": "sonos.com",
+          "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+        }
+      },
+      {
+        "text": "Ethernet connection requires the Sonos Combo Adapter ($39) plus an Ethernet cable to hardwire to router — helpful if WiFi is unstable.",
+        "kalla": {
+          "domän": "sonos.com",
+          "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+        }
+      },
+      {
+        "text": "Setup process: place in desired location, connect to power, download Sonos app (iOS or Android), follow in-app setup steps. To add to existing system: Settings > Add Speaker or Component.",
+        "kalla": {
+          "domän": "support.sonos.com",
+          "url": "https://support.sonos.com/en-us/article/set-up-your-sonos-era-100"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Positioned as a premium compact smart speaker, priced above mainstream Bluetooth speakers and most smart speakers (Echo, etc.), but below larger Sonos products like the Era 300 ($449) and soundbars. Multiple reviewers compare it to the Apple HomePod 2 as a direct premium competitor. What Hi-Fi notes the Era 100 'veers dangerously close' to the HomePod 2 which costs £50/$50 more. rtings.com classifies it as a 'premium home speaker'.",
+    "indikativa_priser": [
+      {
+        "text": "$249 USD at launch (2023); as of late 2025 typically retails around $199, often on sale lower",
+        "kalla": {
+          "domän": "redsharknews.com",
+          "url": "https://www.redsharknews.com/sonos-era-100-stereo-pair-review-how-do-they-compare-to-two-sonos-era-300s"
+        }
+      },
+      {
+        "text": "$219 USD (current listing at audioadvice.com)",
+        "kalla": {
+          "domän": "audioadvice.com",
+          "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+        }
+      },
+      {
+        "text": "$200 CAD (user-reported purchase price)",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+        }
+      },
+      {
+        "text": "£249 / €279 / AU$399 at launch",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      },
+      {
+        "text": "RM1,299 in Malaysia (2025 repriced, down RM300 from original)",
+        "kalla": {
+          "domän": "hitechcentury.com",
+          "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+        }
+      },
+      {
+        "text": "2,790 kr at Amazon SE",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Sonos Era 100",
+        "kalla": {
+          "domän": "sonos.com",
+          "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Era 100",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      },
+      {
+        "text": "Sonos Era100",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/sonos/comments/1n222og/i_am_blown_away_by_the_sonos_era_100_the_sound/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Trueplay tuning / Quick Tuning — Sonos's proprietary room calibration technology",
+        "kalla": {
+          "domän": "audioadvice.com",
+          "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+        }
+      },
+      {
+        "text": "SonosNet — Sonos's proprietary mesh network for older speakers (Era 100 cannot connect to it)",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "Class D amplifier — type of digital amplifier used in the Era 100 (three total)",
+        "kalla": {
+          "domän": "audioadvice.com",
+          "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+        }
+      },
+      {
+        "text": "AirPlay 2 — Apple's wireless streaming protocol, supported by the Era 100",
+        "kalla": {
+          "domän": "hitechcentury.com",
+          "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+        }
+      },
+      {
+        "text": "Stereo pair — two Era 100 speakers configured as left and right channels",
+        "kalla": {
+          "domän": "sonos.com",
+          "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+        }
+      },
+      {
+        "text": "Waveguide — custom acoustic component that directs sound from tweeters for wider dispersion",
+        "kalla": {
+          "domän": "audioadvice.com",
+          "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+        }
+      },
+      {
+        "text": "Line-In Adapter / Combo Adapter — Sonos accessories for wired audio input and/or Ethernet via USB-C",
+        "kalla": {
+          "domän": "sonos.com",
+          "url": "https://www.sonos.com/en-us/guides/era100?srsltid=AfmBOorYFFY31jZAy9eHQZwef4yBS0ze0fymzW1KA2LX6v14b76myc9D"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Sonos Era 100 review",
+        "kalla": {
+          "domän": "hitechcentury.com",
+          "url": "https://hitechcentury.com/sonos-era-100-review-malaysia-2025/"
+        }
+      },
+      {
+        "text": "Sonos Era 100 vs Era 300",
+        "kalla": {
+          "domän": "redsharknews.com",
+          "url": "https://www.redsharknews.com/sonos-era-100-stereo-pair-review-how-do-they-compare-to-two-sonos-era-300s"
+        }
+      },
+      {
+        "text": "Sonos Era 100 stereo pair",
+        "kalla": {
+          "domän": "redsharknews.com",
+          "url": "https://www.redsharknews.com/sonos-era-100-stereo-pair-review-how-do-they-compare-to-two-sonos-era-300s"
+        }
+      },
+      {
+        "text": "Sonos Era 100 Bluetooth speaker",
+        "kalla": {
+          "domän": "rtings.com",
+          "url": "https://www.rtings.com/speaker/reviews/sonos/era-100"
+        }
+      },
+      {
+        "text": "Sonos Era 100 connection issues",
+        "kalla": {
+          "domän": "en.community.sonos.com",
+          "url": "https://en.community.sonos.com/general-feedback-and-conversation-229090/ongoing-era-100-connection-issues-frustrated-by-support-responses-6930094"
+        }
+      },
+      {
+        "text": "Sonos Era 100 surround speakers",
+        "kalla": {
+          "domän": "audioadvice.com",
+          "url": "https://www.audioadvice.com/blogs/expert-advice/sonos-era-100-era-300-smart-speaker-review?srsltid=AfmBOooSMLSUgd3fKRJydxV394X-7UCQabJX4e6b0S_oqfE-DyjcVH-s"
+        }
+      },
+      {
+        "text": "Sonos Era 100 SL",
+        "kalla": {
+          "domän": "rtings.com",
+          "url": "https://www.rtings.com/speaker/reviews/sonos/era-100"
+        }
+      },
+      {
+        "text": "Sonos One replacement / successor",
+        "kalla": {
+          "domän": "whathifi.com",
+          "url": "https://www.whathifi.com/reviews/sonos-era-100"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:47:59.363Z"
+}

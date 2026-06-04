@@ -1,0 +1,1266 @@
+{
+  "entity": "Selt Italia Box awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt Italia Box awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia Box awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia Box awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia Box awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia Box awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia Box awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia Box awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia Box awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Selt Italia Box awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia Box awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia Box awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia Box awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia Box awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia Box awning forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia Box awning ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia Box awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia Box awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia Box awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia Box awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia Box awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia Box awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia Box awning usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia Box awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia Box awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia Box awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia Box awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia Box awning montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia Box awning instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "aluprof.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 9
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 6
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "hella.info",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 2
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "zaluzi.lv",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 2
+    },
+    {
+      "domain": "selt.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "window-treatments.co.nz",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "sunshade-experts.com",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "dickson-constant.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "llaza.com",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 7
+    },
+    {
+      "domain": "savillstheawningcompany.co.uk",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "northvillehistory.org",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "newspaperarchive.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "digifind-it.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "seltspa.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "selt.com",
+      "category": "reviews",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "window-treatments.co.nz",
+      "category": "reviews",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "uk.trustpilot.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "escapeforum.org",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "jaycoowners.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "community.goodsam.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "classbforum.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "marygrove.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "caravanersforum.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "fiberglassrv.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "ceneo.pl",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "pikeawning.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "awnluxpro.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "leisurecw.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "support.lci1.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "negative",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "carefreeofcolorado.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "sunprotectionfl.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "luxaflex-dealer.co.uk",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "homedepot.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "globalawnings.com.au",
+      "category": "negative",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "libertydoorandawning.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "portal.311.nyc.gov",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "okno-pol.pl",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "data.cityofnewyork.us",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "cflawnings.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "eboss.co.nz",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "aknakate.ee",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "zaluzi.lv",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 11
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 3,
+      "hits": 7
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "practical",
+      "rank": 3,
+      "hits": 6
+    },
+    {
+      "domain": "static1.squarespace.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "eboss.co.nz",
+      "category": "practical",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "insigniashadeandshutter.co.uk",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "lednorhome.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "thespruce.com",
+      "category": "practical",
+      "rank": 9,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 1,
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html",
+      "domain": "archiexpo.com",
+      "title": "Folding-arm awning - BOX ITALIA - Selt Sun Protection Systems - manual",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 3849,
+      "fetchedAt": "2026-05-20T11:21:18.263Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://aluprof.com/en/product/italia-box-awning",
+      "domain": "aluprof.com",
+      "title": "ITALIA BOX AWNING - Aluprof",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 2809,
+      "fetchedAt": "2026-05-20T11:21:21.508Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/",
+      "domain": "shopsun.eu",
+      "title": "Measurement and Technical Data of the Italia Selt balcony awning",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 4208,
+      "fetchedAt": "2026-05-20T11:21:24.057Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://markizes24.lv/Awnings-ITALIA-BOX",
+      "domain": "markizes24.lv",
+      "title": "Awnings ITALIA BOX",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1716,
+      "fetchedAt": "2026-05-20T11:21:26.913Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning",
+      "domain": "globalawnings.com.au",
+      "title": "Italia Full Cassette and No Headbox Drop Arm Awnings",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 3307,
+      "fetchedAt": "2026-05-20T11:21:31.950Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.selt.com/palladio-en/rxxl-en",
+      "domain": "selt.com",
+      "title": "",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 662,
+      "fetchedAt": "2026-05-20T11:21:35.904Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.trustpilot.com/review/outsunny.com",
+      "domain": "trustpilot.com",
+      "title": "Outsunny Reviews | Read Customer Service Reviews of outsunny.com",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:21:54.781Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://savillstheawningcompany.co.uk/italia-slim/",
+      "domain": "savillstheawningcompany.co.uk",
+      "title": "Italia Slim | Savills Awnings Group Ltd",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:21:58.639Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://portal.311.nyc.gov/article/?kanumber=KA-02227",
+      "domain": "portal.311.nyc.gov",
+      "title": "Awning, Canopy, Marquee, or Storm Enclosure Complaint · NYC311",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 638,
+      "fetchedAt": "2026-05-20T11:22:05.657Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://plikiapi.selt.com/dokument/51580501112_DT_E_ITALIA_BOX_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://brevo.lt/wp-content/uploads/2023/06/iTALIA-TUREKLINE-INSTRUKCIJA.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.escapeforum.org/threads/awning-survey.2181608/",
+      "reason": "review-not-model-specific (model tokens [italia, box] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "archiexpo.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "aluprof.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markizes24.lv",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "globalawnings.com.au",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "selt.com",
+        "sourceIdx": 7,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "trustpilot.com",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "savillstheawningcompany.co.uk",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "portal.311.nyc.gov",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Box Italia is a window and balcony awning for shading and protection of window niches, shop windows, balconies, terraces and verandas. An aluminium box covers the fabric and protects it from adverse weather conditions. Aluminium drop arms are equipped with a spring which keeps the fabric tensioned and prevents the arms from folding under wind pressure. The awning's weight is distributed between the arms and roller tube supports. Thus a box Italia could be installed even where the strength of the mounting surface excludes the use of a terrace awning with folding arms. The light construction makes the awning installation very easy. Construction elements are powder lacquered in white colour.",
+    "kalla": {
+      "domän": "archiexpo.com",
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Aluminium cassette (full box) protects the fabric from adverse weather conditions when retracted; sculptured bottom rail fits snugly into the top cassette box to form a weather-proof enclosure.",
+      "kalla": {
+        "domän": "globalawnings.com.au",
+        "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+      }
+    },
+    {
+      "text": "Spring-loaded aluminium drop arms keep the fabric tensioned and prevent the arms from folding under wind pressure.",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+      }
+    },
+    {
+      "text": "Weight is distributed between the arms and roller tube supports, allowing installation even where the mounting surface strength excludes folding-arm terrace awnings.",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+      }
+    },
+    {
+      "text": "Ready-made mounting brackets integrated with the cassette — installation to wall or ceiling does not require additional preparation.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/italia-box-awning"
+      }
+    },
+    {
+      "text": "Maximum width up to 5.0 m; arm reach options 1.0 m, 1.4 m, 1.8 m; tilt angle adjustable 0°–90° (optionally up to 160°).",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+      }
+    },
+    {
+      "text": "70 mm galvanised roller tube with welded stream for added strength.",
+      "kalla": {
+        "domän": "globalawnings.com.au",
+        "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+      }
+    },
+    {
+      "text": "Available with manual crank (150 cm standard; 180 cm or 220 cm non-standard) or optional electric motor drive.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+      }
+    },
+    {
+      "text": "7:1 Gearbox is standard; motorisation available at additional cost (Somfy Orea 50 RTS 25/17 for full cassette model).",
+      "kalla": {
+        "domän": "globalawnings.com.au",
+        "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+      }
+    },
+    {
+      "text": "Over 150 fabric patterns available; Teflon coated acrylic fabric.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/italia-box-awning"
+      }
+    },
+    {
+      "text": "Construction colour options: white RAL 9010, beige RAL 1015, silver RAL 9006, brown RAL 8014, silver graphite FSM 71319, or any other RAL colour for additional fee.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+      }
+    },
+    {
+      "text": "Valance height 21 cm, 3 patterns to choose from, can be ordered without a valance, can be quickly dismantled by pulling it out.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+      }
+    },
+    {
+      "text": "Wind Class 2 (European) / Beaufort Force 5 (Australian); maximum wind speed of 37 kph.",
+      "kalla": {
+        "domän": "globalawnings.com.au",
+        "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+      }
+    },
+    {
+      "text": "5 year product hardware warranty.",
+      "kalla": {
+        "domän": "globalawnings.com.au",
+        "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Shading and protection of window niches, shop windows, balconies, terraces and verandas.",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+      }
+    },
+    {
+      "text": "Perfect solution for traditional windows and small balconies of residential buildings, hotels or guesthouses.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/italia-box-awning"
+      }
+    },
+    {
+      "text": "Can be installed where the strength of the mounting surface excludes the use of a terrace awning with folding arms (lightweight construction distributes load between arms and roller tube supports).",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-ITALIA-BOX"
+      }
+    },
+    {
+      "text": "Homeowners and shopfronts looking to create comprehensive shaded areas.",
+      "kalla": {
+        "domän": "savillstheawningcompany.co.uk",
+        "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+      }
+    },
+    {
+      "text": "Also available without the full cassette (no headbox model) to suit most window sizes.",
+      "kalla": {
+        "domän": "globalawnings.com.au",
+        "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [
+      {
+        "text": "Savills retailer reviews (selling Italia Slim variant) show 4.93 avg from 94 reviews — recurring praise for smooth installation, professional fitters, product quality, and good communication throughout purchase process.",
+        "kalla": {
+          "domän": "savillstheawningcompany.co.uk",
+          "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+        }
+      }
+    ],
+    "aterkommande_klagomal": [
+      {
+        "text": "One reviewer reported difficulty finding a replacement wind sensor and handset (Somfy) which became obsolete, leaving the awning unusable without it: 'We are trying to find a replacement wind sensor and handset for the one Savill's originally supplied (Somfy). It is now obsolete and, without it, the awning cannot be used.'",
+        "kalla": {
+          "domän": "savillstheawningcompany.co.uk",
+          "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+        }
+      }
+    ],
+    "kundsprak_citat": [
+      {
+        "text": "\"We love our new awning, thank you Savilles Dean and Carolyn have been fantastic helping us pick the perfect product and following up on the installation. So pleased with the colour and the lights it has totally upgraded our garden.\"",
+        "kalla": {
+          "domän": "savillstheawningcompany.co.uk",
+          "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+        }
+      },
+      {
+        "text": "\"Very good quality professional company, very happy with awning, a must if your after 1 in the kent area\"",
+        "kalla": {
+          "domän": "savillstheawningcompany.co.uk",
+          "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+        }
+      },
+      {
+        "text": "\"I was recommended by a neighbour with the same awning that is 15+ years, and still looking amazing.\"",
+        "kalla": {
+          "domän": "savillstheawningcompany.co.uk",
+          "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+        }
+      },
+      {
+        "text": "\"We are trying to find a replacement wind sensor and handset for the one Savill's originally supplied (Somfy). It is now obsolete and, without it, the awning cannot be used. Savill's have not helped us with this. It is a disappointing and expensive experience, so we hope this posting might elicit a response.\"",
+        "kalla": {
+          "domän": "savillstheawningcompany.co.uk",
+          "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+        }
+      },
+      {
+        "text": "\"Savill's are above any other products I have seen.\"",
+        "kalla": {
+          "domän": "savillstheawningcompany.co.uk",
+          "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Kundcitat ovan kommer enbart från en enda källa (Savills-återförsäljaren) och avser den specifika Italia Slim-varianten snarare än Selt Italia Box direkt. Inga oberoende slutkonsumentrecensioner av Selt Italia Box awning specifikt hittades bland de 9 genomsökta källorna. Trustpilot-källan (index 8) gäller Outsunny, ej Selt."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Maximum width limited to 5.0 m.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/italia-box-awning"
+        }
+      },
+      {
+        "text": "Maximum arm projection 1.8 m (maximum reach with cassette); fabric length on T-beam up to 394 cm (excl. valance).",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Wind rated only to Wind Class 2 (European) / Beaufort Force 5 — maximum wind speed 37 kph.",
+        "kalla": {
+          "domän": "globalawnings.com.au",
+          "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+        }
+      },
+      {
+        "text": "Standard tilt angle is 0°–90°; extending to 160° requires additional fee and prior consultation.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Production tolerance of width dimensions ±2 cm.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Construction elements are powder lacquered in white colour as standard; non-standard RAL colours cost additional fee.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Potential obsolescence issue with motorisation accessories: one customer reported Somfy wind sensor and handset became obsolete, making the electric awning unusable.",
+        "kalla": {
+          "domän": "savillstheawningcompany.co.uk",
+          "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Drop arm design with limited projection (max 1.8 m) — not suited for large terrace coverage where folding-arm awnings with greater extension would be needed.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/italia-box-awning"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "When ordering, always provide the external dimensions (S) including the handles, plus the arm length dimension (W). In the wall-arm variant, 3 arm lengths are available: 100, 140 and 180 cm. 210 cm long fabric is wound on the winding tube regardless of arm length.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Mounting options: wall holder, ceiling holder, or recess bracket (for arms). Brackets are integrated with the cassette for easier installation.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "If manually operated, the gearbox can be on either the outside or inside of the brackets.",
+        "kalla": {
+          "domän": "globalawnings.com.au",
+          "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+        }
+      },
+      {
+        "text": "Tilt angle up to 160° possible but requires additional fee and prior consultation with manufacturer.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Arm sizes from 600 mm–1800 mm to suit drops from 1200 mm–3600 mm; arms can be cut to any size.",
+        "kalla": {
+          "domän": "globalawnings.com.au",
+          "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+        }
+      },
+      {
+        "text": "Depending on the width of the entire structure, the manufacturer provides a different number of mounting brackets.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Installation involves: 1) Mounting the arm to the wall, 2) Connecting the arm holder and recess bracket. The cassette has ready-made mounting brackets integrated so no additional preparation needed for wall/ceiling install.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Arms are mounted separately from the cassette and connected via arm holder. Mounting can be wall, ceiling, or recess bracket.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Somfy Orea 50 RTS 25/17 motor for full cassette model; Somfy Altus 50 RTS 25/17 for no headbox model.",
+        "kalla": {
+          "domän": "globalawnings.com.au",
+          "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "budget",
+    "motivation": "Indicative prices from sources place the Italia Box at €710 (ArchiExpo) and starting from €390 (markizes24.lv), significantly below other Selt models like Jamaica Volant (€1,590) and Casablanca (€1,400/€1,465). The awning is positioned as a simple, lightweight solution for windows and small balconies rather than large terrace installations.",
+    "indikativa_priser": [
+      {
+        "text": "€710 indicative price excl. tax (Box Italia, manual)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+        }
+      },
+      {
+        "text": "Starting from €390.00 (ex tax: €322.31) — price depends on size, configuration and selected material",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-ITALIA-BOX"
+        }
+      },
+      {
+        "text": "Non-cassette Italia variant: €510 indicative price excl. tax",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Italia Box awning / Box Italia",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+        }
+      },
+      {
+        "text": "Italia Box Awning (Selt)",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/italia-box-awning"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Italia Full Cassette Drop Arm Awning",
+        "kalla": {
+          "domän": "globalawnings.com.au",
+          "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+        }
+      },
+      {
+        "text": "Italia Slim (UK retailer variant name)",
+        "kalla": {
+          "domän": "savillstheawningcompany.co.uk",
+          "url": "https://savillstheawningcompany.co.uk/italia-slim/"
+        }
+      },
+      {
+        "text": "Balcony Awning Italia Selt",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Full cassette / box awning — cassette that fully encloses the fabric when retracted",
+        "kalla": {
+          "domän": "globalawnings.com.au",
+          "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+        }
+      },
+      {
+        "text": "Drop arm awning — awning type using spring-loaded arms that drop down rather than fold out horizontally",
+        "kalla": {
+          "domän": "globalawnings.com.au",
+          "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+        }
+      },
+      {
+        "text": "Folding-arm awning (broader category)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+        }
+      },
+      {
+        "text": "Valance / ruffle — decorative hanging edge of fabric at the front bar",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Wind Class 2 (European) / Beaufort Force 5 (Australian) — wind resistance rating",
+        "kalla": {
+          "domän": "globalawnings.com.au",
+          "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+        }
+      },
+      {
+        "text": "Roller tube — central tube around which the awning fabric is wound",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Powder-coated / powder lacquered — finish applied to aluminium components",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Selt Italia Box",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-ITALIA-BOX"
+        }
+      },
+      {
+        "text": "Selt Box Italia awning",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394007.html"
+        }
+      },
+      {
+        "text": "Italia cassette awning",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/italia-box-awning"
+        }
+      },
+      {
+        "text": "Italia drop arm awning",
+        "kalla": {
+          "domän": "globalawnings.com.au",
+          "url": "https://www.globalawnings.com.au/awnings/italia-full-cassette-drop-arm-awning"
+        }
+      },
+      {
+        "text": "Italia balcony awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:23:42.585Z"
+}

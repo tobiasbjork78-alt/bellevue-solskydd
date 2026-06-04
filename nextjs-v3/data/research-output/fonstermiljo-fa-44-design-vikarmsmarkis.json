@@ -1,0 +1,771 @@
+{
+  "entity": "Fonstermiljo FA 44 Design vikarmsmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo FA 44 Design vikarmsmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo FA 44 Design vikarmsmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "markis24.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "calameo.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "enyroom.se",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "7h.se",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "ebbradley.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "markis24.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "calameo.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "markis24.se",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "s3-eu-west-1.amazonaws.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "ledigajobblaholm.se",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "markis24.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "calameo.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://fonstermiljo.se/produkter/fa-44-design/",
+      "domain": "fonstermiljo.se",
+      "title": "FA 44 Design – Fönstermiljö i Laholm",
+      "category": "reviews",
+      "isManufacturer": true,
+      "textLength": 1212,
+      "fetchedAt": "2026-05-20T10:53:44.191Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/",
+      "domain": "markis24.se",
+      "title": "FA 44 DESIGN (bredd 400-575 cm) - markis24.se -markiser, markisvävar, plisségardiner",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 4781,
+      "fetchedAt": "2026-05-20T10:53:47.237Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://www.calameo.com/books/008178187162c5c5de341",
+      "domain": "calameo.com",
+      "title": "Calaméo - Föntermiljö produktkatalog 2026",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:53:50.582Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44",
+      "domain": "enyroom.se",
+      "title": "Terrassmarkis FA44 | Enyroom",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 6418,
+      "fetchedAt": "2026-05-20T10:53:55.008Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.ledigajobblaholm.se/yrke/tekniskt-arbete",
+      "domain": "ledigajobblaholm.se",
+      "title": "Lediga jobb Tekniskt arbete Laholm | ledigajobblaholm.se",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:53:57.616Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.7h.se/markiser/terrassmarkiser/fa-44/",
+      "domain": "7h.se",
+      "title": "FA 44 - 7H.se",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 976,
+      "fetchedAt": "2026-05-20T10:54:02.271Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.ebbradley.com/si-tss-board-fa44.html",
+      "domain": "ebbradley.com",
+      "title": "Cleaf FA44 Khaki | Penelope Linen Texture | 3/4\" Board | 81-1/2\"W x 110-1/4\"L",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1517,
+      "fetchedAt": "2026-05-20T10:54:05.622Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://s3-eu-west-1.amazonaws.com/static.wm3.se/sites/45/media/216705_Solskyddsaktuellt_2018.pdf?1528451624",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [
+      "fonstermiljo.se"
+    ],
+    "candidates": [
+      {
+        "domain": "fonstermiljo.se",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "markis24.se",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "calameo.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "enyroom.se",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "ledigajobblaholm.se",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "7h.se",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "ebbradley.com",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "FA 44 Design är avsedd för villaterrasser, balkonger, uteserveringar, kiosker, butiker m fl där du behöver fri gånghöjd under markisen. Monteras på vägg eller i tak. Manövreras med motor eller manuellt med vev. Armarnas fallvinkel kan justeras steglöst. Låt uteplatsens storlek styra storleken på markisen! Stativet består av pulvterlackerade profiler och med detaljer i pulverlackerat pressgjutet eller strängpressat aluminium. Bärprofil i 40x40mm stål. Vissa mindre detaljer är tillverkade av polymera material. Skruvar och axlar är av rostfritt eller förzinkat stål. Lackerade detaljer är vita, grå eller svarta som standard, men kan liksom stativet i övrigt, speciallackeras i valfri RAL-kulör. Markisväven är av 100% spinnfärgad acryl från Europas ledande väverier.",
+    "kalla": {
+      "domän": "fonstermiljo.se",
+      "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Kraftiga vikarmar med Dyneema-band i knäleden, vilket ger hög hållfasthet, stabil dukspänning och lång livslängd.",
+      "kalla": {
+        "domän": "markis24.se",
+        "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+      }
+    },
+    {
+      "text": "Konstruktionen är robust och anpassad för större utfall upp till 400 cm tack vare kraftigare konsoler än på FA 42.",
+      "kalla": {
+        "domän": "markis24.se",
+        "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+      }
+    },
+    {
+      "text": "Gaveln för vävrör och armklocka är designad med ett integrerat lock för ett mer exklusivt utseende.",
+      "kalla": {
+        "domän": "markis24.se",
+        "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+      }
+    },
+    {
+      "text": "Specialdesignade gavlar som knyter ihop den fyrkantiga formen på bärröret med det runda valsröret på ett elegant sätt.",
+      "kalla": {
+        "domän": "enyroom.se",
+        "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+      }
+    },
+    {
+      "text": "Armarnas fallvinkel kan justeras steglöst.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+      }
+    },
+    {
+      "text": "Pitch-kontroll för justering av lutning, max utfall 350 cm (Tillval).",
+      "kalla": {
+        "domän": "enyroom.se",
+        "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+      }
+    },
+    {
+      "text": "Maxbredd: 700 cm. Utfall: 160–400 cm.",
+      "kalla": {
+        "domän": "enyroom.se",
+        "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+      }
+    },
+    {
+      "text": "Monteras på vägg eller i tak. Designkonsol för vägg eller tak ingår som standard.",
+      "kalla": {
+        "domän": "enyroom.se",
+        "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+      }
+    },
+    {
+      "text": "Manövrering: kabelmotor, radiomotor med fjärrkontroll eller väggsändare, sol och vindsensor, vibrationssensor, appstyrning.",
+      "kalla": {
+        "domän": "enyroom.se",
+        "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+      }
+    },
+    {
+      "text": "Standardkulörer: vit, grå/silvermetallic, svart. Speciallackering i valfri RAL-kulör möjlig.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+      }
+    },
+    {
+      "text": "Markisväven är av 100% spinnfärgad acryl. Standardvävar från Sattler, Sandatex och Dickson.",
+      "kalla": {
+        "domän": "markis24.se",
+        "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+      }
+    },
+    {
+      "text": "Som tillval finns batteridriven skaksensor som automatiskt kör in markisen vid kraftig vind.",
+      "kalla": {
+        "domän": "markis24.se",
+        "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+      }
+    },
+    {
+      "text": "Tillval glidstödlager rekommenderas till större bredder, ger stöd åt markisen i ihoprullat läge för att undvika att väven sackar.",
+      "kalla": {
+        "domän": "enyroom.se",
+        "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+      }
+    },
+    {
+      "text": "Tillval: Rullfront, Tak/Kassett, Takstolskonsoll (ställbar), Teleskopstag.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Villaterrasser, balkonger, uteserveringar, kiosker, butiker – där fri gånghöjd under markisen behövs.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+      }
+    },
+    {
+      "text": "Förvandlar din uteplats till ett trivsamt och flexibelt uterum.",
+      "kalla": {
+        "domän": "7h.se",
+        "url": "https://www.7h.se/markiser/terrassmarkiser/fa-44/"
+      }
+    },
+    {
+      "text": "Armfäste med justerenhet gör att du själv enkelt kan luta din markis beroende på hur solen står, vilket ger ökad flexibilitet.",
+      "kalla": {
+        "domän": "7h.se",
+        "url": "https://www.7h.se/markiser/terrassmarkiser/fa-44/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundomdömen eller recensioner hittade efter sökning på 7 källor. Markis24.se visar 'RECENSIONER (0)' – inga recensioner inlämnade. Övriga källor saknar kundrecensioner helt."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Öppen konstruktion – synlig bärprofil. Kräver tillval av takprofil/skyddstak vid väggmontering för att skydda markisväv från väder.",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      },
+      {
+        "text": "Pitch-kontroll (lutningsjustering) begränsas till max utfall 350 cm.",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      },
+      {
+        "text": "Markisens lutning gör att den inte täcker lika långt som armarnas längd. För bästa skuggning rekommenderas att välja ett något större utfall än det faktiska behovet.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Vid större bredder rekommenderas tillvalet glidstödlager för att undvika att väven sackar i ihoprullat läge.",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      },
+      {
+        "text": "Skyddstak inklusive gavlar bygger totalt 6 cm mer än vald markisbredd (t.ex. 600 cm markis → 606 cm totalbredd med skyddstak).",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Vid pitcharm tillkommer +3 cm på minsta bredd.",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga kundrapporterade problem eller negativa erfarenheter hittade i källorna. Begränsningarna ovan är hämtade ur produktteknisk information."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "För bästa skuggning rekommenderas att välja ett något större utfall än det faktiska behovet, eftersom markisens lutning gör att den inte täcker lika långt som armarnas längd.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Beställningsbredden avser ytterkant gavlar och anges i hela centimeter.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Tillverkas på beställning och levereras normalt inom 14 dagar.",
+        "kalla": {
+          "domän": "7h.se",
+          "url": "https://www.7h.se/markiser/terrassmarkiser/fa-44/"
+        }
+      },
+      {
+        "text": "Erbjuds även med montering via återförsäljare (kontakta för offert).",
+        "kalla": {
+          "domän": "7h.se",
+          "url": "https://www.7h.se/markiser/terrassmarkiser/fa-44/"
+        }
+      },
+      {
+        "text": "Glidstödlager rekommenderas till större bredder för att ge stöd åt markisen i ihoprullat läge.",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Markisen kan monteras på vägg eller i tak och levereras med tydliga monteringsanvisningar.",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Den öppna konstruktionen innebär en synlig bärprofil för enkel och flexibel montering, vilket kan ske både på vägg eller i tak. Vid väggmontering erbjuds en takprofil som skyddar markisväv från vädrets påfrestningar som tillval.",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      },
+      {
+        "text": "Tillval: Takstolskonsoll, ställbar.",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "En återförsäljare (markis24.se) visar ett startpris på 18 786 kr för bredder 250–399 cm. Produkten positioneras som en robust terrassmarkis med designgavlar och kraftigare konsoler än FA 42, men är en öppen markis (ej kassettmarkis), vilket normalt placerar den i mellansegmentet bland vikarmsmarkiser.",
+    "indikativa_priser": [
+      {
+        "text": "FA 44 DESIGN (bredd 250-399 cm) från 18 786 kr (SEK, datum ej angivet)",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "FA 44 Design",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+        }
+      },
+      {
+        "text": "Vikarmsmarkis",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Terrassmarkis FA44",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      },
+      {
+        "text": "Terrassmarkis FA 44 Design",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Dyneema-band (material i knäled/armled)",
+        "kalla": {
+          "domän": "markis24.se",
+          "url": "https://markis24.se/produkt/fa-44-design-bredd-400-575-cm/"
+        }
+      },
+      {
+        "text": "Pitch-kontroll / pitcharm (justerenhet för lutning)",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      },
+      {
+        "text": "Snäckväxel & vev (manuell manövrering)",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+        }
+      },
+      {
+        "text": "Glidstödlager (stöd vid ihoprullat läge)",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      },
+      {
+        "text": "Rullfront",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+        }
+      },
+      {
+        "text": "Spinnfärgad acryl (markisväv)",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+        }
+      },
+      {
+        "text": "Designgavlar",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      },
+      {
+        "text": "RAL-kulör (speciallackering)",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "FA44 Design",
+        "kalla": {
+          "domän": "enyroom.se",
+          "url": "https://www.enyroom.se/solskydd/produkter/terrassmarkis-fa44"
+        }
+      },
+      {
+        "text": "FA 44",
+        "kalla": {
+          "domän": "7h.se",
+          "url": "https://www.7h.se/markiser/terrassmarkiser/fa-44/"
+        }
+      },
+      {
+        "text": "Fönstermiljö FA 44",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+        }
+      },
+      {
+        "text": "Fonstermiljo FA 44 Design vikarmsmarkis",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/fa-44-design/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:55:25.844Z"
+}

@@ -1,0 +1,838 @@
+{
+  "totalMs": 3164348,
+  "results": [
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "Classic",
+        "entity": "Fonstermiljo Classic vikarmsmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "terrassmarkis"
+      },
+      "slug": "fonstermiljo-classic-vikarmsmarkis",
+      "jsonPath": "research-output/fonstermiljo-classic-vikarmsmarkis.json",
+      "mdPath": "research-output/fonstermiljo-classic-vikarmsmarkis.md",
+      "status": "ok",
+      "durationMs": 159842
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "Classic Nova",
+        "entity": "Fonstermiljo Classic Nova kassettmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "terrassmarkis"
+      },
+      "slug": "fonstermiljo-classic-nova-kassettmarkis",
+      "jsonPath": "research-output/fonstermiljo-classic-nova-kassettmarkis.json",
+      "mdPath": "research-output/fonstermiljo-classic-nova-kassettmarkis.md",
+      "status": "ok",
+      "durationMs": 188394
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "FA 42",
+        "entity": "Fonstermiljo FA 42 vikarmsmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "terrassmarkis"
+      },
+      "slug": "fonstermiljo-fa-42-vikarmsmarkis",
+      "jsonPath": "research-output/fonstermiljo-fa-42-vikarmsmarkis.json",
+      "mdPath": "research-output/fonstermiljo-fa-42-vikarmsmarkis.md",
+      "status": "ok",
+      "durationMs": 255798
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "FA 44 Design",
+        "entity": "Fonstermiljo FA 44 Design vikarmsmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "terrassmarkis"
+      },
+      "slug": "fonstermiljo-fa-44-design-vikarmsmarkis",
+      "jsonPath": "research-output/fonstermiljo-fa-44-design-vikarmsmarkis.json",
+      "mdPath": "research-output/fonstermiljo-fa-44-design-vikarmsmarkis.md",
+      "status": "ok",
+      "durationMs": 238169
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "Haga",
+        "entity": "Fonstermiljo Haga fallarmsmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "fonstermarkis"
+      },
+      "slug": "fonstermiljo-haga-fallarmsmarkis",
+      "jsonPath": "research-output/fonstermiljo-haga-fallarmsmarkis.json",
+      "mdPath": "research-output/fonstermiljo-haga-fallarmsmarkis.md",
+      "status": "ok",
+      "durationMs": 279947
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "Läckö",
+        "entity": "Fonstermiljo Lacko fallarmsmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "fonstermarkis"
+      },
+      "slug": "fonstermiljo-lacko-fallarmsmarkis",
+      "jsonPath": "research-output/fonstermiljo-lacko-fallarmsmarkis.json",
+      "mdPath": "research-output/fonstermiljo-lacko-fallarmsmarkis.md",
+      "status": "ok",
+      "durationMs": 225147
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "Sofiero",
+        "entity": "Fonstermiljo Sofiero fallarmsmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "fonstermarkis"
+      },
+      "slug": "fonstermiljo-sofiero-fallarmsmarkis",
+      "jsonPath": "research-output/fonstermiljo-sofiero-fallarmsmarkis.json",
+      "mdPath": "research-output/fonstermiljo-sofiero-fallarmsmarkis.md",
+      "status": "ok",
+      "durationMs": 197226
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "Solliden",
+        "entity": "Fonstermiljo Solliden fallarmsmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "fonstermarkis"
+      },
+      "slug": "fonstermiljo-solliden-fallarmsmarkis",
+      "jsonPath": "research-output/fonstermiljo-solliden-fallarmsmarkis.json",
+      "mdPath": "research-output/fonstermiljo-solliden-fallarmsmarkis.md",
+      "status": "ok",
+      "durationMs": 189136
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "Tidö Duo",
+        "entity": "Fonstermiljo Tido Duo terrassmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "terrassmarkis"
+      },
+      "slug": "fonstermiljo-tido-duo-terrassmarkis",
+      "jsonPath": "research-output/fonstermiljo-tido-duo-terrassmarkis.json",
+      "mdPath": "research-output/fonstermiljo-tido-duo-terrassmarkis.md",
+      "status": "ok",
+      "durationMs": 244694
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "Vindskydd",
+        "entity": "Fonstermiljo Vindskydd balkongskydd",
+        "brand": "fonstermiljo",
+        "fields": "bredd,hojd,material,montage",
+        "locales": "sv,en",
+        "category": "vindskydd"
+      },
+      "slug": "fonstermiljo-vindskydd-balkongskydd",
+      "jsonPath": "research-output/fonstermiljo-vindskydd-balkongskydd.json",
+      "mdPath": "research-output/fonstermiljo-vindskydd-balkongskydd.md",
+      "status": "ok",
+      "durationMs": 275891
+    },
+    {
+      "entry": {
+        "supplier": "Fönstermiljö",
+        "supplierSlug": "fonstermiljo",
+        "model": "Ängsö",
+        "entity": "Fonstermiljo Angso korgmarkis",
+        "brand": "fonstermiljo",
+        "fields": "bredd,utfall,manover,montage",
+        "locales": "sv,en",
+        "category": "korgmarkis"
+      },
+      "slug": "fonstermiljo-angso-korgmarkis",
+      "jsonPath": "research-output/fonstermiljo-angso-korgmarkis.json",
+      "mdPath": "research-output/fonstermiljo-angso-korgmarkis.md",
+      "status": "ok",
+      "durationMs": 209214
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "Brera",
+        "entity": "Harol Brera louvered pergola",
+        "brand": "harol",
+        "fields": "width,depth,height,louver,wind",
+        "locales": "en,fr",
+        "category": "pergola"
+      },
+      "slug": "harol-brera-louvered-pergola",
+      "jsonPath": "research-output/harol-brera-louvered-pergola.json",
+      "mdPath": "research-output/harol-brera-louvered-pergola.md",
+      "status": "ok",
+      "durationMs": 270060
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "BX260",
+        "entity": "Harol BX260 folding arm awning",
+        "brand": "harol",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,fr",
+        "category": "terrassmarkis"
+      },
+      "slug": "harol-bx260-folding-arm-awning",
+      "jsonPath": "research-output/harol-bx260-folding-arm-awning.json",
+      "mdPath": "research-output/harol-bx260-folding-arm-awning.md",
+      "status": "ok",
+      "durationMs": 262896
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "BX270",
+        "entity": "Harol BX270 folding arm awning",
+        "brand": "harol",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,fr",
+        "category": "terrassmarkis"
+      },
+      "slug": "harol-bx270-folding-arm-awning",
+      "jsonPath": "research-output/harol-bx270-folding-arm-awning.json",
+      "mdPath": "research-output/harol-bx270-folding-arm-awning.md",
+      "status": "ok",
+      "durationMs": 284025
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "CADIZ",
+        "entity": "Harol CADIZ folding arm awning",
+        "brand": "harol",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,fr",
+        "category": "terrassmarkis"
+      },
+      "slug": "harol-cadiz-folding-arm-awning",
+      "jsonPath": "research-output/harol-cadiz-folding-arm-awning.json",
+      "mdPath": "research-output/harol-cadiz-folding-arm-awning.md",
+      "status": "ok",
+      "durationMs": 213118
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "LUX",
+        "entity": "Harol LUX folding arm awning",
+        "brand": "harol",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,fr",
+        "category": "terrassmarkis"
+      },
+      "slug": "harol-lux-folding-arm-awning",
+      "jsonPath": "research-output/harol-lux-folding-arm-awning.json",
+      "mdPath": "research-output/harol-lux-folding-arm-awning.md",
+      "status": "ok",
+      "durationMs": 233667
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "Nomo",
+        "entity": "Harol Nomo folding roof pergola",
+        "brand": "harol",
+        "fields": "width,depth,height,fabric",
+        "locales": "en,fr",
+        "category": "pergola"
+      },
+      "slug": "harol-nomo-folding-roof-pergola",
+      "jsonPath": "research-output/harol-nomo-folding-roof-pergola.json",
+      "mdPath": "research-output/harol-nomo-folding-roof-pergola.md",
+      "status": "ok",
+      "durationMs": 192806
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "Opera",
+        "entity": "Harol Opera louvered pergola",
+        "brand": "harol",
+        "fields": "width,depth,height,louver,wind",
+        "locales": "en,fr",
+        "category": "pergola"
+      },
+      "slug": "harol-opera-louvered-pergola",
+      "jsonPath": "research-output/harol-opera-louvered-pergola.json",
+      "mdPath": "research-output/harol-opera-louvered-pergola.md",
+      "status": "ok",
+      "durationMs": 258534
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "PRAIA",
+        "entity": "Harol PRAIA folding arm awning",
+        "brand": "harol",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,fr",
+        "category": "terrassmarkis"
+      },
+      "slug": "harol-praia-folding-arm-awning",
+      "jsonPath": "research-output/harol-praia-folding-arm-awning.json",
+      "mdPath": "research-output/harol-praia-folding-arm-awning.md",
+      "status": "ok",
+      "durationMs": 247582
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "TUCAN",
+        "entity": "Harol TUCAN folding arm awning",
+        "brand": "harol",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,fr",
+        "category": "terrassmarkis"
+      },
+      "slug": "harol-tucan-folding-arm-awning",
+      "jsonPath": "research-output/harol-tucan-folding-arm-awning.json",
+      "mdPath": "research-output/harol-tucan-folding-arm-awning.md",
+      "status": "ok",
+      "durationMs": 268384
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "Versuz",
+        "entity": "Harol Versuz pergola roll-up fabric",
+        "brand": "harol",
+        "fields": "width,depth,fabric,wind",
+        "locales": "en,fr",
+        "category": "pergola"
+      },
+      "slug": "harol-versuz-pergola-roll-up-fabric",
+      "jsonPath": "research-output/harol-versuz-pergola-roll-up-fabric.json",
+      "mdPath": "research-output/harol-versuz-pergola-roll-up-fabric.md",
+      "status": "ok",
+      "durationMs": 251673
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "AUSTRALIA",
+        "entity": "Selt Australia awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "terrassmarkis"
+      },
+      "slug": "selt-australia-awning",
+      "jsonPath": "research-output/selt-australia-awning.json",
+      "mdPath": "research-output/selt-australia-awning.md",
+      "status": "ok",
+      "durationMs": 297027
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "BORA Side Screen",
+        "entity": "Selt BORA Side Screen awning",
+        "brand": "selt",
+        "fields": "width,height,mount,fabric",
+        "locales": "en,pl",
+        "category": "sidoskärm"
+      },
+      "slug": "selt-bora-side-screen-awning",
+      "jsonPath": "research-output/selt-bora-side-screen-awning.json",
+      "mdPath": "research-output/selt-bora-side-screen-awning.md",
+      "status": "ok",
+      "durationMs": 236424
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "CASABLANCA",
+        "entity": "Selt Casablanca awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "terrassmarkis"
+      },
+      "slug": "selt-casablanca-awning",
+      "jsonPath": "research-output/selt-casablanca-awning.json",
+      "mdPath": "research-output/selt-casablanca-awning.md",
+      "status": "skipped",
+      "durationMs": 0
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "CORSICA",
+        "entity": "Selt Corsica awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "terrassmarkis"
+      },
+      "slug": "selt-corsica-awning",
+      "jsonPath": "research-output/selt-corsica-awning.json",
+      "mdPath": "research-output/selt-corsica-awning.md",
+      "status": "ok",
+      "durationMs": 244996
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "DAKAR",
+        "entity": "Selt Dakar awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "terrassmarkis"
+      },
+      "slug": "selt-dakar-awning",
+      "jsonPath": "research-output/selt-dakar-awning.json",
+      "mdPath": "research-output/selt-dakar-awning.md",
+      "status": "ok",
+      "durationMs": 288647
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "GIANT",
+        "entity": "Selt Giant awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "terrassmarkis"
+      },
+      "slug": "selt-giant-awning",
+      "jsonPath": "research-output/selt-giant-awning.json",
+      "mdPath": "research-output/selt-giant-awning.md",
+      "status": "ok",
+      "durationMs": 283402
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "ITALIA",
+        "entity": "Selt Italia awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "fonstermarkis"
+      },
+      "slug": "selt-italia-awning",
+      "jsonPath": "research-output/selt-italia-awning.json",
+      "mdPath": "research-output/selt-italia-awning.md",
+      "status": "ok",
+      "durationMs": 291231
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "ITALIA Balcony",
+        "entity": "Selt Italia Balcony awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "fonstermarkis"
+      },
+      "slug": "selt-italia-balcony-awning",
+      "jsonPath": "research-output/selt-italia-balcony-awning.json",
+      "mdPath": "research-output/selt-italia-balcony-awning.md",
+      "status": "ok",
+      "durationMs": 284440
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "ITALIA Box",
+        "entity": "Selt Italia Box awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "fonstermarkis"
+      },
+      "slug": "selt-italia-box-awning",
+      "jsonPath": "research-output/selt-italia-box-awning.json",
+      "mdPath": "research-output/selt-italia-box-awning.md",
+      "status": "ok",
+      "durationMs": 289944
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "JAMAICA",
+        "entity": "Selt Jamaica awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "terrassmarkis"
+      },
+      "slug": "selt-jamaica-awning",
+      "jsonPath": "research-output/selt-jamaica-awning.json",
+      "mdPath": "research-output/selt-jamaica-awning.md",
+      "status": "ok",
+      "durationMs": 272875
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "MALTA",
+        "entity": "Selt Malta awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "terrassmarkis"
+      },
+      "slug": "selt-malta-awning",
+      "jsonPath": "research-output/selt-malta-awning.json",
+      "mdPath": "research-output/selt-malta-awning.md",
+      "status": "ok",
+      "durationMs": 245881
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "PALLADIO",
+        "entity": "Selt Palladio awning",
+        "brand": "selt",
+        "fields": "width,projection,cassette,tilt,fabric",
+        "locales": "en,pl",
+        "category": "terrassmarkis"
+      },
+      "slug": "selt-palladio-awning",
+      "jsonPath": "research-output/selt-palladio-awning.json",
+      "mdPath": "research-output/selt-palladio-awning.md",
+      "status": "ok",
+      "durationMs": 285440
+    },
+    {
+      "entry": {
+        "supplier": "Pratic",
+        "supplierSlug": "pratic",
+        "model": "Brera B",
+        "entity": "Pratic Brera B pergola",
+        "brand": "pratic",
+        "fields": "width,depth,height,louver",
+        "locales": "en,it",
+        "category": "pergola"
+      },
+      "slug": "pratic-brera-b-pergola",
+      "jsonPath": "research-output/pratic-brera-b-pergola.json",
+      "mdPath": "research-output/pratic-brera-b-pergola.md",
+      "status": "ok",
+      "durationMs": 314793
+    },
+    {
+      "entry": {
+        "supplier": "Pratic",
+        "supplierSlug": "pratic",
+        "model": "Brera P",
+        "entity": "Pratic Brera P pergola autoportante",
+        "brand": "pratic",
+        "fields": "width,depth,height,louver",
+        "locales": "en,it",
+        "category": "pergola"
+      },
+      "slug": "pratic-brera-p-pergola-autoportante",
+      "jsonPath": "research-output/pratic-brera-p-pergola-autoportante.json",
+      "mdPath": "research-output/pratic-brera-p-pergola-autoportante.md",
+      "status": "ok",
+      "durationMs": 302775
+    },
+    {
+      "entry": {
+        "supplier": "Pratic",
+        "supplierSlug": "pratic",
+        "model": "Brera S",
+        "entity": "Pratic Brera S pergola slim",
+        "brand": "pratic",
+        "fields": "width,depth,height,louver",
+        "locales": "en,it",
+        "category": "pergola"
+      },
+      "slug": "pratic-brera-s-pergola-slim",
+      "jsonPath": "research-output/pratic-brera-s-pergola-slim.json",
+      "mdPath": "research-output/pratic-brera-s-pergola-slim.md",
+      "status": "ok",
+      "durationMs": 249768
+    },
+    {
+      "entry": {
+        "supplier": "Pratic",
+        "supplierSlug": "pratic",
+        "model": "Nomo",
+        "entity": "Pratic Nomo pergola rullvav",
+        "brand": "pratic",
+        "fields": "width,depth,height,fabric",
+        "locales": "en,it",
+        "category": "pergola"
+      },
+      "slug": "pratic-nomo-pergola-rullvav",
+      "jsonPath": "research-output/pratic-nomo-pergola-rullvav.json",
+      "mdPath": "research-output/pratic-nomo-pergola-rullvav.md",
+      "status": "ok",
+      "durationMs": 269742
+    },
+    {
+      "entry": {
+        "supplier": "Pratic",
+        "supplierSlug": "pratic",
+        "model": "Opera",
+        "entity": "Pratic Opera pergola bioclimatic",
+        "brand": "pratic",
+        "fields": "width,depth,height,louver",
+        "locales": "en,it",
+        "category": "pergola"
+      },
+      "slug": "pratic-opera-pergola-bioclimatic",
+      "jsonPath": "research-output/pratic-opera-pergola-bioclimatic.json",
+      "mdPath": "research-output/pratic-opera-pergola-bioclimatic.md",
+      "status": "ok",
+      "durationMs": 343375
+    },
+    {
+      "entry": {
+        "supplier": "MTH Scandinavia",
+        "supplierSlug": "mth",
+        "model": "Plissénätdörr Exclusive",
+        "entity": "MTH Plissenatdorr Exclusive insektsdorr",
+        "brand": "mth",
+        "fields": "bredd,hojd,nat,las",
+        "locales": "sv,en",
+        "category": "insektsskydd"
+      },
+      "slug": "mth-plissenatdorr-exclusive-insektsdorr",
+      "jsonPath": "research-output/mth-plissenatdorr-exclusive-insektsdorr.json",
+      "mdPath": "research-output/mth-plissenatdorr-exclusive-insektsdorr.md",
+      "status": "ok",
+      "durationMs": 291246
+    },
+    {
+      "entry": {
+        "supplier": "MTH Scandinavia",
+        "supplierSlug": "mth",
+        "model": "Rullgardin Deluxe",
+        "entity": "MTH Rullgardin Deluxe insektsnat fonster",
+        "brand": "mth",
+        "fields": "bredd,hojd,nat,montage",
+        "locales": "sv,en",
+        "category": "insektsskydd"
+      },
+      "slug": "mth-rullgardin-deluxe-insektsnat-fonster",
+      "jsonPath": "research-output/mth-rullgardin-deluxe-insektsnat-fonster.json",
+      "mdPath": "research-output/mth-rullgardin-deluxe-insektsnat-fonster.md",
+      "status": "ok",
+      "durationMs": 268952
+    },
+    {
+      "entry": {
+        "supplier": "MTH Scandinavia",
+        "supplierSlug": "mth",
+        "model": "Rullgardinsdörr Deluxe",
+        "entity": "MTH Rullgardinsdorr Deluxe insektsdorr",
+        "brand": "mth",
+        "fields": "bredd,hojd,nat,las",
+        "locales": "sv,en",
+        "category": "insektsskydd"
+      },
+      "slug": "mth-rullgardinsdorr-deluxe-insektsdorr",
+      "jsonPath": "research-output/mth-rullgardinsdorr-deluxe-insektsdorr.json",
+      "mdPath": "research-output/mth-rullgardinsdorr-deluxe-insektsdorr.md",
+      "status": "ok",
+      "durationMs": 200115
+    },
+    {
+      "entry": {
+        "supplier": "MTH Scandinavia",
+        "supplierSlug": "mth",
+        "model": "Takfönster Deluxe",
+        "entity": "MTH Takfonster Deluxe insektsskydd",
+        "brand": "mth",
+        "fields": "bredd,hojd,nat,montage",
+        "locales": "sv,en",
+        "category": "insektsskydd"
+      },
+      "slug": "mth-takfonster-deluxe-insektsskydd",
+      "jsonPath": "research-output/mth-takfonster-deluxe-insektsskydd.json",
+      "mdPath": "research-output/mth-takfonster-deluxe-insektsskydd.md",
+      "status": "ok",
+      "durationMs": 290445
+    },
+    {
+      "entry": {
+        "supplier": "Tarasola",
+        "supplierSlug": "tarasola",
+        "model": "Technic Pro",
+        "entity": "Tarasola Technic Pro pergola louvered zip",
+        "brand": "tarasola",
+        "fields": "width,depth,height,louver,zip",
+        "locales": "en,pl",
+        "category": "pergola"
+      },
+      "slug": "tarasola-technic-pro-pergola-louvered-zip",
+      "jsonPath": "research-output/tarasola-technic-pro-pergola-louvered-zip.json",
+      "mdPath": "research-output/tarasola-technic-pro-pergola-louvered-zip.md",
+      "status": "ok",
+      "durationMs": 268036
+    },
+    {
+      "entry": {
+        "supplier": "Tarasola",
+        "supplierSlug": "tarasola",
+        "model": "Technic View",
+        "entity": "Tarasola Technic View retractable louvered roof",
+        "brand": "tarasola",
+        "fields": "width,depth,height,louver",
+        "locales": "en,pl",
+        "category": "pergola"
+      },
+      "slug": "tarasola-technic-view-retractable-louvered-roof",
+      "jsonPath": "research-output/tarasola-technic-view-retractable-louvered-roof.json",
+      "mdPath": "research-output/tarasola-technic-view-retractable-louvered-roof.md",
+      "status": "ok",
+      "durationMs": 318776
+    },
+    {
+      "entry": {
+        "supplier": "Pagunette",
+        "supplierSlug": "pagunette",
+        "model": "Lysdämpande gardin",
+        "entity": "Pagunette Lysdaempende gardin",
+        "brand": "pagunette",
+        "fields": "material,lystath,storlek",
+        "locales": "sv,en",
+        "category": "gardin"
+      },
+      "slug": "pagunette-lysdaempende-gardin",
+      "jsonPath": "research-output/pagunette-lysdaempende-gardin.json",
+      "mdPath": "research-output/pagunette-lysdaempende-gardin.md",
+      "status": "ok",
+      "durationMs": 277044
+    },
+    {
+      "entry": {
+        "supplier": "Pagunette",
+        "supplierSlug": "pagunette",
+        "model": "Mörkläggningsgardin",
+        "entity": "Pagunette Morklaggningsgardin",
+        "brand": "pagunette",
+        "fields": "material,lystath,storlek",
+        "locales": "sv,en",
+        "category": "gardin"
+      },
+      "slug": "pagunette-morklaggningsgardin",
+      "jsonPath": "research-output/pagunette-morklaggningsgardin.json",
+      "mdPath": "research-output/pagunette-morklaggningsgardin.md",
+      "status": "ok",
+      "durationMs": 276467
+    },
+    {
+      "entry": {
+        "supplier": "Harol",
+        "supplierSlug": "harol",
+        "model": "Coolscreen",
+        "entity": "Harol Coolscreen zip screen facade blind",
+        "brand": "harol",
+        "fields": "width,height,fabric,wind,motor",
+        "locales": "en,fr",
+        "category": "zip-screen"
+      },
+      "slug": "harol-coolscreen-zip-screen-facade-blind",
+      "jsonPath": "research-output/harol-coolscreen-zip-screen-facade-blind.json",
+      "mdPath": "research-output/harol-coolscreen-zip-screen-facade-blind.md",
+      "status": "ok",
+      "durationMs": 243200
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "R Ziiip 125",
+        "entity": "Selt Refleksol 125 ZIIIP facade zip screen",
+        "brand": "selt",
+        "fields": "width,height,fabric,wind,motor",
+        "locales": "en,pl",
+        "category": "zip-screen"
+      },
+      "slug": "selt-refleksol-125-ziiip-facade-zip-screen",
+      "jsonPath": "research-output/selt-refleksol-125-ziiip-facade-zip-screen.json",
+      "mdPath": "research-output/selt-refleksol-125-ziiip-facade-zip-screen.md",
+      "status": "ok",
+      "durationMs": 295001
+    },
+    {
+      "entry": {
+        "supplier": "Selt",
+        "supplierSlug": "selt",
+        "model": "R Ziiip 95",
+        "entity": "Selt Refleksol 95 ZIIIP facade zip screen",
+        "brand": "selt",
+        "fields": "width,height,fabric,wind,motor",
+        "locales": "en,pl",
+        "category": "zip-screen"
+      },
+      "slug": "selt-refleksol-95-ziiip-facade-zip-screen",
+      "jsonPath": "research-output/selt-refleksol-95-ziiip-facade-zip-screen.json",
+      "mdPath": "research-output/selt-refleksol-95-ziiip-facade-zip-screen.md",
+      "status": "ok",
+      "durationMs": 288040
+    }
+  ]
+}

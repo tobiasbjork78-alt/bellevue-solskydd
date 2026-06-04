@@ -1,0 +1,940 @@
+{
+  "entity": "Pagunette Lysdaempende gardin",
+  "brand": "pagunette",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Pagunette Lysdaempende gardin specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin test",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Pagunette Lysdaempende gardin",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin review",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin problem",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin issue",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin broken",
+      "category": "negative"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin montering",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin installation",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Pagunette Lysdaempende gardin setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "pagunette.dk",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "pagunette.no",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 24
+    },
+    {
+      "domain": "afwigen.no",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 10
+    },
+    {
+      "domain": "pagunette.se",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "b2b.pagunette.dk",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "fargerike.no",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "lunerede.no",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "hjemogdekor.no",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "princessbutikken.no",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "moogio.se",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "finn.no",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "pagunette.dk",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "pagunette.no",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 19
+    },
+    {
+      "domain": "princessbutikken.no",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "afwigen.no",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "dk.trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "no.trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "niobe.sk",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "biorigami.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "pagunette.no",
+      "category": "negative",
+      "rank": 0,
+      "hits": 15
+    },
+    {
+      "domain": "botex.dk",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "afwigen.no",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "fargerike.no",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "princessbutikken.no",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "kid.no",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "b2b.pagunette.dk",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "roskilde-gardiner.dk",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "pagunette.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "pagunette.dk",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "pagunette.no",
+      "category": "practical",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "afwigen.no",
+      "category": "practical",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "botex.dk",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "princessbutikken.no",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner",
+      "domain": "pagunette.no",
+      "title": "Lysdempende gardiner",
+      "category": "manufacturer",
+      "isManufacturer": true,
+      "textLength": 2488,
+      "fetchedAt": "2026-05-20T11:36:49.069Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://afwigen.no/gardiner/pagunette-gardinhoyde-lys-bla",
+      "domain": "afwigen.no",
+      "title": "Pagunette - gardinhøyde, lys blå | A. F. Wigen AS",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 5681,
+      "fetchedAt": "2026-05-20T11:36:51.743Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://www.pagunette.dk/blog/gardiner-paa-maal",
+      "domain": "pagunette.dk",
+      "title": "Gardiner på mål",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 1910,
+      "fetchedAt": "2026-05-20T11:36:54.603Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.princessbutikken.no/mendy-lysdempende-gardin",
+      "domain": "princessbutikken.no",
+      "title": "Mendy lysdempende gardin | princessbutikken.no",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:36:57.824Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://dk.trustpilot.com/review/pagunette.dk",
+      "domain": "dk.trustpilot.com",
+      "title": "Anmeldelser af Pagunette | Læs kundernes anmeldelser af pagunette.dk",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 4526,
+      "fetchedAt": "2026-05-20T11:37:14.933Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.botex.dk/brands/pagunette/?srsltid=AfmBOoqWo6xzd0rk7U0DU6hbry5lXg9ZQUCDLM1JNqlfawnzXq0WQsEG",
+      "domain": "botex.dk",
+      "title": "Gardiner fra Pagunette | Botex",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:37:21.852Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.kid.no/gardiner/lystette-og-lysdempende-gardiner/caledonia-lysdempende-gardin",
+      "domain": "kid.no",
+      "title": "Caledonia lysdempende gardin - Kid",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:37:24.848Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.finn.no/recommerce/forsale/search?location=0.22046&page=17&rows=49&sub_category=1.78.5180",
+      "domain": "finn.no",
+      "title": "Tepper og tekstiler | til salgs (side 17) | FINN Torget",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:37:27.915Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://b2b.pagunette.dk/gardiner",
+      "domain": "b2b.pagunette.dk",
+      "title": "Flotte gardiner på mål | Kæmpe udvalg af gardin tekstiler! PAGUNETTE",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 1405,
+      "fetchedAt": "2026-05-20T11:37:31.324Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://www.pagunette.se/startsida",
+      "domain": "pagunette.se",
+      "title": "Pagunette | Vackra gardiner och textilier för din inomhusmiljö",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 963,
+      "fetchedAt": "2026-05-20T11:37:35.113Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://www.fargerike.no/inspirasjon/bolig/farger-gardin/?srsltid=AfmBOortapQdgLmRa-eFwgiJthRItSfGaOJxbQVdaK6lPMDS_J9QdGEt",
+      "domain": "fargerike.no",
+      "title": "Gardiner - Solskjerming - Pagunette - Måltilpasset | Fargerike",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:37:37.970Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://niobe.sk/?v=gardinhoyde-brooklyn-tegel-n-OtnQHhBUw",
+      "reason": "review-not-model-specific (model tokens [lysdaempende, gardin] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "pagunette"
+    ],
+    "acceptedDomains": [
+      "pagunette.no",
+      "pagunette.dk",
+      "b2b.pagunette.dk",
+      "pagunette.se"
+    ],
+    "candidates": [
+      {
+        "domain": "pagunette.no",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "afwigen.no",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "pagunette.dk",
+        "sourceIdx": 2,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "princessbutikken.no",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "dk.trustpilot.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "botex.dk",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "kid.no",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "finn.no",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "b2b.pagunette.dk",
+        "sourceIdx": 9,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "pagunette.se",
+        "sourceIdx": 10,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "fargerike.no",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "En mørklæringsgardin brukes for å fullstendig blokkere lys i et rom. Dette er særlig viktig når du skal sove, da lysforurensning kan ødelegge søvnkvaliteten din. Hvis du ikke foretrekker tradisjonelle gardiner fra gulv til tak, kan vi også sy lysdempende liftgardiner av våre vakre stoffer. En lysdempende liftgardin kan med fordel syes med et stort mønster, da det henger helt flatt når det er rullet ned. Mørkleggende gardiner blokkerer 100% av lyset, ved hjelp av den lystette coating de har på baksiden. Lysdempende gardiner er vevd så de blokkerer det meste av lyset ute (mørke farger blokkerer mest lys). Den lysdempende effekt dekker langt de flestes behov. Gardiner laget av mørkleggende eller lysdempende gardinstoff kan også brukes i rom med projektor og lerret, da det krever et helt mørkt rom for å gi skarpe bilder. Når du skal ha lysdempende eller mørkleggende gardiner kan du både velge stoff som i seg selv er lysdempende, eller du kan velge å fore et tekstil som ikke er lysdempende. Mørkleggende gardiner sørger for at ditt soverom blir mørkt, så du igjen kan sove tungt og lenge. Som bonus hjelper gardinene med å holde soverommet kjølig om sommeren, hvis de er trukket for om dagen.",
+    "kalla": {
+      "domän": "pagunette.no",
+      "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Lysdempende gardiner er vevd så de blokkerer det meste av lyset ute (mørke farger blokkerer mest lys). Den lysdempende effekt dekker langt de flestes behov.",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+      }
+    },
+    {
+      "text": "Mørkleggende gardiner blokkerer 100% av lyset, ved hjelp av den lystette coating de har på baksiden — til forskjell fra lysdempende som er vevd for å blokkere det meste av lyset uten coating.",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+      }
+    },
+    {
+      "text": "Kan velge stoff som i seg selv er lysdempende, eller velge å fore et tekstil som ikke er lysdempende.",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+      }
+    },
+    {
+      "text": "Lysdempende liftgardin kan med fordel syes med et stort mønster, da det henger helt flatt når det er rullet ned.",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+      }
+    },
+    {
+      "text": "Liftgardiner leveres med alu-skinne/kassett med borrelås og monteringsbeslag. Det kan velges mellom liftgardin med endeløs kjede/snor i hvit alu-kassett eller liftgardin med vanlig snortrekk med alu-skinne.",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+      }
+    },
+    {
+      "text": "Et gardin forbedrer desuden akustikken markant og bevirker et forbedret indeklima i dit hjem.",
+      "kalla": {
+        "domän": "b2b.pagunette.dk",
+        "url": "https://b2b.pagunette.dk/gardiner"
+      }
+    },
+    {
+      "text": "Pagunette sælger kun gardiner på mål via vores mange forhandlere — gardinerne er specialsyede.",
+      "kalla": {
+        "domän": "pagunette.dk",
+        "url": "https://www.pagunette.dk/blog/gardiner-paa-maal"
+      }
+    },
+    {
+      "text": "Specifika lysdempende stoffnavn som nevnes: Jacques RH Dimout (3165), Sandra Dimout (3172), Sunout (6151), Athene Roomhigh Blackout (7069).",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+      }
+    },
+    {
+      "text": "Metervaror finns i kategorier: ljusdämpande, mönstrat, roomhigh (från den svenska sidan).",
+      "kalla": {
+        "domän": "pagunette.se",
+        "url": "https://www.pagunette.se/startsida"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Soverom — mørkleggende/lysdempende gardiner sørger for mørkt soverom slik at man kan sove tungt og lenge.",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+      }
+    },
+    {
+      "text": "Rom med projektor og lerret — krever et helt mørkt rom for å gi skarpe bilder.",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+      }
+    },
+    {
+      "text": "Holder soverommet kjølig om sommeren hvis gardinene er trukket for om dagen.",
+      "kalla": {
+        "domän": "pagunette.no",
+        "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+      }
+    },
+    {
+      "text": "Ubehagelig rumklang i nybyggeri er et udbredt problem — smukke lag på lag gardiner forbedrer akustikken markant.",
+      "kalla": {
+        "domän": "pagunette.dk",
+        "url": "https://www.pagunette.dk/blog/gardiner-paa-maal"
+      }
+    },
+    {
+      "text": "Flere lag gardiner: et tyndt gardin som inderste lag filtrerer lyset flot og giver smukt lysindfald. Et kraftigere gardin yderst lukker mere lys ude og skaber en hyggelig stemning i rummet.",
+      "kalla": {
+        "domän": "pagunette.dk",
+        "url": "https://www.pagunette.dk/blog/gardiner-paa-maal"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [
+      {
+        "text": "Trustpilot-score for Pagunette.dk er 3,9 av 5 basert på 9 anmeldelser, med 89 % femstjernersanmeldelser.",
+        "kalla": {
+          "domän": "dk.trustpilot.com",
+          "url": "https://dk.trustpilot.com/review/pagunette.dk"
+        }
+      },
+      {
+        "text": "Hurtig levering og fri fragt nævnes positivt af flere anmeldere.",
+        "kalla": {
+          "domän": "dk.trustpilot.com",
+          "url": "https://dk.trustpilot.com/review/pagunette.dk"
+        }
+      }
+    ],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [
+      {
+        "text": "Dejlig pris og det smukke tæppe kom hurtigt! Fri fragt - hvem elsker ikke det. Tæppet er så flot og kvaliteten virker til at være rigtig god, vi er meget tilfredse :-)",
+        "kalla": {
+          "domän": "dk.trustpilot.com",
+          "url": "https://dk.trustpilot.com/review/pagunette.dk"
+        }
+      },
+      {
+        "text": "Perfekt :-) De lækreste varer. Var heldige at finde de fedeste pudebetræk på tilbud og ikke mindst en luxusplaid. Fri fragt og sød kundeservice. Ikke sidste gang, jeg handler hos Jer :-)",
+        "kalla": {
+          "domän": "dk.trustpilot.com",
+          "url": "https://dk.trustpilot.com/review/pagunette.dk"
+        }
+      },
+      {
+        "text": "Nu gjorde i det igen:) I får 5 store stjerner, for en fantastsik god handel. Hurtig levering; bestilt den 10 modtaget den 13. Jeg har modtaget det fedeste pyntepude betræk, for kun 49 kroner og fri fragt, det kan ikke gøres bedre:)",
+        "kalla": {
+          "domän": "dk.trustpilot.com",
+          "url": "https://dk.trustpilot.com/review/pagunette.dk"
+        }
+      },
+      {
+        "text": "Virkelig god oplevelse! Min kæreste og jeg bestilte et stort tæppe, som var nedsat til en skarp pris. Udover den skarpe pris var der gratis fragt og tæppet blev leveret til døren, nærmest næste dag. Derudover var der vedlagt slik, som en sød lille hilsen fra personalet. Kan klart anbefales 🙂!",
+        "kalla": {
+          "domän": "dk.trustpilot.com",
+          "url": "https://dk.trustpilot.com/review/pagunette.dk"
+        }
+      },
+      {
+        "text": "En flot hjemmeside med et flot udvalg af gardiner.",
+        "kalla": {
+          "domän": "dk.trustpilot.com",
+          "url": "https://dk.trustpilot.com/review/pagunette.dk"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga kundrecensioner hittades som specifikt handlar om den lysdämpande gardinen. Samtliga 9 Trustpilot-omdömen gäller Pagunette som varumärke generellt (tæpper, puder, kundservice) – inte gardiner specifikt. Inga produktrecensioner för lysdämpande gardiner påträffades i de 11 sökta källorna."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Lysdempende gardiner blokkerer det meste av lyset, men ikke 100 % — til forskjell fra mørkleggende som har lystett coating og blokkerer 100 %. Mørke farger blokkerer mest lys.",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      },
+      {
+        "text": "Pagunette sælger kun gardiner på mål via forhandlere — ikke direkte til forbruker for mål-sydd gardin. Krever besøk hos lokal forhandler for bestilling.",
+        "kalla": {
+          "domän": "pagunette.dk",
+          "url": "https://www.pagunette.dk/blog/gardiner-paa-maal"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga specifika klagomål eller vanliga problem med Pagunettes lysdämpande gardiner påträffades i de 11 sökta källorna. Trustpilot visar 11 % 1-stjärniga omdömen men texten för dessa negativa omdömen visas inte i det extraherade materialet."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Vores forhandlere er gardineksperter — de hjælper med valg af tekstiler, opmåling og montering. Over 350 forhandlere i Danmark.",
+        "kalla": {
+          "domän": "pagunette.dk",
+          "url": "https://www.pagunette.dk/blog/gardiner-paa-maal"
+        }
+      },
+      {
+        "text": "Vælg flere lag gardiner: et tyndt gardin som inderste lag filtrerer lyset flot. Et kraftigere gardin yderst lukker mere lys ude. Tunge tekstiler, som for eksempel velour, hjælper mod dårlig akustik.",
+        "kalla": {
+          "domän": "pagunette.dk",
+          "url": "https://www.pagunette.dk/blog/gardiner-paa-maal"
+        }
+      },
+      {
+        "text": "Man kan velge stoff som i seg selv er lysdempende, eller velge å fore et tekstil som ikke er lysdempende — to ulike tilnærminger for å oppnå lysdempende effekt.",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Liftgardiner leveres med alu-skinne/kassett med borrelås og monteringsbeslag. Valg mellom endeløs kjede/snor i hvit alu-kassett eller vanlig snortrekk med alu-skinne.",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Pagunette beskriver seg selv som en av Skandinaviens ledende leverantörer av kvalitetstextilier. Produkterna säljs enbart via fackhandlare som specialsyr gardiner på mått — en distributions- och produktionsmodell typisk för premiumsegmentet. Inga färdiga hyllenpriser för lysdämpande gardiner hittades i källorna, men måttsydd gardin med montage via fackhandel indikerar premium-positionering jämfört med konfektionsgardiner hos t.ex. Kid eller IKEA.",
+    "indikativa_priser": [],
+    "tomhetsanteckning": null
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Lysdempende gardin",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      },
+      {
+        "text": "Lysdæmpende (dansk stavning, brukt på B2B-sida och metervarer)",
+        "kalla": {
+          "domän": "b2b.pagunette.dk",
+          "url": "https://b2b.pagunette.dk/gardiner"
+        }
+      },
+      {
+        "text": "Ljusdämpande (svensk stavning)",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/startsida"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Dimout (brukt som stoffbetegnelse: Jacques RH Dimout, Sandra Dimout)",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      },
+      {
+        "text": "Mørkleggende gardin / mørklæringsgardin (nærliggende men distinkt: blokkerer 100 % vs. det meste av lyset)",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      },
+      {
+        "text": "Blackout (brukt om Athene Roomhigh - Blackout, men dette er mørkleggende, ikke lysdempende)",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Liftgardin / foldegardiner",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      },
+      {
+        "text": "Metervarer",
+        "kalla": {
+          "domän": "b2b.pagunette.dk",
+          "url": "https://b2b.pagunette.dk/gardiner"
+        }
+      },
+      {
+        "text": "Roomhigh (stofftype som dekker hele romhøyden)",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/startsida"
+        }
+      },
+      {
+        "text": "Multibånd (opphengsbånd for gardiner)",
+        "kalla": {
+          "domän": "afwigen.no",
+          "url": "https://afwigen.no/gardiner/pagunette-gardinhoyde-lys-bla"
+        }
+      },
+      {
+        "text": "Flammehæmmende (tilgrensende B2B-kategori)",
+        "kalla": {
+          "domän": "b2b.pagunette.dk",
+          "url": "https://b2b.pagunette.dk/gardiner"
+        }
+      },
+      {
+        "text": "Kovserringe / loungegardiner (andre gardintyper hos Pagunette)",
+        "kalla": {
+          "domän": "b2b.pagunette.dk",
+          "url": "https://b2b.pagunette.dk/gardiner"
+        }
+      },
+      {
+        "text": "Gardiner på mål / specialsyede gardiner",
+        "kalla": {
+          "domän": "pagunette.dk",
+          "url": "https://www.pagunette.dk/blog/gardiner-paa-maal"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Pagunette lysdempende",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      },
+      {
+        "text": "Pagunette dimout",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      },
+      {
+        "text": "Pagunette mørkleggende gardin",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      },
+      {
+        "text": "Pagunette ljusdämpande gardin",
+        "kalla": {
+          "domän": "pagunette.se",
+          "url": "https://www.pagunette.se/startsida"
+        }
+      },
+      {
+        "text": "Pagunette lysdæmpende gardin",
+        "kalla": {
+          "domän": "b2b.pagunette.dk",
+          "url": "https://b2b.pagunette.dk/gardiner"
+        }
+      },
+      {
+        "text": "Sunout gardin Pagunette",
+        "kalla": {
+          "domän": "pagunette.no",
+          "url": "https://www.pagunette.no/inspirasjon/gardintyper/lysdempende-gardiner"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:39:16.975Z"
+}

@@ -1,0 +1,447 @@
+{
+  "entity": "Fonstermiljo Angso korgmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo Angso korgmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo Angso korgmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Angso korgmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 15
+    },
+    {
+      "domain": "arcocrown.se",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "au.trustpilot.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 12
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 2,
+      "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/",
+      "domain": "arcocrown.se",
+      "title": "Hestra Ingvar - korgmarkis | Arco crown®",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 2138,
+      "fetchedAt": "2026-05-20T11:01:11.706Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.fonstermiljo.se/wp-content/uploads/2016/02/Produktblad_angso.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/fasadeprodukter.no",
+      "reason": "review-not-model-specific (model tokens [angso] absent in fetched text)"
+    },
+    {
+      "url": "https://au.trustpilot.com/review/www.moogio.se?page=3",
+      "reason": "review-not-model-specific (model tokens [angso] absent in fetched text)"
+    },
+    {
+      "url": "https://ca.trustpilot.com/review/hansohome.com?page=4",
+      "reason": "review-not-model-specific (model tokens [angso] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "arcocrown.se",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": null,
+    "kalla": null,
+    "kanal_typ": "saknas",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Korgmarkisen är en tidlös produkt som stänger ute solen åt alla håll. Mjuka, runda, omslutande former bryter av mot de raka fönstren och skapar harmoni.",
+      "kalla": {
+        "domän": "arcocrown.se",
+        "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+      }
+    },
+    {
+      "text": "Korgmarkisen förses med antingen klassisk tät markisväv, eller screenväv. Screenväven behåller utsikten och solen silas då istället genom den glesare vävda väven.",
+      "kalla": {
+        "domän": "arcocrown.se",
+        "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+      }
+    },
+    {
+      "text": "Korgmarkisen finns i en rad olika utföranden från klassisk, trappad, till böjd eller cylindrisk.",
+      "kalla": {
+        "domän": "arcocrown.se",
+        "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+      }
+    },
+    {
+      "text": "Maxbredd: 6.0 m, Utfall: 50 cm – 2.0 m, Profiler: Naturanodiserad, Manövrering: Linuppdrag eller motoriserad, Vindklass: 3 enligt EN13561, Kappa: Rak eller vågig.",
+      "kalla": {
+        "domän": "arcocrown.se",
+        "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+      }
+    },
+    {
+      "text": "Går att få som uppdragbar eller fast markis. Väljer du den som uppdragbar ingår manövrering med utvändig- eller invändig lina. Som tillval finns även motor.",
+      "kalla": {
+        "domän": "arcocrown.se",
+        "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+      }
+    },
+    {
+      "text": "Välj markisduk från Dickson, Sandatex och Soltis.",
+      "kalla": {
+        "domän": "arcocrown.se",
+        "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Solskydd som stänger ute solen åt alla håll – monteras vid fönster där de mjuka, runda formerna bryter av mot raka fönsterlinjer.",
+      "kalla": {
+        "domän": "arcocrown.se",
+        "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+      }
+    },
+    {
+      "text": "Screenväv som alternativ för den som vill behålla utsikten medan solen silas genom den glesare vävda väven.",
+      "kalla": {
+        "domän": "arcocrown.se",
+        "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundcitat hittade efter sökning på 1 källa. Källan är en återförsäljarsida utan kundrecensioner. Dessutom avser den sökta produkten 'Fonstermiljo Angso korgmarkis' medan den enda tillgängliga källan beskriver 'Hestra Ingvar korgmarkis' — en liknande men potentiellt annan produkt. Inga källor specifikt om Fönstermiljö Ängsö hittades."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Vindklass 3 enligt EN13561 – begränsar användningen vid starkare vindförhållanden.",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      },
+      {
+        "text": "Maxbredd 6.0 m och utfall 50 cm – 2.0 m begränsar möjliga dimensioner.",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga användarrapporter om problem eller olämpliga lägen hittade. Teknisk specifikation är hämtad från en liknande korgmarkisprodukt (Hestra Ingvar), inte specifikt Fönstermiljö Ängsö."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Välj mellan klassisk tät markisväv eller screenväv beroende på om utsikt eller total solblockering prioriteras.",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      },
+      {
+        "text": "Korgmarkisen kan fås som uppdragbar (med invändig eller utvändig lina) eller fast monterad. Motor finns som tillval för uppdragbar variant.",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [],
+    "tomhetsanteckning": "Begränsad återförsäljarkunskap tillgänglig – informationen baseras på en enda källa som beskriver en liknande korgmarkis (Hestra Ingvar), ej specifikt Fönstermiljö Ängsö."
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "Prisexempel för Hestra Ingvar korgmarkis 120×70 cm anges till 11 940 SEK (ordinarie) / 9 552 SEK (matchat pris). Detta ger en indikation om mellansegmentet för fönstermarkiser, men avser en liknande produkt – inte specifikt Fönstermiljö Ängsö.",
+    "indikativa_priser": [
+      {
+        "text": "Hestra Ingvar korgmarkis 120×70: SEK 11 940 ordinarie, SEK 9 552 matchat pris (datum ej angivet)",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "korgmarkis",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      },
+      {
+        "text": "fönstermarkis",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "solskydd",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "screenväv",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      },
+      {
+        "text": "markisväv",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      },
+      {
+        "text": "vindklass (EN13561)",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      },
+      {
+        "text": "naturanodiserad (profil)",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      },
+      {
+        "text": "linuppdrag",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      },
+      {
+        "text": "utfall",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Fönstermiljö Ängsö korgmarkis",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      },
+      {
+        "text": "korgmarkis fönster",
+        "kalla": {
+          "domän": "arcocrown.se",
+          "url": "https://arcocrown.se/produkter/fonstermarkiser/hestra-ingvar-korgmarkis/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:02:16.652Z"
+}

@@ -1,0 +1,1357 @@
+{
+  "entity": "Selt Corsica awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt Corsica awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Corsica awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Corsica awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Corsica awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Corsica awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Corsica awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Corsica awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Corsica awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Selt Corsica awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Corsica awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Corsica awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Corsica awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Corsica awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Corsica awning forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Corsica awning ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Corsica awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Corsica awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Corsica awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Corsica awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Corsica awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Corsica awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Corsica awning usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Corsica awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Corsica awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Corsica awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Corsica awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Corsica awning montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Corsica awning instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "zaluzie24.eu",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "prestigewindowssotogrande.com",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "issuu.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "selt.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "globalblinds.com.au",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "markizy-poznan.pl",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "eurol.pl",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "tomzal.pl",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "thespruce.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "issuu.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "seedfund.nsf.gov",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "nice.aeroport.fr",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "yumping.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "fivestaralliance.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "simpsontravel.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "filovent.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "holidoit.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "yachtcharter-dagen.de",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "quora.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "ukcampsite.co.uk",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "outandaboutlive.co.uk",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "forums.practicalcaravan.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "caravantalk.co.uk",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "electricscotland.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "swc50.org",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "digifind-it.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "ttabvue.uspto.gov",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "unesdoc.unesco.org",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "thegoodlifefrance.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "airbnb.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "carryonqueen.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "markhorrell.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "campingworld.co.uk",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "yelp.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "tripadvisor.co.uk",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "sciencedirect.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "corsica.co.uk",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "ceneo.pl",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "oknarolety.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "tomzal.pl",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "carolinaarts.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "northvillehistory.org",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "forum.freemdict.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "dopasujrolety.pl",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "libertydoorandawning.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "aladdininc.net",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "wholesalewarranties.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "carefreeofcolorado.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "vannuysawning.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "negative",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "rollac.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "negative",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "patioandgardenshading.co.uk",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "portal.311.nyc.gov",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "codelibrary.amlegal.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "zaluzie24.eu",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "markhorrell.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "osha.gov",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "charlottenc.gov",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "greenvillesc.gov",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "beaconny.gov",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "library.municode.com",
+      "category": "negative",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "tjsrv.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "specialisedcanvas.co.uk",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "zaluzi.lv",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "issuu.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "issuu.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "roamadventureco.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "tarucausa.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "thebushcompanyusa.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "lednorhome.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "hillarys.co.uk",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "solarsunshades.co.uk",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "awningsonline.co.uk",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "theoutdoorlivinggroup.com",
+      "category": "practical",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "practical",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "dopasujrolety.pl",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "eurol.pl",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/",
+      "domain": "shopsun.eu",
+      "title": "Installation of the Corsica Selt awning",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 3655,
+      "fetchedAt": "2026-05-20T11:13:40.646Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://markizes24.lv/Awnings-system-CORSICA",
+      "domain": "markizes24.lv",
+      "title": "Awnings CORSICA",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1859,
+      "fetchedAt": "2026-05-20T11:13:43.358Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://e-markizy.pl/montaz-markizy-corsica-selt/?srsltid=AfmBOoqh_fVzZgWdIJnwu-PFW7YZxhJEyj5pGNRCtjbVd0sQrFitC5kR",
+      "domain": "e-markizy.pl",
+      "title": "Montaż markizy Corsica Selt - od 2 do 5 uchwytów markizowych",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 4101,
+      "fetchedAt": "2026-05-20T11:13:46.037Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.ceneo.pl/30317888?srsltid=AfmBOooSaBwzSmhV2ylcC_iiS2Sg5F_89hpM5eiwHPPNsW-zSDr4wHw-",
+      "domain": "ceneo.pl",
+      "title": "Selt Corsica markiza tarasowa kasetowa 650x360cm - Opinie i ceny na Ceneo.pl",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 3636,
+      "fetchedAt": "2026-05-20T11:14:00.088Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html",
+      "domain": "archiexpo.com",
+      "title": "Box awning - CORSICA - Selt Sun Protection Systems - manual / commercial",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 4451,
+      "fetchedAt": "2026-05-20T11:14:03.009Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://issuu.com/alandeko_lv/docs/corsica",
+      "domain": "issuu.com",
+      "title": "SELT cassette awning CORSICA by alandeko_lv - Issuu",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:14:05.844Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://www.alandeko.lv/en/product/selt-kasetes-markizes-corsica-2/",
+      "domain": "alandeko.lv",
+      "title": "Cassette awning CORSICA | ALANDEKO",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:14:11.208Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://aluprof.com/files/downloads/8164184116_DT_E_CORSICA_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://plikiapi.selt.com/download/DTE%20markiza%20Corsica.pdf?nazwa=dokument/2958862116_DT_E_CORSICA.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://brevo.lt/wp-content/uploads/2023/06/Instrukcija-Corsica.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://allegro.pl/oferta/markiza-tarasowa-selt-corsica-490x160-naped-led-11621908782",
+      "reason": "no-text"
+    },
+    {
+      "url": "https://www.zaluzie24.eu/data/blob/shop_products-application_download-20150428090542-3557-corsica.pdf?srsltid=AfmBOoqb1ZwXu4FJCZXPAMl1ibkAOlMX_D9AKEAYIry7mwzv2n6Opfqx",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 0,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markizes24.lv",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "e-markizy.pl",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "ceneo.pl",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiexpo.com",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "issuu.com",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "alandeko.lv",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Corsica is an awning designed with the idea of shading modern terraces in mind. Its construction is made from extruded aluminium, which ensures strength and durability of the awning, and Flyer's chain used in the arms in connection with precisely made joints guarantees its long-term dependable operation. The cassette is supported by square bar providing stability for the whole construction while making the installation easier. Corsica was designed to provide the possibility of installing LED lighting which allows the user to fully enjoy pleasant summer evenings. This awning, thanks to its aesthetically pleasing design can, apart from shading from the sun, serve as a perfect decorative element of the building, highlighting its individual and unique character.",
+    "kalla": {
+      "domän": "markizes24.lv",
+      "url": "https://markizes24.lv/Awnings-system-CORSICA"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Construction made from extruded aluminium ensuring strength and durability",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CORSICA"
+      }
+    },
+    {
+      "text": "Arms with Flyer's chain mechanism in connection with precisely made joints guaranteeing long-term dependable operation",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CORSICA"
+      }
+    },
+    {
+      "text": "Cassette protects the fabric from weather conditions",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CORSICA"
+      }
+    },
+    {
+      "text": "Square joist (bar) facilitates the installation and provides stability for the whole construction",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CORSICA"
+      }
+    },
+    {
+      "text": "Possibility of using LED lighting in the lower cover panel allows for using the awning also in the evenings",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+      }
+    },
+    {
+      "text": "Maximum width: 7.0 m; maximum projection: 3.6 m",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+      }
+    },
+    {
+      "text": "Tilt angle: 5°–35°",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+      }
+    },
+    {
+      "text": "Fabric: 140 patterns available",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+      }
+    },
+    {
+      "text": "Electric drive: yes; manual drive: no",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+      }
+    },
+    {
+      "text": "Equipped with a fabric glider which facilitates rolling and uncoiling of the fabric, significantly reducing its wrinkling",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+      }
+    },
+    {
+      "text": "Massive connectors of the arm and the beam of the main awning allow the use of a large projection exceeding 3 meters",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+      }
+    },
+    {
+      "text": "RAL colour palette available",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Shading modern terraces — designed with this primary use in mind",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CORSICA"
+      }
+    },
+    {
+      "text": "Commercial market application (listed as 'commercial' market type)",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+      }
+    },
+    {
+      "text": "Evening terrace use enabled by optional LED lighting installation",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CORSICA"
+      }
+    },
+    {
+      "text": "Can be mounted on walls insulated with polystyrene up to 20 cm thickness using chemical anchor with rods — especially recommended for awnings with large projection e.g. 250 cm",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+      }
+    },
+    {
+      "text": "Decorative element of the building, highlighting its individual and unique character",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-system-CORSICA"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen hittade efter sökning på 7 källor. Ceneo.pl visar 1 betyg (5.0/5, 1 röst) men ingen skriven recensionstext återfinns i källmaterialet. Inga konsumentrecensioner, foruminlägg eller detaljerade kundutlåtanden finns tillgängliga i de genomsökta källorna."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "No manual drive option — electric drive only",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+        }
+      },
+      {
+        "text": "No valance included",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+        }
+      },
+      {
+        "text": "No optional hood available",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+        }
+      },
+      {
+        "text": "Depending on the width and outreach of the awning, its weight can even exceed 100 kg — requiring multiple people for installation",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "After mounting, an electrician must be called to connect the structure to the power supply and set the awning control (connection of the remote control with the control unit and possible sensors)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "Ceiling brackets and rafter brackets always require an additional charge",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga konsumentrapporterade problem hittade i källorna. Begränsningarna ovan är extraherade ur teknisk/installationsdokumentation, inte från klagomål."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "The awning is delivered fully assembled and adjusted — installation is limited to mounting the brackets to the wall (or ceiling/rafters), placing the awning on them, and securing with screws",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "Wall brackets are standard and painted to match the structure colour. Ceiling (2) and rafter (3) brackets are extras that join (twist) together with the wall bracket (1) to form one unit",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "When using a chemical anchor with rods, the awning can be mounted on polystyrene insulation without cutting holes — especially recommended for awnings with large projection e.g. 250 cm",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "The tilt angle can be freely adjusted as needed",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "The product is intended for self-assembly",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "The standard number of mounting brackets (from 2 to 5) depends on the width of the awning; more brackets can be ordered additionally if needed",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/montaz-markizy-corsica-selt/?srsltid=AfmBOoqh_fVzZgWdIJnwu-PFW7YZxhJEyj5pGNRCtjbVd0sQrFitC5kR"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Three mounting options: wall (standard), ceiling (extra charge), or roof rafter (extra charge). Ceiling and rafter brackets always match the number of wall brackets.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "Weight reference table (examples from source): width 2100-2900mm at 1600mm projection = 71 kg; width 6501-7000mm at 3600mm projection = 137.5 kg. Final weight varies with brackets, automation and accessories. Ceiling bracket adds 0.6 kg each, rafter bracket adds 2 kg each.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/montaz-markizy-corsica-selt/?srsltid=AfmBOoqh_fVzZgWdIJnwu-PFW7YZxhJEyj5pGNRCtjbVd0sQrFitC5kR"
+        }
+      },
+      {
+        "text": "Minimum projection 1600mm requires minimum width 2100mm; projection 2100mm requires minimum width 2600mm; projection 2600mm requires minimum width 3100mm; projection 3100mm requires minimum width 3600mm",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/montaz-markizy-corsica-selt/?srsltid=AfmBOoqh_fVzZgWdIJnwu-PFW7YZxhJEyj5pGNRCtjbVd0sQrFitC5kR"
+        }
+      },
+      {
+        "text": "After physical installation, an electrician is needed to connect the awning to power supply and configure the remote control with the control unit and possible sensors",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Starting price of 1,280 EUR (excl. tax) at Latvian reseller markizes24.lv, which is significantly higher than comparable non-cassette awnings from the same manufacturer (e.g. Australia from 750 EUR, Italia from 510 EUR). On ceneo.pl a 650x360cm configuration was listed (now sold out) as a cassette terrace awning in a price range well above budget folding-arm alternatives shown on the same page (178-699 PLN). The Corsica sits in the upper segment of Selt's own range, below only models like Casablanca (from 1,465 EUR).",
+    "indikativa_priser": [
+      {
+        "text": "Starting from 1,280.00 EUR (excl. tax: 1,057.85 EUR) at markizes24.lv — price depends on size, configuration and selected material",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-system-CORSICA"
+        }
+      },
+      {
+        "text": "Ceneo.pl listed a 650x360cm variant; last price shown as 0.00 PLN (sold out/unavailable)",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/30317888?srsltid=AfmBOooSaBwzSmhV2ylcC_iiS2Sg5F_89hpM5eiwHPPNsW-zSDr4wHw-"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Selt Corsica",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-system-CORSICA"
+        }
+      },
+      {
+        "text": "Box awning CORSICA",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "markiza tarasowa kasetowa (Polish: cassette terrace awning)",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/30317888?srsltid=AfmBOooSaBwzSmhV2ylcC_iiS2Sg5F_89hpM5eiwHPPNsW-zSDr4wHw-"
+        }
+      },
+      {
+        "text": "kasetes markīzes (Latvian: cassette awning)",
+        "kalla": {
+          "domän": "alandeko.lv",
+          "url": "https://www.alandeko.lv/en/product/selt-kasetes-markizes-corsica-2/"
+        }
+      },
+      {
+        "text": "Awnings system CORSICA",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-system-CORSICA"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Flyer's chain (arm chain mechanism)",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-system-CORSICA"
+        }
+      },
+      {
+        "text": "Cassette / box awning (full enclosure protecting fabric when retracted)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+        }
+      },
+      {
+        "text": "Fabric glider (ślizgacz tkaniny — reduces wrinkling during rolling/uncoiling)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "Square bar / square joist (belka kwadratowa — structural support element)",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-system-CORSICA"
+        }
+      },
+      {
+        "text": "Chemical anchor with rods (kotwa chemiczna z prętami — for polystyrene wall mounting)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "Projection / outreach (wysięg — horizontal extension distance of the awning)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/montaz-markizy-corsica-selt/?srsltid=AfmBOoqh_fVzZgWdIJnwu-PFW7YZxhJEyj5pGNRCtjbVd0sQrFitC5kR"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Selt Corsica awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-corsica-selt-awning/"
+        }
+      },
+      {
+        "text": "Corsica Selt markiza",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/montaz-markizy-corsica-selt/?srsltid=AfmBOoqh_fVzZgWdIJnwu-PFW7YZxhJEyj5pGNRCtjbVd0sQrFitC5kR"
+        }
+      },
+      {
+        "text": "Selt Sun Protection Systems CORSICA",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+        }
+      },
+      {
+        "text": "CORSICA box awning",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1754335.html"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:15:49.677Z"
+}

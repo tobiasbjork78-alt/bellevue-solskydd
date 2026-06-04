@@ -1,0 +1,1372 @@
+{
+  "entity": "Selt Palladio awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt Palladio awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Palladio awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Palladio awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Palladio awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Palladio awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Palladio awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Palladio awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Palladio awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Selt Palladio awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Palladio awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Palladio awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Palladio awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Palladio awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Palladio awning forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Palladio awning ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Palladio awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Palladio awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Palladio awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Palladio awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Palladio awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Palladio awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Palladio awning usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Palladio awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Palladio awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Palladio awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Palladio awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Palladio awning montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Palladio awning instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "selt.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 5
+    },
+    {
+      "domain": "issuu.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "bcbsystems.co.uk",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "slpro.lv",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 3
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "archipro.com.au",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "eboss.co.nz",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "architekturaibiznes.pl",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "vertico.pl",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "skalmar.pl",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "architekturaibiznes.pl",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "thespruce.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "sunsetter.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "ie.trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "issuu.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "rigbys.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "ggf.org.uk",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "outofoffice.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "quora.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "letdesignlighting.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "spinney.co.uk",
+      "category": "reviews",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "houzz.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "5thwheelforums.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "airforums.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "pistonheads.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "keystoneforums.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "magpergole.pl",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "markizy-opole.pl",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "ceneo.pl",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "oslonymielczarek.pl",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "jeepgladiatorforum.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "eggheadforum.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "oknarolety.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "dopasujrolety.pl",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "dotorzeszow.pl",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "atlantic-awning.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "mobilervtechservices.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "slpro.lv",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "awningsdeckspatios.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "wholesalewarranties.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "awningsell.com",
+      "category": "negative",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "issuu.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "bcbsystems.co.uk",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "archipro.com.au",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "architekturaibiznes.pl",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "pikeawning.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "portal.311.nyc.gov",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "libertydoorandawning.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "cflawnings.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "kmproject.net",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "magdalena24.pl",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "skalmar.pl",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "selt.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "slpro.lv",
+      "category": "practical",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "practical",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 5
+    },
+    {
+      "domain": "issuu.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "static1.squarespace.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "media.diy.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "bcbsystems.co.uk",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "architekturaibiznes.pl",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "rigbys.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "practical",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "vertico.pl",
+      "category": "practical",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "magdalena24.pl",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "metrol.radom.pl",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://shopsun.eu/installation-of-the-palladio/",
+      "domain": "shopsun.eu",
+      "title": "Installation of the Palladio Selt awning",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 4428,
+      "fetchedAt": "2026-05-20T11:23:00.305Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://issuu.com/alandeko_lv/docs/palladio",
+      "domain": "issuu.com",
+      "title": "SELT PALLADIO Semi cassette awning by alandeko_lv - Issuu",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:23:08.049Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://brevo.lt/en/product/terrace-awning-palladio/",
+      "domain": "brevo.lt",
+      "title": "Terrace awning Palladio - brevo.lt",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 5270,
+      "fetchedAt": "2026-05-20T11:23:11.141Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html",
+      "domain": "archiexpo.com",
+      "title": "Box awning - PALLADIO - Selt Sun Protection Systems - manual",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 4490,
+      "fetchedAt": "2026-05-20T11:23:14.146Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.manualslib.com/products/Selt-Palladio-13452663.html",
+      "domain": "manualslib.com",
+      "title": "Selt PALLADIO Manuals | ManualsLib",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 4013,
+      "fetchedAt": "2026-05-20T11:23:17.160Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://pikeawning.com/5-common-awning-problems-and-how-to-fix-them/",
+      "domain": "pikeawning.com",
+      "title": "5 Common Awning Problems and How to Fix Them – Pike Awning Inc. | Quality Awnings and Canopies",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 1680,
+      "fetchedAt": "2026-05-20T11:23:21.276Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ",
+      "domain": "e-markizy.pl",
+      "title": "Markiza tarasowa Palladio Selt do 7 m szerokości! Najlepsza!",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:23:26.185Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://bcbsystems.co.uk/palladio-awning/",
+      "domain": "bcbsystems.co.uk",
+      "title": "PALLADIO AWNING – BCB Systems",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:23:58.798Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://plikiapi.selt.com/download/Technical%20&%20installation%20document%20Palladio.pdf?nazwa=dokument/5935607115_DT_E_PALLADIO_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.slpro.lv/content/files/Markizes/ST%20Palladio.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/retractableawnings.com",
+      "reason": "review-not-model-specific (model tokens [palladio] absent in fetched text)"
+    },
+    {
+      "url": "https://allegro.pl/produkt/markiza-balkonowa-tarasowa-470-x-310-cm-wielokolorowy-d1daab11-dc86-4d61-97de-45725d8a5aa3",
+      "reason": "no-text"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 0,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "issuu.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "brevo.lt",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiexpo.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "manualslib.com",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "pikeawning.com",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "e-markizy.pl",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "bcbsystems.co.uk",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Palladio is an elegant cassette awning that looks excellent on terraces. The special arm bracket construction enables lifting the arms and closing the front bar tightly on the cassette, thus covering the rolled-up fabric. A plate link chain applied in the arms and precisely made articulated joints guarantee long-term dependable operation of the awning. Elastic supports for the roller tube ensure even tension of the fabric. Palladio combines the characteristics of a cassette awning and a square beam-based construction. Such solution allows us to fully take advantage of cassette awning functionality and simplifies its installation. The construction of the awning is powder lacquered in white, graphite, silver with graphite finishing, beige, and brown.",
+    "kalla": {
+      "domän": "archiexpo.com",
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Construction made from extruded aluminium",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+      }
+    },
+    {
+      "text": "Flyer's chain system in the arms – durability of the folded arms is increased by the Flyer's chain system, which guarantees their stable operation even in the case of wide awnings with big projection",
+      "kalla": {
+        "domän": "brevo.lt",
+        "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+      }
+    },
+    {
+      "text": "Semi-cassette protects the fabric against adverse weather conditions; the front bar closes tightly on the cassette covering the rolled-up fabric",
+      "kalla": {
+        "domän": "bcbsystems.co.uk",
+        "url": "https://bcbsystems.co.uk/palladio-awning/"
+      }
+    },
+    {
+      "text": "Additionally strengthened cassette; supporting square bar facilitates installation",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+      }
+    },
+    {
+      "text": "Tilt angle adjustable 5°–50° (smooth adjustment to individual needs)",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+      }
+    },
+    {
+      "text": "Maximum width: 7.0 m; maximum projection: 3.6 m",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+      }
+    },
+    {
+      "text": "Powder-lacquered construction available in white, graphite, silver with graphite finishing, beige, and brown",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+      }
+    },
+    {
+      "text": "Elastic supports for the roller tube ensure even tension of the fabric",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+      }
+    },
+    {
+      "text": "Possibility of using overlapping arms",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+      }
+    },
+    {
+      "text": "140 fabric patterns available; 100% acrylic fibre dyed in chemical solution with Teflon impregnation for high durability and weather resistance",
+      "kalla": {
+        "domän": "brevo.lt",
+        "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+      }
+    },
+    {
+      "text": "Valance options: Valance C (regular sine wave edge, max height 40 cm), Valance D, and Valance E",
+      "kalla": {
+        "domän": "brevo.lt",
+        "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+      }
+    },
+    {
+      "text": "0-2 class of wind resistance – construction resistant to wind (from <28 km/h up to 38 km/h)",
+      "kalla": {
+        "domän": "brevo.lt",
+        "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+      }
+    },
+    {
+      "text": "Optional telescopic front bar supports that increase the wind resistance of the system",
+      "kalla": {
+        "domän": "brevo.lt",
+        "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+      }
+    },
+    {
+      "text": "Smart Home system connectivity and weather automation possibility with electric drive",
+      "kalla": {
+        "domän": "brevo.lt",
+        "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+      }
+    },
+    {
+      "text": "Optional LED lighting (cold and warm tones), wind sensors, vibration sensor (wind protection), smartphone control",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+      }
+    },
+    {
+      "text": "Rounded sides and front of the awning blend harmoniously with the facade of the building",
+      "kalla": {
+        "domän": "brevo.lt",
+        "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Terrace sun protection – described as a 'popular terrace awning' suitable for covering even large terraces given max width 7 m and max projection 3.6 m",
+      "kalla": {
+        "domän": "bcbsystems.co.uk",
+        "url": "https://bcbsystems.co.uk/palladio-awning/"
+      }
+    },
+    {
+      "text": "Wall mounting (standard), ceiling mounting (optional bracket), or roof rafter mounting (optional bracket) – allowing installation flexibility for different building configurations",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/installation-of-the-palladio/"
+      }
+    },
+    {
+      "text": "Can be mounted on walls insulated with polystyrene up to 20 cm thickness using chemical anchors with rods – especially recommended for awnings with long projection e.g. 250 cm",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/installation-of-the-palladio/"
+      }
+    },
+    {
+      "text": "Self-assembly product – the awning is delivered fully screwed and adjusted; installation is limited to mounting the brackets",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/installation-of-the-palladio/"
+      }
+    },
+    {
+      "text": "Described as a bestseller among all models in the e-markizy.pl range (Polish retailer context)",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundomdömen hittade efter sökning på 8 källor. Brevo.lt review section states 'Atsiliepimų dar nėra' (no reviews yet). No other source contained customer reviews or testimonials for this specific product."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Wind resistance class 0-2, meaning rated for wind speeds from <28 km/h up to 38 km/h only",
+        "kalla": {
+          "domän": "brevo.lt",
+          "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+        }
+      },
+      {
+        "text": "Semi-cassette design – after folding, the folded arms remain visible under the front bar (not a full-cassette enclosure)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+        }
+      },
+      {
+        "text": "Maximum projection limited to 3.6 m",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+        }
+      },
+      {
+        "text": "Ceiling brackets and roof rafter brackets are not included as standard and require an additional charge",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "General awning issue: Fabric may fade, tear, or develop mildew over time; small tears repairable with patch kit, extensive damage requires fabric replacement",
+        "kalla": {
+          "domän": "pikeawning.com",
+          "url": "https://pikeawning.com/5-common-awning-problems-and-how-to-fix-them/"
+        }
+      },
+      {
+        "text": "General awning issue: Retractable awning may get stuck or have difficult retraction due to dirt buildup or mechanical issues in moving parts",
+        "kalla": {
+          "domän": "pikeawning.com",
+          "url": "https://pikeawning.com/5-common-awning-problems-and-how-to-fix-them/"
+        }
+      },
+      {
+        "text": "General awning issue: Water pooling on fabric during heavy rain can cause sagging or damage; appropriate tilt angle and bringing in retractable awnings during storms is recommended",
+        "kalla": {
+          "domän": "pikeawning.com",
+          "url": "https://pikeawning.com/5-common-awning-problems-and-how-to-fix-them/"
+        }
+      },
+      {
+        "text": "General awning issue: Strong winds or impact can bend or break awning frames; regular inspection and bolt tightening needed",
+        "kalla": {
+          "domän": "pikeawning.com",
+          "url": "https://pikeawning.com/5-common-awning-problems-and-how-to-fix-them/"
+        }
+      },
+      {
+        "text": "General awning issue: Damp conditions can cause mold or mildew; retractable awnings should be stored properly to avoid moisture buildup",
+        "kalla": {
+          "domän": "pikeawning.com",
+          "url": "https://pikeawning.com/5-common-awning-problems-and-how-to-fix-them/"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Not suitable for high-wind environments beyond class 2 (38 km/h) without additional telescopic supports",
+        "kalla": {
+          "domän": "brevo.lt",
+          "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "The awning is delivered fully screwed and adjusted – installation is limited to mounting the brackets to the wall/ceiling/rafter",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      },
+      {
+        "text": "When using chemical anchors with rods, the awning can be easily mounted on polystyrene insulation without cutting holes, even up to 20 cm thickness",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      },
+      {
+        "text": "Wall bracket is mounted to the main beam and must be secured with a counter screw to prevent the awning from sliding out; rectangular plugs are used for aesthetics where the counter screw is visible",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      },
+      {
+        "text": "The rafter bracket can be screwed to the side of the wooden roof beam or, depending on thickness, drilled through and screwed together with four screws",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      },
+      {
+        "text": "Telescopic supports are particularly well suited with manual drive (as additional front bar support)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+        }
+      },
+      {
+        "text": "The standard number of mounting brackets ranges from 2 to 5 depending on the awning width; more brackets can be used if needed. The manufacturer sets a standard number for given dimensions.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Three mounting options: (1) wall brackets (standard, included), (2) ceiling brackets (additional charge, screwed together with wall bracket to form one unit), (3) roof rafter brackets (additional charge, screwed together with wall bracket to form one unit)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      },
+      {
+        "text": "Number of ceiling/rafter brackets always matches the number of wall brackets",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      },
+      {
+        "text": "Brackets are painted in the same color as the construction",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      },
+      {
+        "text": "Full installation manual available (28 pages) covering wall, ceiling, and rafter bracket installation, electric and manual drive setup, start-up and adjustment procedures",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/products/Selt-Palladio-13452663.html"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "The Palladio is positioned in the mid-range within the Selt lineup. At brevo.lt it starts from €1,051.20 (with VAT, after 10% discount) which places it above budget models like Italia (€510 excl. tax on ArchiExpo) but below models like Corsica (from €1,516.50) and Casablanca (€1,400 excl. tax). The Polish retailer e-markizy.pl lists a base price of 3,008 PLN (approximately €700). It is described as the most popular cassette awning model (bestseller), suggesting a strong value proposition in the mid-segment.",
+    "indikativa_priser": [
+      {
+        "text": "From €1,051.20 with VAT (after -10% discount), brevo.lt, Lithuania",
+        "kalla": {
+          "domän": "brevo.lt",
+          "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+        }
+      },
+      {
+        "text": "3,008.00 PLN (base price), e-markizy.pl, Poland",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Selt Palladio",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+        }
+      },
+      {
+        "text": "Palladio awning",
+        "kalla": {
+          "domän": "bcbsystems.co.uk",
+          "url": "https://bcbsystems.co.uk/palladio-awning/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Markiza Tarasowa Palladio (Polish: terrace awning Palladio)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+        }
+      },
+      {
+        "text": "Terasinė markizė Palladio (Lithuanian: terrace awning Palladio)",
+        "kalla": {
+          "domän": "brevo.lt",
+          "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+        }
+      },
+      {
+        "text": "Terrace awning Palladio",
+        "kalla": {
+          "domän": "brevo.lt",
+          "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Box awning / cassette awning / semi-cassette",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+        }
+      },
+      {
+        "text": "Flyer's chain (plate link chain in folding arms)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+        }
+      },
+      {
+        "text": "Folding-arm awning / retractable awning",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+        }
+      },
+      {
+        "text": "Valance (falbana) – decorative lower fabric edge",
+        "kalla": {
+          "domän": "brevo.lt",
+          "url": "https://brevo.lt/en/product/terrace-awning-palladio/"
+        }
+      },
+      {
+        "text": "Projection / wysięg (arm extension distance from wall)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+        }
+      },
+      {
+        "text": "Powder lacquered / lakierowana techniką proszkową (coating method for the aluminium structure)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+        }
+      },
+      {
+        "text": "Chemical anchor with rods (mounting method for insulated walls)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Selt Palladio markizy",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+        }
+      },
+      {
+        "text": "Palladio Selt awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/installation-of-the-palladio/"
+        }
+      },
+      {
+        "text": "Selt terrace awning",
+        "kalla": {
+          "domän": "bcbsystems.co.uk",
+          "url": "https://bcbsystems.co.uk/palladio-awning/"
+        }
+      },
+      {
+        "text": "Selt cassette awning",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393997.html"
+        }
+      },
+      {
+        "text": "Markiza w pełnej kasecie Palladio",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-palladio/?srsltid=AfmBOoryEES-d08yTlLIKDZzKnRBnPItxZdbTbRMekmEQUG1JKueazxZ"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:25:37.481Z"
+}

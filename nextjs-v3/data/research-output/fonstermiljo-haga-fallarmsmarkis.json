@@ -1,0 +1,904 @@
+{
+  "entity": "Fonstermiljo Haga fallarmsmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo Haga fallarmsmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Haga fallarmsmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "jkpgmarkiser.se",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "calameo.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "miljoma.se",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "fischerblinds.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "hagasolskydd.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "jkpgmarkiser.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "calameo.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "reco.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "miljoma.se",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "byggahus.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "au.trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "uk.trustpilot.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "byggahus.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "hagasolskydd.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "hagasolskydd.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "jkpgmarkiser.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "calameo.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "miljoma.se",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://fonstermiljo.se/produkter/haga/",
+      "domain": "fonstermiljo.se",
+      "title": "Haga – Fönstermiljö i Laholm",
+      "category": "manufacturer",
+      "isManufacturer": true,
+      "textLength": 1438,
+      "fetchedAt": "2026-05-20T10:55:57.678Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://hagasolskydd.se/",
+      "domain": "hagasolskydd.se",
+      "title": "Haga Solskydd - Måttanpassade markiser, gardiner och persienner i Stockholm",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:56:17.600Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.byggahus.se/forum/threads/fonstermarkis-for-varmen.520075/",
+      "domain": "byggahus.se",
+      "title": "Fönstermarkis för värmen | Byggahus.se",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:56:20.659Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6",
+      "domain": "jkpgmarkiser.se",
+      "title": "Haga Fönstermarkis - Fönstermiljö | Jkpgmarkiser.se",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 2466,
+      "fetchedAt": "2026-05-20T10:56:25.621Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.calameo.com/books/008178187162c5c5de341",
+      "domain": "calameo.com",
+      "title": "Calaméo - Föntermiljö produktkatalog 2026",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:56:28.769Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.reco.se/haga-solskydd-ab",
+      "domain": "reco.se",
+      "title": "Haga Solskydd AB, Johanneshov - Omdömen hos Reco.se",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 6931,
+      "fetchedAt": "2026-05-20T10:56:46.206Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://miljoma.se/catalog/groups/markiser-for-fonster",
+      "domain": "miljoma.se",
+      "title": "Markiser för fönster",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:57:05.951Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://fischerblinds.com/sv/produkter/markiser/fallarmsmarkis/",
+      "domain": "fischerblinds.com",
+      "title": "Fallarmsmarkis | FISCHER INTERNATIONAL",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:57:08.893Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.trustpilot.com/review/markslojd.com",
+      "reason": "review-not-model-specific (model tokens [haga] absent in fetched text)"
+    },
+    {
+      "url": "https://fonstersolskydd.se/wp-content/uploads/2022/08/Produktblad_Haga.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://au.trustpilot.com/review/www.moogio.se?page=2",
+      "reason": "review-not-model-specific (model tokens [haga] absent in fetched text)"
+    },
+    {
+      "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/",
+      "reason": "review-not-model-specific (model tokens [haga] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [
+      "fonstermiljo.se"
+    ],
+    "candidates": [
+      {
+        "domain": "fonstermiljo.se",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "hagasolskydd.se",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "byggahus.se",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "jkpgmarkiser.se",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "calameo.com",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "reco.se",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "miljoma.se",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "fischerblinds.com",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "HAGA fönstermarkis med kassettlåda som skyddar markisduken mot väta och smuts när den är inrullad. Haga manövreras inifrån eller utifrån med band, med motor eller utifrån manuellt med vev. Lämplig för mindre till medelstora fönster och fönsterpartier upp till 4,2 meter. Mycket lämplig att seriekoppla till större längder – upp till 12 meter vid motordrift. Tillbehör som nischkonsoler är justerbara i djupled och underlättar vid montage på stenfasader och liknande.",
+    "kalla": {
+      "domän": "fonstermiljo.se",
+      "url": "https://fonstermiljo.se/produkter/haga/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Kassettlåda som skyddar markisduken mot väta och smuts när den är inrullad.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    },
+    {
+      "text": "Kan manövreras inifrån eller utifrån med band, med motor eller utifrån manuellt med vev.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    },
+    {
+      "text": "Seriekopplas till större längder – upp till 12 meter vid motordrift.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    },
+    {
+      "text": "Nischkonsoler justerbara i djupled, underlättar vid montage på stenfasader och liknande.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    },
+    {
+      "text": "Stativet består av naturanodiserade strängpressade aluminiumprofiler med detaljer i pulverlackerat stål och pressgjutet aluminium. Skruvar och axlar är av rostfritt alt förzinkat stål.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    },
+    {
+      "text": "Armarna är försedda med inbyggda fjädrar.",
+      "kalla": {
+        "domän": "jkpgmarkiser.se",
+        "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+      }
+    },
+    {
+      "text": "Markisväven är av 100% spinnfärgad acryl från Europas ledande väverier.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    },
+    {
+      "text": "Lackerade detaljer är vita eller gråa som standard, men kan liksom stativet i övrigt, speciallackeras i valfri RAL-kulör.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    },
+    {
+      "text": "Max bredd 420 cm vid motordrift, max bredd 375 cm vid dragband. Max utfall 90 cm vid motordrift, max utfall 120 cm vid dragband.",
+      "kalla": {
+        "domän": "jkpgmarkiser.se",
+        "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+      }
+    },
+    {
+      "text": "Stativfärger: Vit, Svart, Natur/Vit, Natur/Grå, Speciallack.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Lämplig för mindre till medelstora fönster och fönsterpartier upp till 4,2 meter.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    },
+    {
+      "text": "Mycket lämplig att seriekoppla till större längder – upp till 12 meter vid motordrift.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    },
+    {
+      "text": "En fönstermarkis skyddar mycket effektivt värmen från solens strålar att komma in genom fönstret. Rummet innanför får en behagligare temperatur och markisen förhindrar blekning såväl som bländning.",
+      "kalla": {
+        "domän": "miljoma.se",
+        "url": "https://miljoma.se/catalog/groups/markiser-for-fonster"
+      }
+    },
+    {
+      "text": "Montage på stenfasader och liknande underlättas med nischkonsoler som är justerbara i djupled.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/haga/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [
+      {
+        "text": "Återkommande nöjdhet med bemötande, service och proffsig montering framgår i flertalet omdömen om återförsäljaren Haga Solskydd (4.8 snittbetyg på 32 omdömen). Notera: omdömena gäller Haga Solskydd AB som återförsäljare/installatör, inte specifikt produkten Haga fallarmsmarkis.",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      },
+      {
+        "text": "Kund nämner att hen blivit uppringd efter första säsongen då man frågade om allt fungerat bra och påminde om byte av batteri till vindsensorn – uppskattad uppföljning.",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      }
+    ],
+    "aterkommande_klagomal": [
+      {
+        "text": "Ett okontrollerat negativt omdöme om Haga Solskydd beskriver en markis installerad 2014 där en lokal firma bedömde monteringen som 'felmonterat (fuskjobb), för få väggfästen samt för klena skruv'. Kunden upplevde att företaget inte stod för sin montering.",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      },
+      {
+        "text": "En kund noterar: 'Dock har vi bara haft markisen uppsatt i ett år så svårt att avgöra kvalitet.' – indikerar osäkerhet kring långsiktig hållbarhet.",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      }
+    ],
+    "kundsprak_citat": [
+      {
+        "text": "\"Jag kan verkligen rekommendera Haga Solskydd. Från första kontakt till installation var de väldigt proffsiga och snabba. Dessutom var de betydligt billigare än ett annat företag vi kontaktade.\" — Christian",
+        "kalla": {
+          "domän": "hagasolskydd.se",
+          "url": "https://hagasolskydd.se/"
+        }
+      },
+      {
+        "text": "\"Köpte markis till vårt fritidshus och upplevde en smidig process från början till slut. Det gick snabbt att boka besök och få offert och markisen blev klar och installerad inom tiden som angivits. Trevligt bemötande och bra rådgivning hela vägen. Uppskattade även att bli uppringd efter första säsongen då man frågade om allt fungerat bra och påminde om byte av batteri till vindsensorn.\"",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      },
+      {
+        "text": "\"Vi är extremt nöjda, både vid köpet för fem år sedan och nu vid reparation. Haga Solskydd är väldigt tillmötesgående, har hög servicenivå och serviceanda..! Stort tack till Viktor och andra inblandade för suverän hantering av vårt ärende!\"",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      },
+      {
+        "text": "\"Trevligt bemötande, snabb leverans och bra pris i jämförelse med många andra. Dock har vi bara haft markisen uppsatt i ett år så svårt att avgöra kvalitet. Men överlag så är vi nöjda.\"",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      },
+      {
+        "text": "\"Snabb och proffsig leverans!\"",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      },
+      {
+        "text": "\"Lyhörda, snabba och flexibla. Grymt bra!\"",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      },
+      {
+        "text": "\"Alla som hinner att läsa detta innan nån tar bort det, kommer att fatta vilken opålitlig firma Haga Solskydd är som inte står för monteringarna som de utför! Jag flyttade in i en bostadsrätt som jag köpt och där fanns en markis som var installerad av Haga solskydd 2014. Ringde en lokal firma för att ett väggfäste hade börjat att släppa. När de kom och tittade på detta så sa dom direkt att detta är felmonterat (fuskjobb), för få väggfästen samt för klena skruv var deras kommentar.\"",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Samtliga omdömen ovan gäller återförsäljaren/installatören Haga Solskydd AB i Stockholm, inte specifikt produkten Fönstermiljö Haga fallarmsmarkis. Inga produktspecifika konsumentomdömen om själva markismodellen hittades efter sökning på 8 källor."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Max bredd 375 cm vid dragband (420 cm vid motordrift). Max utfall 120 cm vid dragband (90 cm vid motordrift).",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      },
+      {
+        "text": "Följande funktioner finns ej: Invändig vev, Stödben, Dukdelning, Takstolskonsoll ställbar, Teleskopstag.",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      },
+      {
+        "text": "Maxutfallet minskar från 120 cm till 90 cm vid motordrift.",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Ett omdöme rapporterar att väggfästen börjat släppa och att en extern firma bedömde monteringen som utförd med för få fästen och för klena skruvar (gäller installation utförd 2014 av en återförsäljare, ej nödvändigtvis produktfel).",
+        "kalla": {
+          "domän": "reco.se",
+          "url": "https://www.reco.se/haga-solskydd-ab"
+        }
+      }
+    ],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Fönstermiljö i Laholm AB: 'Ingen markis serietillverkas, utan varje order är unik.' Innebär att varje markis måttbeställs.",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      },
+      {
+        "text": "Nischkonsoler justerbara i djupled underlättar vid montage på stenfasader och liknande – specifikt tillbehör att rekommendera vid putsade/murade fasader.",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Haga Solskydd erbjuder 3 års trygghetsgaranti; om något inte fungerar utför de reparationer på plats kostnadsfritt. De lagar även äldre solskydd.",
+        "kalla": {
+          "domän": "hagasolskydd.se",
+          "url": "https://hagasolskydd.se/"
+        }
+      },
+      {
+        "text": "Fönstermiljö i Laholm: 'Tack vare att vi jobbar med stabila leverantörer och tillverkar allt på vår anläggning i Laholm, är våra korta leveranstider något vi är stolta över.'",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Monteringsanvisning finns tillgänglig för nedladdning från tillverkarens produktsida.",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Tillbehör för montering inkluderar nischkonsoll (tillval), seriekoppling (tillval) och sidoförskjutning band (tillval).",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "okand",
+    "motivation": "Inga priser anges i någon av de 8 genomsökta källorna. Produkten säljs via återförsäljare med offert efter hembesök/mätning, vilket indikerar måttbeställd karaktär men ger ingen prisindikation.",
+    "indikativa_priser": []
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Fallarmsmarkis",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Fönstermarkis",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "HAGA fönstermarkis",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Haga Fönstermarkis - Fönstermiljö",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Kassettlåda",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Seriekoppling",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Nischkonsoll",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Snäckväxel & vev",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      },
+      {
+        "text": "Spinnfärgad acryl",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Naturanodiserade strängpressade aluminiumprofiler",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Banduppsamlare",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      },
+      {
+        "text": "Dragband",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "Markiser för fönster",
+        "kalla": {
+          "domän": "miljoma.se",
+          "url": "https://miljoma.se/catalog/groups/markiser-for-fonster"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Fönstermiljö Haga",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      },
+      {
+        "text": "Haga fallarmsmarkis",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/haga/"
+        }
+      },
+      {
+        "text": "fonstermarkis",
+        "kalla": {
+          "domän": "jkpgmarkiser.se",
+          "url": "https://www.jkpgmarkiser.se/product-page/haga-f%C3%B6nstermarkis-f%C3%B6nstermilj%C3%B6"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:58:47.425Z"
+}

@@ -1,0 +1,1253 @@
+{
+  "entity": "Harol PRAIA folding arm awning",
+  "brand": "harol",
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Harol PRAIA folding arm awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning caractéristiques techniques",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Harol PRAIA folding arm awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning avis",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning forum expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning problème",
+      "category": "negative"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning inconvénient",
+      "category": "negative"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning défaut",
+      "category": "negative"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Harol PRAIA folding arm awning montage",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "harol.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "shadesystems.com.au",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "orestads-solskydd.se",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 3
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "shadesystems.com.au",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "issuu.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "envirapest.com.au",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "yumpu.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "nlp.biu.ac.il",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "choice.community",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "forum.homeone.com.au",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "forums.whirlpool.net.au",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "raw.githubusercontent.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "richesmi.cah.ucf.edu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "documents.worldbank.org",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "mit.edu",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "trove.nla.gov.au",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "inf.uni-hamburg.de",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "calameo.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "worldradiohistory.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "passwortcheck.ch",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "cgit.freebsd.org",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "wholesalewarranties.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "pikeawning.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "aladdininc.net",
+      "category": "negative",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "cflawnings.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "vannuysawning.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "shadesystems.com.au",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "helioscreen.com.au",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "rollac.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "aalta.com.au",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "luvifem.nl",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "lippert.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "libertydoorandawning.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "justanswer.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "jaycoowners.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "sunsolutions1.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "awningwarehouse.co.za",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "americanawningabc.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "jansawnings.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "superiorawning.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "azawning.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "dickson-constant.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 15
+    },
+    {
+      "domain": "halfpriceblinds.com.au",
+      "category": "practical",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "media.adeo.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "indooroutdoor.com.au",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "rollupawnings.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "additionsbybh.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "atlantic-awning.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "americanawningabc.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "undercoverblinds.com.au",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 3
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/",
+      "domain": "harol.com",
+      "title": "Folding arm awning Praia – Ultramodern awning | Harol",
+      "category": "practical",
+      "isManufacturer": true,
+      "textLength": 4961,
+      "fetchedAt": "2026-05-20T11:08:42.356Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://www.archiproducts.com/en/harol/products/categories_awnings?srsltid=AfmBOorwcDcdNmqxOYsspVaFTnOY9evw60fwaO2z03ggHbjgj636qJ_s",
+      "domain": "archiproducts.com",
+      "title": "Awnings by Harol | For outdoor use, motorized | Archiproducts",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 2089,
+      "fetchedAt": "2026-05-20T11:08:45.220Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/",
+      "domain": "zenronline.eu",
+      "title": "HAROL: ‘Launching the Praia, Cadiz and Lux articulated awnings’",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 5439,
+      "fetchedAt": "2026-05-20T11:08:47.944Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://cflawnings.com/awning-repair-5-common-problems-you-can-fix-yourself/",
+      "domain": "cflawnings.com",
+      "title": "DIY Awning Repair: 5 Problems You Can Fix Yourself",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:08:51.320Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/",
+      "domain": "luvifem.nl",
+      "title": "Repairing a folding arm awning? Solving the most common problems",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 4516,
+      "fetchedAt": "2026-05-20T11:08:55.056Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.lifestyleawnings.com.au/product/harol-bx270-cassette-folding-arm-awning/",
+      "domain": "lifestyleawnings.com.au",
+      "title": "Harol BX270 Cassette Folding Arm awning - Lifestyle Awnings",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 4313,
+      "fetchedAt": "2026-05-20T11:08:59.970Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://choice.community/t/folding-arm-awnings/25362",
+      "domain": "choice.community",
+      "title": "Folding Arm Awnings - Home Improvement - Community",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 3647,
+      "fetchedAt": "2026-05-20T11:09:03.925Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://halfpriceblinds.com.au/pages/learn-how-to-install-folding-arm-awning?srsltid=AfmBOopwQMmfNuwLk0Ezx88jLyORu1_7UwGCmG6chXXDPM6FerXcXqnE",
+      "domain": "halfpriceblinds.com.au",
+      "title": "Learn how to Install Folding Arm Awning – Half Price Blinds",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 1360,
+      "fetchedAt": "2026-05-20T11:09:06.685Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://aladdininc.net/retractable-awning-troubleshooting-common-issues-and-solutions/",
+      "domain": "aladdininc.net",
+      "title": "Retractable Awning Troubleshooting",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 3217,
+      "fetchedAt": "2026-05-20T11:09:10.553Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.orestads-solskydd.se/wp-content/uploads/2015/01/PR-folder-eng-v1-screen.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://richesmi.cah.ucf.edu/sanford_herald/items/browse?collection=29&amp%3Bamp%3Bamp%3Bamp%3Bpage=2&amp%3Bamp%3Bamp%3Bamp%3Bsort_field=Dublin+Core%2CTitle&amp%3Bamp%3Bamp%3Bamp%3Bsort_dir=d&amp%3Bamp%3Bamp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bamp%3Bsort_field=Dublin+Core%2CCreator&amp%3Bamp%3Bamp%3Bpage=6&amp%3Bamp%3Bamp%3Boutput=omeka-xml&amp%3Bamp%3Bsort_field=Dublin+Core%2CCreator&amp%3Bamp%3Bpage=8&amp%3Bamp%3Boutput=omeka-xml&amp%3Bsort_field=added&amp%3Bsort_dir=a&amp%3Bpage=2&amp%3Boutput=omeka-xml&page=4&sort_field=added&output=omeka-xml",
+      "reason": "review-not-model-specific (model tokens [praia, folding, arm] absent in fetched text)"
+    },
+    {
+      "url": "https://forum.homeone.com.au/viewtopic.php?f=17&t=38726",
+      "reason": "review-not-model-specific (model tokens [praia, folding, arm] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "harol"
+    ],
+    "acceptedDomains": [
+      "harol.com"
+    ],
+    "candidates": [
+      {
+        "domain": "harol.com",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "archiproducts.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "zenronline.eu",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "cflawnings.com",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "luvifem.nl",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "lifestyleawnings.com.au",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "choice.community",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "halfpriceblinds.com.au",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "aladdininc.net",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "The Praia is perfect for design-lovers who appreciate rounded, curved shapes. Whether completely open or with a cover, Praia is a real eye-catcher all year round. Choose greater comfort with various options, such as dimmable LED lighting and a valance. The Praia folding arm awning can be secured directly to the wall and offers a rounded design. The system is open but is available with a cover. Enjoy evenings on your terrace for longer thanks to the energy-efficient, dimmable LED lighting which is incorporated in the box or arms of the awning. Drop of up to 4 metres, can be linked to up to 12 metres wide: Praia creates an extremely large shaded area. You could also opt for a vario-valance or regular valance of up to 2 m, to combat the sun when it is low in the sky.",
+    "kalla": {
+      "domän": "harol.com",
+      "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Max drop: 4 m. Max width: 7 m (single unit). Can be coupled up to 12 m wide. Box dimensions: 290 x 265 mm. Vario-valance up to 2 m.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Optional dimmable LED lighting incorporated in the box, in the arms, or in both arms and box for three distinct lighting configurations.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Invisible, integrated cabling ('Invisibly Wired' profile) — steel cables are no longer visible, described as an exclusive and very luxurious finish.",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    },
+    {
+      "text": "Tested for durability with rigorous tests of up to 25,000 cycles, which equates to 25 years of opening and closing every day (opening and closing twice a day for 25 years).",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Robust construction thanks to two durable, stainless steel cables made of galvanised steel in each arm.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Open box system with optional cover — rounded/curved design fitting the 'Curved' style category within Harol's range.",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    },
+    {
+      "text": "Widest choice of over 200 colours and designs. Standard collection: Dickson Orchestra and Sattler Elements. Optional: choose from the full collections of Dickson, Swela and Sattler.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Boxes and profiles available in over 300 RAL colours and diverse textured paints, all without a surcharge.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Fabrics are water-repellent, rain-repellent, resistant to dirt and rot, UV resistant. Created in Harol's own workshop.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Meets required standards for wind class 2 according to EN13561 — speed 7.5–10.4 m/s.",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    },
+    {
+      "text": "Accessories include smart operation, heating, LED lighting, wind and sun sensors, and valance.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "5-year quality guarantee offered by Harol.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "100% made-to-measure solutions; Belgian craftsmanship supported by over 80 years of experience.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Articulated arms designed for easy assembly, which 'opens the door to international markets' per Harol marketing manager.",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Terrace shading — creating an extremely large shaded area on residential patios, with optional valance to combat the sun when it is low in the sky.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Evening outdoor entertaining — extending terrace use into evening hours via dimmable LED lighting in box and/or arms, creating atmospheric ambiance.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Natural cooling / passive cooling — smart solar shading as energy-efficient alternative to air conditioning, providing savings on energy bills, passive cooling in summer and insulation in winter.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+      }
+    },
+    {
+      "text": "Shade behind glass — articulated awnings increase comfort behind the glass (indoor heat reduction through external shading).",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    },
+    {
+      "text": "Balcony use — forum user describes installing folding arm awnings side by side over a balcony, each about four meters wide by three meters extended outward.",
+      "kalla": {
+        "domän": "choice.community",
+        "url": "https://choice.community/t/folding-arm-awnings/25362"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [
+      {
+        "text": "Wind vulnerability is a concern: forum user describes awnings acting like sails in high winds, nearly ripping bricks from the wall, requiring manual retraction during storms.",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      },
+      {
+        "text": "Wind sensor and automatic retraction considered essential by installer/supplier, who 'insisted that they include a wind sensor and automatic retraction, otherwise they would not be guaranteed against wind damage.'",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      }
+    ],
+    "aterkommande_glaedjepunkter": [
+      {
+        "text": "Forum user reports folding arm awnings were 'fabulous, robust, and practical' and would buy again.",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      },
+      {
+        "text": "When retracted, awnings 'sealed themselves into their cartridges, so weather was not a problem.' When extended, slight downward slope so rain rolled off.",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      }
+    ],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [
+      {
+        "text": "\"Up to that time they were fabulous, robust, and practical.\"",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      },
+      {
+        "text": "\"Once we got caught out unaware and I thought that they were going to rip the bricks they were mounted onto out of the wall with all the flapping and juddering they did.\"",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      },
+      {
+        "text": "\"I would buy folding arm awnings again. Brand names meant nothing, because most of the awnings were made in China, even the ones sold by the awning companies.\"",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      },
+      {
+        "text": "\"the supplier insisted that they include a wind sensor and automatic retraction, otherwise they would not be guaranteed against wind damage.\"",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      },
+      {
+        "text": "\"The consumer gets even more choice and comfort, while the installer can count on a simpler system with even more technical ingenuity.\" (Harol marketing manager Isabelle Wintmolders, not end-user)",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga Praia-specifika kundrecensioner hittade. Citaterna ovan rör folding arm awnings generellt (choice.community) och tillverkarens marknadsföringscitat (zenronline.eu). Sökning på 9 källor gav inga direkta konsumentomdömen om Harol PRAIA."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Wind class 2 (EN13561) — rated for wind speed 7.5–10.4 m/s only. Must be retracted in stronger winds.",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Open box system (cover is optional, not standard) — without cover, fabric and mechanism are more exposed to weather when retracted compared to fully enclosed cassette models.",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+        }
+      },
+      {
+        "text": "Max single-unit width is 7 m; wider installations require coupling.",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Folding arm awning cassettes can develop cracks in facade mounting points or come loose due to leverage forces, especially if facade is not resistant enough. May require chemical anchors or extended roof supports.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Almost all sunshade fabrics expand over time, causing: cassette not closing completely (leaving part of fabric visible and sometimes discoloured), and fabric no longer being neatly taut. Usually remedied by reprogramming motor settings.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Front panel hanging higher on one side than the other — usually adjustable with adjusting screws but requires holding up the affected arm during adjustment.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Wireless remote control stops working — usually a battery replacement issue, reprogramming may be necessary.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Fabric tears from wind-blown debris, tree branches, or UV degradation over time — common to all retractable awnings, particularly in high-UV environments.",
+        "kalla": {
+          "domän": "cflawnings.com",
+          "url": "https://cflawnings.com/awning-repair-5-common-problems-you-can-fix-yourself/"
+        }
+      },
+      {
+        "text": "Retractable awning sagging or loose areas over time due to stretched fabric or improper tension adjustments.",
+        "kalla": {
+          "domän": "aladdininc.net",
+          "url": "https://aladdininc.net/retractable-awning-troubleshooting-common-issues-and-solutions/"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Never leave folding arm awning extended when you are not around — sensitive to wind gusts which can result in considerable damage.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "If facade material is not resistant to the leverage caused by the folding arm awning, alternative mounting or alternative products (e.g., freestanding pergola awning) may be needed.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Use your folding arm awning regularly and watch for abnormalities, acting on them immediately. After a period of non-use, always pay extra attention.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Wind sensor and automatic retraction strongly recommended; one supplier insisted on them or would not guarantee against wind damage. Automatic retraction credited with saving awnings on multiple occasions over 10 years.",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      },
+      {
+        "text": "Never force a stuck awning to extend or retract — this often causes tears at stress points. Instead, investigate the underlying mechanical issue.",
+        "kalla": {
+          "domän": "cflawnings.com",
+          "url": "https://cflawnings.com/awning-repair-5-common-problems-you-can-fix-yourself/"
+        }
+      },
+      {
+        "text": "For front panel not being level: adjustable with adjusting screws, but the affected arm must be held up during adjustment; otherwise nothing happens and/or damage risk.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Fabric stretching causing cassette not to close completely is normal over time; fix by reprogramming motor end-stop settings.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Always contact original installer first before DIY repairs — warranty may still apply, and self-repair can invalidate existing warranty.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Mounting to a facade that cannot handle the leverage forces of a folding arm awning — leads to cracking and loosening. May need chemical anchors, extended roof supports, or entirely different product.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Choosing not to include wind sensors — forum contributor notes this led to a near-catastrophic wind event where awning nearly ripped bricks from the wall.",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Praia can be secured directly to the wall. Harol offers three mounting options across range: recessed, ceiling, or against the wall.",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Folding arm awnings are 'not complex to install, any competent handyman could do it as long as they had help to lift the big awnings. Of course if they are electrically connected you should get an electrician to do that work.'",
+        "kalla": {
+          "domän": "choice.community",
+          "url": "https://choice.community/t/folding-arm-awnings/25362"
+        }
+      },
+      {
+        "text": "Harol invested in articulated arms that can be easily assembled — ease of assembly highlighted as design priority after almost two years of R&D.",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Harol positions itself as a Belgian manufacturer with 80+ years experience, 100% made-to-measure, 300+ RAL colours at no surcharge, exclusive 'Invisibly Wired' arms, and design awards. Zenronline.eu describes Praia's invisibly wired arms as 'exclusive and very luxurious'. The 5-year guarantee, own workshop production, and extensive fabric/colour customisation point to a premium tier. The choice.community forum notes awning installation quotes from specialist firms are 'horribly expensive' compared to generic imports. No specific Praia prices were found in any source.",
+    "indikativa_priser": [],
+    "tomhetsanteckning": null
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Folding arm awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+        }
+      },
+      {
+        "text": "PRAIA",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Articulated awning / articulated arm awning",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Knikarmscherm (Dutch term for folding arm awning)",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Retractable awning",
+        "kalla": {
+          "domän": "aladdininc.net",
+          "url": "https://aladdininc.net/retractable-awning-troubleshooting-common-issues-and-solutions/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Vario-valance — adjustable front valance extending up to 2 m",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+        }
+      },
+      {
+        "text": "Invisibly Wired — Harol's term for integrated invisible cable routing in arms",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Wind class 2 / EN13561 — European standard for awning wind resistance",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Cassette / closed cassette — fully enclosed box protecting fabric when retracted",
+        "kalla": {
+          "domän": "lifestyleawnings.com.au",
+          "url": "https://www.lifestyleawnings.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+        }
+      },
+      {
+        "text": "Drop — projection distance of awning from wall",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+        }
+      },
+      {
+        "text": "Torque bar — load-bearing bar onto which supports, folding arms and fabric roll are hooked (mentioned for BX270 but relevant to category)",
+        "kalla": {
+          "domän": "lifestyleawnings.com.au",
+          "url": "https://www.lifestyleawnings.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+        }
+      },
+      {
+        "text": "Solar shading / sun protection / natural cooling",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Harol Praia",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/praia/"
+        }
+      },
+      {
+        "text": "Harol PRAIA folding arm awning",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/harol/products/categories_awnings?srsltid=AfmBOorwcDcdNmqxOYsspVaFTnOY9evw60fwaO2z03ggHbjgj636qJ_s"
+        }
+      },
+      {
+        "text": "PRAIA - Fabric Folding arm awning with integrated lighting",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/harol/products/categories_awnings?srsltid=AfmBOorwcDcdNmqxOYsspVaFTnOY9evw60fwaO2z03ggHbjgj636qJ_s"
+        }
+      },
+      {
+        "text": "Harol articulated awning Praia",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:11:17.478Z"
+}

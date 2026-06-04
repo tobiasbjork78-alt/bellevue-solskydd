@@ -1,0 +1,1315 @@
+{
+  "entity": "Selt Malta awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt Malta awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Malta awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Malta awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Malta awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Malta awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Malta awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Malta awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Malta awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Selt Malta awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Malta awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Malta awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Malta awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Malta awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Malta awning forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Malta awning ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Malta awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Malta awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Malta awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Malta awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Malta awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Malta awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Malta awning usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Malta awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Malta awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Malta awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Malta awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Malta awning montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Malta awning instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 4
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "yellow.com.mt",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "selt.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "slpro.lv",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "islandblindsmalta.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "serwis-rolet.pl",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "kmproject.net",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "maltadynamics.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "oknarolety.com",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 7
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "restauto.com.ua",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "theawningsmalta.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "maltachamber.org.mt",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "seltsupport.trinitycollege.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "issuu.com",
+      "category": "reviews",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "expedia.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "tripadvisor.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "booking.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "airbnb.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "sawdays.co.uk",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "community.ricksteves.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "finehomebuilding.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "sloweurope.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "rcgroups.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "forums.ybw.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "m.yelp.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "homedepot.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "retractableawningreview.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "thespruce.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "caruanasunshades.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "freelancer.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "wanderlog.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "365femalemcs.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "fgnpowerco.ng",
+      "category": "reviews",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "pegaso.changeip.org",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "thestatedtruth.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "rockmetalshop.pl",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "linknovate.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "minhsonmsc.vn",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 1,
+      "hits": 13
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 6
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "hml.com.mt",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "caruanasunshades.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "luvifem.nl",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "maltatoday.com.mt",
+      "category": "negative",
+      "rank": 8,
+      "hits": 2
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "sunstateawning.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "keoutdoordesign.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "carrollarchitecturalshade.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "jansawnings.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "portal.311.nyc.gov",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "theawningsmalta.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "townofmaltany.gov",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "mca.org.mt",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "awnings.ferralco.com.mt",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "daphne.foundation",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "pikeawning.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "waterproofing.com.sg",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 8
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "ripointernational.lv",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "tenteks.com.tr",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "atlantic-awning.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "expresssunrooms.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "appealshading.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "summerspace.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "theawningsmalta.com",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "rackupgo.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "yellow.com.mt",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "calypsomfg.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/",
+      "domain": "shopsun.eu",
+      "title": "Terrace awning Malta Selt - Measurement and Technical Data",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 4391,
+      "fetchedAt": "2026-05-20T11:22:20.243Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html",
+      "domain": "manualslib.com",
+      "title": "SELT MALTA INSTALLATION MANUAL Pdf Download | ManualsLib",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:22:23.320Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html",
+      "domain": "pdf.archiexpo.com",
+      "title": "Awnings - Selt Sun Protection Systems - PDF Catalogs | Documentation | Brochures",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:22:26.298Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1393969.html",
+      "domain": "archiexpo.com",
+      "title": "Vänta...",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 288,
+      "fetchedAt": "2026-05-20T11:22:28.671Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://markizes24.lv/index.php?route=product/product&product_id=453",
+      "domain": "markizes24.lv",
+      "title": "Awnings MALTA",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 1523,
+      "fetchedAt": "2026-05-20T11:22:31.610Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI",
+      "domain": "e-markizy.pl",
+      "title": "Markiza tarasowa Malta Selt - Pomiar i Dane techniczne - max. 500x310",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 5233,
+      "fetchedAt": "2026-05-20T11:22:37.034Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://theawningsmalta.com/",
+      "domain": "theawningsmalta.com",
+      "title": "The Awnings Malta - Shading Solutions",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 1965,
+      "fetchedAt": "2026-05-20T11:22:40.105Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://www.trustpilot.com/review/shortletsmalta.com",
+      "domain": "trustpilot.com",
+      "title": "Short Lets Malta Reviews | Read Customer Service Reviews of shortletsmalta.com",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:22:57.934Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://community.ricksteves.com/travel-forum/general-europe/your-impressions-of-malta",
+      "domain": "community.ricksteves.com",
+      "title": "Your impressions of Malta? - Rick Steves Travel Forum",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:23:01.044Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://plikiapi.selt.com/download/Technical%20&%20installation%20document%20Malta.pdf?nazwa=dokument/7615142111_DT_E_MALTA_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.slpro.lv/content/files/Markizes/ST%20Malta.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.tripadvisor.com/ShowTopic-g190311-i348-k13460608-Season-Malta.html",
+      "reason": "no-text"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 0,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "manualslib.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "pdf.archiexpo.com",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiexpo.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markizes24.lv",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "e-markizy.pl",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "theawningsmalta.com",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "trustpilot.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "community.ricksteves.com",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Malta is a light, free-hanging awning. Construction of the awning is characterised by universal brackets being simultaneously roller tube bracket, wall-ceiling bracket and arm bracket. Light and solid brackets forged from aluminium ensure durability and relatively low weight of the construction. Universal bracket provides two options of assembly, either to the wall or ceiling.",
+    "kalla": {
+      "domän": "pdf.archiexpo.com",
+      "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Adjustable tilt angle in the range of 5°–70° (wall mounted), 5°–85° (ceiling mounted)",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Universal wall-ceiling brackets – simultaneously serve as roller tube bracket, wall-ceiling bracket and arm bracket; only two extreme brackets needed for mounting",
+      "kalla": {
+        "domän": "manualslib.com",
+        "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html"
+      }
+    },
+    {
+      "text": "Arms: foldable, aluminum, with springs and Flyer chain",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Maximum width 500 cm (510 cm including brackets), maximum projection 310 cm",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Rolling tube diameter: 70mm or 80mm",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Half cassette option available",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Construction colors: white RAL9010, beige RAL1015, silver RAL9006, brown RAL8014, silver graphite FSM71319, or any other RAL color for additional fee",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Fabric: over 100 colors, Teflon coated acrylic fabric (Selt catalog states over 150 patterns)",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Valance: standard height 21cm (±0.5cm), maximum height 40cm for C and D shapes, 100cm for E shape; 3 patterns to choose from; can be quickly dismantled by pulling it out",
+      "kalla": {
+        "domän": "pdf.archiexpo.com",
+        "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+      }
+    },
+    {
+      "text": "Automation options: key switch, control unit, remote control, wind sensor and others; electric motor with or without emergency opening",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Manual drive: crank lengths available in 1.5m, 1.8m, and 2.2m",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Framework is made of extruded aluminum; Flyer chain used in joints makes them durable",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/index.php?route=product/product&product_id=453"
+      }
+    },
+    {
+      "text": "Possibility to use telescopic stilts' support",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/index.php?route=product/product&product_id=453"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Sun protection for surfaces such as terraces and balconies",
+      "kalla": {
+        "domän": "manualslib.com",
+        "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html"
+      }
+    },
+    {
+      "text": "Perfect for roofing a balcony or terrace",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/index.php?route=product/product&product_id=453"
+      }
+    },
+    {
+      "text": "Can be mounted to a wall insulated with e.g. Styrofoam, up to 20 cm thick",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    },
+    {
+      "text": "Wall and ceiling mounting options",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundomdömen om produkten Selt Malta awning hittade efter sökning på 9 källor. Recensionskällorna (trustpilot.com, community.ricksteves.com, theawningsmalta.com) handlade om helt orelaterade ämnen (korttidsuthyrning på Malta, reseintryck av Malta som resmål, respektive ett lokalt markisföretag i Malta som säljer turkisktillverkade produkter – ingen koppling till Selt-produkten)."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "At projection 310cm and width above 410cm (at any projection), increased deflection of the front beam occurs (zwiększone ugięcie belki przedniej)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI"
+        }
+      },
+      {
+        "text": "Projection is strictly dependent on the awning width – the wider the awning, the greater the possible projection. Narrowest widths (190–239 cm) only support 160 cm projection",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI"
+        }
+      },
+      {
+        "text": "Widths from 471 to 500 cm only support 160 cm projection",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI"
+        }
+      },
+      {
+        "text": "No overlapping arms; no telescopic support (listed as 'no' in spec table for Malta, unlike larger models such as Jamaica or Silver Plus)",
+        "kalla": {
+          "domän": "pdf.archiexpo.com",
+          "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+        }
+      },
+      {
+        "text": "No optional hood available (listed as 'no' for Malta, while some other Selt models offer an optional hood)",
+        "kalla": {
+          "domän": "pdf.archiexpo.com",
+          "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+        }
+      },
+      {
+        "text": "No cassette – the roller tube mounting has no cassette enclosure; only optional half-cassette (półkaseta)",
+        "kalla": {
+          "domän": "pdf.archiexpo.com",
+          "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+        }
+      },
+      {
+        "text": "For PLAIN fabrics, the only available valance type is E",
+        "kalla": {
+          "domän": "pdf.archiexpo.com",
+          "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "When mounting with an additional protective half-cassette, standard Selt wall brackets must be used separately; in some situations it may be necessary to cut off part of the handle so that it does not interfere with the proper installation",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      }
+    ],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "The awning is fully assembled and adjusted at delivery. Installation is basically very simple and is limited to attaching the brackets to the wall or ceiling.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "Angle adjustment can be done entirely by yourself using an open-end wrench, the included nimbus, and a spirit level – tighten or loosen the awning nuts as needed",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "SELT recommends using Fischer fastening products selected according to the type of substrate. For uncracked concrete C20/25 class and no higher than C50/60, specific Fischer products are proposed.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html"
+        }
+      },
+      {
+        "text": "SELT recommends using only professional assembly crews, which guarantee correct installation",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html"
+        }
+      },
+      {
+        "text": "When ordering or pricing, always provide the total external width of the awning, including the handles. The reach is the degree of extension of the awning.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "The optional use of weather automation additionally protects the product against changing weather conditions",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html"
+        }
+      },
+      {
+        "text": "Projection availability depends on width: 190–239cm → only 160cm; 240–470cm → 160 or 210cm; 290–410cm → 160, 210 or 260cm; 340–350cm → all projections up to 310cm; 471–500cm → only 160cm",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "In manual-drive version, the external dimension includes the crank joint of the awning – this must be accounted for in measurement",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Two mounting methods: wall and ceiling. The number of mounting brackets is always 2 extreme brackets.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "Can be attached to a wall insulated with Styrofoam up to 20 cm thick",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "If mounting with additional half-cassette, use standard Selt wall brackets; the Malta awning has its own extreme brackets and the canopy is mounted on separate ones. May need to cut off part of the handle if it interferes with half-cassette installation.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI"
+        }
+      },
+      {
+        "text": "In case of installation in public places, e.g. hospitals, schools, boarding schools, the placement of switch/remote control device should be marked according to health and safety regulations",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html"
+        }
+      },
+      {
+        "text": "Checking the completeness of the product is the responsibility of the Buyer and should take place at the time of receipt",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "budget",
+    "motivation": "The Malta is described as a 'light, free-hanging awning' and is the simplest model in the Selt range. It lacks features found on higher-end Selt models (no cassette, no optional hood, no overlapping arms, no roll-up valance). The starting price of €640 from the Latvian retailer markizes24.lv is notably lower than Selt's Casablanca at €1,465 and even the Australia at €750 from the same retailer, positioning Malta at the entry level of Selt's product line.",
+    "indikativa_priser": [
+      {
+        "text": "Starting from 640.00€ (ex tax 528.93€) – markizes24.lv, no date specified",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/index.php?route=product/product&product_id=453"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Terrace awning Malta",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html"
+        }
+      },
+      {
+        "text": "Malta Selt",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Markiza tarasowa Malta Selt (Polish)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI"
+        }
+      },
+      {
+        "text": "Awnings MALTA (Latvian retailer listing name)",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/index.php?route=product/product&product_id=453"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Flyer chain / łańcuch Flyera – chain mechanism used in arm joints",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "Half cassette / półkaseta – optional protective cover for the rolled fabric",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "Valance / falbana – decorative fabric strip hanging from front bar",
+        "kalla": {
+          "domän": "pdf.archiexpo.com",
+          "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+        }
+      },
+      {
+        "text": "Roller tube / rura nawojowa – the tube around which awning fabric wraps",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "Projection / wysięg / reach – degree of extension of the awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "Free-hanging awning – awning type without telescopic support as standard",
+        "kalla": {
+          "domän": "pdf.archiexpo.com",
+          "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+        }
+      },
+      {
+        "text": "Universal wall-ceiling bracket / uchwyt ścienno-sufitowy",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Selt Malta awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-malta-selt-technical-data/"
+        }
+      },
+      {
+        "text": "Selt Malta terrace awning",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html"
+        }
+      },
+      {
+        "text": "markiza Malta",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-malta-selt-dane-techniczne/?srsltid=AfmBOor4_7qrfI_hks5405PbIL0lw3_Drlg5QCg8KLQJpFvMKF41N1WI"
+        }
+      },
+      {
+        "text": "Selt Malta balcony awning",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/index.php?route=product/product&product_id=453"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:24:46.795Z"
+}

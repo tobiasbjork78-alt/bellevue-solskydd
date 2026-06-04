@@ -1,0 +1,1389 @@
+{
+  "entity": "Selt Dakar awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt Dakar awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Dakar awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Dakar awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Dakar awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Dakar awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Dakar awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Dakar awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Dakar awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Selt Dakar awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Dakar awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Dakar awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Dakar awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Dakar awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Dakar awning forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Dakar awning ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Dakar awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Dakar awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Dakar awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Dakar awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Dakar awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Dakar awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Dakar awning usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Dakar awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Dakar awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Dakar awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Dakar awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Dakar awning montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Dakar awning instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "archiselt.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 5
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "issuu.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 3
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 2
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "slpro.lv",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "avaeksperdid.ee",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "issuu.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "ultimatemotorcycling.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "thespruce.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "overlandvehiclesystems.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "specialtyfabricsreview.com",
+      "category": "reviews",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "test.avaeksperdid.ee",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "overland-europe.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "uk.trustpilot.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "bookretreats.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "tacomaworld.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "coloradofans.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "unesdoc.unesco.org",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "researchgate.net",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "singletrackworld.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "corpora.lancs.ac.uk",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "ekmsp.eu",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "airbnb.co.uk",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "yelp.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "thevanmart.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "westwindmoto.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "commerce.uct.ac.za",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "ceneo.pl",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "sun-tech.pl",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "dotorzeszow.pl",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "twojerolety.eu",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "serwis-rolet.pl",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "landcruiserforum.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "forum.expeditionportal.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "forum.gofastcampers.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "markizy-opole.pl",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "issuu.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "tjsrv.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "leisurecw.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "sunprotectionfl.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "wholesalewarranties.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "blog.campingworld.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "giglioawning.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "rollac.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "angi.com",
+      "category": "negative",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "portal.311.nyc.gov",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "schmidtlaw.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "negative",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "lippert.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "pratic.it",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "mark-brzesko.pl",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "zaluzi.lv",
+      "category": "negative",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "issuu.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 5
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "practical",
+      "rank": 5,
+      "hits": 3
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 4
+    },
+    {
+      "domain": "alandeko.lv",
+      "category": "practical",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "additionsbybh.com",
+      "category": "practical",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "slpro.lv",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "avaeksperdid.ee",
+      "category": "practical",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "markizy-opole.pl",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://shopsun.eu/terrace-awning-dakar/",
+      "domain": "shopsun.eu",
+      "title": "Terrace Awning Dakar Selt - shopsun.eu Best Prices | Delivery",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:15:56.721Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://archiselt.com/en/dakar/",
+      "domain": "archiselt.com",
+      "title": "Aluprof - Czołowy producent systemów aluminiowych",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:16:00.510Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://issuu.com/alandeko_lv/docs/dakar",
+      "domain": "issuu.com",
+      "title": "SELT cassette awning DAKAR by alandeko_lv - Issuu",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:16:23.502Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://aluprof.com/us/product/dakar-awning",
+      "domain": "aluprof.com",
+      "title": "DAKAR AWNING - Aluprof",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 3092,
+      "fetchedAt": "2026-05-20T11:16:28.435Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://markizes24.lv/SELT-en",
+      "domain": "markizes24.lv",
+      "title": "SELT",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:16:31.166Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.manualslib.com/manual/3151035/Selt-Dakar.html?page=16",
+      "domain": "manualslib.com",
+      "title": "Manual Drive - SELT DAKAR Installation Manual [Page 16] | ManualsLib",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 5771,
+      "fetchedAt": "2026-05-20T11:16:34.157Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE",
+      "domain": "e-markizy.pl",
+      "title": "Markiza Tarasowa Dakar Selt - Guthenberg - e-markizy.pl",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:16:41.916Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394001.html",
+      "domain": "archiexpo.com",
+      "title": "Box awning - DAKAR - Selt Sun Protection Systems - manual",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 4420,
+      "fetchedAt": "2026-05-20T11:16:44.775Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://www.ceneo.pl/42390017?srsltid=AfmBOootpy59uSuwVhlhxT31Pp-A6T_a4x1M9u8Bd7WQpIQufyJ7Eyhi",
+      "domain": "ceneo.pl",
+      "title": "Selt Dakar markiza tarasowa kaseta - Opinie i ceny na Ceneo.pl",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:16:58.976Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://plikiapi.selt.com/download/Technical%20&%20installation%20document%20Dakar.pdf?nazwa=dokument/8149078117_DT_E_DAKAR_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/awningdepot.co.uk",
+      "reason": "review-not-model-specific (model tokens [dakar] absent in fetched text)"
+    },
+    {
+      "url": "https://brevo.lt/wp-content/uploads/2023/06/Dakar-instrukcija.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 0,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiselt.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "issuu.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "aluprof.com",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markizes24.lv",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "manualslib.com",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "e-markizy.pl",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiexpo.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "ceneo.pl",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Dakar is the perfect solution for shading large terraces. A full streamlined cassette gives the awning a modern and elegant look and also protects the fabric and arms from weather conditions. To increase the protection of the fabric safety gaskets are applied inside the cassette. Folding arms made of aluminium alloy are mounted with aluminium brackets made through pressure casting. Precise joints with a plate link chain of stainless steel guarantee their durability and reliable operation. Awnings with a larger width are equipped with a support for the roller tube, thanks to which the fabric is stretched more uniformly. The construction of the awning is powder lacquered in white, graphite, silver with graphite finishing, beige, and brown. Properties: Construction made from extruded aluminium, Flyer's chains in the arms, Roller tube support, Cassette protects the fabric from weather conditions, Gasket in the cassette additionally protects the fabric, Possibility of using telescopic front bar support, Easy operation with the use of full automatic colour palette: RAL. Electric drive: yes, manual drive: yes, maximum width: 6.0 m, maximum projection: 3.6 m, cassette: yes, optional hood: no, tilt angle: 5°–40°, fabric: 140 patterns, valance: yes.",
+    "kalla": {
+      "domän": "archiexpo.com",
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394001.html"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Full cassette construction — in the closed position, only the oval cassette is visible which completely covers the arm structures.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-dakar/"
+      }
+    },
+    {
+      "text": "Additional safety gaskets inside the cassette protect the rolled-up fabric against external factors.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/dakar-awning"
+      }
+    },
+    {
+      "text": "Arms equipped with Flyer's stainless steel chains which guarantee reliable and safe operation even with large awning dimensions.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/dakar-awning"
+      }
+    },
+    {
+      "text": "Models with bigger width are also equipped with roller tube support for more uniform fabric stretching.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/dakar-awning"
+      }
+    },
+    {
+      "text": "Construction made from extruded aluminium, ensuring high durability. Plastic side covers painted in the same colour as the structure.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/dakar-awning"
+      }
+    },
+    {
+      "text": "Maximum width 6 m, maximum projection 3.6 m.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-dakar/"
+      }
+    },
+    {
+      "text": "Smooth tilt angle adjustment in the range of 5°–40°.",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+      }
+    },
+    {
+      "text": "Powder coated in five standard colours (white, graphite, silver with graphite finishing, beige, brown); six colours mentioned on Polish retailer source.",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394001.html"
+      }
+    },
+    {
+      "text": "Over 100 different fabric colours (striped and single-colour), 100% acrylic coated with Teflon.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-dakar/"
+      }
+    },
+    {
+      "text": "Optional valance available in two shapes: straight and wave-shaped. Standard valance height 21 cm, maximum possible 40 cm.",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+      }
+    },
+    {
+      "text": "Optional LED lighting mounted on the arms, controlled via remote control. Optional electric drive with remote, wind sensors, vibration sensors, and smartphone control.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-dakar/"
+      }
+    },
+    {
+      "text": "Telescopic front bar supports available as standard accessory for the Dakar awning, increasing wind resistance.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/dakar-awning"
+      }
+    },
+    {
+      "text": "Width from 200 to 600 cm, projection from 160 to 360 cm — made to measure, no standard sizes.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-dakar/"
+      }
+    },
+    {
+      "text": "Waterproof acrylic fabrics available with reinforced structure for protection against more intense rain, though fabric must be dried well after getting wet to prevent damage.",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Shading larger terraces — explicitly described as perfect for this purpose.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-dakar/"
+      }
+    },
+    {
+      "text": "External application only (not suitable for internal use).",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/dakar-awning"
+      }
+    },
+    {
+      "text": "Can be wall-mounted (standard), ceiling-mounted, or mounted to roof rafters (ceiling and rafter brackets available for extra fee).",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+      }
+    },
+    {
+      "text": "Can be installed on a wall insulated with polystyrene (up to 20 cm) without cutting it out, using a special chemical kit.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/terrace-awning-dakar/"
+      }
+    },
+    {
+      "text": "LED lighting option makes it suitable for evening terrace use.",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundrecensioner eller omdömen hittade efter sökning på 9 källor. Ceneo.pl visar betyget 4,5/5 baserat på 1 röst men ingen recensionstext fanns tillgänglig. Inga foruminlägg, bloggrecensioner eller detaljerade kundomdömen påträffades i de tillhandahållna källorna."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Gears 11:1 are not equipped with overturn protection (so called mechanical end stop). During operation of awning with manual drive the force working on the crank is multiplied by gear mechanism and putting too much force can lead to fabric damage, especially when closing the awning.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3151035/Selt-Dakar.html?page=16"
+        }
+      },
+      {
+        "text": "Do not allow the fabric to be rolled in the opposite direction (from the bottom of roller tube), since it may cause its ripping off the roller tube, fabric damage or incorrect awning functioning.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3151035/Selt-Dakar.html?page=16"
+        }
+      },
+      {
+        "text": "Optional hood: No — no separate optional hood available for the Dakar model.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/dakar-awning"
+        }
+      },
+      {
+        "text": "Internal application: No — the awning is for external use only.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/dakar-awning"
+        }
+      },
+      {
+        "text": "Only the standard version of telescopic supports is available for the Dakar awning (no advanced variants).",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/dakar-awning"
+        }
+      },
+      {
+        "text": "After fabric gets wet, it must be dried well to prevent damage. Using an impregnating agent at the start of the season is recommended to extend fabric life.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      },
+      {
+        "text": "Non-standard valance height (beyond 21 cm) will affect price, and maximum 40 cm is not always possible to produce.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Self-regulation of extreme position by an untrained person may lead to product damage.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3151035/Selt-Dakar.html?page=16"
+        }
+      }
+    ],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "The awning is delivered fully assembled and adjusted. Installation is limited to attaching the brackets to the wall (or ceiling/rafters). The tilt angle can be freely set after mounting if needed.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Wall brackets should be mounted in the place marked by the manufacturer at the back of the cassette, so that they are in the symmetry axis of the arm brackets.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Number of brackets depends on width: S ≤ 4.1 m requires 2 handles; S > 4.1 m requires 3 handles. This quantity is obligatory and the awning is standardly equipped by the manufacturer with this number.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Console brackets have 4 mounting points each. The number of brackets ranges from 2 to 4 depending on the width of the awning. Available in wall, ceiling, or rafter versions.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      },
+      {
+        "text": "Telescopic supports work well especially with manual drive as additional support for the front bar.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      },
+      {
+        "text": "When ordering, always provide the total external width of the awning including the handles. Projection refers to the degree of extension.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      },
+      {
+        "text": "Prior to first start of the electrically driven product, electrical measurements should be performed by a person holding adequate permissions. Do not start the motor without checking correctness of system installation.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3151035/Selt-Dakar.html?page=16"
+        }
+      },
+      {
+        "text": "Using an impregnating agent at the beginning of the season is a good practice to extend fabric lifespan and utility.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Manual crank operation without overturn protection means applying too much force when closing can damage the fabric. Users should turn the crank only until gentle resistance is felt.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3151035/Selt-Dakar.html?page=16"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Awning opening with manual drive is performed by making enough turns with the crank until the arms are opened, keeping the fabric tension. Closure by turning the crank until gentle resistance is felt.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3151035/Selt-Dakar.html?page=16"
+        }
+      },
+      {
+        "text": "The awning can be installed on insulated walls (e.g. polystyrene up to 20 cm) without cutting out the insulation, using a special chemical anchoring kit.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Three mounting methods: wall brackets (standard, most common), ceiling brackets (extra fee), roof rafter brackets (extra fee).",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "The Dakar sits in the mid-to-upper range within Selt's own lineup. On markizes24.lv it is priced from €1,370 — higher than budget models like Malta (€640) and Silver Plus (€670) but below the Giant (€3,380). On shopsun.eu it is listed at €3,412 (which likely reflects a larger or more fully equipped configuration). Ceneo.pl shows a last price of 3,699 PLN (~€860). It occupies a mid-range position as a full-cassette awning with solid construction but is not positioned as the top-tier commercial model.",
+    "indikativa_priser": [
+      {
+        "text": "From €1,370 (ex tax €1,132.23) — markizes24.lv, no date specified",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/SELT-en"
+        }
+      },
+      {
+        "text": "€3,412.00 — shopsun.eu, no date specified (likely larger/configured unit)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Last price 3,699.00 PLN — ceneo.pl, currently out of stock",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390017?srsltid=AfmBOootpy59uSuwVhlhxT31Pp-A6T_a4x1M9u8Bd7WQpIQufyJ7Eyhi"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Selt Dakar",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/dakar-awning"
+        }
+      },
+      {
+        "text": "Dakar Awning",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/dakar-awning"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Terrace Awning Dakar Selt",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Markiza Tarasowa Dakar Selt",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      },
+      {
+        "text": "Box awning DAKAR",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394001.html"
+        }
+      },
+      {
+        "text": "Selt Dakar markiza tarasowa kaseta",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390017?srsltid=AfmBOootpy59uSuwVhlhxT31Pp-A6T_a4x1M9u8Bd7WQpIQufyJ7Eyhi"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Full cassette / pełna kaseta — fully enclosed housing that covers arm structures and fabric when retracted",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Flyer chain / łańcuch Flyera — stainless steel plate link chain system reinforcing the folding arms",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/dakar-awning"
+        }
+      },
+      {
+        "text": "Projection / wysięg — the distance the awning extends outward from the wall",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Roller tube support — support element for wider models ensuring more uniform fabric stretching",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/dakar-awning"
+        }
+      },
+      {
+        "text": "Valance / falbana — decorative fabric trim hanging from the front bar",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      },
+      {
+        "text": "Extruded aluminium — manufacturing process for the awning's structural components",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/dakar-awning"
+        }
+      },
+      {
+        "text": "Console brackets / uchwyty konsolowe — mounting brackets attached directly to the cassette",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      },
+      {
+        "text": "Retractable cassette awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Selt Dakar awning",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/dakar-awning"
+        }
+      },
+      {
+        "text": "Dakar terrace awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Dakar cassette awning",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390017?srsltid=AfmBOootpy59uSuwVhlhxT31Pp-A6T_a4x1M9u8Bd7WQpIQufyJ7Eyhi"
+        }
+      },
+      {
+        "text": "Selt Dakar markiza",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/blog/produkty-guthenberg/markiza-tarasowa-dakar-selt-guthenberg/?srsltid=AfmBOopRDLpL4Nenc_k6rrElgKu0cQ8lBqiY0zVYal_edubZ8wIGWGnE"
+        }
+      },
+      {
+        "text": "Selt Dakar full cassette",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      },
+      {
+        "text": "Dakar patio awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/terrace-awning-dakar/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:18:52.659Z"
+}

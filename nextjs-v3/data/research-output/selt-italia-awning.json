@@ -1,0 +1,1277 @@
+{
+  "entity": "Selt Italia awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt Italia awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Italia awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Selt Italia awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia awning forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia awning ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Italia awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia awning usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Italia awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia awning montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Italia awning instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "aluprof.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "restauto.com.ua",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "selt.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 2
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "bcbsystems.co.uk",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "magpergole.pl",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "konturbilgoraj.pl",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "metrol.radom.pl",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "oslonymielczarek.pl",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "kmproject.net",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 9
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "restauto.com.ua",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "selt.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "seltspa.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "okno-pol.pl",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "uk.trustpilot.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "houzz.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "bcheights.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "archive.cantonpl.org",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "downloads.regulations.gov",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "survivorlibrary.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "dailyiowan.lib.uiowa.edu",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "doityourself.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "batgroup.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "thespruce.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "reviews",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "homeadvisor.com",
+      "category": "reviews",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "oslonymielczarek.pl",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "magpergole.pl",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "ceneo.pl",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 2,
+      "hits": 9
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 4
+    },
+    {
+      "domain": "lednorhome.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "negative",
+      "rank": 6,
+      "hits": 4
+    },
+    {
+      "domain": "montgomeryawning.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "batgroup.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "globalawnings.com.au",
+      "category": "negative",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "portal.311.nyc.gov",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "savillstheawningcompany.co.uk",
+      "category": "negative",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "archiselt.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "aladdininc.net",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "negative",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "zaluzi.lv",
+      "category": "negative",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "ventabulgaria.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "selt.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "keoutdoordesign.com",
+      "category": "negative",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "practical",
+      "rank": 2,
+      "hits": 5
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 4
+    },
+    {
+      "domain": "dickson-constant.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "savillstheawningcompany.co.uk",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "practical",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "magpergole.pl",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 1,
+      "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/",
+      "domain": "shopsun.eu",
+      "title": "Measurement and Technical Data of the Italia Selt balcony awning",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 4208,
+      "fetchedAt": "2026-05-20T11:17:50.641Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://aluprof.com/en/product/italia-box-awning",
+      "domain": "aluprof.com",
+      "title": "ITALIA BOX AWNING - Aluprof",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 2809,
+      "fetchedAt": "2026-05-20T11:17:55.705Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://markizes24.lv/Awnings-ITALIA",
+      "domain": "markizes24.lv",
+      "title": "Awnings ITALIA",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 1792,
+      "fetchedAt": "2026-05-20T11:17:58.418Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html",
+      "domain": "archiexpo.com",
+      "title": "Folding-arm awning - ITALIA - Selt Sun Protection Systems - manual / commercial",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 3775,
+      "fetchedAt": "2026-05-20T11:18:01.554Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC",
+      "domain": "ceneo.pl",
+      "title": "Selt Italia poręczowa markiza balkonowa - Opinie i ceny na Ceneo.pl",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:18:15.904Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://e-markizy.pl/pomiar-i-dane-techniczne-markizy-balkonowej-italia-selt/?srsltid=AfmBOooHki3ZY4-iptpwDW-byfrvB_JIwUHE007GpSpiyEyibXdjDSM9",
+      "domain": "e-markizy.pl",
+      "title": "Pomiar i Dane Techniczne markizy balkonowej Italia Selt - Szer. do 500cm",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 4472,
+      "fetchedAt": "2026-05-20T11:18:18.507Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html?page=23",
+      "domain": "manualslib.com",
+      "title": "Use Of Awning Fabrics - SELT MALTA Installation Manual [Page 23] | ManualsLib",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:18:21.463Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://archiselt.com/en/italia-balcony/",
+      "domain": "archiselt.com",
+      "title": "Aluprof - Czołowy producent systemów aluminiowych",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:18:47.419Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://plikiapi.selt.com/dokument/51580501112_DT_E_ITALIA_BOX_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://brevo.lt/wp-content/uploads/2023/06/iTALIA-TUREKLINE-INSTRUKCIJA.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/awning.com",
+      "reason": "review-not-model-specific (model tokens [italia] absent in fetched text)"
+    },
+    {
+      "url": "https://allegro.pl/produkt/markiza-balkonowa-selt-italia-230x70-cm-praktyczna-oslona-na-balkon-w-bloku-35417c5a-12c2-4b43-8ac9-5733fe3e3d68",
+      "reason": "no-text"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "aluprof.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markizes24.lv",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiexpo.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "ceneo.pl",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "e-markizy.pl",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "manualslib.com",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiselt.com",
+        "sourceIdx": 11,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Italia is a window and balcony awning for shading and protection of window niches, shop windows, balconies, terraces and verandas. Aluminium drop arms are equipped with a spring which tensions the fabric and prevents the arms from folding under wind pressure. The awning's weight is distributed between the arms and roller tube brackets. Thus ITALIA can be installed even in places where the strength of mounting surface excludes use of a terrace awning with folding arms. The light construction makes awning installation very easy. Construction elements are powder lacquered in white colour.",
+    "kalla": {
+      "domän": "archiexpo.com",
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Aluminium drop arms equipped with a spring that tensions the fabric and prevents the arms from folding under wind pressure",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/italia-box-awning"
+      }
+    },
+    {
+      "text": "After rolling up, the fabric is hidden in an aluminium cassette which protects the material against dirt and damage",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/italia-box-awning"
+      }
+    },
+    {
+      "text": "Ready-made mounting brackets integrated with the cassette — installation to the wall or ceiling does not require additional preparation",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/italia-box-awning"
+      }
+    },
+    {
+      "text": "Weight of the awning is equally distributed between brackets, so system 'Italia' in cassette can be installed even in the places where there cannot be used terrace awning with folding arms",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-ITALIA"
+      }
+    },
+    {
+      "text": "Maximum width up to 5.0 m; Arm reach options: 1.0 m, 1.4 m, 1.8 m; Rolling tube diameter 70 mm; Tilt angle from 0° to 160° (standard 0°–90°, extended up to 160° optionally for additional fee)",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+      }
+    },
+    {
+      "text": "Over 100 colours of Teflon-coated acrylic fabric; Valance height 21 cm, 3 patterns to choose from, can be ordered without a valance, can be quickly dismantled by pulling it out",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+      }
+    },
+    {
+      "text": "Construction colour options: white RAL9010, beige RAL1015, silver RAL9006, brown RAL8014, silver graphite FSM 71319, anthracite grey RAL7016 structure, black RAL9005 structure, or any other RAL colour for an additional fee",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/pomiar-i-dane-techniczne-markizy-balkonowej-italia-selt/?srsltid=AfmBOooHki3ZY4-iptpwDW-byfrvB_JIwUHE007GpSpiyEyibXdjDSM9"
+      }
+    },
+    {
+      "text": "Drive: electric or manual crank in lengths 1.5 m, 1.8 m, 2.2 m; Half cassette: yes",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+      }
+    },
+    {
+      "text": "All acrylic fabrics are impregnated with TEFLON or SCOTCHGARD protective agent. This creates a protective barrier and strengthens hydrophobic properties of the fabric and prevents dirt from adhering to the material.",
+      "kalla": {
+        "domän": "ceneo.pl",
+        "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+      }
+    },
+    {
+      "text": "IGP powder paints from a Swiss company are used in the coating process; IGP-DURA®clean technology makes lacquered surfaces resistant to soiling and easy to maintain",
+      "kalla": {
+        "domän": "ceneo.pl",
+        "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Shading of windows, shop windows, verandas and balconies",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-ITALIA"
+      }
+    },
+    {
+      "text": "A perfect solution for traditional windows and small balconies of residential buildings, hotels or guesthouses",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/en/product/italia-box-awning"
+      }
+    },
+    {
+      "text": "Can be installed even in places where the strength of mounting surface excludes use of a terrace awning with folding arms",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+      }
+    },
+    {
+      "text": "Balcony railing-mounted arm variant (poręczowa): arms are mounted to the balcony balustrade, giving greater freedom of installation on balconies; fabric tension is achieved by rolling up excess fabric",
+      "kalla": {
+        "domän": "ceneo.pl",
+        "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+      }
+    },
+    {
+      "text": "Wall-arm variant: arms mounted to wall with 3 lengths to choose from (100, 140 and 180 cm); fabric of 210 cm length wound on roller tube regardless of arm length",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundomdömen hittade efter sökning på 8 källor. Ceneo.pl visar betyget 4,5/5 baserat på 1 röst men ingen recensionstext finns tillgänglig i källmaterialet."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Maximum projection is 1.4 m in box/cassette variant (Aluprof listing states max projection 1.4 m), while the non-cassette wall-arm version reaches up to 1.8 m",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/italia-box-awning"
+        }
+      },
+      {
+        "text": "Standard tilt angle adjustment is 0°–90°; extension to 160° requires additional fee and prior consultation",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/pomiar-i-dane-techniczne-markizy-balkonowej-italia-selt/?srsltid=AfmBOooHki3ZY4-iptpwDW-byfrvB_JIwUHE007GpSpiyEyibXdjDSM9"
+        }
+      },
+      {
+        "text": "Production tolerance of width dimensions is ±2 cm",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Railing-mounted variant (poręczowa) available only with manual drive, no electric drive option; projection only 70 cm",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Due to fabric being double folded at seams, diameter of roller tube varies in different places, resulting in 'embossing' or 'waving' effect near the seams, in the middle of the fabric or along the edges",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html?page=23"
+        }
+      },
+      {
+        "text": "Creases may appear while the textile is rolled up; in the area of creases a delicate line could be visible in certain light — mainly applies to dark-colored textiles",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html?page=23"
+        }
+      },
+      {
+        "text": "Side strips are particularly exposed to heavy load, therefore a slight drop of the edges may occur",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html?page=23"
+        }
+      },
+      {
+        "text": "Acrylic material coated with fluororesine makes it stiffer, which may result in the formation of micro-clearances near folds, wrinkles or damage to the fabric",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html?page=23"
+        }
+      },
+      {
+        "text": "Due to use of impregnating agent, fabric is sensitive to all kinds of scratches that are difficult to avoid even with very precise and careful production process — applies primarily to monochromatic materials",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html?page=23"
+        }
+      },
+      {
+        "text": "Factors such as acid rain, animal-origin contamination and cleaning with abrasive agents can destroy the protective coating of the fabric",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Not suitable for internal application — external use only",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/italia-box-awning"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "When ordering, always provide the external dimensions of the awning (S) including the handles, plus the dimension (W) i.e. the length of the arms",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Depending on the width of the entire structure, the manufacturer provides a different number of mounting brackets",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Front beam can be extended on individual request so that it matches the S-width dimension (belka wydłużona option)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/pomiar-i-dane-techniczne-markizy-balkonowej-italia-selt/?srsltid=AfmBOooHki3ZY4-iptpwDW-byfrvB_JIwUHE007GpSpiyEyibXdjDSM9"
+        }
+      },
+      {
+        "text": "Fabric length wound on the roller tube is 210 cm regardless of arm length chosen",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Lead time is typically 10–14 days; each awning is manufactured to individual order",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+        }
+      },
+      {
+        "text": "For PLAIN type fabric, only valance type E is available",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+        }
+      },
+      {
+        "text": "Maximum valance height: 40 cm (valance type C and D), 100 cm (valance type E); standard height is 21 cm (±0.5 cm)",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Three mounting options: Wall holder, Ceiling holder, and recess bracket (for arms)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Arm installation involves: 1. Mounting the arm to the wall; 2. Connecting the arm holder and recess bracket",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Easy installation thanks to separately mounted brackets and arms; light weight facilitates installation",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-ITALIA"
+        }
+      },
+      {
+        "text": "Cleaning: clean metal/aluminium surfaces with water and mild detergents; clean fabric only with clean water or mild soap solution (max 30°C); never use pressure washer, solvents (alcohol, petrol), chlorine, ammonia, kerosene, acetone, bleach, wire brushes or scouring powders; dry fabric thoroughly before rolling up",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html?page=23"
+        }
+      },
+      {
+        "text": "Do not replace damaged elements with substitutes — spare parts should be original; water must not be allowed to enter the motor",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/manual/3150962/Selt-Malta.html?page=23"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "Indicative price of €510 excl. tax for the basic manual/commercial version, with box variant (Box Italia) at €710 and Balcony Italia at €620 on ArchiExpo. The Latvian retailer lists a starting price from €325. Polish listing on Ceneo shows last price of 999 PLN (~€230). These are significantly below the larger terrace awning models in Selt's own range (e.g. Casablanca at €1,400), positioning Italia as a mid-range/entry-level balcony awning.",
+    "indikativa_priser": [
+      {
+        "text": "€510 indicative price excl. tax (manual, commercial version)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "€710 indicative price excl. tax for Box Italia variant",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "€620 indicative price excl. tax for Balcony Italia variant",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "Starting from 325.00€ (ex tax 268.60€)",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-ITALIA"
+        }
+      },
+      {
+        "text": "999,00 zł (last known price, railing-mounted balcony version with 70cm reach, up to 170cm width, manual drive, acrylic fabric)",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Selt Italia",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "Italia box awning",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/en/product/italia-box-awning"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Italia balcony awning / markiza balkonowa Italia",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Box Italia (cassette version)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "Balcony Italia",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "Italia poręczowa (railing-mounted version)",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "folding-arm awning",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "drop arms / ramiona opuszczane",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "half cassette / półkaseta",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "roller tube / rura nawojowa",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/pomiar-i-dane-techniczne-markizy-balkonowej-italia-selt/?srsltid=AfmBOooHki3ZY4-iptpwDW-byfrvB_JIwUHE007GpSpiyEyibXdjDSM9"
+        }
+      },
+      {
+        "text": "valance / falbana",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "projection / reach / wysięg",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "powder lacquered / lakierowany proszkowy",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "recess bracket / wspornik wnękowy",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/pomiar-i-dane-techniczne-markizy-balkonowej-italia-selt/?srsltid=AfmBOooHki3ZY4-iptpwDW-byfrvB_JIwUHE007GpSpiyEyibXdjDSM9"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Selt Italia awning",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      },
+      {
+        "text": "Selt Italia markiza",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/42390019?srsltid=AfmBOoqBuAIACDxPUU_EuD5FxN96Sxi0Y46Pg0vhYvlD-JCHxBvRX8CC"
+        }
+      },
+      {
+        "text": "Italia balcony awning Selt",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/measurement-and-technical-data-of-balcony-awning-italia-selt/"
+        }
+      },
+      {
+        "text": "Selt sun protection systems Italia",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394005.html"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:20:40.890Z"
+}

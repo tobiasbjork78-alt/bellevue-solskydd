@@ -1,0 +1,1319 @@
+{
+  "entity": "Selt Australia awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt Australia awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Australia awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Australia awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Australia awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Australia awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt Australia awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Australia awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Australia awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Selt Australia awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Australia awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Australia awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Australia awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Australia awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Australia awning forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Australia awning ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt Australia awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Australia awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Australia awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Australia awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Australia awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Australia awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Australia awning usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Selt Australia awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Australia awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Australia awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Australia awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Australia awning montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Selt Australia awning instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "aluprof.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "specifiedby.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "shadesystems.com.au",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "kokoso.lt",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "selt.com",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "awnings-sydney.com.au",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "caravansplus.com.au",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "regentcaravans.com.au",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "mygenerator.com.au",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "dopasujrolety.pl",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "oslonymielczarek.pl",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "magpergole.pl",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "kmproject.net",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "oknarolety.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "erli.pl",
+      "category": "manufacturer",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "xprekes.lt",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "destination4wd.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "productreview.com.au",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "helioscreen.com.au",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "yelp.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "prospectingaustralia.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "alfrescoshade.com.au",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "wfaus.com.au",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "uniline.com.au",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "outriggerawnings.com.au",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "kokoso.lt",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "nz.trustpilot.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "uk.trustpilot.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "au.trustpilot.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "caravanersforum.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "bushtrackerownersgroup.asn.au",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "thegreynomads.activeboard.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "nissanpatrol.com.au",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "e-markizy.pl",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "allegro.pl",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "rcgroups.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "forums.whirlpool.net.au",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "ceneo.pl",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "dopasujrolety.pl",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "oknarolety.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "caravanersforum.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "thegreynomads.activeboard.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "adelaiderv.com.au",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "xtendoutdoors.com.au",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "prospectingaustralia.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "discoverercampersgoldcoast.com.au",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "burnsforblinds.com.au",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "heritageblinds.com.au",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "helioscreen.com.au",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "consumer.vic.gov.au",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "justanswer.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "alfrescoshade.com.au",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "tradervs.com.au",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "cflawnings.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "blindrepaircentre.com.au",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "quantumawnings.com.au",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "shadesystems.com.au",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "outriggerawnings.com.au",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "s3.us-east-1.amazonaws.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "tricancorp.ca",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "kokoso.lt",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "issuu.com",
+      "category": "negative",
+      "rank": 9,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "mygenerator.com.au",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "caravansplus.com.au",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "arbusa.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "4wdsupacentre.com.au",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "destination4wd.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "dometic.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "factoryfast.com.au",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "burnsforblinds.com.au",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "outbackequipment.com.au",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "roofrack.com.au",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "aussietraveller.com.au",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 1,
+      "url": "https://aluprof.com/us/product/australia-awning",
+      "domain": "aluprof.com",
+      "title": "AUSTRALIA AWNING - Aluprof",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 2923,
+      "fetchedAt": "2026-05-20T11:13:22.956Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://www.prospectingaustralia.com/threads/awnings-the-worst-of-worst.33689/",
+      "domain": "prospectingaustralia.com",
+      "title": "Awnings! The worst of worst! | Prospecting Australia - Gold Prospecting & Fossicking Forum",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:13:26.319Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html",
+      "domain": "pdf.archiexpo.com",
+      "title": "Awnings - Selt Sun Protection Systems - PDF Catalogs | Documentation | Brochures",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:13:47.303Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/",
+      "domain": "shopsun.eu",
+      "title": "Jamaica Selt Terrace Awning - Measurement and Technical Data",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 6299,
+      "fetchedAt": "2026-05-20T11:13:49.875Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL",
+      "domain": "e-markizy.pl",
+      "title": "Markiza Tarasowa Australia Selt - Pomiar i Dane techniczne - Szer. do 700cm",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 5694,
+      "fetchedAt": "2026-05-20T11:13:52.476Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://www.ceneo.pl/15327272?srsltid=AfmBOoqevPWnJ72asm6-f7xZEu6wEU4FwQNkhGuSEU9DV5l8IZLmFJl2",
+      "domain": "ceneo.pl",
+      "title": "Selt Markiza Australia 470x210Cm - Opinie i ceny na Ceneo.pl",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 5418,
+      "fetchedAt": "2026-05-20T11:14:18.510Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://kokoso.lt/en/product/a24545947868/",
+      "domain": "kokoso.lt",
+      "title": "Buy Terrace awning selt australia 470 x 160 online ❮844.33 €❯ ⭐ Kokoso.lt",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 2612,
+      "fetchedAt": "2026-05-20T11:14:22.446Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://plikiapi.selt.com/download/Technical%20&%20installation%20document%20Australia.pdf?nazwa=dokument/2538085DT_E_1131_IM_AUSTRALIA_EN_2023.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/www.outdoor-revolution.com?page=10",
+      "reason": "review-not-model-specific (model tokens [australia] absent in fetched text)"
+    },
+    {
+      "url": "https://www.mygenerator.com.au/assets/files/ATRV_Cassette_Awning_Manual.pdf?srsltid=AfmBOoo5NWPvojOyhvjHjMrQldM14cmZtKi2KnIuyc5y9i262O93ix0H",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.productreview.com.au/listings/30-second-wing-awning",
+      "reason": "review-not-model-specific (model tokens [australia] absent in fetched text)"
+    },
+    {
+      "url": "https://allegro.pl/oferta/markiza-tarasowa-selt-australia-690-x-260-11621909033",
+      "reason": "no-text"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "aluprof.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "prospectingaustralia.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "pdf.archiexpo.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "e-markizy.pl",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "ceneo.pl",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "kokoso.lt",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Australia awning is a non-cassette system in which the structure is based on a supporting square bar. The construction of the awning allows for installation even on small mounting surface. With big awning widths an additional reinforcement of the roller tube is used to prevent its deformation and uneven rolling of the fabric. It is also possible to use telescopic supports in this system. The arms are equipped with Flyer's chains which guarantee their reliable and safe operation even with large awning dimensions. The construction of the awning is made of extruded aluminium which guarantees its high durability and longevity. Brackets made from pressure cast and extruded aluminium provide high durability with relatively low weight. Square construction beam provides relative freedom of bracket placement.",
+    "kalla": {
+      "domän": "pdf.archiexpo.com",
+      "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Non-cassette system based on a supporting square bar (4x4 cm cross-section)",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+      }
+    },
+    {
+      "text": "Folding aluminium arms with springs and Flyer's chain system, with folded arm levelling",
+      "kalla": {
+        "domän": "pdf.archiexpo.com",
+        "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+      }
+    },
+    {
+      "text": "Maximum width 7.0 m, maximum projection 3.6 m",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/australia-awning"
+      }
+    },
+    {
+      "text": "Adjustable tilt angle from 5° to 60°",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/australia-awning"
+      }
+    },
+    {
+      "text": "Roller tube diameter 70 mm and 78 mm",
+      "kalla": {
+        "domän": "pdf.archiexpo.com",
+        "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+      }
+    },
+    {
+      "text": "Over 150 fabric patterns available",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/australia-awning"
+      }
+    },
+    {
+      "text": "Teflon-coated acrylic fabric, over 100 colours",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+      }
+    },
+    {
+      "text": "Construction made of extruded aluminium; brackets made from pressure cast and extruded aluminium",
+      "kalla": {
+        "domän": "pdf.archiexpo.com",
+        "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+      }
+    },
+    {
+      "text": "Optional overlapping arms (not available with a projection of 360 cm)",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/australia-awning"
+      }
+    },
+    {
+      "text": "Optional half-cassette available for fabric protection",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+      }
+    },
+    {
+      "text": "Both manual drive (crank lengths 1.5m, 1.8m, 2.2m) and electric drive (motor with or without emergency opening) available",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+      }
+    },
+    {
+      "text": "Automation options: key switch, control unit, remote control, wind sensor",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+      }
+    },
+    {
+      "text": "Construction colour options: RAL 9010 MAT Alpine white, RAL 1015 MAT Ivory, RAL 8014 MAT Brown, RAL 9006 MAT Silver, FSM 71319 MAT Fine structure graphite, RAL 7016 STR Anthracite grey structure, RAL 9005 STR Black structure",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+      }
+    },
+    {
+      "text": "Three valance shapes (C, D & E); standard valance height 21 cm (±0.5 cm), maximum height 40 cm for C and D, 100 cm for E shape. Valance can be quickly dismantled by pulling it out.",
+      "kalla": {
+        "domän": "pdf.archiexpo.com",
+        "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+      }
+    },
+    {
+      "text": "Mounting options: wall, ceiling, roof rafter",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+      }
+    },
+    {
+      "text": "Can be installed on walls insulated with e.g. Styrofoam, even up to 20 cm thick",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+      }
+    },
+    {
+      "text": "Telescopic front bar supports available in Standard and Plus versions, which increase the wind resistance of the system",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/australia-awning"
+      }
+    },
+    {
+      "text": "Cross arms (overlapping arms) can be used to achieve greater reach than the standard configuration",
+      "kalla": {
+        "domän": "e-markizy.pl",
+        "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Terrace awning for external sun shading on residential and commercial buildings",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/australia-awning"
+      }
+    },
+    {
+      "text": "Installation even on small mounting surfaces due to the construction design",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/australia-awning"
+      }
+    },
+    {
+      "text": "External application only (not for internal use)",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/australia-awning"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen hittade efter sökning på 7 källor. Ceneo.pl har en produktlista med 1 röst (betyg 4.0) men ingen textrecension. Prospectingaustralia.com-tråden handlar om camping-/fordonsmarkiser i Australien, inte om produkten Selt Australia. Inga kundrecensioner eller skriftliga omdömen om Selt Australia-markisen kunde extraheras."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "No cassette protection – it is a non-cassette system (no optional hood either)",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/australia-awning"
+        }
+      },
+      {
+        "text": "Overlapping arms not available with a projection of 360 cm",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/australia-awning"
+        }
+      },
+      {
+        "text": "Projection is strictly dependent on width – narrower awnings have limited projection options: width 195–244 cm allows only 160 cm projection; width 245–294 cm allows 160 or 210 cm; width 295–344 cm allows up to 260 cm; width 345–394 cm allows up to 310 cm; only width 395–700 cm allows the full 360 cm projection",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "In some cases the maximum tilt angle is limited to 40 degrees (rather than the stated 60 degrees)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "External application only – not suitable for internal use",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/australia-awning"
+        }
+      },
+      {
+        "text": "Width dimension production tolerance of ±2 cm",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "For PLAIN fabrics, the only available valance type is E",
+        "kalla": {
+          "domän": "pdf.archiexpo.com",
+          "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga rapporterade vanliga problem eller olämplighetsfall hittade i de 7 källorna. Inga negativa användarrapporter specifikt om Selt Australia-markisen identifierades."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Installation is simple and limited to attaching the brackets to the wall or ceiling. The awning arrives fully assembled and adjusted. The tilt angle can be freely adjusted after installation.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "The number of mounting brackets (from 2 to 5) depends on the width of the awning. The manufacturer sets a standard number of brackets for given dimensions; if necessary, it is possible to use more brackets.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "Three arms are mounted at larger widths for stability: at projection 160/210/260 cm – 3 arms from width 531 cm; at projection 310 cm – 3 arms from width 591 cm; at projection 360 cm – 3 arms from width 651 cm.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "With big awning widths an additional reinforcement of the roller tube is used to prevent its deformation and uneven rolling of the fabric.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/australia-awning"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Tilt angle adjustment procedure: Unroll awning completely, find arm holder with adjustment screw, loosen M70 screw with Allen key, use open-end wrench to unscrew (increase angle) or tighten (decrease angle) the adjusting screws, tighten M70 screw, use spirit level to check front beam is horizontal.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "Can be mounted to walls insulated with Styrofoam up to 20 cm thick without problems.",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "Three mounting methods: wall mounts, ceiling mounts (combined with wall mounts), and rafter mounts (integrated with wall mounts).",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "No direct price found for the Selt Australia model in the sources (the Ceneo listing shows 0.00 zł indicating out of stock). However, a Lithuanian retailer lists a Selt Australia 470x160 at 844.33 EUR and a Selt Australia 395x360 at 1,290.13 EUR, positioning it above budget side awnings (which are 350–770 PLN / under 200 EUR on Ceneo) but below premium cassette systems. The product is a non-cassette open-type awning, which is typically a mid-range segment product in the Selt lineup (below models like the cassette Malta or the Jamaica with more features). Note from Ceneo listing: 'Markiz nie wysyłamy kurierem, odbiór osobisty w W-wie' (awnings not shipped by courier, personal pickup in Warsaw only), suggesting custom/trade distribution rather than mass-market retail.",
+    "indikativa_priser": [
+      {
+        "text": "844.33 EUR for Selt Australia 470x160 (kokoso.lt, May 2025)",
+        "kalla": {
+          "domän": "kokoso.lt",
+          "url": "https://kokoso.lt/en/product/a24545947868/"
+        }
+      },
+      {
+        "text": "1,290.13 EUR for Selt Australia 395x360 (kokoso.lt, listed alongside)",
+        "kalla": {
+          "domän": "kokoso.lt",
+          "url": "https://kokoso.lt/en/product/a24545947868/"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Selt Australia awning",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/australia-awning"
+        }
+      },
+      {
+        "text": "Markiza tarasowa Australia Selt",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "terrace awning / markiza tarasowa",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "retractable awning canopy",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      },
+      {
+        "text": "terrace cover / balcony cover",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Flyer's chain – arm chain system guaranteeing stable arm operation",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/australia-awning"
+        }
+      },
+      {
+        "text": "Non-cassette system (awning without full cassette enclosure for the rolled fabric)",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/australia-awning"
+        }
+      },
+      {
+        "text": "Folded arm levelling",
+        "kalla": {
+          "domän": "pdf.archiexpo.com",
+          "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+        }
+      },
+      {
+        "text": "Overlapping arms / ramiona krzyżowe (cross arms for greater projection)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "Valance / falbana (decorative hanging front fabric edge)",
+        "kalla": {
+          "domän": "pdf.archiexpo.com",
+          "url": "https://pdf.archiexpo.com/pdf/selt-sun-protection-systems/awnings/65037-213265.html"
+        }
+      },
+      {
+        "text": "Half-cassette / półkaseta (protective cover above rolled-up awning roller tube)",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "Telescopic front bar supports",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/australia-awning"
+        }
+      },
+      {
+        "text": "Roller tube / rura nawojowa",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Selt Australia markiza",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/15327272?srsltid=AfmBOoqevPWnJ72asm6-f7xZEu6wEU4FwQNkhGuSEU9DV5l8IZLmFJl2"
+        }
+      },
+      {
+        "text": "e-markizy Australia Selt",
+        "kalla": {
+          "domän": "e-markizy.pl",
+          "url": "https://e-markizy.pl/markiza-tarasowa-australia-selt-dane-techniczne/?srsltid=AfmBOopqBS2rdGB5D6DLDt1yOdUdA0dCszA2dStsUK9Dx9YiwxrxZiOL"
+        }
+      },
+      {
+        "text": "terrace awning Selt Australia",
+        "kalla": {
+          "domän": "kokoso.lt",
+          "url": "https://kokoso.lt/en/product/a24545947868/"
+        }
+      },
+      {
+        "text": "markiza bez kasety / awning without cassette",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/jamaica-selt-terrace-awning-technical-data/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:16:07.599Z"
+}

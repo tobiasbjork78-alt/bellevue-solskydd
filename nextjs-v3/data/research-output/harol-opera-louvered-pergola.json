@@ -1,0 +1,1268 @@
+{
+  "entity": "Harol Opera louvered pergola",
+  "brand": "harol",
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Harol Opera louvered pergola",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol Opera louvered pergola specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol Opera louvered pergola datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol Opera louvered pergola caractéristiques techniques",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol Opera louvered pergola review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Opera louvered pergola customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Opera louvered pergola test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Harol Opera louvered pergola",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Opera louvered pergola forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Opera louvered pergola owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Opera louvered pergola avis",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Opera louvered pergola expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Opera louvered pergola forum expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol Opera louvered pergola problem",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Opera louvered pergola issue",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Opera louvered pergola drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Opera louvered pergola complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Opera louvered pergola broken",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Opera louvered pergola problème",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Opera louvered pergola inconvénient",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Opera louvered pergola défaut",
+      "category": "negative"
+    },
+    {
+      "query": "Harol Opera louvered pergola installation",
+      "category": "practical"
+    },
+    {
+      "query": "Harol Opera louvered pergola mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Harol Opera louvered pergola buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Harol Opera louvered pergola setup",
+      "category": "practical"
+    },
+    {
+      "query": "Harol Opera louvered pergola montage",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "harol.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "pratic.it",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "apolloopeningroof.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "pergomatic.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "outdoorelementsusa.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "paller.it",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "hansohome.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "lousol.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "usercontent.one",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "pergolaseolo.com",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 3
+    },
+    {
+      "domain": "exteriorperfections.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "sarkcustomawnings.com",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "sunairdirect.com",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "gallagherspatiostructures.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "pergolaroof.com",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "theluxurypergola.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "harol.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "homedepot.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "ombrasole.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "pergomatic.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "usercontent.one",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "pratic.it",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "aluminumpergola.ca",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "valleycovers.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "azenco-outdoor.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "durkinsinc.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "gardensofstyle.co.uk",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "city.milwaukee.gov",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "rma.venturacounty.gov",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "dsss.be",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "batiadvisor.fr",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "bonpergola.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "sunairdirect.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "pergolaroof.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "serobanpergola.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "captainbobcat.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "sunairdirect.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "bonpergola.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "schildr.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "aluminumpergola.ca",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "azenco-outdoor.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "giantfactorydirect.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "artigwall.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "apolloopeningroof.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "backyarddiscovery.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "flexispot.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "lousol.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "pergomatic.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "pratic.it",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "sunlouvrepergolas.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "pergolade.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "samsonawnings.co.uk",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "smartshadestructures.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "woodlarkgardenluxury.co.uk",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "suncgroup.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "durkinsinc.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "gardensofstyle.co.uk",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "thediyplaybook.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "pratic.it",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "lousol.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "apolloopeningroof.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "purpleleafshop.com",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "miradoroutdoor.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "theluxurypergola.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "reddit.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "azenco-outdoor.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "pergoluxshop.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "eaglepatio.com",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "sunairawnings.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/",
+      "domain": "harol.com",
+      "title": "Opera - Slatted roof pergola | Harol",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 4421,
+      "fetchedAt": "2026-05-20T11:08:35.755Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.bonpergola.com/blogs/news/installing-a-louvered-pergola-the-pros-and-cons?srsltid=AfmBOoo_rvUQ5KOlKs-PxsTyZCpUas3aBDfr3K1v2BBJF6KRli_tCDNH",
+      "domain": "bonpergola.com",
+      "title": "Installing a Louvered Pergola: The Pros and Cons",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:08:59.553Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://www.miradoroutdoor.com/blogs/our-blogs/a-comprehensive-guide-for-pergola-and-installation?srsltid=AfmBOoq5Qt9kB0lHeCPa3zYloQXdwn4nbfhLCucDIuQPZhwPlA-UJfoq",
+      "domain": "miradoroutdoor.com",
+      "title": "A Comprehensive Guide for Pergola and Installation",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:09:03.315Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.pratic.it/en/product/opera/",
+      "domain": "pratic.it",
+      "title": "Opera - Bioclimatic Pergolas - Pratic",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:09:06.068Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://thediyplaybook.com/mirador-pergola-installation/",
+      "domain": "thediyplaybook.com",
+      "title": "My Step-by-Step Mirador Louvered Pergola Installation",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:09:08.698Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/",
+      "domain": "serobanpergola.com",
+      "title": "10 Common Aluminum Louvered Pergola Problems and Solutions - Seroban",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:09:14.792Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://captainbobcat.com/learn-the-pros-and-cons-of-louvered-vs-retractable-pergolas/",
+      "domain": "captainbobcat.com",
+      "title": "Learn The Pros and Cons of Louvered vs Retractable Pergolas - Captain Bobcat",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:09:17.428Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://www.reddit.com/r/landscaping/comments/174a7mw/feedback_on_aluminum_pergolas/",
+      "domain": "reddit.com",
+      "title": "Feedback on Aluminum Pergola's : r/landscaping",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:09:19.818Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/",
+      "domain": "azenco-outdoor.com",
+      "title": "7 mistakes when buying a motorized pergola | Azenco Outdoor",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:09:22.861Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://theluxurypergola.com/blogs/pergola-guide/the-luxury-pergola-review-honest-louvered-pergola-review?srsltid=AfmBOoruHzOmC9hxFQiPzXWraNX3Wv51eOTm44LBwimW9gBFhbIWJUz4",
+      "reason": "review-not-model-specific (model tokens [opera, louvered] absent in fetched text)"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/theluxurypergola.com?page=5",
+      "reason": "review-not-model-specific (model tokens [opera, louvered] absent in fetched text)"
+    },
+    {
+      "url": "https://sunairawnings.com/media/files/pergola-opera-overview-sunair.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "harol"
+    ],
+    "acceptedDomains": [
+      "harol.com"
+    ],
+    "candidates": [
+      {
+        "domain": "harol.com",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "bonpergola.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "miradoroutdoor.com",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "pratic.it",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "thediyplaybook.com",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "serobanpergola.com",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "captainbobcat.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "reddit.com",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "azenco-outdoor.com",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "The Opera slatted roof can be surface-mounted or self-supporting. Enrich your luxury 'outdoor room' with extra comforts such as glass or wooden sliding walls, dimmable LED lighting, heating and integrated screens. The Opera slatted roof can be surface-mounted on the building or installed as a free-standing unit, on four posts. Thanks to precise customisation, the slatted roof can be matched perfectly to your home. Create additional comfort and atmosphere with glass or wooden sliding walls, dimmable LED lighting (white or RGB), dimmable LED spotlights, windproof screens, heating and integrated sensors (sun, rain, temperature and wind). With a maximum width of 5.5 m, depth of 7 m, height of 3 m and an impressive span of 38,5 m² per module, this system offers versatility and a spacious solution. It is also 'connectable', both in width and depth.",
+    "kalla": {
+      "domän": "harol.com",
+      "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Free-standing and lean-to (surface-mounted on the building or installed as a free-standing unit on four posts)",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Maximum surface area: 38.5 m² per module (max width 5.5 m, max depth 7 m, max height 3 m, post dimensions 15 x 15 cm)",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Connectable both in width and depth (modules can be linked)",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Glass or wooden sliding walls available for side closure",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Dimmable LED lighting (white or RGB), dimmable LED spotlights",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Windproof screens and integrated sensors (sun, rain, temperature and wind)",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Heating integration available",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Available in 8 standard colours at no additional cost, plus all RAL colours and an extensive range of textured coatings. Available with Tiger coating class II",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "100% made-to-measure solutions",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "5-year quality guarantee",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Surface-mounted (lean-to) extending living space adjacent to the home, offering a seamless transition from indoors to outdoors – ideal for dining areas or sheltered relaxation",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Free-standing unit on four posts as a focal point in a garden, private retreat by a pool, or intimate setting for gatherings set away from the house",
+      "kalla": {
+        "domän": "bonpergola.com",
+        "url": "https://www.bonpergola.com/blogs/news/installing-a-louvered-pergola-the-pros-and-cons?srsltid=AfmBOoo_rvUQ5KOlKs-PxsTyZCpUas3aBDfr3K1v2BBJF6KRli_tCDNH"
+      }
+    },
+    {
+      "text": "Year-round outdoor use including winter, enabled by adding heating and lighting to eliminate chill on cool evenings",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Protection against weather, wind and privacy from onlookers using sliding walls or screens",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+      }
+    },
+    {
+      "text": "Adjustable shade and ventilation: louvers can be angled from completely open to fully closed, maximizing shade in summer while allowing a breeze, or opened in off-season to let warm sun in",
+      "kalla": {
+        "domän": "bonpergola.com",
+        "url": "https://www.bonpergola.com/blogs/news/installing-a-louvered-pergola-the-pros-and-cons?srsltid=AfmBOoo_rvUQ5KOlKs-PxsTyZCpUas3aBDfr3K1v2BBJF6KRli_tCDNH"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundcitat specifikt om Harol Opera hittade efter sökning på 9 källor. Reddit-tråden diskuterar andra märken (Bon Pergola, Pergolux, Hanso, The Luxury Pergola, Struxxure) men nämner inte Harol Opera."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Louvered pergolas may not be ideal for those looking for full protection from the elements, since they don't offer a complete seal against rain or heavy wind",
+        "kalla": {
+          "domän": "captainbobcat.com",
+          "url": "https://captainbobcat.com/learn-the-pros-and-cons-of-louvered-vs-retractable-pergolas/"
+        }
+      },
+      {
+        "text": "Rain Protection: When angled properly, louvers can provide a decent amount of rain protection. However, they are not fully waterproof.",
+        "kalla": {
+          "domän": "captainbobcat.com",
+          "url": "https://captainbobcat.com/learn-the-pros-and-cons-of-louvered-vs-retractable-pergolas/"
+        }
+      },
+      {
+        "text": "Water leakage is perhaps the most cited issue from pergola owners. Despite louvers closing fully, water can sometimes seep through or drip, particularly during heavy rain or storms. Causes include incorrect slope/installation, damaged seals or gaskets, and clogged overhead drainage systems.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Louver mechanism failure: louvers stop rotating or become difficult to adjust due to debris buildup in tracks, lack of lubrication, worn or damaged gears, misaligned louvers. Salt air near coastal areas accelerates wear.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Motor or remote control problems: motor won't respond, remote control fails, intermittent movement. Causes include dead batteries, signal interference, faulty motor or wiring, weather-related damage. Water intrusion can short electronics.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Corrosion or paint damage: UV exposure causes fading over time, abrasive particles wear the finish, salt air near coastal areas can cause minor surface corrosion or oxidation.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Structural instability or rattling noise: loose fasteners, shifting soil/foundation movement, improper installation, thermal expansion and contraction can cause wobbles, squeaks, or rattle in wind.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Uneven louvers or sagging from improper initial leveling, warp from thermal stress, or loose support brackets.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Insect or debris accumulation: bees, wasps, spiders, and leaves can accumulate in louvers, creating nests or blockages.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Gapless louver systems are recommended over older designs for areas with heavy rainfall or storms; standard louver systems may not provide sufficient weather protection in such conditions.",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      },
+      {
+        "text": "If you live by the coast, salt air can quickly cause metals to rust if not treated. Specific material considerations are vital for coastal installations.",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Apply a silicone-based spray lubricant to pivot points and tracks every 3–6 months. Avoid oil-based lubricants, which attract dirt.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Clean the louvered pergola at least twice a year using a mild detergent mixed with water and a soft cloth. Rinse all soapy spots with water.",
+        "kalla": {
+          "domän": "bonpergola.com",
+          "url": "https://www.bonpergola.com/blogs/news/installing-a-louvered-pergola-the-pros-and-cons?srsltid=AfmBOoo_rvUQ5KOlKs-PxsTyZCpUas3aBDfr3K1v2BBJF6KRli_tCDNH"
+        }
+      },
+      {
+        "text": "Apply a clear automotive wax annually to protect paint from UV and moisture.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Perform a water test after installation. Check and tighten any loose screws or fasteners to prevent louver misalignment during rainfall.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Protect electronics from voltage spikes by installing a surge protector. Store the remote indoors when not in use.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Check built-in gutters, downspouts, and internal channels regularly. Remove leaves, twigs, or grit that block water flow.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "Regularly conduct an annual inspection of all fasteners, bolts, and screws. Loose connections can compromise the stability of the pergola, impacting its ability to withstand weather conditions.",
+        "kalla": {
+          "domän": "bonpergola.com",
+          "url": "https://www.bonpergola.com/blogs/news/installing-a-louvered-pergola-the-pros-and-cons?srsltid=AfmBOoo_rvUQ5KOlKs-PxsTyZCpUas3aBDfr3K1v2BBJF6KRli_tCDNH"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Choosing wrong materials for your climate: selecting materials that aren't right for local weather conditions. Many homeowners focus on how a pergola looks more than how well it performs, leading to early damage and costly repairs.",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      },
+      {
+        "text": "Overlooking louver specifications: gapless louver systems offer better weather protection than older designs. Dual-wall design adds strength and cuts down on sound. Check wind and snow load ratings.",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      },
+      {
+        "text": "Sacrificing quality for initial savings: cheaper materials often demand regular treatments, replacements, or repairs that can end up costing more over the lifespan of the pergola. Evaluate total cost of ownership rather than just the upfront price.",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      },
+      {
+        "text": "Overlooking hidden installation and maintenance costs: installation complexity can vary significantly. Complex projects could require electrical work, structural modifications, or permit approvals.",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      },
+      {
+        "text": "Ignoring building codes and structural standards: local building codes vary, particularly in areas prone to hurricanes. Professional installation by certified dealers ensures compliance.",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Check alignments of the frame and distance between all pillars before installing louvers. Measure diagonal distance between opposite corner pillars. If things are off, you'll have trouble adding louvers to the top.",
+        "kalla": {
+          "domän": "thediyplaybook.com",
+          "url": "https://thediyplaybook.com/mirador-pergola-installation/"
+        }
+      },
+      {
+        "text": "Secure pillars to the ground by anchoring them with concrete footings. Dig holes at designated spots for each pillar and pour concrete into the holes. Insert the pillars into the wet concrete and allow it to dry.",
+        "kalla": {
+          "domän": "miradoroutdoor.com",
+          "url": "https://www.miradoroutdoor.com/blogs/our-blogs/a-comprehensive-guide-for-pergola-and-installation?srsltid=AfmBOoq5Qt9kB0lHeCPa3zYloQXdwn4nbfhLCucDIuQPZhwPlA-UJfoq"
+        }
+      },
+      {
+        "text": "A pergola closer to the house will naturally be more stable than a free-standing one.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "For soil installations, consider deeper footings or helical piers. Cross-bracing or diagonal supports can greatly increase rigidity. In windy environments, use wind straps or cable braces.",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga Harol Opera-specifika monterings- eller återförsäljartips hittade i källorna. Ovanstående är generell louvered-pergola-kunskap som är tillämplig på kategorin."
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Harol positions the Opera as a fully customised, made-to-measure Belgian product with 80+ years of craftsmanship, design awards, a 5-year guarantee, Tiger class II coating option, and extensive integrated accessories (sensors, heating, lighting, sliding walls). It is sold through dealers with professional installation, not as a DIY kit. This positions it above the mid-range aluminium louvered pergola kits (e.g. Bon Pergola at $7-20K USD for DIY kits as discussed on Reddit) and in the premium/professional segment of the European market.",
+    "indikativa_priser": [],
+    "tomhetsanteckning_pris": "Inga specifika priser för Harol Opera hittade i källorna. Harol-webbplatsen hänvisar till 'Free quote' via återförsäljare utan att ange listpriser."
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Opera",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+        }
+      },
+      {
+        "text": "slatted roof (Harol's own term for the product category)",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "louvered pergola",
+        "kalla": {
+          "domän": "bonpergola.com",
+          "url": "https://www.bonpergola.com/blogs/news/installing-a-louvered-pergola-the-pros-and-cons?srsltid=AfmBOoo_rvUQ5KOlKs-PxsTyZCpUas3aBDfr3K1v2BBJF6KRli_tCDNH"
+        }
+      },
+      {
+        "text": "bioclimatic pergola",
+        "kalla": {
+          "domän": "miradoroutdoor.com",
+          "url": "https://www.miradoroutdoor.com/blogs/our-blogs/a-comprehensive-guide-for-pergola-and-installation?srsltid=AfmBOoq5Qt9kB0lHeCPa3zYloQXdwn4nbfhLCucDIuQPZhwPlA-UJfoq"
+        }
+      },
+      {
+        "text": "motorized pergola / motorized louvered pergola",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      },
+      {
+        "text": "motorized aluminum pergola",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "louvers / slats (adjustable roofing slats)",
+        "kalla": {
+          "domän": "bonpergola.com",
+          "url": "https://www.bonpergola.com/blogs/news/installing-a-louvered-pergola-the-pros-and-cons?srsltid=AfmBOoo_rvUQ5KOlKs-PxsTyZCpUas3aBDfr3K1v2BBJF6KRli_tCDNH"
+        }
+      },
+      {
+        "text": "gapless louver system",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      },
+      {
+        "text": "dual-wall design (louver construction for strength and noise reduction)",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      },
+      {
+        "text": "powder-coated finish / Tiger coating class II",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+        }
+      },
+      {
+        "text": "windproof screens",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+        }
+      },
+      {
+        "text": "integrated sensors (sun, rain, temperature, wind)",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+        }
+      },
+      {
+        "text": "wind and snow load ratings",
+        "kalla": {
+          "domän": "azenco-outdoor.com",
+          "url": "https://azenco-outdoor.com/7-mistakes-when-buying-a-motorized-pergola/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Harol Opera",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+        }
+      },
+      {
+        "text": "Harol slatted roof",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+        }
+      },
+      {
+        "text": "Harol pergola",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/pergolas/slatted-roofs/opera/"
+        }
+      },
+      {
+        "text": "aluminum louvered pergola",
+        "kalla": {
+          "domän": "serobanpergola.com",
+          "url": "https://www.serobanpergola.com/aluminum-louvered-pergola-problems-and-solutions/"
+        }
+      },
+      {
+        "text": "adjustable slat pergola",
+        "kalla": {
+          "domän": "captainbobcat.com",
+          "url": "https://captainbobcat.com/learn-the-pros-and-cons-of-louvered-vs-retractable-pergolas/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:11:10.556Z"
+}

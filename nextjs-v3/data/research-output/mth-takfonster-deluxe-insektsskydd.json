@@ -1,0 +1,898 @@
+{
+  "entity": "MTH Takfonster Deluxe insektsskydd",
+  "brand": "mth",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd recension",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd test",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot MTH Takfonster Deluxe insektsskydd",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd review",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd problem",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd issue",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd drawback",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd complaint",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd broken",
+      "category": "negative"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd montering",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd installation",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd köptips",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "MTH Takfonster Deluxe insektsskydd setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "markispersienn.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "bygggrossen.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "gunnargroth.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "warema.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "velux.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "byggbay.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "veluxshop.se",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "clubpilote.se",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "mthab.se",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "fakrosverige.se",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "mthab.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "bauhaus.se",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "byggbay.se",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "bygggrossen.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "hobby-caravan.de",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "markispersienn.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "deluxegroup.co.nz",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "camping4u.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "camperonline.it",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "nz.trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "uk.trustpilot.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "mthab.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "warema.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "markispersienn.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "bauhaus.se",
+      "category": "negative",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "velux.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "bygggrossen.se",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "fakrosverige.se",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "gunnargroth.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "veluxshop.se",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "mthab.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "gunnargroth.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "bygggrossen.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "markispersienn.se",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "warema.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "velux.se",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "veluxshop.se",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 1,
+      "url": "https://markispersienn.se/inomhus/insektsnat/insektsnat-fonster-takfonster-deluxe/",
+      "domain": "markispersienn.se",
+      "title": "Insektsnät takfönster Deluxe | Markis & Persienn Fabriken",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 6059,
+      "fetchedAt": "2026-05-20T11:36:15.792Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://gunnargroth.com/myggnat/",
+      "domain": "gunnargroth.com",
+      "title": "Myggnät - Fönsterbyte Östersund",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 527,
+      "fetchedAt": "2026-05-20T11:36:18.397Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://mthab.se/fonster/takfonster-de-lux/",
+      "domain": "mthab.se",
+      "title": "Takfönster Deluxe – MTH Scandinavia",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 1117,
+      "fetchedAt": "2026-05-20T11:36:21.539Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://www.warema.com/sv-se/insektsskydd/myggnaet-takfoenster.html",
+      "domain": "warema.com",
+      "title": "Myggnät takfönster | WAREMA guide insektsskydd",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 576,
+      "fetchedAt": "2026-05-20T11:36:25.004Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.velux.se/produkter/in-och-utvandiga-solskydd/insektsnat/insektsnat-till-takfonster",
+      "domain": "velux.se",
+      "title": "VELUX insektsnät | Insektsnät för takfönster",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:36:34.672Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.veluxshop.se/produkter/insektsnaet",
+      "domain": "veluxshop.se",
+      "title": "Insektsnät",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:36:38.971Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.byggbay.se/insektsnat-foer-takfoenster.html?srsltid=AfmBOornN1bRWNsY1FQOBmDQ1dt7nohJ7WrP7O-f54OAMVz7EvnGLOB8",
+      "domain": "byggbay.se",
+      "title": "Insektsnät Rullgardiner Myggnät för Takfönster | byggbay.se",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 3727,
+      "fetchedAt": "2026-05-20T11:36:42.968Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://www.camping4u.se/sv/artiklar/litiumbatteri-150ah-epsilon-super-b.html",
+      "domain": "camping4u.se",
+      "title": "Litiumbatteri 150Ah, Epsilon Super B | Litiumbatteri - Fritidsbatterier - Elektronik | Camping4u.se",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:37:03.409Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.trustpilot.com/review/www.mthnetworks.com",
+      "reason": "review-not-model-specific (model tokens [takfonster, deluxe, insektsskydd] absent in fetched text)"
+    },
+    {
+      "url": "https://www.bygggrossen.se/product.html/myggrullgardin-mth?srsltid=AfmBOortal6jC9d7LfyO77dUeop68vnMV8lOLmTbKpQLwXeyEgb4Pej-",
+      "reason": "review-not-model-specific (model tokens [takfonster, deluxe, insektsskydd] absent in fetched text)"
+    },
+    {
+      "url": "https://www.deluxegroup.co.nz/uploads/6/2/4/9/62491403/mu_pilote_ccar_2021_web.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://nz.trustpilot.com/review/www.mthnetworks.com?page=8",
+      "reason": "review-not-model-specific (model tokens [takfonster, deluxe, insektsskydd] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "mth"
+    ],
+    "acceptedDomains": [
+      "mthab.se"
+    ],
+    "candidates": [
+      {
+        "domain": "markispersienn.se",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "gunnargroth.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "mthab.se",
+        "sourceIdx": 3,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "warema.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "velux.se",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "veluxshop.se",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "byggbay.se",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "camping4u.se",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "När nätet är nedrullat hålls det kvar med fjäderklämmor i sidoskenorna. Denna modell levereras färdig att montera i standard eller specialmått.\n\nMontering: Monteras in- eller utvändigt på fönsterkarm, innerkarm eller på väggen utanför smygen. Kassetten monteras horisontellt eller vertikalt. Vi rekommenderar att montera kassetten upptill eller på den sida där fönstrets gångjärn sitter. I karmen kring fönsteröppningen måste den plana ytan vara minst 2,5cm bred.\n\nDimensioner bredd: 43, 53, 63, 73, 83, 93, 103, 113, 133, 143, 153, 163, 173 cm / 48, 58, 68, 78, 88, 98, 108, 118, 128, 138, 148, 158, 168, 178 cm. Största höjd: 150 cm, kapas till rätt mått vid montering. (Önskas högre kontakta oss så försöker vi hitta en lösning). Färg på profil: Vit (RAL 9010). Nät: Standard (Grått nät) – Rekommenderas till takfönster då detta är vårt styvaste nät. Bellavista (Svart nät). Pollenreducerande (Svart nät). Stängning/Lås: Fjäderklämmor i skenorna.",
+    "kalla": {
+      "domän": "mthab.se",
+      "url": "https://mthab.se/fonster/takfonster-de-lux/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Nätet hålls kvar med fjäderklämmor i sidoskenorna när det är nedrullat.",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    },
+    {
+      "text": "Levereras färdig att montera i standard eller specialmått.",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    },
+    {
+      "text": "Kassetten kan monteras horisontellt eller vertikalt.",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    },
+    {
+      "text": "Monteras in- eller utvändigt på fönsterkarm, innerkarm eller på väggen utanför smygen.",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    },
+    {
+      "text": "Tre nätval: Standard (grått nät) – rekommenderas till takfönster då detta är det styvaste nätet; Bellavista (svart nät); Pollenreducerande (svart nät).",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    },
+    {
+      "text": "Färg på profil: Vit (RAL 9010).",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    },
+    {
+      "text": "Största höjd 150 cm, kapas till rätt mått vid montering. Önskas högre kan speciallösning diskuteras.",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    },
+    {
+      "text": "MTH myggnät är ett system som bygger på rullgardinsprincipen. De har lösningar för både inåtgående och utåtgående fönster och dörrar.",
+      "kalla": {
+        "domän": "gunnargroth.com",
+        "url": "https://gunnargroth.com/myggnat/"
+      }
+    },
+    {
+      "text": "Min bredd 43 cm, Max bredd 178 cm, Max höjd 150 cm (kapas till rätt mått vid montering). Standardkulör profiler: Vit. Regleras manuellt. Stängning/lås med fjäderklämmor i skenorna.",
+      "kalla": {
+        "domän": "markispersienn.se",
+        "url": "https://markispersienn.se/inomhus/insektsnat/insektsnat-fonster-takfonster-deluxe/"
+      }
+    },
+    {
+      "text": "Tillval: Högre höjd än 150 cm. Kontakta oss för att diskutera lösning.",
+      "kalla": {
+        "domän": "markispersienn.se",
+        "url": "https://markispersienn.se/inomhus/insektsnat/insektsnat-fonster-takfonster-deluxe/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Monteras på takfönster för att hålla insekter och mygg ute. Njut av vackert väder, utan insekter och mygg.",
+      "kalla": {
+        "domän": "gunnargroth.com",
+        "url": "https://gunnargroth.com/myggnat/"
+      }
+    },
+    {
+      "text": "Kan monteras in- eller utvändigt på fönsterkarm, innerkarm eller på väggen utanför smygen – flexibel montering beroende på fönstertyp.",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    },
+    {
+      "text": "Pollenreducerande nätval (svart nät) finns som alternativ för allergiker.",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    },
+    {
+      "text": "Rekommenderas att montera kassetten upptill eller på den sida där fönstrets gångjärn sitter.",
+      "kalla": {
+        "domän": "mthab.se",
+        "url": "https://mthab.se/fonster/takfonster-de-lux/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundrecensioner hittade efter sökning på 8 källor. Källa index 11 (camping4u.se) visade sig vara helt irrelevant (litiumbatteri). Ingen av de övriga källorna innehöll kundomdömen för denna specifika produkt."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Största höjd 150 cm. Önskas högre höjd krävs speciallösning efter kontakt med tillverkaren.",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "I karmen kring fönsteröppningen måste den plana ytan vara minst 2,5 cm bred för att montering ska fungera.",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "Regleras manuellt (ingen motoriserad variant nämns).",
+        "kalla": {
+          "domän": "markispersienn.se",
+          "url": "https://markispersienn.se/inomhus/insektsnat/insektsnat-fonster-takfonster-deluxe/"
+        }
+      },
+      {
+        "text": "Finns enbart i vit profil (RAL 9010) som standard.",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga rapporterade vanliga problem eller olämpliga lägen hittade i de 8 sökta källorna."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Vi rekommenderar att montera kassetten upptill eller på den sida där fönstrets gångjärn sitter.",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "Standard (grått nät) rekommenderas till takfönster då detta är det styvaste nätet.",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "Kassetten monteras horisontellt eller vertikalt. MTH beskriver horisontellt på bilder och montering.",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "I karmen kring fönsteröppningen måste den plana ytan vara minst 2,5 cm bred.",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Monteras in- eller utvändigt på fönsterkarm, innerkarm eller på väggen utanför smygen.",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "Höjden kapas till rätt mått vid montering (max 150 cm standard).",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "Stängning/lås med fjäderklämmor i skenorna.",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga vanliga felval specifikt dokumenterade i källorna. Återförsäljarkunskapen baseras på tillverkarens monteringsanvisningar."
+  },
+  "prisklass_positionering": {
+    "klass": "okand",
+    "motivation": "Ingen av källorna anger ett pris specifikt för MTH Takfonster Deluxe insektsskydd. Byggbay.se (källa 8) säljer en liknande men icke-identisk produkt (universellt insektsnät för takfönster, troligen annat märke) från 1 628,54 kr. Markispersienn.se och mthab.se anger inga priser. Utan bekräftade prisuppgifter för just MTH-produkten kan prisklassen inte fastställas.",
+    "indikativa_priser": [
+      {
+        "text": "Jämförelseprodukt (universellt insektsnät för takfönster, okänt märke, minsta storlek): från 1 628,54 kr inkl. moms (lägsta pris senaste 30 dagarna: 1 315,76 kr). Pris varierar med storlek upp till +724,18 kr i bredd och +199,75 kr i höjd.",
+        "kalla": {
+          "domän": "byggbay.se",
+          "url": "https://www.byggbay.se/insektsnat-foer-takfoenster.html?srsltid=AfmBOornN1bRWNsY1FQOBmDQ1dt7nohJ7WrP7O-f54OAMVz7EvnGLOB8"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Takfönster Deluxe",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "Takfönster De Lux (alternativ stavning på tillverkarens sida)",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Insektsnät för takfönster",
+        "kalla": {
+          "domän": "byggbay.se",
+          "url": "https://www.byggbay.se/insektsnat-foer-takfoenster.html?srsltid=AfmBOornN1bRWNsY1FQOBmDQ1dt7nohJ7WrP7O-f54OAMVz7EvnGLOB8"
+        }
+      },
+      {
+        "text": "Myggnät",
+        "kalla": {
+          "domän": "gunnargroth.com",
+          "url": "https://gunnargroth.com/myggnat/"
+        }
+      },
+      {
+        "text": "Insektsnät fönster takfönster deluxe",
+        "kalla": {
+          "domän": "markispersienn.se",
+          "url": "https://markispersienn.se/inomhus/insektsnat/insektsnat-fonster-takfonster-deluxe/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Rullgardinsprincipen (det system MTH myggnät bygger på)",
+        "kalla": {
+          "domän": "gunnargroth.com",
+          "url": "https://gunnargroth.com/myggnat/"
+        }
+      },
+      {
+        "text": "Fjäderklämmor (låsmekanism i skenorna)",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "Kassett (huset/behållaren som nätet rullas in i)",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "Pollenreducerande nät",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "Insektsskydd",
+        "kalla": {
+          "domän": "warema.com",
+          "url": "https://www.warema.com/sv-se/insektsskydd/myggnaet-takfoenster.html"
+        }
+      },
+      {
+        "text": "Smyg (väggytan kring fönsteröppningen)",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "MTH insektsnät takfönster",
+        "kalla": {
+          "domän": "mthab.se",
+          "url": "https://mthab.se/fonster/takfonster-de-lux/"
+        }
+      },
+      {
+        "text": "MTH Scandinavia myggnät",
+        "kalla": {
+          "domän": "gunnargroth.com",
+          "url": "https://gunnargroth.com/myggnat/"
+        }
+      },
+      {
+        "text": "Rullgardin Deluxe takfönster",
+        "kalla": {
+          "domän": "gunnargroth.com",
+          "url": "https://gunnargroth.com/myggnat/"
+        }
+      },
+      {
+        "text": "Myggnät takfönster",
+        "kalla": {
+          "domän": "warema.com",
+          "url": "https://www.warema.com/sv-se/insektsskydd/myggnaet-takfoenster.html"
+        }
+      },
+      {
+        "text": "Insektsnät fönster takfönster deluxe",
+        "kalla": {
+          "domän": "markispersienn.se",
+          "url": "https://markispersienn.se/inomhus/insektsnat/insektsnat-fonster-takfonster-deluxe/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:38:17.793Z"
+}

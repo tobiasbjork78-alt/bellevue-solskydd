@@ -1,0 +1,1163 @@
+{
+  "entity": "Harol BX270 folding arm awning",
+  "brand": "harol",
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Harol BX270 folding arm awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol BX270 folding arm awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol BX270 folding arm awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol BX270 folding arm awning caractéristiques techniques",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol BX270 folding arm awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol BX270 folding arm awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol BX270 folding arm awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Harol BX270 folding arm awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol BX270 folding arm awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol BX270 folding arm awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol BX270 folding arm awning avis",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol BX270 folding arm awning expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol BX270 folding arm awning forum expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol BX270 folding arm awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Harol BX270 folding arm awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Harol BX270 folding arm awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Harol BX270 folding arm awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Harol BX270 folding arm awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Harol BX270 folding arm awning problème",
+      "category": "negative"
+    },
+    {
+      "query": "Harol BX270 folding arm awning inconvénient",
+      "category": "negative"
+    },
+    {
+      "query": "Harol BX270 folding arm awning défaut",
+      "category": "negative"
+    },
+    {
+      "query": "Harol BX270 folding arm awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Harol BX270 folding arm awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Harol BX270 folding arm awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Harol BX270 folding arm awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Harol BX270 folding arm awning montage",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "harol.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "shadesystems.com.au",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 6
+    },
+    {
+      "domain": "geelongawnings.com.au",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "labona.eu",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "orestads-solskydd.se",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "portalimages.blob.core.windows.net",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "geelongawnings.com.au",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "harol.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 15
+    },
+    {
+      "domain": "shadesystems.com.au",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "forums.whirlpool.net.au",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "retractableawningreview.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "labona.eu",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "ozsun.com.au",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "forum.homeone.com.au",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "forum.expeditionportal.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "shadesystems.com.au",
+      "category": "negative",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "harol.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "negative",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "negative",
+      "rank": 3,
+      "hits": 6
+    },
+    {
+      "domain": "labona.eu",
+      "category": "negative",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "negative",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "luvifem.nl",
+      "category": "negative",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "rollac.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "dickson-constant.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "libertydoorandawning.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "barlowblinds.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "carrollarchitecturalshade.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "aladdininc.net",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "lifestyleawnings.com.au",
+      "category": "practical",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "practical",
+      "rank": 2,
+      "hits": 5
+    },
+    {
+      "domain": "labona.eu",
+      "category": "practical",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "shadesystems.com.au",
+      "category": "practical",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "undercoverblinds.com.au",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/",
+      "domain": "harol.com",
+      "title": "Folding arm awning Lux - Award-winning canopy | Harol",
+      "category": "reviews",
+      "isManufacturer": true,
+      "textLength": 5614,
+      "fetchedAt": "2026-05-20T11:04:27.110Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://www.lifestyleawnings.com.au/product/folding-arm-awning-care-and-cleaning/",
+      "domain": "lifestyleawnings.com.au",
+      "title": "Folding Arm Awning Care and Cleaning - Lifestyle Awnings",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 5634,
+      "fetchedAt": "2026-05-20T11:04:31.420Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s",
+      "domain": "archiproducts.com",
+      "title": "BX270 Fabric Folding arm awning By Harol",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 3425,
+      "fetchedAt": "2026-05-20T11:04:34.184Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.shadesystems.com.au/product/harol-bx270-cassette-folding-arm-awning/",
+      "domain": "shadesystems.com.au",
+      "title": "Harol BX270 Cassette Folding Arm awning - Shade Systems",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1592,
+      "fetchedAt": "2026-05-20T11:04:43.005Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.geelongawnings.com.au/product/harol-bx270-cassette-folding-arm-awning/",
+      "domain": "geelongawnings.com.au",
+      "title": "Harol BX270 Folding Arm Awning",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1710,
+      "fetchedAt": "2026-05-20T11:04:51.028Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://undercoverblinds.com.au/expert-tips-for-a-hassle-free-folding-arm-awning-installation/",
+      "domain": "undercoverblinds.com.au",
+      "title": "Hassle-Free Folding Arm Awning Installation Guide | A blog by Undercover Melbourne",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 4493,
+      "fetchedAt": "2026-05-20T11:04:53.498Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/",
+      "domain": "luvifem.nl",
+      "title": "Repairing a folding arm awning? Solving the most common problems",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 4516,
+      "fetchedAt": "2026-05-20T11:04:57.257Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://forums.whirlpool.net.au/archive/2697223",
+      "domain": "forums.whirlpool.net.au",
+      "title": "Retractable/Folding Arm Awnings - Home",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:05:02.721Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://enviroblinds.co.uk/wp-content/uploads/2022/10/NBS_BX270.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.labona.eu/www/upload/products/documents/20210210105903892.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://retractableawningreview.com/forum/",
+      "reason": "review-not-model-specific (model tokens [bx270, folding, arm] absent in fetched text)"
+    },
+    {
+      "url": "https://sbiproducts.co.uk/wp-content/uploads/2022/08/Harol_Sun_Protection_SBI_Ltd.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "harol"
+    ],
+    "acceptedDomains": [
+      "harol.com"
+    ],
+    "candidates": [
+      {
+        "domain": "harol.com",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "lifestyleawnings.com.au",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiproducts.com",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "shadesystems.com.au",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "geelongawnings.com.au",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "undercoverblinds.com.au",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "luvifem.nl",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "forums.whirlpool.net.au",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Lux, the folding arm awning that suits every building style. This luxurious screen, which has received the prestigious Red Dot Product Design Award, offers the ideal combination of style and functionality. Carefree enjoyment of your classy terrace. Awning BX270 has a closed, sleek, square box which ensures that the fabric is protected against dirt and heavy weather. Even when the sun is low, you can protect your terrace and house from the heat, thanks to the vario-valance (up to 2 m) integrated into the extension pole. Lux creates shade for a width of up to 7 metres and can be linked (up to 12 metres) for even more shade. Tested for durability with rigorous tests of up to 25,000 cycles, which equates to 25 years of opening and closing every day. Long life expectancy due to perfect cable tension and run-out, offering exceptional reliability. Robust construction thanks to two durable, stainless steel cables made of galvanised steel in each arm. Luxurious finish thanks to exclusive 'invisibly wired' profile which provides a sleek and modern design.",
+    "kalla": {
+      "domän": "harol.com",
+      "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Closed, sleek, square box which ensures that the fabric is protected against dirt and heavy weather.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Ultra-compact, fully closed box. Box dimensions: 162 x 227 mm.",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+      }
+    },
+    {
+      "text": "Vario-valance (up to 2 m) integrated into the extension pole for protection when the sun is low.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Max. drop: 4 m, Max. width: 7 m, Can be coupled up to 12 m.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Tested for durability with rigorous tests of up to 25,000 cycles, which equates to 25 years of opening and closing every day.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Robust construction thanks to two durable, stainless steel cables made of galvanised steel in each arm.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Invisible, integrated cabling for a refined look — exclusive 'invisibly wired' profile.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Energy-saving, dimmable LED strip in the box; LED lighting options include indirect light in box and extension pole, direct light in box, direct light in arms, or both arms and box.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Sleek design with no need for screws. Water drainage subtly integrated into the extension pole. Wide wall brackets facilitate installation on almost any surface.",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+      }
+    },
+    {
+      "text": "Load-bearing torque bar onto which the supports, folding arms and fabric roll are hooked.",
+      "kalla": {
+        "domän": "shadesystems.com.au",
+        "url": "https://www.shadesystems.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+      }
+    },
+    {
+      "text": "Up to a width of 6 m there are 2 folding arms, and from 6 to 7 m the screen is fitted with 3 arms; for coupled awnings (up to a width of 12 m) 4 arms are fitted. These arms always have 2 integrated pull springs which will extend the service life.",
+      "kalla": {
+        "domän": "shadesystems.com.au",
+        "url": "https://www.shadesystems.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+      }
+    },
+    {
+      "text": "Side console in aluminium casting, stylish stainless steel brushed logo and extremely sleek extension pole design with integrated water drainage.",
+      "kalla": {
+        "domän": "geelongawnings.com.au",
+        "url": "https://www.geelongawnings.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+      }
+    },
+    {
+      "text": "Over 300 RAL colours and diverse textured paints, all without a surcharge for boxes and profiles.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Widest choice of over 200 colours and designs for fabrics. Standard collection: Dickson Orchestra and Sattler Elements. Optional: full collections of Dickson, Swela and Sattler.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Accessories include heating, LED lighting, wind and sun sensors, valance.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Sun, wind and rain sensor for automatic control available as option.",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+      }
+    },
+    {
+      "text": "Manufacture year: 2013 (product introduction).",
+      "kalla": {
+        "domän": "archiproducts.com",
+        "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+      }
+    },
+    {
+      "text": "5-year quality guarantee from Harol.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Terrace shade: creating shade for residential terraces up to 7 m wide (single unit) or up to 12 m when coupled.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Outdoor entertaining and meals on a west-facing or sun-exposed deck (non-permanent, retractable solution preferred over permanent structures to avoid blocking winter light into kitchen/dining areas).",
+      "kalla": {
+        "domän": "forums.whirlpool.net.au",
+        "url": "https://forums.whirlpool.net.au/archive/2697223"
+      }
+    },
+    {
+      "text": "Evening outdoor use with atmospheric LED lighting creating warm ambiance.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Natural cooling / passive cooling: blocking heat from sunlight as an energy-efficient alternative to air conditioning, reducing energy bills.",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+      }
+    },
+    {
+      "text": "Apartment balcony shade to cut down heat/glare.",
+      "kalla": {
+        "domän": "forums.whirlpool.net.au",
+        "url": "https://forums.whirlpool.net.au/archive/2697223"
+      }
+    },
+    {
+      "text": "Non-permanent shade structure that avoids need for council permits, unlike a permanent pergola or roof structure.",
+      "kalla": {
+        "domän": "forums.whirlpool.net.au",
+        "url": "https://forums.whirlpool.net.au/archive/2697223"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [
+      {
+        "text": "Mounting strength concerns: awnings are quite heavy and under windy conditions can exercise quite a load; may need to secure them to eave/rafters or use a beam on brick veneer houses to avoid wall collapse and/or stress.",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      },
+      {
+        "text": "Wind vulnerability: very risky leaving fully extended awning unattended if windy weather is forecast.",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      },
+      {
+        "text": "Motorised complexity: 'Motorised is nice but unnecessary complexity (another thing that can go wrong) and cost.'",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      }
+    ],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [
+      {
+        "text": "\"The guy who came out to quote was not confident how strong the limited mounting area was for a 4m width unit... He noted that the awnings are quite heavy and under windy conditions can exercise quite a load. He even said that they often secure them to the eave/rafters or use a beam on brick veneer houses to avoid wall collapse and/or stress (think hanging on basket wall hoops mounted on collapsing garage walls etc).\"",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      },
+      {
+        "text": "\"very risky leaving fully extended awning unattended if windy weather is forecast.\"",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      },
+      {
+        "text": "\"A permanent shade structure would reduce light into our kitchen/dining areas.\"",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      },
+      {
+        "text": "\"Motorised is nice but unnecessary complexity (another thing that can go wrong) and cost.\"",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      },
+      {
+        "text": "\"$250 for eBay ones... $1500-$2000 from a bricks&mortar store. That's got to tell you something about the quality.\"",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga produktspecifika omdömen för Harol BX270 hittade. Alla kundcitat gäller folding arm awnings generellt, inte BX270 specifikt. Sökning genomförd på 8 källor, varav 2 återförsäljarsidor visar 'REVIEWS (0)' för BX270."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Never use the awning during heavy rain, storms or frosty conditions. Do not extend the awning when wind is above Beaufort Scale 5 (30-38 km/h). Otherwise, the awning will be damaged and can cause risk for users.",
+        "kalla": {
+          "domän": "lifestyleawnings.com.au",
+          "url": "https://www.lifestyleawnings.com.au/product/folding-arm-awning-care-and-cleaning/"
+        }
+      },
+      {
+        "text": "A slope of minimum 15 degrees should be maintained on your awning to stop fabric sagging and provide water run-off if to be used in rain.",
+        "kalla": {
+          "domän": "lifestyleawnings.com.au",
+          "url": "https://www.lifestyleawnings.com.au/product/folding-arm-awning-care-and-cleaning/"
+        }
+      },
+      {
+        "text": "Never leave your folding arm awning in the off/on position when you are not around, as it is sensitive to wind (gusts) and this can result in considerable damage.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Archiproducts lists BX270 max drop as 3.5 m (vs. Harol's own Lux page stating 4 m) and box dimensions as 162 x 227 mm (vs. Harol's 240 x 250 mm) — possible difference between BX270 standard and the 'Lux' variant.",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+        }
+      },
+      {
+        "text": "Mounting area strength is a concern: awnings are heavy and under windy conditions can exercise quite a load; mounting on brick veneer walls may require securing to eave/rafters or using a structural beam.",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "Cracks appear in the facade to which the folding arm awning cassette is mounted and/or it comes loose — usually an indication that your facade is not resistant to the leverage caused by your folding arm awning.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Cassette no longer closes completely, leaving a small part of the sunshade visible (and sometimes discoloured) — usually because almost all sunshades expand over time; usually remedied by reprogramming the motor setting.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Front panel hangs higher on one side than the other — can usually be adjusted using the adjusting screws; requires holding up the affected jib arm during adjustment.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Fabric no longer neatly taut — usually because fabrics expand over time; typically fixable by reprogramming the motor adjustment.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Awning no longer responds to wireless remote control — usually means battery needs replacing; reprogramming may be necessary.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Facades that are not resistant to the leverage caused by the awning (e.g., weak brick veneer without proper reinforcement). May need chemical anchors, extended roof supports or an alternative product such as a freestanding pergola awning.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Windy backyards or locations exposed to frequent wind gusts — awning is sensitive to wind and cannot be left unattended when extended.",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Check for obstructions such as protruding pipes or electrical wires before installation. Identify suitable mounting points that can support the weight of the awning and withstand external forces such as wind.",
+        "kalla": {
+          "domän": "undercoverblinds.com.au",
+          "url": "https://undercoverblinds.com.au/expert-tips-for-a-hassle-free-folding-arm-awning-installation/"
+        }
+      },
+      {
+        "text": "Choose the appropriate bracket type based on the mounting surface and ensure a secure attachment to prevent any movement or instability. Properly positioning the brackets is crucial for overall stability and functionality.",
+        "kalla": {
+          "domän": "undercoverblinds.com.au",
+          "url": "https://undercoverblinds.com.au/expert-tips-for-a-hassle-free-folding-arm-awning-installation/"
+        }
+      },
+      {
+        "text": "After installation, extend and retract the awning several times to check for smooth operation and proper alignment.",
+        "kalla": {
+          "domän": "undercoverblinds.com.au",
+          "url": "https://undercoverblinds.com.au/expert-tips-for-a-hassle-free-folding-arm-awning-installation/"
+        }
+      },
+      {
+        "text": "Every year use any reputable brand of light oil to lubricate moving parts. Check the awning from time to time to make sure all bolts and nuts are tightened.",
+        "kalla": {
+          "domän": "lifestyleawnings.com.au",
+          "url": "https://www.lifestyleawnings.com.au/product/folding-arm-awning-care-and-cleaning/"
+        }
+      },
+      {
+        "text": "Dry the fabric in the extended position when wet as soon as possible.",
+        "kalla": {
+          "domän": "lifestyleawnings.com.au",
+          "url": "https://www.lifestyleawnings.com.au/product/folding-arm-awning-care-and-cleaning/"
+        }
+      },
+      {
+        "text": "For cleaning frames: use mild detergent and warm water. Do not use abrasive materials, cleansers, chemicals, bleach or solvents. For fabric: wipe up minor spots with mild soap and a damp cloth; usually sufficient to brush off dirt.",
+        "kalla": {
+          "domän": "lifestyleawnings.com.au",
+          "url": "https://www.lifestyleawnings.com.au/product/folding-arm-awning-care-and-cleaning/"
+        }
+      },
+      {
+        "text": "Use your folding arm awning regularly and watch out for any abnormalities and act on them immediately. After a period of non-use, always pay extra attention.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Awnings often need to be secured to the eave/rafters or use a beam on brick veneer houses to avoid wall collapse.",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      },
+      {
+        "text": "If the awning is motorised, take precautions to ensure proper wiring and electrical connections to prevent the risk of electrical hazards.",
+        "kalla": {
+          "domän": "undercoverblinds.com.au",
+          "url": "https://undercoverblinds.com.au/expert-tips-for-a-hassle-free-folding-arm-awning-installation/"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Mounting on surfaces that cannot handle leverage: if there are visible cracks or the attachment is loose, your facade is likely not resistant to the leverage. You may need chemical anchors, extended roof supports or even an alternative product.",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "Cheap eBay units ($250 range) vs. quality store-bought units ($1500-$2000) — significant quality and durability difference implied by forum users.",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "The BX270 features wide wall brackets that facilitate installation on almost any surface.",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+        }
+      },
+      {
+        "text": "Load-bearing torque bar onto which the supports, folding arms and fabric roll are hooked — a key structural element of the BX270.",
+        "kalla": {
+          "domän": "shadesystems.com.au",
+          "url": "https://www.shadesystems.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+        }
+      },
+      {
+        "text": "Technical documents available include ceiling mount instructions, wall console guides, coupled unit exploded views, and architectural drawings (TT Sect, TT Mont, TT Expl, TT Arch files).",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Harol positions the BX270/Lux as a luxurious, design-award-winning product with Belgian craftsmanship, 80+ years of experience, 300+ RAL colours at no surcharge, premium fabric brand partnerships (Dickson, Sattler, Swela), LED lighting options, and a 5-year guarantee. Third-party sources describe aluminium casting consoles, stainless steel branding, and integrated water drainage. Forum discussion places quality folding arm awnings in the $1,500-$2,000 range from bricks-and-mortar stores, though this is a general range not Harol-specific. The design awards (Red Dot, iF Design Award, German Design Award, Archiproducts Design Awards) and the made-to-measure approach reinforce premium positioning.",
+    "indikativa_priser": [
+      {
+        "text": "General folding arm awning pricing from forum (2018): ~$250 for cheap eBay units vs. $1,500-$2,000 from bricks-and-mortar stores (not BX270-specific).",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Harol BX270",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+        }
+      },
+      {
+        "text": "Harol Lux",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Harol BX270 Cassette Folding Arm Awning",
+        "kalla": {
+          "domän": "shadesystems.com.au",
+          "url": "https://www.shadesystems.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+        }
+      },
+      {
+        "text": "Fabric Folding arm awning BX270",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "folding arm awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+        }
+      },
+      {
+        "text": "cassette awning (fully enclosed box)",
+        "kalla": {
+          "domän": "shadesystems.com.au",
+          "url": "https://www.shadesystems.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+        }
+      },
+      {
+        "text": "knikarmscherm (Dutch term for folding arm awning)",
+        "kalla": {
+          "domän": "luvifem.nl",
+          "url": "https://www.luvifem.nl/en/knikarmscherm-repareren/"
+        }
+      },
+      {
+        "text": "vario-valance",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+        }
+      },
+      {
+        "text": "torque bar",
+        "kalla": {
+          "domän": "shadesystems.com.au",
+          "url": "https://www.shadesystems.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+        }
+      },
+      {
+        "text": "retractable awning / retractable arm awning",
+        "kalla": {
+          "domän": "forums.whirlpool.net.au",
+          "url": "https://forums.whirlpool.net.au/archive/2697223"
+        }
+      },
+      {
+        "text": "solar shading",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+        }
+      },
+      {
+        "text": "extension pole",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Harol BX270",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/products/harol/fabric-folding-arm-awning-bx270_470663?srsltid=AfmBOor_7UJXpzNOPcOPWf92fRfU-sGOHZ5tgslvMk5iTGaXTBsfLy9s"
+        }
+      },
+      {
+        "text": "Harol Lux awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+        }
+      },
+      {
+        "text": "Harol BX260 (related model, BX270 described as identical to BX260 with a design makeover)",
+        "kalla": {
+          "domän": "shadesystems.com.au",
+          "url": "https://www.shadesystems.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+        }
+      },
+      {
+        "text": "Harol folding arm awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/lux/"
+        }
+      },
+      {
+        "text": "Harol cassette awning",
+        "kalla": {
+          "domän": "geelongawnings.com.au",
+          "url": "https://www.geelongawnings.com.au/product/harol-bx270-cassette-folding-arm-awning/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:07:09.931Z"
+}

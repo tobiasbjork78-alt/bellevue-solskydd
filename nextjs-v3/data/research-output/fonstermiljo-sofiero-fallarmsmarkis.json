@@ -1,0 +1,531 @@
+{
+  "entity": "Fonstermiljo Sofiero fallarmsmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo Sofiero fallarmsmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Sofiero fallarmsmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "calameo.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 19
+    },
+    {
+      "domain": "calameo.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "prisjakt.nu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "uk.trustpilot.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 2
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://fonstermiljo.se/produkter/sofiero/",
+      "domain": "fonstermiljo.se",
+      "title": "Sofiero – Fönstermiljö i Laholm",
+      "category": "reviews",
+      "isManufacturer": true,
+      "textLength": 1222,
+      "fetchedAt": "2026-05-20T10:57:23.445Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.calameo.com/books/008178187162c5c5de341",
+      "domain": "calameo.com",
+      "title": "Calaméo - Föntermiljö produktkatalog 2026",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T10:57:37.955Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.prisjakt.nu/produkt.php?p=10556661",
+      "reason": "review-not-model-specific (model tokens [sofiero] absent in fetched text)"
+    },
+    {
+      "url": "https://fonstersolskydd.se/wp-content/uploads/2022/08/Produktblad_Sofiero.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/fasadeprodukter.no",
+      "reason": "review-not-model-specific (model tokens [sofiero] absent in fetched text)"
+    },
+    {
+      "url": "https://uk.trustpilot.com/review/www.wallners.se",
+      "reason": "review-not-model-specific (model tokens [sofiero] absent in fetched text)"
+    },
+    {
+      "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis/",
+      "reason": "review-not-model-specific (model tokens [sofiero] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [
+      "fonstermiljo.se"
+    ],
+    "candidates": [
+      {
+        "domain": "fonstermiljo.se",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "calameo.com",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "SOFIERO är en kraftig fönstermarkis med rymlig kassettlåda, som skyddar markisduken mot väta och smuts när den är inrullad. Sofiero manövreras manuellt med vev eller med motor. Lämplig för medelstora till större fönster samt fönsterpartier upp till 7 meter. Passar också att seriekoppla till större längder, upp till 18 meter.",
+    "kalla": {
+      "domän": "fonstermiljo.se",
+      "url": "https://fonstermiljo.se/produkter/sofiero/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Rymlig kassettlåda som skyddar markisduken mot väta och smuts när den är inrullad.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    },
+    {
+      "text": "Max bredd med dukdelning: 700 cm. Max bredd utan dukdelning: 600 cm. Max utfall: 140 cm.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    },
+    {
+      "text": "Kan seriekopplas till större längder, upp till 18 meter.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    },
+    {
+      "text": "Stativet består av naturanodiserade strängpressade aluminiumprofiler och med detaljer i pulverlackerat pressgjutet aluminium (t ex beslag) eller polymera material (t ex ändskydd). Skruvar och axlar är av rostfritt alt förzinkat stål.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    },
+    {
+      "text": "Armarna är försedda med kraftiga fjädrar.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    },
+    {
+      "text": "Markisväven är av 100% spinnfärgad acryl.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    },
+    {
+      "text": "Manövreras manuellt med snäckväxel & vev (standard) eller med motor (tillval).",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    },
+    {
+      "text": "Stativfärger som standard: Vit, Svart, Natur/Vit, Natur/Grå. Kan speciallackeras i valfri RAL-kulör.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    },
+    {
+      "text": "Tillval: Dukdelning, Motor, Nischkonsoll, Seriekoppling.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Lämplig för medelstora till större fönster samt fönsterpartier upp till 7 meter.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    },
+    {
+      "text": "Passar att seriekoppla till större längder, upp till 18 meter – alltså för mycket breda fasadpartier.",
+      "kalla": {
+        "domän": "fonstermiljo.se",
+        "url": "https://fonstermiljo.se/produkter/sofiero/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundcitat hittade efter sökning på 2 källor. Källa index 3 (calameo.com) innehöll enbart cookiesamtyckes-text utan produktrelaterat innehåll."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Max utfall begränsat till 140 cm.",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "Max bredd utan dukdelning: 600 cm. Dukdelning krävs för bredder upp till 700 cm.",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga användarklagomål, vanliga problem eller olämpliga lägen framgår ur de tillgängliga källorna."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Monteringsanvisning finns tillgänglig som nedladdningsbart dokument från tillverkaren.",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga substantiella återförsäljar- eller montagetips hittade i de 2 sökta källorna. Calameo-källan innehöll ingen produktrelaterad information."
+  },
+  "prisklass_positionering": {
+    "klass": "okand",
+    "motivation": "Inga priser eller prisindikationer finns i de tillgängliga källorna. Tillverkarens sida anger inga priser.",
+    "indikativa_priser": []
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Fallarmsmarkis",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "Sofiero",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Fönstermarkis",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Kassettlåda",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "Dukdelning",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "Seriekoppling",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "Nischkonsoll",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "Snäckväxel",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "Naturanodiserade strängpressade aluminiumprofiler",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "Spinnfärgad acryl",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "RAL-kulör",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Fönstermiljö Sofiero",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      },
+      {
+        "text": "Fonstermiljo Sofiero fallarmsmarkis",
+        "kalla": {
+          "domän": "fonstermiljo.se",
+          "url": "https://fonstermiljo.se/produkter/sofiero/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:58:43.050Z"
+}

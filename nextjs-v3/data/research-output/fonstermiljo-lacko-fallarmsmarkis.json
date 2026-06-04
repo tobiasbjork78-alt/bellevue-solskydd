@@ -1,0 +1,619 @@
+{
+  "entity": "Fonstermiljo Lacko fallarmsmarkis",
+  "brand": "fonstermiljo",
+  "locales": [
+    "sv",
+    "en"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis specifikation",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis datablad",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis test",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis reco recension",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis prisjakt omdöme",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis forum erfarenhet",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Fonstermiljo Lacko fallarmsmarkis",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis problem",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis nackdel",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis fungerar dåligt",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis klagomål",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis issue",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis broken",
+      "category": "negative"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis montering",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis installation",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis köptips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Fonstermiljo Lacko fallarmsmarkis setup",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "fonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 23
+    },
+    {
+      "domain": "amagruppen.se",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "calameo.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 21
+    },
+    {
+      "domain": "calameo.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "amagruppen.se",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "byggahus.se",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 8
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "nz.trustpilot.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 16
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "negative",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "fonstermiljo.se",
+      "category": "practical",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "amagruppen.se",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "calameo.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "fonstersolskydd.se",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "skanskfonstermiljo.se",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 4,
+      "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/",
+      "domain": "skanskfonstermiljo.se",
+      "title": "Våra produkter - Skånsk Fönstermiljö",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 2714,
+      "fetchedAt": "2026-05-20T10:56:55.371Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/",
+      "domain": "amagruppen.se",
+      "title": "Läckö fönstermarkis - AMA Norrland AB",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 476,
+      "fetchedAt": "2026-05-20T10:56:58.530Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.fonstermiljo.se/wp-content/uploads/2019/02/Produktblad_LACKO_2024.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.trustpilot.com/review/parlobyg.dk",
+      "reason": "review-not-model-specific (model tokens [lacko] absent in fetched text)"
+    },
+    {
+      "url": "https://fonstersolskydd.se/wp-content/uploads/2022/08/Produktblad_Lacko.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.calameo.com/books/008178187162c5c5de341",
+      "reason": "review-not-model-specific (model tokens [lacko] absent in fetched text)"
+    },
+    {
+      "url": "https://www.byggahus.se/forum/threads/fonstermarkis-for-varmen.520075/",
+      "reason": "review-not-model-specific (model tokens [lacko] absent in fetched text)"
+    },
+    {
+      "url": "https://ca.trustpilot.com/review/www.moogio.se/location/lund",
+      "reason": "review-not-model-specific (model tokens [lacko] absent in fetched text)"
+    },
+    {
+      "url": "https://nz.trustpilot.com/review/www.moogio.se/location/lund?page=2",
+      "reason": "review-not-model-specific (model tokens [lacko] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "fonstermiljo"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "skanskfonstermiljo.se",
+        "sourceIdx": 4,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "amagruppen.se",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": null,
+    "kalla": null,
+    "kanal_typ": "saknas",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Läckö är en kraftigare fönstermarkis i samma design som Solliden. Till skillnad från Solliden går den dock att seriekoppla.",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Max storlek — Bredd: 600 cm, Utfall: 160 cm / 160 cm motoriserat, Täckhöjd: 320 cm",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Reglagealternativ: Motorstyrning, Snäckväxel med vev, invändigt/utvändigt dragband",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Stativfärg: Aluminium",
+      "kalla": {
+        "domän": "amagruppen.se",
+        "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+      }
+    },
+    {
+      "text": "Förstärkt markis som tål stora vindpåfrestningar. Fälls in i en diskret kassett som skyddar väven extra mot regn, sol och smuts.",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Markisens styrs med en motor som kan seriekopplas. Genom att lägga till sensorer för sol och vind kan markiserna styras automatiskt.",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Stort utbud av färger, antingen i tät markisväv eller screenväv som man kan se igenom. Alla vävar är vattenavvisande.",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Kassett kan fås lackerad i valfri färg.",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Det går att få markisen med eller utan kappa som hänger ner längst fram.",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Klassisk solavskärmning som passar på äldre fasader. Fönstermarkis kan bidra med karaktär till en fasad och fungerar väldigt fint på äldre byggnader.",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Markiser som solavskärmning ger bra utsikt under markisväven samtidigt som de ger bra solavskärmning och klimatkontroll eftersom den stoppar värmen innan den når fönsterrutan.",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Markiser fungerar även på bredare fönsterpartier men för extra höga fönster rekommenderas andra solavskärmningar såsom zipscreen eller fasadpersienn.",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    },
+    {
+      "text": "Erbjuds till arkitekter, fastighetsägare och byggare.",
+      "kalla": {
+        "domän": "skanskfonstermiljo.se",
+        "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella omdömen eller kundcitat hittade efter sökning på 2 källor. Inga av källorna innehåller kundrecensioner eller foruminlägg."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "För extra höga fönster rekommenderas andra solavskärmningar såsom zipscreen eller fasadpersienn — markisen är alltså inte optimal för mycket höga fönster.",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Max storlek: Bredd 600 cm, Utfall 160 cm, Täckhöjd 320 cm — storlek är begränsad.",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [
+      {
+        "text": "Extra höga fönster — då rekommenderas zipscreen eller fasadpersienn istället.",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Markisen kan monteras på fasaden, i ett fönsterfoder eller i en nisch.",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Genom att lägga till sensorer för sol och vind kan markiserna styras automatiskt.",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Monteras på fasaden, i ett fönsterfoder eller i en nisch.",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Begränsad återförsäljarkunskap tillgänglig — inga djupgående monterings- eller felvalsguider hittade i de 2 källorna."
+  },
+  "prisklass_positionering": {
+    "klass": "okand",
+    "motivation": "Inga priser eller prisindikationer återfinns i någon av de 2 tillgängliga källorna. Produkten riktas mot proffskunder (arkitekter, fastighetsägare, byggare), vilket antyder professionellt segment, men ingen konkret prisdata finns.",
+    "indikativa_priser": []
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Läckö fönstermarkis",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Fönstermarkis",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Fallarmsmarkis (fallarmstyp av fönstermarkis)",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Seriekoppla (koppla ihop flera markiser på samma styrning)",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Screenväv (genomskinlig väv man kan se igenom)",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Snäckväxel med vev",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Kassett (dold inkapsling som skyddar väven)",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Kappa (dekorativt tygstycke som hänger ner längst fram)",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      },
+      {
+        "text": "Utvändiga solskydd",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Utfall (markisens räckvidd utåt från fasad)",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Täckhöjd",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Solliden (systermodell i samma design men utan seriekoppling)",
+        "kalla": {
+          "domän": "amagruppen.se",
+          "url": "https://amagruppen.se/produkter/utvandiga-solskydd/lacko-fonstermarkis/"
+        }
+      },
+      {
+        "text": "Fönstermiljö",
+        "kalla": {
+          "domän": "skanskfonstermiljo.se",
+          "url": "https://skanskfonstermiljo.se/produkt/fonstermarkis-2/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T10:58:21.187Z"
+}

@@ -1,0 +1,145 @@
+modell: Technic View
+leverantör: Tarasola
+kategori: pergola-lamell
+produkttyp: Pergola lamelltak
+schema_version: 2
+hämtad: 2026-05-12
+primär_sidkategori: /pergola-malmo/
+sekundär_sidkategori: /pergola-tarasola/
+källor:
+  - url: https://tarasola.com/en/products/pergola-technic-view/
+    titel: 404 Not Found
+    typ: produktsida
+    tier: A
+    hämtad_at: 2026-05-12T12:39:21.605Z
+  - url: https://tarasola.co.uk/terrace-roofing/technic-view/
+    titel: Technic View - zsuwany dach lamelowy | Tarasola
+    typ: korsreferens
+    tier: C
+    hämtad_at: 2026-05-12T12:39:44.390Z
+  - url: https://cotswoldcookingcompany.co.uk/products/tarasola-technic-view-with-retractable-louvered-roof
+    titel: Tarasola Technic View with Retractable Louvered Roof — Cotswold Cooking Company
+    typ: korsreferens
+    tier: C
+    hämtad_at: 2026-05-12T12:39:49.869Z
+tekniska_specs:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    spec: Vindtålighet
+    värde: Upp till 160 km/h
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    spec: Lamellrotation
+    värde: 0° (horisontellt) till 90° (vertikalt)
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    spec: Takpaketets storlek vid öppning
+    värde: 25% av hela takytan
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    spec: Dimensionsnoggrannhet
+    värde: 1 mm (med tilläggsränna)
+garantier: []
+utmärkelser: []
+certifieringar: []
+material_konstruktion:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    värde: 100% aluminium
+motorisering_styrning:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    värde: Tyst saxmekanism (silent scissor mechanism) för lamellrörelse
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    värde: Styrning via fjärrkontroll eller mobilapplikation
+usp_formuleringar:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    påstående: Infällbart lamelltak som kan öppnas helt, stängas eller stoppas i valfri position
+    baserat_på: The roof can be fully opened, closed, or stopped in any position.
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    påstående: Lamellerna roterar till 90° och skjuts åt sidan till ett paket som upptar 25% av takytan
+    baserat_på: They align parallel to each other and slide to the side, forming a stack that occupies 25% of the entire roof surface.
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    påstående: Dimensionsnoggrannhet på 1 mm tack vare tilläggsränna, oberoende av lamellbredd
+    baserat_på: The use of an additional gutter allows designing the projection with an accuracy of 1 mm (instead of increments dependent on the louvre width)
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    påstående: Möjlighet till obegränsad modulär expansion, inklusive kombination med glastak
+    baserat_på: Modular expansion is also available – combining it with a standard rotating louvre roof or a glass roof
+relevans_för_sida:
+  - /pergola-malmo/
+  - /pergola-tarasola/
+oklassificerad_fakta:
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    värde: "Kompatibla strukturer: Technic New och Technic Pro (med integrerad ZIP screen)"
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    värde: Möjlighet till full sidoinklädnad
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    värde: Kan kombineras med glastak-modul i samma system
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    värde: Integrerad ZIP screen tillgänglig vid användning av Technic Pro-struktur
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    värde: Kompatibel med tillbehörsinstallation
+  - status: enskild källa
+    source_count: 1
+    källor:
+      - https://tarasola.co.uk/terrace-roofing/technic-view/
+    hämtad: 2026-05-12
+    värde: Skyddar mot sol, regn och snö

@@ -1,0 +1,972 @@
+{
+  "entity": "Harol LUX folding arm awning",
+  "brand": "harol",
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Harol LUX folding arm awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol LUX folding arm awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol LUX folding arm awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol LUX folding arm awning caractéristiques techniques",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol LUX folding arm awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol LUX folding arm awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol LUX folding arm awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Harol LUX folding arm awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol LUX folding arm awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol LUX folding arm awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol LUX folding arm awning avis",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol LUX folding arm awning expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol LUX folding arm awning forum expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol LUX folding arm awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Harol LUX folding arm awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Harol LUX folding arm awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Harol LUX folding arm awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Harol LUX folding arm awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Harol LUX folding arm awning problème",
+      "category": "negative"
+    },
+    {
+      "query": "Harol LUX folding arm awning inconvénient",
+      "category": "negative"
+    },
+    {
+      "query": "Harol LUX folding arm awning défaut",
+      "category": "negative"
+    },
+    {
+      "query": "Harol LUX folding arm awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Harol LUX folding arm awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Harol LUX folding arm awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Harol LUX folding arm awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Harol LUX folding arm awning montage",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "harol.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 13
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 8
+    },
+    {
+      "domain": "red-dot.org",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "blindmakers.com.au",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "orestads-solskydd.se",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 22
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 8
+    },
+    {
+      "domain": "red-dot.org",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 7
+    },
+    {
+      "domain": "orestads-solskydd.se",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "helioscreen.com.au",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 23
+    },
+    {
+      "domain": "theoutdoorlivinggroup.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "negative",
+      "rank": 4,
+      "hits": 4
+    },
+    {
+      "domain": "red-dot.org",
+      "category": "negative",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 8
+    },
+    {
+      "domain": "reddit.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "negative",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "eastcoastshadedesign.com.au",
+      "category": "negative",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "helioscreen.com.au",
+      "category": "negative",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "homepoint.com.au",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "awnluxpro.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "archipro.com.au",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "lfonline.saratoga.ca.us",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "yumpu.com",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 14
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "halfpriceblinds.com.au",
+      "category": "practical",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "thespruce.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "orestads-solskydd.se",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/",
+      "domain": "harol.com",
+      "title": "Lux: an award-winning awning for your terrace - Harol",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:04:52.913Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://www.archiproducts.com/en/harol/products/categories_folding-arm-awnings?srsltid=AfmBOor9cbEhkSAhKpwRCRbp3waekBHewA7ZG95XMLV8V1YCOnoNLE1f",
+      "domain": "archiproducts.com",
+      "title": "Folding arm awnings by Harol | Archiproducts",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1691,
+      "fetchedAt": "2026-05-20T11:04:55.861Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/",
+      "domain": "zenronline.eu",
+      "title": "Harol: ‘Knikarmscherm Lux combines design with comfort’",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 5318,
+      "fetchedAt": "2026-05-20T11:04:59.229Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://www.red-dot.org/project/lux-56818",
+      "domain": "red-dot.org",
+      "title": "Red Dot Design Award: Lux",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:05:02.046Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://halfpriceblinds.com.au/pages/learn-how-to-install-folding-arm-awning?srsltid=AfmBOopnwBziEw7gl7B5GXkBAcW-dBqx26CbedN631UjEvwCPuO-UlJE",
+      "domain": "halfpriceblinds.com.au",
+      "title": "Learn how to Install Folding Arm Awning – Half Price Blinds",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 1360,
+      "fetchedAt": "2026-05-20T11:05:05.036Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://blindmakers.com.au/harol/",
+      "domain": "blindmakers.com.au",
+      "title": "Harol - Blind Makers",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:05:10.616Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.trustpilot.com/review/www.livingwithlux.com",
+      "domain": "trustpilot.com",
+      "title": "Livingwithlux Reviews | Read Customer Service Reviews of www.livingwithlux.com",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 1844,
+      "fetchedAt": "2026-05-20T11:05:27.662Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://www.eastcoastshadedesign.com.au/east-coast-shade-design-reviews",
+      "domain": "eastcoastshadedesign.com.au",
+      "title": "East Coast Shade Design Shade Product Reviews",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:05:33.170Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://helioscreen.com.au/blog/drop-arm-awnings-vs-folding-arm-awnings-whats-the-difference/",
+      "domain": "helioscreen.com.au",
+      "title": "Drop Arm Awnings Vs Folding Arm Awnings - What’s The Difference? - Helioscreen Awnings, Retractable Roofing, Screens & Blinds",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 6006,
+      "fetchedAt": "2026-05-20T11:05:41.564Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://enviroblinds.co.uk/wp-content/uploads/2023/10/Enviroblinds-LL_Lux.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.orestads-solskydd.se/wp-content/uploads/2015/01/Brochure_horizontal-sun-protection.ENG_.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://sbiproducts.co.uk/wp-content/uploads/2022/08/Harol_Sun_Protection_SBI_Ltd.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "harol"
+    ],
+    "acceptedDomains": [
+      "harol.com"
+    ],
+    "candidates": [
+      {
+        "domain": "harol.com",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "archiproducts.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "zenronline.eu",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "red-dot.org",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "halfpriceblinds.com.au",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "blindmakers.com.au",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "trustpilot.com",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "eastcoastshadedesign.com.au",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "helioscreen.com.au",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Large in quality and sun protection. That's how the Lux awning is described on the website. And that's exactly what this awning is. This high-end solution creates the necessary shade, protects against harmful UV rays, and at the same time offers maximum comfort. Lux is part of the new generation of sun protection, where the keywords 'smarter', 'simpler', and 'sustainable' are central. With Lux, you create an enormous amount of natural coolness: the awning provides up to 28m2 of shade on your terrace with a projection of up to four meters and a width of up to seven meters. Lux can also be coupled up to 12 meters, convenient for extra-large terraces or for your hospitality business. Need more shade? With an automatically operable valance in the front bar, that's no problem. It can drop up to two meters, allowing you to block even the low sun.",
+    "kalla": {
+      "domän": "harol.com",
+      "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Invisibly Wired Arms — steel cables are no longer visible, arms last up to 25,000 cycles (equivalent to opening and closing twice a day for 25 years)",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "Dimmable LED lighting options: indirect light in the casing and front bar, and/or direct light in the casing, in the arms, or both",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "Integrated wind sensor (auto-closes) and sun sensor (auto-extends); meets European standards for wind class 2, or 5 Beaufort",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+      }
+    },
+    {
+      "text": "Integrated water drainage in the front bar — rainwater falling on the fabric drains through the front frame",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+      }
+    },
+    {
+      "text": "Automatically operated 2 m flounce (variovolant) in the front rail to block low sun and/or create privacy",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+      }
+    },
+    {
+      "text": "Square, closed casing protects fabric from wind and weather when retracted; pure sleek look fits any construction style",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "100% Belgian custom work — fully personalized and adapted to terrace and wishes",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "100% recycled aluminum for casing and front frame; stainless steel for fixing; powder coating facility reuses water and meets highest environmental standards",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+      }
+    },
+    {
+      "text": "Fabric is easily replaceable; high-tech woven acrylic fabric is water-repellent, dirt and rot-resistant treated, fibers are dyed in mass for long-lasting colour",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "Optional heating can be added under the awning",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "Controllable via remote control, smartphone, tablet, or connected to home automation",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "Red Dot Award 2022 — jury specifically appreciated the unique and sustainable articulated arm and features; Archiproducts Design Award 2022 winner in 'outdoor' category",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Residential terrace shading — up to 28 m² shade coverage with a single unit (7 m wide × 4 m projection)",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "Extra-large terraces or hospitality businesses — coupled units up to 12 meters wide",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "Evening outdoor entertaining — dimmable LED lighting and optional heating extend usability into evening and cooler hours",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+      }
+    },
+    {
+      "text": "Low-sun blocking and privacy — automatically operated 2 m variovolant flounce blocks heat radiation and blinding effect of low sun and/or creates privacy",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+      }
+    },
+    {
+      "text": "Light rain protection — fabric protects against light rain with integrated water drainage in front bar",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    },
+    {
+      "text": "Keeping indoor spaces cool — exterior shading as a green solution to keep home and terrace cool",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [
+      {
+        "text": "Reviews for the Harol 230 Folding Arm Awning (not Lux specifically) at an Australian dealer mention quality of materials: 'Very impressed with the quality of materials used and very cost competitive compared with my other quotes'",
+        "kalla": {
+          "domän": "eastcoastshadedesign.com.au",
+          "url": "https://www.eastcoastshadedesign.com.au/east-coast-shade-design-reviews"
+        }
+      },
+      {
+        "text": "Harol 230 customer: 'Awning looks great and was exactly what we wanted.'",
+        "kalla": {
+          "domän": "eastcoastshadedesign.com.au",
+          "url": "https://www.eastcoastshadedesign.com.au/east-coast-shade-design-reviews"
+        }
+      }
+    ],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [
+      {
+        "text": "\"Very Good Service. Prompt to quote and install\" (Harol 230 Folding Arm Awning customer, not Lux specifically)",
+        "kalla": {
+          "domän": "eastcoastshadedesign.com.au",
+          "url": "https://www.eastcoastshadedesign.com.au/east-coast-shade-design-reviews"
+        }
+      },
+      {
+        "text": "\"Awning looks great and was exactly what we wanted.\" (Harol 230 Folding Arm Awning customer)",
+        "kalla": {
+          "domän": "eastcoastshadedesign.com.au",
+          "url": "https://www.eastcoastshadedesign.com.au/east-coast-shade-design-reviews"
+        }
+      },
+      {
+        "text": "\"Very impressed with the quality of materials used and very cost competitive compared with my other quotes\" (Harol 230 Folding Arm Awning customer — James Harrison)",
+        "kalla": {
+          "domän": "eastcoastshadedesign.com.au",
+          "url": "https://www.eastcoastshadedesign.com.au/east-coast-shade-design-reviews"
+        }
+      },
+      {
+        "text": "\"First Class Service - very timely service - even visited on a Saturday!\" (Harol 230 customer)",
+        "kalla": {
+          "domän": "eastcoastshadedesign.com.au",
+          "url": "https://www.eastcoastshadedesign.com.au/east-coast-shade-design-reviews"
+        }
+      },
+      {
+        "text": "\"Staying in the shade has never been more luxurious than today\" (Harol marketing manager Isabelle Wintmolders, not a customer, but trade/press quote about Lux)",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga substantiella konsumentomdömen specifikt om Harol LUX hittade efter sökning på 9 källor. De kundcitat som finns gäller Harol 230-modellen (inte LUX) från en enskild australisk återförsäljarsida. Trustpilot-träffen avser 'livingwithlux.com' (ett orelaterat företag, inte Harol). Inga forum- eller e-handelsomdömen om LUX-markisen påträffades."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Wind resistance limited to wind class 2 / 5 Beaufort — awning automatically closes if wind exceeds this level",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      },
+      {
+        "text": "Only protects against light rain — not a full weather shelter",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+        }
+      },
+      {
+        "text": "Folding arm awnings generally require more clear or suitable space than drop arm awnings",
+        "kalla": {
+          "domän": "helioscreen.com.au",
+          "url": "https://helioscreen.com.au/blog/drop-arm-awnings-vs-folding-arm-awnings-whats-the-difference/"
+        }
+      },
+      {
+        "text": "Folding arm awnings are typically more expensive than drop arm awnings",
+        "kalla": {
+          "domän": "helioscreen.com.au",
+          "url": "https://helioscreen.com.au/blog/drop-arm-awnings-vs-folding-arm-awnings-whats-the-difference/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [
+      {
+        "text": "Folding arm awnings are generally not suited for high-wind locations as the awning must retract above wind class 2 (5 Beaufort)",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga specifika klagomål eller rapporterade problem med Harol LUX hittades i de 9 sökta källorna. Begränsningarna ovan är härledda ur produktspecifikationer och generella folding-arm-skillnader, inte ur kundfeedback."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "Harol offers a 5-year warranty on all finished products; in the event of a manufacturing defect, parts are replaced free of charge up to 5 years after purchase",
+        "kalla": {
+          "domän": "blindmakers.com.au",
+          "url": "https://blindmakers.com.au/harol/"
+        }
+      },
+      {
+        "text": "Fabric is easily replaceable when needed — designed for quick and efficient replacement",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+        }
+      },
+      {
+        "text": "When fabric is dry, it can be safely rolled back into its closed case, where it is protected from wind and weather all year round",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      },
+      {
+        "text": "The awning can be connected to home automation systems for setting automated scenarios",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "The awning is mounted against the facade or ceiling; the distributed tension provides additional strength and safety",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Begränsad återförsäljarkunskap hittad — inga detaljerade installationstips, vanliga felval eller djupgående underhållsråd specifika till Harol LUX i de 9 källorna."
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Harol describes the Lux consistently as 'high-end' with 100% Belgian custom work, recycled aluminum, invisible wiring, and multiple design awards (Red Dot 2022, Archiproducts Design Award 2022). No direct price found for Lux, but general folding arm awning pricing from helioscreen.com.au ranges from $2,700 to over $10,000 AUD. Harol's positioning as custom-made, award-winning, with extensive options (LED lighting, heating, sensors, home automation) places the Lux firmly in the premium segment of folding arm awnings.",
+    "indikativa_priser": [
+      {
+        "text": "General folding arm awning range: $2,700 AUD (small manual) to over $10,000 AUD (large motorised system) — this is the general category, not Harol Lux specifically",
+        "kalla": {
+          "domän": "helioscreen.com.au",
+          "url": "https://helioscreen.com.au/blog/drop-arm-awnings-vs-folding-arm-awnings-whats-the-difference/"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Harol LUX folding arm awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+        }
+      },
+      {
+        "text": "LUX - Fabric Folding arm awning",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/harol/products/categories_folding-arm-awnings?srsltid=AfmBOor9cbEhkSAhKpwRCRbp3waekBHewA7ZG95XMLV8V1YCOnoNLE1f"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Knikarmscherm Lux (Dutch term for articulated arm awning Lux)",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      },
+      {
+        "text": "articulated awning / articulated arm awning",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      },
+      {
+        "text": "retractable awning",
+        "kalla": {
+          "domän": "helioscreen.com.au",
+          "url": "https://helioscreen.com.au/blog/drop-arm-awnings-vs-folding-arm-awnings-whats-the-difference/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Invisibly Wired arms",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+        }
+      },
+      {
+        "text": "variovolant (automatically operated valance/flounce in front rail)",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      },
+      {
+        "text": "cassette / closed casing (square housing that protects rolled fabric)",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      },
+      {
+        "text": "wind class 2 / 5 Beaufort",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      },
+      {
+        "text": "front bar / front rail / front frame",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+        }
+      },
+      {
+        "text": "projection (the distance an awning extends outward from the wall)",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Harol Lux awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+        }
+      },
+      {
+        "text": "Harol folding arm awning",
+        "kalla": {
+          "domän": "blindmakers.com.au",
+          "url": "https://blindmakers.com.au/harol/"
+        }
+      },
+      {
+        "text": "Harol articulated awning Lux",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      },
+      {
+        "text": "Harol knikarmscherm Lux",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-articulated-awning-lux-combines-design-with-comfort/"
+        }
+      },
+      {
+        "text": "Harol Lux terrace awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/blog/lux-an-award-winning-awning-for-carefree-enjoyment-on-your-terrace/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:07:16.291Z"
+}

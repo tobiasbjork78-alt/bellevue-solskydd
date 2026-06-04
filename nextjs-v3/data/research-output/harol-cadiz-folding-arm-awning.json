@@ -1,0 +1,941 @@
+{
+  "entity": "Harol CADIZ folding arm awning",
+  "brand": "harol",
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Harol CADIZ folding arm awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning caractéristiques techniques",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Harol CADIZ folding arm awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning avis",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning forum expérience",
+      "category": "reviews"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning problème",
+      "category": "negative"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning inconvénient",
+      "category": "negative"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning défaut",
+      "category": "negative"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Harol CADIZ folding arm awning montage",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "harol.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 8
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "carstads.se",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "harol.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 20
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 12
+    },
+    {
+      "domain": "approvedbusiness.co.uk",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 3
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "mdpi.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "christs.cam.ac.uk",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "cwa-union.org",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "govinfo.gov",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "internationaloaksociety.org",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "citysecretary2.dallascityhall.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "bers.nyc.gov",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "digitalcommons.murraystate.edu",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "gutenberg.org",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "rose-hulman.edu",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "ecode360.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 2
+    },
+    {
+      "domain": "cs.princeton.edu",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "snap.berkeley.edu",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "lup.lub.lu.se",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "usmodernist.org",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "super.cs.uchicago.edu",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 23
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 12
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "negative",
+      "rank": 2,
+      "hits": 8
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "yumpu.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "huggingface.co",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "scribd.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "openslr.elda.org",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "carstads.se",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "allumondo.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "angi.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "super.cs.uchicago.edu",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "snap.berkeley.edu",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "citysecretary2.dallascityhall.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 18
+    },
+    {
+      "domain": "carstads.se",
+      "category": "practical",
+      "rank": 1,
+      "hits": 2
+    },
+    {
+      "domain": "archiproducts.com",
+      "category": "practical",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "enviroblinds.co.uk",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "sbiproducts.co.uk",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "approvedbusiness.co.uk",
+      "category": "practical",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "zenronline.eu",
+      "category": "practical",
+      "rank": 3,
+      "hits": 3
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 0,
+      "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/",
+      "domain": "harol.com",
+      "title": "Folding arm awning Cadiz - Luxury sun awning | Harol",
+      "category": "negative",
+      "isManufacturer": true,
+      "textLength": 5724,
+      "fetchedAt": "2026-05-20T11:04:57.944Z"
+    },
+    {
+      "idx": 1,
+      "url": "https://www.archiproducts.com/en/harol/products/categories_folding-arm-awnings?srsltid=AfmBOorSAWUJIak6ZlFqloZSSXXwW19XNif2U91QdLYnxU72p6REdBq8",
+      "domain": "archiproducts.com",
+      "title": "Folding arm awnings by Harol | Archiproducts",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 1691,
+      "fetchedAt": "2026-05-20T11:05:00.910Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/",
+      "domain": "zenronline.eu",
+      "title": "HAROL: ‘Launching the Praia, Cadiz and Lux articulated awnings’",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 5439,
+      "fetchedAt": "2026-05-20T11:05:03.572Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.approvedbusiness.co.uk/companies/outashade-ltd/cadiz-awning",
+      "domain": "approvedbusiness.co.uk",
+      "title": "Cadiz Awning | Outashade Ltd - High-Quality Pergolas, Verandas, Awnings & Outdoor Kitchens",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:05:06.774Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://www.rose-hulman.edu/Class/se/csse490/cs490-machine-learning/puzzles/cwdb.txt",
+      "domain": "rose-hulman.edu",
+      "title": "",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:05:24.047Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://www.allumondo.com/index.html@p=6286.html",
+      "domain": "allumondo.com",
+      "title": "Harol Awnings for Outdoor Shading | Allumondo",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 1259,
+      "fetchedAt": "2026-05-20T11:05:27.858Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://www.carstads.se/pdf/terrassmarkis_harol_cadiz.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://sbiproducts.co.uk/wp-content/uploads/2022/08/Harol_Sun_Protection_SBI_Ltd.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://enviroblinds.co.uk/wp-content/uploads/2023/10/BR_Sun_Protection_Folding_Arms_Awnings.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://citysecretary2.dallascityhall.com/resolutions/index/CSI2000.txt",
+      "reason": "review-not-model-specific (model tokens [cadiz, folding, arm] absent in fetched text)"
+    },
+    {
+      "url": "https://ecode360.com/LO1625/document/430720906.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/19061/19061-h/19061-h.htm",
+      "reason": "review-not-model-specific (model tokens [cadiz, folding, arm] absent in fetched text)"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "harol"
+    ],
+    "acceptedDomains": [
+      "harol.com"
+    ],
+    "candidates": [
+      {
+        "domain": "harol.com",
+        "sourceIdx": 0,
+        "domainMatchesBrand": true,
+        "modelInTitle": true,
+        "modelInText": true,
+        "accepted": true,
+        "reason": "brand-domain with model on page"
+      },
+      {
+        "domain": "archiproducts.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "zenronline.eu",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "approvedbusiness.co.uk",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "rose-hulman.edu",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "allumondo.com",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Cadiz protects any patio against excessive heat, year in, year out. This high-end sun canopy also offers various options including dimmable LED lighting in the box, arms and extension pole and an extra-large valance. Cadiz stands out due to its closed, rounded-edge box. Thanks to this closed box, the fabric is protected against dirt and will look amazing for years. Even when the sun is low, you can protect your terrace and house from the heat, thanks to the dynamic vario-valance (up to 2 m) integrated into the extension pole. This sun canopy, which has a drop of up to 4 metres and has a maximum width of 7 metres, offers the largest area of shade on the market. Cadiz can be linked to provide even more shade! Can be coupled up to 12 m. Bring your evenings to life with the Cadiz folding arm awning and discover a range of atmospheric LED lighting options: Create a warm ambiance with indirect light in the box and extension pole. Choose a discrete glow with direct light in the box. Add a stylish touch with direct light in the arms. Opt for maximum atmosphere with direct light in both arms and box. Invisible, integrated cabling for a refined look. Tested for durability with rigorous tests of up to 25,000 cycles, which equates to 25 years of opening and closing every day. Long life expectancy due to perfect cable tension and run-out, offering exceptional reliability. Robust construction thanks to two durable, stainless steel cables made of galvanised steel in each arm. Luxurious finish thanks to exclusive 'invisibly wired' profile which provides a sleek and modern design.",
+    "kalla": {
+      "domän": "harol.com",
+      "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+    },
+    "kanal_typ": "tillverkare",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Closed, rounded-edge box that protects fabric against dirt",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Max drop of 4 m, max width of 7 m, can be coupled up to 12 m",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Dynamic vario-valance up to 2 m integrated into the extension pole",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Dimmable LED lighting options in the box, arms and extension pole — including indirect and direct lighting variants",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "'Invisibly Wired' articulated arms — exclusive finish in which the steel cables are no longer visible",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    },
+    {
+      "text": "Articulated arms tested for more than 25,000 cycles, equivalent to opening and closing twice a day for 25 years",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    },
+    {
+      "text": "Two durable stainless steel cables made of galvanised steel in each arm",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Box dimensions: 295 x 185 mm",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Widest choice of over 200 colours and designs in high-tech fabrics; standard collection Dickson Orchestra and Sattler Elements, optional full collections of Dickson, Swela and Sattler",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Over 300 RAL colours and diverse textured paints for boxes and profiles, without surcharge",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Fabrics are water-repellent, rain-repellent, resistant to dirt and rot, UV resistant",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Meets required standards for wind class 2 according to EN13561 — speed 7.5–10.4 m/s",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    },
+    {
+      "text": "Options include heating, LED lighting, wind and sun sensors, valance",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Cadiz belongs to the 'Elegant' style within Harol's range — sophisticated curves at the center",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Protecting patios against excessive heat and harmful UV rays; keeping terraces, balconies and living rooms cool",
+      "kalla": {
+        "domän": "approvedbusiness.co.uk",
+        "url": "https://www.approvedbusiness.co.uk/companies/outashade-ltd/cadiz-awning"
+      }
+    },
+    {
+      "text": "Low-sun protection for terrace and house via the dynamic vario-valance",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Creating atmospheric outdoor evening spaces with LED lighting options",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Coupling multiple units for shade coverage wider than 7 m (up to 12 m)",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Natural cooling — blocking heat as energy-efficient alternative to air conditioning, providing savings on energy bills and passive cooling in summer",
+      "kalla": {
+        "domän": "harol.com",
+        "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+      }
+    },
+    {
+      "text": "Shade creation that increases comfort behind the glass as well as on the patio",
+      "kalla": {
+        "domän": "zenronline.eu",
+        "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundrecensioner eller konsumentomdömen hittade efter sökning på 6 källor. Archiproducts, Allumondo och Approvedbusiness innehöll inga användarbetyg eller recensionstexter för Cadiz; övriga källor var tillverkartext, branschpress eller irrelevant data."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Wind class 2 according to EN13561 — rated for wind speeds 7.5–10.4 m/s only; implies awning must be retracted in stronger winds",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Maximum width limited to 7 m per single unit (coupling required for wider spans, up to 12 m)",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      },
+      {
+        "text": "Maximum drop limited to 4 m",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga faktiska kundrapporterade problem hittade i de 6 sökta källorna. Begränsningarna ovan härleds från produktspecifikationer och tekniska standarder, inte från klagomål."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "The end user can choose mounting via recessed, the ceiling or against the wall, with open, semi-open or closed cabinet",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "HAROL has invested in articulated arms that can be easily assembled, which opens the door to international markets — designed with ease of assembly in mind",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Collections are divided into different versions so that you can put together your awning like a menu, both by style and functional need",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Harol supplies 100% made-to-measure solutions — professional advice, specialised installation and a robust 5-year quality guarantee",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [
+      {
+        "text": "Mounting options: recessed, ceiling or wall-mounted, with open, semi-open or closed cabinet configurations",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Begränsad återförsäljarkunskap i källorna — ingen detaljerad installatörsfeedback eller vanliga felval rapporterade. Praktiska tips härleds främst från tillverkar- och branschpresstext."
+  },
+  "prisklass_positionering": {
+    "klass": "premium",
+    "motivation": "Harol's own site and third-party sources consistently describe Cadiz as 'high-end'. The product sits within Harol's 'Elegant' tier alongside features like Invisibly Wired arms, dimmable LED lighting, and 300+ RAL colour choices without surcharge. Zenronline describes both Cadiz and Lux as 'high-end models in the collections'. Allumondo categorises it as 'Elegant CADIZ'. No actual pricing data was found, but positioning language and feature set indicate premium segment.",
+    "indikativa_priser": []
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Folding arm awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      },
+      {
+        "text": "Harol CADIZ",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Sun canopy",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      },
+      {
+        "text": "Articulated awning / articulated arm awning",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Folding arm screen",
+        "kalla": {
+          "domän": "approvedbusiness.co.uk",
+          "url": "https://www.approvedbusiness.co.uk/companies/outashade-ltd/cadiz-awning"
+        }
+      },
+      {
+        "text": "Box folding arm awning",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/harol/products/categories_folding-arm-awnings?srsltid=AfmBOorSAWUJIak6ZlFqloZSSXXwW19YNif2U91QdLYnxU72p6REdBq8"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Vario-valance",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      },
+      {
+        "text": "Invisibly Wired (exclusive arm finish with concealed cables)",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Wind class 2 / EN13561",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Drop (projection distance of the awning)",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      },
+      {
+        "text": "Cassette / closed cabinet",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Extension pole / front frame",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      },
+      {
+        "text": "Solar shading",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      },
+      {
+        "text": "Natural cooling",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Harol Cadiz awning",
+        "kalla": {
+          "domän": "approvedbusiness.co.uk",
+          "url": "https://www.approvedbusiness.co.uk/companies/outashade-ltd/cadiz-awning"
+        }
+      },
+      {
+        "text": "Cadiz folding arm awning",
+        "kalla": {
+          "domän": "harol.com",
+          "url": "https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/"
+        }
+      },
+      {
+        "text": "CADIZ - Box Folding arm awning with integrated lighting",
+        "kalla": {
+          "domän": "archiproducts.com",
+          "url": "https://www.archiproducts.com/en/harol/products/categories_folding-arm-awnings?srsltid=AfmBOorSAWUJIak6ZlFqloZSSXXwW19YNif2U91QdLYnxU72p6REdBq8"
+        }
+      },
+      {
+        "text": "Harol articulated awning Cadiz",
+        "kalla": {
+          "domän": "zenronline.eu",
+          "url": "https://zenronline.eu/en/awnings-roofs/harol-launching-the-articulated-awnings-praia-cadiz-and-lux/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:06:52.073Z"
+}

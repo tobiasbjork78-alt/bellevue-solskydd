@@ -1,0 +1,977 @@
+{
+  "entity": "Tarasola Technic Pro pergola louvered zip",
+  "brand": "tarasola",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip review",
+      "category": "reviews"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Tarasola Technic Pro pergola louvered zip",
+      "category": "reviews"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip problem",
+      "category": "negative"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip issue",
+      "category": "negative"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip broken",
+      "category": "negative"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip wada",
+      "category": "negative"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip installation",
+      "category": "practical"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip setup",
+      "category": "practical"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Tarasola Technic Pro pergola louvered zip instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "tarasola.co.uk",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 7
+    },
+    {
+      "domain": "pergoledoogrodu.pl",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "amogroup.co.uk",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "cotswoldcookingcompany.co.uk",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 4
+    },
+    {
+      "domain": "europrestige.us",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 5
+    },
+    {
+      "domain": "shadelineoutdoorliving.co.uk",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "markisun.co.uk",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "global-canopies.com",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 4
+    },
+    {
+      "domain": "openhabitat.co.uk",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "outdoorliving365.co.uk",
+      "category": "manufacturer",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "pergolas.co.uk",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "amogroup.co.uk",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "europrestige.us",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "tarasola.co.uk",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 11
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "pergoledoogrodu.pl",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 8
+    },
+    {
+      "domain": "cotswoldcookingcompany.co.uk",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 8
+    },
+    {
+      "domain": "shadelineoutdoorliving.co.uk",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 6
+    },
+    {
+      "domain": "markisun.co.uk",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "eng.motiva.ee",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "tarasola.co.uk",
+      "category": "negative",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "pergoledoogrodu.pl",
+      "category": "negative",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "amogroup.co.uk",
+      "category": "negative",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "shadelineoutdoorliving.co.uk",
+      "category": "negative",
+      "rank": 3,
+      "hits": 5
+    },
+    {
+      "domain": "europrestige.us",
+      "category": "negative",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "openhabitat.co.uk",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "cotswoldcookingcompany.co.uk",
+      "category": "negative",
+      "rank": 3,
+      "hits": 6
+    },
+    {
+      "domain": "profresco.co.uk",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "global-canopies.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "tarasola.co.uk",
+      "category": "practical",
+      "rank": 0,
+      "hits": 12
+    },
+    {
+      "domain": "pergoledoogrodu.pl",
+      "category": "practical",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "europrestige.us",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "amogroup.co.uk",
+      "category": "practical",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "cotswoldcookingcompany.co.uk",
+      "category": "practical",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "reddit.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "shadelineoutdoorliving.co.uk",
+      "category": "practical",
+      "rank": 4,
+      "hits": 3
+    },
+    {
+      "domain": "openhabitat.co.uk",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 1,
+      "url": "https://amogroup.co.uk/shop/pergolas/louvered/tarasola-louvered/technic-pro/",
+      "domain": "amogroup.co.uk",
+      "title": "Tarasola Technic Pro Louvered Roof Pergola | Amo Group",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 4203,
+      "fetchedAt": "2026-05-20T11:36:09.233Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://pergoledoogrodu.pl/en/technic-pro-en/",
+      "domain": "pergoledoogrodu.pl",
+      "title": "Technic Pro -",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 5202,
+      "fetchedAt": "2026-05-20T11:36:15.604Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://europrestige.us/tarasola-technic-pro/",
+      "domain": "europrestige.us",
+      "title": "Tarasola Technic Pro",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 2572,
+      "fetchedAt": "2026-05-20T11:36:18.350Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://cotswoldcookingcompany.co.uk/products/tarasola-technic-pro-pergola-with-integrated-zip-blind",
+      "domain": "cotswoldcookingcompany.co.uk",
+      "title": "Tarasola Technic Pro Bioclimatic Pergola with Integrated Zip Blind — Cotswold Cooking Company",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:36:22.158Z"
+    },
+    {
+      "idx": 5,
+      "url": "https://shadelineoutdoorliving.co.uk/technic-pro-tarasola/",
+      "domain": "shadelineoutdoorliving.co.uk",
+      "title": "Tarasola Technic Pro | Premium Motorised louvred Pergola&#039;s",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 3352,
+      "fetchedAt": "2026-05-20T11:36:28.718Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.reddit.com/r/landscaping/comments/1fjjn5o/has_anyone_purchased_an_aluminum_louvered_pergola/",
+      "domain": "reddit.com",
+      "title": "Has anyone purchased an aluminum louvered pergola? Would you recommend buying one? Which brand is the best? : r/landscaping",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:36:31.099Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.markisun.co.uk/tarasola-technic-pro",
+      "domain": "markisun.co.uk",
+      "title": "Premium Retractable Pergola - Tarasola Technic Pro by Markisun",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1861,
+      "fetchedAt": "2026-05-20T11:36:33.763Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/",
+      "domain": "openhabitat.co.uk",
+      "title": "Tarasola - Open Habitat",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:36:39.236Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://eng.motiva.ee/pergola",
+      "domain": "eng.motiva.ee",
+      "title": "Pergolas for Terraces and Gardens by Motiva",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:36:42.185Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://profresco.co.uk/cubic-range-1?srsltid=AfmBOorZ-M0OdEHOv56Jtrdy1iU-zjb7Sb3ZZpAGJsr-AA_9X_-VmsBl",
+      "domain": "profresco.co.uk",
+      "title": "General 2 — ProFresco Outdoor Living",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 3553,
+      "fetchedAt": "2026-05-20T11:36:45.681Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://tarasola.co.uk/wp-content/uploads/2023/06/Use-and-maintenance-manual_Tarasola_TECHNIC-PRO_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://www.global-canopies.com/_webedit/uploaded-files/All%20Files/Commercial%20-%20Louvre%20roof%20Page%20-%20Technic%20Pro%20Brochure.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "tarasola"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "amogroup.co.uk",
+        "sourceIdx": 1,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "pergoledoogrodu.pl",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "europrestige.us",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "cotswoldcookingcompany.co.uk",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "shadelineoutdoorliving.co.uk",
+        "sourceIdx": 5,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "reddit.com",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "markisun.co.uk",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "openhabitat.co.uk",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "eng.motiva.ee",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "profresco.co.uk",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Welcome to the future of roofing with the Tarasola Technic Pro, an enhanced version of our flagship roofing system, the Tarasola Technic. This new iteration brings a heightened level of functionality and aesthetic allure, designed to redefine your outdoor experience. Functionality Redefined: Experience roofing in a new light with the Tarasola Technic Pro. Immerse yourself in enhanced functionality, where the reduction of screw connections imbues the structure with a modern flair, visually captivating and aesthetically pleasing. This is roofing that doesn't just cover; it transforms. Elegance in Integration: One of the Technic Pro's hallmark features is the integration of a roller blind system within the canopy frame. This ingenious addition shapes the structure into a minimalist, cubic masterpiece. With this innovation, equipping the canopy with both screen and glazing roller blinds gains an elegance that eliminates the need for a protruding ZIP cassette, offering a seamless visual experience. Mastering Water Drainage: Technic Pro's water drainage system has undergone an evolution. More advanced solutions minimize water splashing and prevent it from sneaking beneath the canopy. Specially designed surfaces within the lamellas artfully catch water droplets, making drained water virtually invisible to the eye. This innovation enhances both the comfort of use and the structure's resilience against varying weather conditions. A Year-Round Haven: Tarasola Technic Pro transforms your outdoor space into an almost year-round haven. Its design is not only about aesthetics but also about adapting to the elements. This means you can enjoy your space even as seasons change. What's more, the Technic Pro boasts an assembly process that's simpler than its predecessor, the Tarasola Technic, ensuring a hassle-free setup.",
+    "kalla": {
+      "domän": "shadelineoutdoorliving.co.uk",
+      "url": "https://shadelineoutdoorliving.co.uk/technic-pro-tarasola/"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Integrated ZIP screen system built into the frame structure – eliminates the need for an additional/protruding cassette, resulting in a minimalist cubic form.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "100% aluminum construction – durable and corrosion-resistant structure made entirely of aluminum.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Opening roof with rotating louvers adjustable from 0 to 135 degrees.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Patented water drainage system with double gutter. Specially designed surfaces within the lamellas catch water droplets, making drained water virtually invisible to the eye.",
+      "kalla": {
+        "domän": "shadelineoutdoorliving.co.uk",
+        "url": "https://shadelineoutdoorliving.co.uk/technic-pro-tarasola/"
+      }
+    },
+    {
+      "text": "Wind resistance up to 160 km/h.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Unlimited modular expansion capability.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Automatically controlled via remote or mobile application.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Possible full side enclosure.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Compatible with installation of all available accessories.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Reduction of screw connections to a minimum gives the roof a modern character.",
+      "kalla": {
+        "domän": "openhabitat.co.uk",
+        "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/"
+      }
+    },
+    {
+      "text": "The structure is made of extruded powder-coated aluminum and stainless steel. Electric motor control included in the price. Extensive drainage system as standard. Possibility of powder coating in any RAL colour.",
+      "kalla": {
+        "domän": "openhabitat.co.uk",
+        "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/"
+      }
+    },
+    {
+      "text": "Optional accessories: LED spotlights and tubes in the louvres or LED strips integrated into the gutters, glazing, screener shading blinds integrated into the structure, shutters, infrared heaters, audio system, wind/rain/temperature sensors.",
+      "kalla": {
+        "domän": "openhabitat.co.uk",
+        "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/"
+      }
+    },
+    {
+      "text": "Max width 4.50m with a 7.00m projection. Max projection 7.00m with a 4.50m width. Installation options: wall-mounted or freestanding.",
+      "kalla": {
+        "domän": "markisun.co.uk",
+        "url": "https://www.markisun.co.uk/tarasola-technic-pro"
+      }
+    },
+    {
+      "text": "Module with glass roof in louver roofing system: combination of a louver roof with a glass roof. The glass roof allows maximum natural light while protecting against precipitation, without shading the area. The louver roof ensures air circulation and lets you control the amount of sunlight.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Assembly is easier than the current model – Tarasola Technic.",
+      "kalla": {
+        "domän": "openhabitat.co.uk",
+        "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/"
+      }
+    },
+    {
+      "text": "Hybrid Roof Option – Combine rotating louvres with a glass roof module for flexible light control and full weatherproofing.",
+      "kalla": {
+        "domän": "cotswoldcookingcompany.co.uk",
+        "url": "https://cotswoldcookingcompany.co.uk/products/tarasola-technic-pro-pergola-with-integrated-zip-blind"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Designed for modern terraces, often large in size, that we want to equip with ZIP screens.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Works well as a pavilion in the garden, an extension of the living room at home, and as roofing for a restaurant terrace.",
+      "kalla": {
+        "domän": "pergoledoogrodu.pl",
+        "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+      }
+    },
+    {
+      "text": "Ideal for homeowners or businesses who wish to equip terraces with high-performance Zip Screens.",
+      "kalla": {
+        "domän": "amogroup.co.uk",
+        "url": "https://amogroup.co.uk/shop/pergolas/louvered/tarasola-louvered/technic-pro/"
+      }
+    },
+    {
+      "text": "Scalable modular design – expandable layout ideal for large terraces, pavilions, or hospitality spaces.",
+      "kalla": {
+        "domän": "cotswoldcookingcompany.co.uk",
+        "url": "https://cotswoldcookingcompany.co.uk/products/tarasola-technic-pro-pergola-with-integrated-zip-blind"
+      }
+    },
+    {
+      "text": "Suitable for both residential and commercial spaces of any scale.",
+      "kalla": {
+        "domän": "eng.motiva.ee",
+        "url": "https://eng.motiva.ee/pergola"
+      }
+    },
+    {
+      "text": "Roofing that can be mounted onto existing structures.",
+      "kalla": {
+        "domän": "markisun.co.uk",
+        "url": "https://www.markisun.co.uk/tarasola-technic-pro"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [],
+    "tomhetsanteckning": "Inga substantiella kundomdömen eller kundcitat hittade efter sökning på 10 källor. Inga av källorna innehåller faktiska kundrecensioner eller användartestimonialer specifikt om Tarasola Technic Pro. Europrestige.us visar 0 recensioner. Reddit-tråden diskuterar aluminiumpergolor generellt men nämner inte Tarasola Technic Pro."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "Max width 4.50m with a 7.00m projection. Max projection 7.00m with a 4.50m width (per single module; larger areas require multi-unit modular expansion).",
+        "kalla": {
+          "domän": "markisun.co.uk",
+          "url": "https://www.markisun.co.uk/tarasola-technic-pro"
+        }
+      },
+      {
+        "text": "Electric operation only – no manual operation option available.",
+        "kalla": {
+          "domän": "markisun.co.uk",
+          "url": "https://www.markisun.co.uk/tarasola-technic-pro"
+        }
+      }
+    ],
+    "vanliga_problem": [],
+    "olampliga_lagen": [],
+    "tomhetsanteckning": "Inga substantiella klagomål, vanliga problem eller olämpliga användningsscenarier hittade i de 10 genomsökta källorna. Inga negativa recensioner eller erfarenhetsrapporter från slutanvändare förekommer i materialet."
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "The Technic Pro boasts an assembly process that's simpler than its predecessor, the Tarasola Technic, ensuring a hassle-free setup.",
+        "kalla": {
+          "domän": "shadelineoutdoorliving.co.uk",
+          "url": "https://shadelineoutdoorliving.co.uk/technic-pro-tarasola/"
+        }
+      },
+      {
+        "text": "The Pro system is distinguished from other models by sleek beam profile for integrated ZIP screens.",
+        "kalla": {
+          "domän": "profresco.co.uk",
+          "url": "https://profresco.co.uk/cubic-range-1?srsltid=AfmBOorZ-M0OdEHOv56Jtrdy1iU-zjb7Sb3ZZpAGJsr-AA_9X_-VmsBl"
+        }
+      },
+      {
+        "text": "Technic New is described as a lighter structure and a more minimalist profile compared to Technic Pro. Technic Pro is the more feature-rich/heavier-duty of the two; Technic New is 'based on the Technic Pro model' but lighter.",
+        "kalla": {
+          "domän": "eng.motiva.ee",
+          "url": "https://eng.motiva.ee/pergola"
+        }
+      },
+      {
+        "text": "Essential does not support modular extension, making it an ideal choice for small and medium-sized terraces (i.e. Technic Pro is the choice when modular expansion is needed).",
+        "kalla": {
+          "domän": "eng.motiva.ee",
+          "url": "https://eng.motiva.ee/pergola"
+        }
+      }
+    ],
+    "vanliga_felval": [],
+    "monteringskunskap": [],
+    "tomhetsanteckning": "Begränsad återförsäljarkunskap tillgänglig. Inga detaljerade installationsguider, vanliga felval eller monteringstips hittades i materialet. Reddit-tråden täcker aluminiumpergolor generellt men inte Tarasola specifikt."
+  },
+  "prisklass_positionering": {
+    "klass": "toppsegment",
+    "motivation": "Priserna för Technic Pro börjar från ~£10,776 (UK) och $50,000 (US) för grundkonfiguration, och euro-priser börjar vid €12,176 för den minsta standardstorleken (2960x3000mm) och ökar till €27,096 (6960x4500mm) – exklusive installation, leverans och tillval. I Reddit-tråden om aluminiumpergolor nämns att fullt anpassade företag som Struxure/Equinox 'usually start around $30K' och 'start around $100/SQFT'. Tarasola Technic Pro positionerar sig i samma segment med integrerade ZIP-screens som standard.",
+    "indikativa_priser": [
+      {
+        "text": "From £10,776.00 (UK, price from, installation within 50 mile radius included)",
+        "kalla": {
+          "domän": "amogroup.co.uk",
+          "url": "https://amogroup.co.uk/shop/pergolas/louvered/tarasola-louvered/technic-pro/"
+        }
+      },
+      {
+        "text": "$50,000 (US listing price)",
+        "kalla": {
+          "domän": "europrestige.us",
+          "url": "https://europrestige.us/tarasola-technic-pro/"
+        }
+      },
+      {
+        "text": "2960 x 3000 mm – 12,176 € (basic configuration: roof, posts, motor, remote, standard sizes/colors; installation, delivery, and additional options not included)",
+        "kalla": {
+          "domän": "eng.motiva.ee",
+          "url": "https://eng.motiva.ee/pergola"
+        }
+      },
+      {
+        "text": "4960 x 4000 mm – 19,691 € (basic configuration)",
+        "kalla": {
+          "domän": "eng.motiva.ee",
+          "url": "https://eng.motiva.ee/pergola"
+        }
+      },
+      {
+        "text": "6960 x 4500 mm – 27,096 € (basic configuration)",
+        "kalla": {
+          "domän": "eng.motiva.ee",
+          "url": "https://eng.motiva.ee/pergola"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Tarasola Technic Pro",
+        "kalla": {
+          "domän": "pergoledoogrodu.pl",
+          "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Technic Pro Louvered Roof Pergola",
+        "kalla": {
+          "domän": "amogroup.co.uk",
+          "url": "https://amogroup.co.uk/shop/pergolas/louvered/tarasola-louvered/technic-pro/"
+        }
+      },
+      {
+        "text": "Tarasola Technic Pro Bioclimatic Pergola with Integrated Zip Blind",
+        "kalla": {
+          "domän": "cotswoldcookingcompany.co.uk",
+          "url": "https://cotswoldcookingcompany.co.uk/products/tarasola-technic-pro-pergola-with-integrated-zip-blind"
+        }
+      },
+      {
+        "text": "Technic Pro Pergola",
+        "kalla": {
+          "domän": "openhabitat.co.uk",
+          "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/"
+        }
+      },
+      {
+        "text": "Premium Motorised louvred Pergola",
+        "kalla": {
+          "domän": "shadelineoutdoorliving.co.uk",
+          "url": "https://shadelineoutdoorliving.co.uk/technic-pro-tarasola/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "bioclimatic pergola",
+        "kalla": {
+          "domän": "cotswoldcookingcompany.co.uk",
+          "url": "https://cotswoldcookingcompany.co.uk/products/tarasola-technic-pro-pergola-with-integrated-zip-blind"
+        }
+      },
+      {
+        "text": "louvered roof / louvred roof",
+        "kalla": {
+          "domän": "amogroup.co.uk",
+          "url": "https://amogroup.co.uk/shop/pergolas/louvered/tarasola-louvered/technic-pro/"
+        }
+      },
+      {
+        "text": "ZIP screen / ZIP screener / Zip Screen roller blinds",
+        "kalla": {
+          "domän": "eng.motiva.ee",
+          "url": "https://eng.motiva.ee/pergola"
+        }
+      },
+      {
+        "text": "integrated roller blind system",
+        "kalla": {
+          "domän": "openhabitat.co.uk",
+          "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/"
+        }
+      },
+      {
+        "text": "powder-coated aluminium",
+        "kalla": {
+          "domän": "openhabitat.co.uk",
+          "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/"
+        }
+      },
+      {
+        "text": "automatic terrace roof",
+        "kalla": {
+          "domän": "openhabitat.co.uk",
+          "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/"
+        }
+      },
+      {
+        "text": "double gutter system / dual gutter system",
+        "kalla": {
+          "domän": "cotswoldcookingcompany.co.uk",
+          "url": "https://cotswoldcookingcompany.co.uk/products/tarasola-technic-pro-pergola-with-integrated-zip-blind"
+        }
+      },
+      {
+        "text": "side enclosure",
+        "kalla": {
+          "domän": "pergoledoogrodu.pl",
+          "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+        }
+      },
+      {
+        "text": "RAL colour",
+        "kalla": {
+          "domän": "openhabitat.co.uk",
+          "url": "https://openhabitat.co.uk/retractable-high-spec-pergolas/tarasola/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Tarasola Technic Pro pergola louvered zip",
+        "kalla": {
+          "domän": "pergoledoogrodu.pl",
+          "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+        }
+      },
+      {
+        "text": "pergola with integrated ZIP screen",
+        "kalla": {
+          "domän": "pergoledoogrodu.pl",
+          "url": "https://pergoledoogrodu.pl/en/technic-pro-en/"
+        }
+      },
+      {
+        "text": "bioclimatic pergola integrated zip blind",
+        "kalla": {
+          "domän": "cotswoldcookingcompany.co.uk",
+          "url": "https://cotswoldcookingcompany.co.uk/products/tarasola-technic-pro-pergola-with-integrated-zip-blind"
+        }
+      },
+      {
+        "text": "motorised louvered pergola",
+        "kalla": {
+          "domän": "shadelineoutdoorliving.co.uk",
+          "url": "https://shadelineoutdoorliving.co.uk/technic-pro-tarasola/"
+        }
+      },
+      {
+        "text": "aluminum louvered pergola",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/landscaping/comments/1fjjn5o/has_anyone_purchased_an_aluminum_louvered_pergola/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:38:16.681Z"
+}

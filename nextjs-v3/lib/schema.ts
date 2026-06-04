@@ -100,15 +100,18 @@ export function localCityServiceSchema(
   name: string,
   url: string,
   description: string,
-  cityName: string
+  cityName: string | string[]
 ) {
+  const areaServed = Array.isArray(cityName)
+    ? cityName.map((city) => ({ "@type": "City", name: city }))
+    : { "@type": "City", name: cityName };
   return {
     "@type": "Service",
     name,
     url,
     description,
     provider: { "@id": BUSINESS_ID },
-    areaServed: { "@type": "City", name: cityName },
+    areaServed,
   };
 }
 

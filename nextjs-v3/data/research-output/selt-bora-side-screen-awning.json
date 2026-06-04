@@ -1,0 +1,1325 @@
+{
+  "entity": "Selt BORA Side Screen awning",
+  "brand": "selt",
+  "locales": [
+    "en",
+    "pl"
+  ],
+  "searchedQueries": [
+    {
+      "query": "Selt BORA Side Screen awning",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt BORA Side Screen awning specifications",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt BORA Side Screen awning datasheet",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt BORA Side Screen awning specyfikacja",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt BORA Side Screen awning dane techniczne",
+      "category": "manufacturer"
+    },
+    {
+      "query": "Selt BORA Side Screen awning review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt BORA Side Screen awning customer experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt BORA Side Screen awning test",
+      "category": "reviews"
+    },
+    {
+      "query": "trustpilot Selt BORA Side Screen awning",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt BORA Side Screen awning forum experience",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt BORA Side Screen awning owner review",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt BORA Side Screen awning opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt BORA Side Screen awning recenzja",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt BORA Side Screen awning forum doswiadczenie",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt BORA Side Screen awning ceneo opinia",
+      "category": "reviews"
+    },
+    {
+      "query": "Selt BORA Side Screen awning problem",
+      "category": "negative"
+    },
+    {
+      "query": "Selt BORA Side Screen awning issue",
+      "category": "negative"
+    },
+    {
+      "query": "Selt BORA Side Screen awning drawback",
+      "category": "negative"
+    },
+    {
+      "query": "Selt BORA Side Screen awning complaint",
+      "category": "negative"
+    },
+    {
+      "query": "Selt BORA Side Screen awning broken",
+      "category": "negative"
+    },
+    {
+      "query": "Selt BORA Side Screen awning wada",
+      "category": "negative"
+    },
+    {
+      "query": "Selt BORA Side Screen awning usterka",
+      "category": "negative"
+    },
+    {
+      "query": "Selt BORA Side Screen awning installation",
+      "category": "practical"
+    },
+    {
+      "query": "Selt BORA Side Screen awning mounting tips",
+      "category": "practical"
+    },
+    {
+      "query": "Selt BORA Side Screen awning buying advice",
+      "category": "practical"
+    },
+    {
+      "query": "Selt BORA Side Screen awning setup",
+      "category": "practical"
+    },
+    {
+      "query": "Selt BORA Side Screen awning montaż",
+      "category": "practical"
+    },
+    {
+      "query": "Selt BORA Side Screen awning instalacja",
+      "category": "practical"
+    }
+  ],
+  "candidateHosts": [
+    {
+      "domain": "aluprof.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "manufacturer",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "insigniashadeandshutter.co.uk",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "manufacturer",
+      "rank": 3,
+      "hits": 7
+    },
+    {
+      "domain": "selt.com",
+      "category": "manufacturer",
+      "rank": 1,
+      "hits": 7
+    },
+    {
+      "domain": "brevo.lt",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 2
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "manufacturer",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "images.thdstatic.com",
+      "category": "manufacturer",
+      "rank": 6,
+      "hits": 2
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "manufacturer",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 4
+    },
+    {
+      "domain": "zaluzi.lv",
+      "category": "manufacturer",
+      "rank": 4,
+      "hits": 2
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "manufacturer",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "consumeraffairs.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "tripadvisor.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "4x4awning.com.au",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "selt.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 4
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "broward.org",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "trustpilot.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "ca.trustpilot.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "issuu.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "domex-uk.co.uk",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "quora.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "justkampers.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "donotdisturb.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "zicasso.com",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 3
+    },
+    {
+      "domain": "olivertraveltrailers.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "hometalk.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "escapeforum.org",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "thehulltruth.com",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "jeepgladiatorforum.com",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "tripadvisor.ca",
+      "category": "reviews",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "sunsetter.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "yelp.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "denvergov.org",
+      "category": "reviews",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "public.cityofoakparkheights.com",
+      "category": "reviews",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "repositories.lib.utexas.edu",
+      "category": "reviews",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "vevor.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "harol.com",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "snap.berkeley.edu",
+      "category": "reviews",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "raw.githubusercontent.com",
+      "category": "reviews",
+      "rank": 1,
+      "hits": 1
+    },
+    {
+      "domain": "pdfcoffee.com",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "ceneo.pl",
+      "category": "reviews",
+      "rank": 0,
+      "hits": 2
+    },
+    {
+      "domain": "pegaso.changeip.org",
+      "category": "reviews",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "negative",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "negative",
+      "rank": 0,
+      "hits": 5
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 6
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "pikeawning.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "awningsdeckspatios.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 2
+    },
+    {
+      "domain": "wholesalewarranties.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "dorchesterawning.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "selt.com",
+      "category": "negative",
+      "rank": 1,
+      "hits": 4
+    },
+    {
+      "domain": "sunsolutions1.com",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "llaza.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "canopyworld.co.uk",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "portal.311.nyc.gov",
+      "category": "negative",
+      "rank": 0,
+      "hits": 1
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "negative",
+      "rank": 2,
+      "hits": 3
+    },
+    {
+      "domain": "co.burlington.nj.us",
+      "category": "negative",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "documentcloud.org",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "wwlp.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "mmawning.com",
+      "category": "negative",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "lippert.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "brockawnings.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "reddit.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "zaluzi.lv",
+      "category": "negative",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "pdf.archiexpo.com",
+      "category": "negative",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "pfaff-industrial.com",
+      "category": "negative",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "negative",
+      "rank": 6,
+      "hits": 1
+    },
+    {
+      "domain": "issuu.com",
+      "category": "negative",
+      "rank": 7,
+      "hits": 1
+    },
+    {
+      "domain": "toldos-menorca.es",
+      "category": "negative",
+      "rank": 8,
+      "hits": 1
+    },
+    {
+      "domain": "plikiapi.selt.com",
+      "category": "practical",
+      "rank": 0,
+      "hits": 10
+    },
+    {
+      "domain": "shopsun.eu",
+      "category": "practical",
+      "rank": 0,
+      "hits": 6
+    },
+    {
+      "domain": "manualslib.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 3
+    },
+    {
+      "domain": "theoutdoorlivinggroup.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 4
+    },
+    {
+      "domain": "markizes24.lv",
+      "category": "practical",
+      "rank": 3,
+      "hits": 2
+    },
+    {
+      "domain": "aluprof.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 6
+    },
+    {
+      "domain": "images.thdstatic.com",
+      "category": "practical",
+      "rank": 4,
+      "hits": 5
+    },
+    {
+      "domain": "tentandtrail.com",
+      "category": "practical",
+      "rank": 2,
+      "hits": 1
+    },
+    {
+      "domain": "eclipseshading.com",
+      "category": "practical",
+      "rank": 3,
+      "hits": 1
+    },
+    {
+      "domain": "insigniashadeandshutter.co.uk",
+      "category": "practical",
+      "rank": 4,
+      "hits": 1
+    },
+    {
+      "domain": "mhz.de",
+      "category": "practical",
+      "rank": 5,
+      "hits": 1
+    },
+    {
+      "domain": "archiexpo.com",
+      "category": "practical",
+      "rank": 7,
+      "hits": 1
+    }
+  ],
+  "fetchedSources": [
+    {
+      "idx": 1,
+      "url": "https://www.selt.com/cases/Slide-en",
+      "domain": "selt.com",
+      "title": "",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 662,
+      "fetchedAt": "2026-05-20T11:13:03.745Z"
+    },
+    {
+      "idx": 2,
+      "url": "https://markizes24.lv/Awnings-BORA-SIDE-SCREEN",
+      "domain": "markizes24.lv",
+      "title": "Awnings BORA SIDE SCREEN",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 1563,
+      "fetchedAt": "2026-05-20T11:13:06.632Z"
+    },
+    {
+      "idx": 3,
+      "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/",
+      "domain": "shopsun.eu",
+      "title": "Selt Bora side awning - Measurement and Technical data",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 3361,
+      "fetchedAt": "2026-05-20T11:13:09.292Z"
+    },
+    {
+      "idx": 4,
+      "url": "https://aluprof.com/us/product/side-awning-bora",
+      "domain": "aluprof.com",
+      "title": "Side awning Bora - Aluprof",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 2518,
+      "fetchedAt": "2026-05-20T11:13:12.542Z"
+    },
+    {
+      "idx": 6,
+      "url": "https://www.reddit.com/r/HomeImprovement/comments/1sab3hv/are_retractable_awnings_one_of_those_things_you/",
+      "domain": "reddit.com",
+      "title": "Are retractable awnings one of those things you regret later or nah? : r/HomeImprovement",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:13:14.935Z"
+    },
+    {
+      "idx": 7,
+      "url": "https://www.ceneo.pl/24358037?srsltid=AfmBOoryWSUPUNEg2MjWFvDvq4ZrdQknymECfSS97FCmB6Ozx2Rz9Fvq",
+      "domain": "ceneo.pl",
+      "title": "Selt Bora Markiza Boczna Kasetowa 180x110cm - Opinie i ceny na Ceneo.pl",
+      "category": "reviews",
+      "isManufacturer": false,
+      "textLength": 5407,
+      "fetchedAt": "2026-05-20T11:13:30.811Z"
+    },
+    {
+      "idx": 8,
+      "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/",
+      "domain": "theoutdoorlivinggroup.com",
+      "title": "Installation Guide for Side Screen Awnings - The Outdoor Living Group",
+      "category": "practical",
+      "isManufacturer": false,
+      "textLength": 7000,
+      "fetchedAt": "2026-05-20T11:13:35.045Z"
+    },
+    {
+      "idx": 9,
+      "url": "https://www.manualslib.com/products/Selt-Bora-13451077.html",
+      "domain": "manualslib.com",
+      "title": "Selt BORA Manuals | ManualsLib",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 4294,
+      "fetchedAt": "2026-05-20T11:13:38.006Z"
+    },
+    {
+      "idx": 10,
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394017.html",
+      "domain": "archiexpo.com",
+      "title": "Roller blind screening - BORA - Selt Sun Protection Systems - aluminum",
+      "category": "manufacturer",
+      "isManufacturer": false,
+      "textLength": 3891,
+      "fetchedAt": "2026-05-20T11:13:41.272Z"
+    },
+    {
+      "idx": 11,
+      "url": "https://eclipseshading.com/common-awning-installation-issues-troubleshooting/",
+      "domain": "eclipseshading.com",
+      "title": "Common Awning Installation Issues & Troubleshooting | Motorized Awnings | Retractable Screen Outdoor",
+      "category": "negative",
+      "isManufacturer": false,
+      "textLength": 2816,
+      "fetchedAt": "2026-05-20T11:13:45.225Z"
+    }
+  ],
+  "failedFetches": [
+    {
+      "url": "https://plikiapi.selt.com/download/Technical%20&%20installation%20document%20Bora.pdf?nazwa=dokument/92106321113_DT_E_BORA_EN.pdf",
+      "reason": "pdf-skipped-for-research"
+    },
+    {
+      "url": "https://images.thdstatic.com/catalog/pdfImages/a0/a04039e8-a69a-4ddf-a1e5-dcf8f12beec0.pdf",
+      "reason": "pdf-skipped-for-research"
+    }
+  ],
+  "manufacturerDetection": {
+    "brandTokens": [
+      "selt"
+    ],
+    "acceptedDomains": [],
+    "candidates": [
+      {
+        "domain": "selt.com",
+        "sourceIdx": 1,
+        "domainMatchesBrand": true,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "brand matches but page lacks model tokens"
+      },
+      {
+        "domain": "markizes24.lv",
+        "sourceIdx": 2,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "shopsun.eu",
+        "sourceIdx": 3,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "aluprof.com",
+        "sourceIdx": 4,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "reddit.com",
+        "sourceIdx": 6,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "ceneo.pl",
+        "sourceIdx": 7,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "theoutdoorlivinggroup.com",
+        "sourceIdx": 8,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "manualslib.com",
+        "sourceIdx": 9,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "archiexpo.com",
+        "sourceIdx": 10,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      },
+      {
+        "domain": "eclipseshading.com",
+        "sourceIdx": 11,
+        "domainMatchesBrand": false,
+        "modelInTitle": false,
+        "modelInText": false,
+        "accepted": false,
+        "reason": "domain root doesn't match brand"
+      }
+    ]
+  },
+  "tillverkar_beskrivning": {
+    "text": "Bora is a side screen installed on balconies, terraces or as an additional cover used with awnings and Pergolas. Its purpose is protection from the sun, wind and curious stares of neighbours or passer-bys. Our offer contains a wide range of cover patterns that provide a unique atmosphere around the entire shaded area. Bora is a perfect solution for restaurants and for the residents of housing estates and single-family houses. The construction is powder coated in white, beige, brown, structural graphite or silver. Properties: Construction made from extruded aluminium. Cassette protects the fabric from weather conditions. 3 installation options: to hard surface, soft surface and wall. colour palette: RAL. electric drive: no. manual drive: yes. maximum height: 2.0 m. minimum height: 1.1 m. maximum projection: 4.0 m. cassette: yes. fabric: 140 patterns.",
+    "kalla": {
+      "domän": "archiexpo.com",
+      "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394017.html"
+    },
+    "kanal_typ": "tredjepart-fallback",
+    "varning": "RÅMATERIAL FÖR FÖRSTÅELSE — FÅR EJ KOPIERAS ELLER PARAFRASERAS NÄRA. Writer-voice skriver originaltext i Bellevues röst; denna text är endast brief."
+  },
+  "sardrag": [
+    {
+      "text": "Construction made from extruded aluminium, guaranteeing durability and resistance.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/side-awning-bora"
+      }
+    },
+    {
+      "text": "Cassette protects the fabric from weather conditions when closed.",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-BORA-SIDE-SCREEN"
+      }
+    },
+    {
+      "text": "3 installation options: to hard surface, soft surface and wall.",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-BORA-SIDE-SCREEN"
+      }
+    },
+    {
+      "text": "Built-in spring responsible for evenly tensioning the fabric.",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-BORA-SIDE-SCREEN"
+      }
+    },
+    {
+      "text": "Available in white RAL9010, beige RAL1015, silver RAL9006, brown RAL8014, silver graphite FSM 71319 or any other color from the RAL palette for an additional fee.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+      }
+    },
+    {
+      "text": "Fabric: over 100 colors, Teflon-coated acrylic fabric.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+      }
+    },
+    {
+      "text": "Width: from 50 to 400 cm. Height: from 110 to 200 cm. Rolling tube diameter: 70mm.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+      }
+    },
+    {
+      "text": "Closed system takes up only as much space as the width of the cassette, using minimum necessary space.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/side-awning-bora"
+      }
+    },
+    {
+      "text": "140 fabric patterns available.",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394017.html"
+      }
+    },
+    {
+      "text": "Manual drive only (left- or right-handed spring), no electric drive option.",
+      "kalla": {
+        "domän": "shopsun.eu",
+        "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+      }
+    }
+  ],
+  "anvandningsfall": [
+    {
+      "text": "Used to protect against solar rays, wind and curious looks of neighbors, protecting private space on terraces and balconies.",
+      "kalla": {
+        "domän": "markizes24.lv",
+        "url": "https://markizes24.lv/Awnings-BORA-SIDE-SCREEN"
+      }
+    },
+    {
+      "text": "Used as an additional cover with awnings and Pergolas.",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394017.html"
+      }
+    },
+    {
+      "text": "A solution for restaurants and for the residents of housing estates and single-family houses.",
+      "kalla": {
+        "domän": "archiexpo.com",
+        "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394017.html"
+      }
+    },
+    {
+      "text": "Used as a lightweight cover for terraces and other non-standard spaces.",
+      "kalla": {
+        "domän": "aluprof.com",
+        "url": "https://aluprof.com/us/product/side-awning-bora"
+      }
+    },
+    {
+      "text": "Side screen awnings create a personal sanctuary for relaxation or entertaining; shield against strong winds on patios, balconies, and gardens.",
+      "kalla": {
+        "domän": "theoutdoorlivinggroup.com",
+        "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+      }
+    }
+  ],
+  "omdomen_och_kundsprak": {
+    "aterkommande_oro": [
+      {
+        "text": "Wind sensitivity is a recurring concern among retractable awning users generally – multiple users warn not to leave awnings extended when expecting wind.",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/HomeImprovement/comments/1sab3hv/are_retractable_awnings_one_of_those_things_you/"
+        }
+      },
+      {
+        "text": "Maintenance concerns: some users express uncertainty about required maintenance for retractable awnings.",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/HomeImprovement/comments/1sab3hv/are_retractable_awnings_one_of_those_things_you/"
+        }
+      }
+    ],
+    "aterkommande_glaedjepunkter": [],
+    "aterkommande_klagomal": [],
+    "kundsprak_citat": [
+      {
+        "text": "\"mine broke after like two years lol, mostly because of wind tho\" (general retractable awning, not Selt Bora specifically)",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/HomeImprovement/comments/1sab3hv/are_retractable_awnings_one_of_those_things_you/"
+        }
+      },
+      {
+        "text": "\"i had one for like 3 years, wind was a nightmare to deal with 😬\" (general retractable awning, not Selt Bora specifically)",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/HomeImprovement/comments/1sab3hv/are_retractable_awnings_one_of_those_things_you/"
+        }
+      },
+      {
+        "text": "\"i want one but the maintenance part sketches me out tbh\" (general retractable awning)",
+        "kalla": {
+          "domän": "reddit.com",
+          "url": "https://www.reddit.com/r/HomeImprovement/comments/1sab3hv/are_retractable_awnings_one_of_those_things_you/"
+        }
+      }
+    ],
+    "tomhetsanteckning": "Inga substantiella omdömen specifikt om Selt BORA Side Screen hittade efter sökning på 10 källor. Reddit-tråden handlar om infällbara markiser generellt (främst Sunsetter-märket), inte Selt Bora specifikt. Ceneo.pl har 1 röst (4.5/5) men ingen recensionstext."
+  },
+  "begransningar_och_negativ_info": {
+    "begransningar": [
+      {
+        "text": "No electric drive option available – manual spring drive only.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/side-awning-bora"
+        }
+      },
+      {
+        "text": "Maximum projection limited to 4.0 m; maximum height limited to 2.0 m; minimum height 1.1 m.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      },
+      {
+        "text": "Production standard provides for a dimensional tolerance of ±2 cm.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      },
+      {
+        "text": "External application only – not suitable for internal application.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/side-awning-bora"
+        }
+      }
+    ],
+    "vanliga_problem": [
+      {
+        "text": "General awning issue: fabric sags if arms are over-extended; fabric should always roll over the top of the roller tube, not from underneath.",
+        "kalla": {
+          "domän": "eclipseshading.com",
+          "url": "https://eclipseshading.com/common-awning-installation-issues-troubleshooting/"
+        }
+      },
+      {
+        "text": "General awning issue: knocking or cracking noise when extending/retracting if brackets have not been tightened completely.",
+        "kalla": {
+          "domän": "eclipseshading.com",
+          "url": "https://eclipseshading.com/common-awning-installation-issues-troubleshooting/"
+        }
+      },
+      {
+        "text": "Wind damage is a common risk for retractable awnings left extended – multiple sources warn to retract when not in use or when severe weather is predicted.",
+        "kalla": {
+          "domän": "eclipseshading.com",
+          "url": "https://eclipseshading.com/common-awning-installation-issues-troubleshooting/"
+        }
+      }
+    ],
+    "olampliga_lagen": [
+      {
+        "text": "Not suitable for indoor/internal use.",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/side-awning-bora"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "aterforsaljarkunskap": {
+    "praktiska_tipps": [
+      {
+        "text": "The wall mounting bracket is placed at height H1, calculated as: H1 = H/2 + 80mm. E.g. When H=1600mm, H1 is 880mm.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      },
+      {
+        "text": "The side awning is closed by releasing the handle lock and rolling it up manually until the front beam is placed in the awning cassette.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      },
+      {
+        "text": "Check for obstructions such as gutters, pipes, or electrical wiring that may interfere with installation. Use a stud finder to identify secure mounting points.",
+        "kalla": {
+          "domän": "theoutdoorlivinggroup.com",
+          "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+        }
+      },
+      {
+        "text": "Apply weatherproof sealant at connection points to protect against moisture infiltration.",
+        "kalla": {
+          "domän": "theoutdoorlivinggroup.com",
+          "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+        }
+      },
+      {
+        "text": "Opt for stainless steel hardware to prevent rust; test the awning by retracting and extending it multiple times after installation.",
+        "kalla": {
+          "domän": "theoutdoorlivinggroup.com",
+          "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+        }
+      }
+    ],
+    "vanliga_felval": [
+      {
+        "text": "Inaccurate measurements – double-check dimensions to prevent misalignment. Measurements should be taken at multiple points to account for surface-level variations.",
+        "kalla": {
+          "domän": "theoutdoorlivinggroup.com",
+          "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+        }
+      },
+      {
+        "text": "Ignoring surface stability – weak or uneven surfaces may require reinforcement before mounting.",
+        "kalla": {
+          "domän": "theoutdoorlivinggroup.com",
+          "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+        }
+      },
+      {
+        "text": "Skipping a test fit – temporarily positioning components before drilling ensures a precise fit.",
+        "kalla": {
+          "domän": "theoutdoorlivinggroup.com",
+          "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+        }
+      }
+    ],
+    "monteringskunskap": [
+      {
+        "text": "Three mounting methods: (1) front post installation on a hard surface, (2) front post mounted on soft ground, (3) wall mounting bracket. Detailed component list includes: Windbreaker Bora post L=150mm, KPL handle holder, fixed wall mount, screws M6x45 and M6x16, M6 nut, washers, DSP M6 mounting inserts.",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      },
+      {
+        "text": "Full 29-page installation manual available, covering safety guidelines, transport/storage, installation on wall brackets and permanent brackets, cassette hanger installation, fixed bracket installation (natural ground), handle regulation and locking, manual drive operation, and maintenance.",
+        "kalla": {
+          "domän": "manualslib.com",
+          "url": "https://www.manualslib.com/products/Selt-Bora-13451077.html"
+        }
+      },
+      {
+        "text": "Side screen awning installation timeline estimate: Measurement and Site Assessment 1-2 hours; Gathering Tools and Materials 1 hour; Marking Drill Points and Prepping the Surface 1 hour; Installation and Adjustments 2-3 hours.",
+        "kalla": {
+          "domän": "theoutdoorlivinggroup.com",
+          "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+        }
+      }
+    ],
+    "tomhetsanteckning": null
+  },
+  "prisklass_positionering": {
+    "klass": "mellan",
+    "motivation": "Indicative price from ArchiExpo is €410 excl. tax, and markizes24.lv lists from €415 (ex tax €342.98). The Ceneo.pl listing shows 1,474.00 PLN (~€340) for a 180x110cm unit. Compared to budget side awnings on Ceneo.pl (starting around 350–510 PLN) and higher-end motorized awnings (2,500+ PLN and up), the Selt Bora positions in the mid-range segment for cassette side screens with aluminium construction.",
+    "indikativa_priser": [
+      {
+        "text": "€410 indicative price excl. tax (no date specified)",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394017.html"
+        }
+      },
+      {
+        "text": "Starting from €415.00 (ex tax €342.98)",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-BORA-SIDE-SCREEN"
+        }
+      },
+      {
+        "text": "1,474.00 PLN for 180x110cm configuration (last known price on ceneo.pl, currently sold out)",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/24358037?srsltid=AfmBOoryWSUPUNEg2MjWFvDvq4ZrdQknymECfSS97FCmB6Ozx2Rz9Fvq"
+        }
+      }
+    ]
+  },
+  "terminologi_och_synonymer": {
+    "primara_termer": [
+      {
+        "text": "Selt BORA Side Screen",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394017.html"
+        }
+      },
+      {
+        "text": "Side awning Bora",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/side-awning-bora"
+        }
+      }
+    ],
+    "synonymer": [
+      {
+        "text": "Markiza boczna (Polish: side awning)",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/24358037?srsltid=AfmBOoryWSUPUNEg2MjWFvDvq4ZrdQknymECfSS97FCmB6Ozx2Rz9Fvq"
+        }
+      },
+      {
+        "text": "Roller blind screening BORA",
+        "kalla": {
+          "domän": "archiexpo.com",
+          "url": "https://www.archiexpo.com/prod/selt-sun-protection-systems/product-65037-1394017.html"
+        }
+      },
+      {
+        "text": "Markiza boczna kasetowa (Polish: cassette side awning)",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/24358037?srsltid=AfmBOoryWSUPUNEg2MjWFvDvq4ZrdQknymECfSS97FCmB6Ozx2Rz9Fvq"
+        }
+      },
+      {
+        "text": "Side screen awning",
+        "kalla": {
+          "domän": "theoutdoorlivinggroup.com",
+          "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+        }
+      }
+    ],
+    "branschord": [
+      {
+        "text": "Cassette (housing that protects the fabric when retracted)",
+        "kalla": {
+          "domän": "aluprof.com",
+          "url": "https://aluprof.com/us/product/side-awning-bora"
+        }
+      },
+      {
+        "text": "Extruded aluminium (construction material type)",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-BORA-SIDE-SCREEN"
+        }
+      },
+      {
+        "text": "Front beam",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      },
+      {
+        "text": "Rolling tube (diameter 70mm)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      },
+      {
+        "text": "Projection / Outreach (horizontal extension distance)",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      },
+      {
+        "text": "Teflon-coated acrylic fabric",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      }
+    ],
+    "sokord_varianter": [
+      {
+        "text": "Selt Bora side awning",
+        "kalla": {
+          "domän": "shopsun.eu",
+          "url": "https://shopsun.eu/side-awning-selt-bora-measurement-and-technical-data/"
+        }
+      },
+      {
+        "text": "BORA SIDE SCREEN awning",
+        "kalla": {
+          "domän": "markizes24.lv",
+          "url": "https://markizes24.lv/Awnings-BORA-SIDE-SCREEN"
+        }
+      },
+      {
+        "text": "Selt Bora markiza boczna kasetowa",
+        "kalla": {
+          "domän": "ceneo.pl",
+          "url": "https://www.ceneo.pl/24358037?srsltid=AfmBOoryWSUPUNEg2MjWFvDvq4ZrdQknymECfSS97FCmB6Ozx2Rz9Fvq"
+        }
+      },
+      {
+        "text": "side screen terrace windbreak",
+        "kalla": {
+          "domän": "theoutdoorlivinggroup.com",
+          "url": "https://www.theoutdoorlivinggroup.com/side-screens/installation-guide-for-side-screen-awnings/"
+        }
+      }
+    ]
+  },
+  "generatedAt": "2026-05-20T11:15:13.885Z"
+}
