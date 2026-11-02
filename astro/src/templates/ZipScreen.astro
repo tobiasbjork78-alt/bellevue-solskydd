@@ -1,0 +1,150 @@
+---
+// Template "zipScreen" (/zip-screen-malmo/). All text from src/content/pages/zip-screen-malmo.md.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import HeroBreadcrumbs from "../components/utvandigt/HeroBreadcrumbs.astro";
+import HeroContent from "../components/utvandigt/HeroContent.astro";
+import TldrList from "../components/utvandigt/TldrList.astro";
+import DarkCTA from "../components/utvandigt/DarkCTA.astro";
+import FAQList from "../components/FAQList.astro";
+import ZipModelCard from "../components/utvandigt/ZipModelCard.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faqs });
+const fill = "absolute inset-0 h-full w-full";
+---
+<BaseLayout
+  twitterCard={d.twitterCard}
+  robots={d.robots}
+  title={d.title}
+  description={d.description}
+  path={path}
+  ogTitle={d.ogTitle}
+  ogDescription={d.ogDescription}
+  ogImage={d.ogImage}
+  breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs}
+  schema={schema}
+>
+  <main class="flex-1 bg-canvas">
+    <section class="relative w-full h-[70vh] md:h-[78vh] md:min-h-[680px] overflow-hidden bg-ink">
+      <img src={d.hero.image} alt={d.hero.alt} fetchpriority="high" decoding="async" sizes="100vw" class:list={[fill, "object-cover object-center opacity-55"]} />
+      <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-t from-black/55 via-black/35 to-black/20 md:bg-gradient-to-r md:from-black/50 md:via-black/30 md:to-black/20"></div>
+      <div class="absolute inset-0 flex flex-col">
+        <div class="mx-auto w-full max-w-6xl px-6 lg:px-10 pt-8 md:pt-10">
+          {d.breadcrumbs && <HeroBreadcrumbs items={d.breadcrumbs} />}
+        </div>
+        <div class="flex-1"></div>
+        <HeroContent hero={d.hero} secondaryHref="#harol" />
+      </div>
+    </section>
+
+    <TldrList tldr={d.tldr} class="speakable-tldr mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-20 pb-12 md:pb-16" />
+
+    <section class="w-full">
+      <img src={d.contextImage.src} width={d.contextImage.width} height={d.contextImage.height} alt={d.contextImage.alt} loading="lazy" decoding="async" class="w-full h-auto" />
+    </section>
+
+    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-16 md:py-20">
+      <div class="grid gap-10 md:gap-14 md:grid-cols-12">
+        <div class="md:col-span-5">
+          <Eyebrow>{d.usage.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.usage.heading}</h2>
+          <Divider class="mt-7" />
+        </div>
+        <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
+          {d.usage.paragraphs.map((p) => <p set:html={p} />)}
+        </div>
+      </div>
+    </section>
+
+    <section id="harol" class="bg-canvas">
+      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-24 md:py-32">
+        <div class="max-w-3xl mb-16 md:mb-20">
+          <Eyebrow>{d.harol.eyebrow}</Eyebrow>
+          <h2 class="font-display text-4xl md:text-6xl text-brand-green mt-5 leading-[1.05] tracking-tight">{d.harol.heading}</h2>
+          <Divider class="mt-9 w-20" />
+          <div class="mt-9 body-copy text-ink-soft text-lg space-y-5 max-w-2xl">
+            {d.harol.paragraphs.map((p) => <p set:html={p} />)}
+          </div>
+        </div>
+        <div class="space-y-2">
+          {d.harol.models.map((model, index) => (
+            <ZipModelCard model={model} index={index} isLast={index === d.harol.models.length - 1} />
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section id="selt" class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-24">
+        <div class="max-w-3xl mb-14">
+          <Eyebrow>{d.selt.eyebrow}</Eyebrow>
+          <h2 class="font-display text-3xl md:text-5xl text-brand-green mt-5 leading-[1.08] tracking-tight">{d.selt.heading}</h2>
+          <div aria-hidden="true" class="mt-7 h-1 w-12 bg-brand-brass"></div>
+          <div class="mt-8 body-copy text-ink-soft space-y-5 max-w-2xl">
+            {d.selt.paragraphs.map((p) => <p set:html={p} />)}
+          </div>
+        </div>
+        <div class="space-y-2">
+          {d.selt.models.map((model, index) => (
+            <ZipModelCard model={model} index={index} isLast={index === d.selt.models.length - 1} />
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+      <div class="grid gap-12 md:gap-16 md:grid-cols-12">
+        <div class="md:col-span-5">
+          <Eyebrow>{d.process.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.process.heading}</h2>
+          <Divider class="mt-7" />
+        </div>
+        <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
+          {d.process.paragraphs.map((p) => <p set:html={p} />)}
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+        <Eyebrow>{d.investment.eyebrow}</Eyebrow>
+        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.investment.heading}</h2>
+        <Divider class="mt-7" />
+        <div class="mt-8 body-copy text-ink-soft space-y-5">
+          {d.investment.paragraphs.map((p) => <p set:html={p} />)}
+          <p class="text-ink" set:html={d.investment.closing} />
+        </div>
+      </div>
+    </section>
+
+    <section class="relative overflow-hidden mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+      <img src={d.warranty.backgroundImage} alt="" aria-hidden="true" loading="lazy" decoding="async" sizes="100vw" class:list={[fill, "object-cover object-left"]} />
+      <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-r from-canvas-soft/30 via-canvas-soft/60 to-canvas-soft/85"></div>
+      <div class="relative z-10 md:ml-auto md:max-w-[55%]">
+        <Eyebrow>{d.warranty.eyebrow}</Eyebrow>
+        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.warranty.heading}</h2>
+        <Divider class="mt-7" />
+        <div class="mt-8 body-copy text-ink-soft space-y-5">
+          {d.warranty.paragraphs.map((p) => <p set:html={p} />)}
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+        <Eyebrow>{d.faqEyebrow}</Eyebrow>
+        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.faqHeading}</h2>
+        <Divider class="mt-7 mb-2" />
+        <div class="mt-4">
+          <FAQList faqs={d.faqs} firstAnswerClass="speakable-faq-1" />
+        </div>
+      </div>
+    </section>
+
+    <DarkCTA cta={d.cta} />
+  </main>
+</BaseLayout>

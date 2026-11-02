@@ -1,0 +1,36 @@
+---
+// Template "referenser". All text from src/content/pages/referenser.md.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import CaseStudyCard from "../components/CaseStudyCard.astro";
+import ConsultationCTA from "../components/ConsultationCTA.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description });
+---
+<BaseLayout title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
+  <main class="flex-1 bg-canvas">
+    <div class="mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-24 pb-16">
+      {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
+      <div class="mt-10 mb-12">
+        <Eyebrow>{d.eyebrow}</Eyebrow>
+        <h1 class="heading-display text-5xl md:text-7xl mt-6 text-ink">
+          {d.h1Line1}
+          <br />
+          <span class="text-brand-brass">{d.h1Line2}</span>
+        </h1>
+        <Divider class="mt-7" />
+        <p class="mt-7 body-copy text-ink-soft max-w-xl">{d.intro}</p>
+      </div>
+      <div class="space-y-4">
+        {d.cases.map((c) => <CaseStudyCard {...c} />)}
+      </div>
+      <p class="mt-12 body-copy text-ink-muted text-sm italic">{d.footnote}</p>
+    </div>
+    <ConsultationCTA eyebrow={d.cta.eyebrow} heading={d.cta.heading} body={d.cta.body} />
+  </main>
+</BaseLayout>

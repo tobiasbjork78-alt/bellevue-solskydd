@@ -1,0 +1,20 @@
+---
+// Single-column section: eyebrow, heading, HTML paragraphs, optional closing paragraph in text-ink.
+import Band from "./Band.astro";
+import Eyebrow from "../Eyebrow.astro";
+import Divider from "../Divider.astro";
+interface Props {
+  section: { eyebrow: string; heading: string; paragraphs: string[]; closing?: string };
+  band?: boolean;
+}
+const { section, band = false } = Astro.props;
+---
+<Band band={band} container="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+  <Eyebrow>{section.eyebrow}</Eyebrow>
+  <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{section.heading}</h2>
+  <Divider class="mt-7" />
+  <div class="mt-8 body-copy text-ink-soft space-y-5">
+    {section.paragraphs.map((p) => <p set:html={p} />)}
+    {section.closing && <p class="text-ink" set:html={section.closing} />}
+  </div>
+</Band>

@@ -1,0 +1,47 @@
+---
+// Single dispatcher: one route per file in src/content/pages, rendered by its template.
+import { getCollection } from "astro:content";
+import Home from "../templates/Home.astro";
+import Article from "../templates/Article.astro";
+import City from "../templates/City.astro";
+import GuideIndex from "../templates/GuideIndex.astro";
+import Kontakt from "../templates/Kontakt.astro";
+import OmOss from "../templates/OmOss.astro";
+import Referenser from "../templates/Referenser.astro";
+import Markiser from "../templates/Markiser.astro";
+import Terrassmarkiser from "../templates/Terrassmarkiser.astro";
+import Fonstermarkiser from "../templates/Fonstermarkiser.astro";
+import Insektsskydd from "../templates/Insektsskydd.astro";
+import Pergola from "../templates/Pergola.astro";
+import ZipScreen from "../templates/ZipScreen.astro";
+
+export async function getStaticPaths() {
+  const pages = await getCollection("pages");
+  return pages.map((entry) => {
+    const id = entry.id;
+    const slug = id === "index" ? undefined : id.replace(/\/index$/, "");
+    return { params: { slug }, props: { entry } };
+  });
+}
+
+const templates = {
+  home: Home,
+  article: Article,
+  city: City,
+  guideIndex: GuideIndex,
+  kontakt: Kontakt,
+  omOss: OmOss,
+  referenser: Referenser,
+  markiser: Markiser,
+  terrassmarkiser: Terrassmarkiser,
+  fonstermarkiser: Fonstermarkiser,
+  insektsskydd: Insektsskydd,
+  pergola: Pergola,
+  zipScreen: ZipScreen,
+} as const;
+
+const { entry } = Astro.props;
+const Template = templates[entry.data.template];
+const path = entry.id === "index" ? "/" : `/${entry.id.replace(/\/index$/, "")}/`;
+---
+<Template entry={entry} path={path} />

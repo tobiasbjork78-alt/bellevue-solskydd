@@ -1,0 +1,84 @@
+---
+// Template "home". All text from src/content/pages/index.md; button labels are UI.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import Button from "../components/Button.astro";
+import TrustBadge from "../components/TrustBadge.astro";
+import ProductCard from "../components/ProductCard.astro";
+import ConsultationCTA from "../components/ConsultationCTA.astro";
+import Reveal from "../components/Reveal.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description });
+---
+<BaseLayout title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} schema={schema}>
+  <main class="flex-1">
+    <section class="relative isolate overflow-hidden bg-canvas-deep text-ink-inverse min-h-screen flex items-center">
+      <img src={d.hero.image} alt="" aria-hidden="true" fetchpriority="high" decoding="async" class="absolute inset-0 h-full w-full object-cover object-center" />
+      <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-t from-canvas-deep/95 via-canvas-deep/75 to-canvas-deep/40 md:bg-gradient-to-r md:from-canvas-deep/95 md:via-canvas-deep/70 md:to-canvas-deep/20"></div>
+      <div class="relative mx-auto max-w-7xl px-6 lg:px-10 py-32 md:py-40">
+        <div class="max-w-4xl">
+          <div class="reveal">
+            <Eyebrow tone="inverse" class="text-brand-brass">{d.hero.eyebrow}</Eyebrow>
+          </div>
+          <h1 class="reveal heading-display text-5xl md:text-7xl lg:text-8xl mt-8 text-ink-inverse">
+            {d.hero.headingLine1}
+            <br />
+            <span class="text-brand-brass">{d.hero.headingLine2}</span>
+          </h1>
+          <div class="reveal mt-10">
+            <Divider tone="inverse" class="bg-brand-brass" />
+          </div>
+          <p class="reveal mt-8 body-copy text-base md:text-lg text-ink-inverse/75 max-w-xl">{d.hero.body}</p>
+          <div class="reveal mt-10 flex flex-col sm:flex-row gap-3">
+            <Button href="/kontakt/" size="lg">Boka kostnadsfri rådgivning</Button>
+            <Button href="#produkter" variant="secondary" size="lg" class="border-ink-inverse/30 text-ink-inverse hover:bg-ink-inverse/5">Utforska produkter</Button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-canvas py-20 md:py-24">
+      <div class="mx-auto max-w-7xl px-6 lg:px-10">
+        <div class="max-w-2xl mb-12">
+          <Eyebrow>{d.localProof.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl mt-5 text-ink">{d.localProof.heading}</h2>
+        </div>
+        <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+          {d.localProof.items.map((item) => (
+            <TrustBadge icon={item.icon} title={item.title} description={item.description} class="reveal" />
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section id="produkter" class="bg-canvas py-24 md:py-32">
+      <div class="mx-auto max-w-7xl px-6 lg:px-10">
+        <div class="max-w-2xl mb-16 md:mb-20">
+          <Eyebrow>{d.products.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-4xl md:text-5xl mt-5 text-ink">{d.products.heading}</h2>
+          <Divider class="mt-7" />
+          <p class="mt-7 body-copy text-ink-soft">{d.products.body}</p>
+        </div>
+      </div>
+      <div class="mx-auto max-w-5xl px-6 mb-12">
+        <p class="text-xs font-medium uppercase tracking-[0.22em] text-ink-soft mb-6">{d.products.indoorLabel}</p>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-[2px]">
+          {d.products.indoor.map((p) => <ProductCard {...p} />)}
+        </div>
+      </div>
+      <div class="mx-auto max-w-5xl px-6">
+        <p class="text-xs font-medium uppercase tracking-[0.22em] text-ink-soft mb-6">{d.products.outdoorLabel}</p>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-[2px]">
+          {d.products.outdoor.map((p) => <ProductCard {...p} />)}
+        </div>
+      </div>
+    </section>
+
+    <ConsultationCTA eyebrow={d.cta.eyebrow} heading={d.cta.heading} body={d.cta.body} />
+  </main>
+  <Reveal />
+</BaseLayout>

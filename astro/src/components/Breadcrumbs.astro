@@ -1,0 +1,22 @@
+---
+// Visual breadcrumbs only. BreadcrumbList JSON-LD is emitted once by BaseLayout.
+interface Props { items: Array<{ name: string; url: string }> }
+const { items } = Astro.props;
+---
+<nav aria-label="Brödsmulor" class="text-sm text-ink-soft body-copy">
+  <ol class="flex flex-wrap items-center gap-2">
+    {items.map((item, index) => {
+      const isLast = index === items.length - 1;
+      return (
+        <li class="flex items-center gap-2">
+          {isLast ? (
+            <span class="text-ink" aria-current="page">{item.name}</span>
+          ) : (
+            <a href={item.url} class="hover:text-ink transition-colors">{item.name}</a>
+          )}
+          {!isLast && <span aria-hidden="true" class="text-ink-muted">›</span>}
+        </li>
+      );
+    })}
+  </ol>
+</nav>

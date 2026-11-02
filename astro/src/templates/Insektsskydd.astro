@@ -1,0 +1,52 @@
+---
+// Template "insektsskydd" (/insektsskydd-malmo/). All text from src/content/pages/insektsskydd-malmo.md.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import Hero from "../components/markiser/Hero.astro";
+import Tldr from "../components/markiser/Tldr.astro";
+import SplitSection from "../components/markiser/SplitSection.astro";
+import TextSection from "../components/markiser/TextSection.astro";
+import FaqSection from "../components/markiser/FaqSection.astro";
+import FinalCta from "../components/markiser/FinalCta.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faq.items });
+const items = d.types.items;
+---
+<BaseLayout
+  twitterCard={d.twitterCard}
+  robots={d.robots} title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
+  <main class="flex-1 bg-canvas">
+    <Hero hero={d.hero} watermarkClass="text-[16vw] md:text-[12vw]" />
+    <Tldr tldr={d.tldr} />
+    <SplitSection section={d.usage} pad="py-16 md:py-20" gap="gap-10 md:gap-14" />
+
+    <section id="typer" class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+        <div class="max-w-2xl mb-14">
+          <Eyebrow>{d.types.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.types.heading}</h2>
+          <Divider class="mt-7" />
+          <p class="mt-7 body-copy text-ink-soft">{d.types.intro}</p>
+        </div>
+        <div class="space-y-14 md:space-y-16">
+          {items.map((block, index) => (
+            <article>
+              <h3 class="font-display text-2xl md:text-3xl text-ink leading-tight mb-4">{block.title}</h3>
+              <p class="body-copy text-ink-soft max-w-3xl">{block.body}</p>
+              {index !== items.length - 1 && <Divider class="bg-brand-brass/30 w-full mt-14" />}
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <SplitSection section={d.craft} />
+    <TextSection section={d.warranty} band />
+    <FaqSection faq={d.faq} />
+    <FinalCta cta={d.finalCta} />
+  </main>
+</BaseLayout>

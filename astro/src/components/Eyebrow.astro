@@ -1,0 +1,5 @@
+---
+interface Props { class?: string; tone?: "green" | "inverse" }
+const { class: className, tone = "green" } = Astro.props;
+---
+<span class:list={["inline-block uppercase text-xs font-medium tracking-[0.22em]", tone === "green" ? "text-brand-green" : "text-ink-inverse/70", className]}><slot /></span>

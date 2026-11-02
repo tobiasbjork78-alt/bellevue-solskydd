@@ -1,0 +1,64 @@
+---
+// Template "article": guides (variant guide) and invändiga product pages (variant product).
+import { render } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import AnswerBox from "../components/AnswerBox.astro";
+import FAQList from "../components/FAQList.astro";
+import ConsultationCTA from "../components/ConsultationCTA.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const { Content } = await render(entry);
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faqs });
+const isGuide = d.variant === "guide";
+const Wrapper = isGuide ? "article" : "div";
+const HeadWrapper = isGuide ? "header" : "div";
+---
+<BaseLayout
+  title={d.title}
+  description={d.description}
+  path={path}
+  ogTitle={d.ogTitle}
+  ogDescription={d.ogDescription}
+  ogImage={d.ogImage}
+  breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs}
+  schema={schema}
+>
+  <main class="flex-1 bg-canvas">
+    <Wrapper class="mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-24 pb-16">
+      {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
+
+      <HeadWrapper class="mt-10 mb-10">
+        <Eyebrow>{d.eyebrow}</Eyebrow>
+        <h1 class="heading-display text-5xl md:text-7xl mt-6 text-ink">{d.h1}</h1>
+        <Divider class="mt-7" />
+      </HeadWrapper>
+
+      {d.answerBox && <AnswerBox html={d.answerBox} />}
+
+      <Content />
+
+      {d.faqs && d.faqs.length > 0 && (
+        <div class="mt-20">
+          <Eyebrow>{d.faqEyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl mt-5 text-ink">{d.faqHeading}</h2>
+          <Divider class="mt-7 mb-4" />
+          <FAQList faqs={d.faqs} />
+        </div>
+      )}
+
+      {d.afterFaq && (
+        <section class="mt-16">
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mb-6">{d.afterFaq.heading}</h2>
+          <div class="body-copy text-ink-soft space-y-5 max-w-3xl" set:html={d.afterFaq.html} />
+        </section>
+      )}
+    </Wrapper>
+
+    {d.cta && <ConsultationCTA eyebrow={d.cta.eyebrow} heading={d.cta.heading} body={d.cta.body} />}
+  </main>
+</BaseLayout>

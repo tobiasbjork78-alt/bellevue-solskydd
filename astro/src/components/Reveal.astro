@@ -1,0 +1,31 @@
+---
+// Scroll-reveal for elements with class "reveal" (port of nextjs-v3 useReveal). Include only on pages that use it.
+---
+<script>
+  const elements = Array.from(document.querySelectorAll<HTMLElement>(".reveal"));
+  const groups = new Map<HTMLElement, HTMLElement[]>();
+  elements.forEach((el) => {
+    const parent = el.parentElement ?? el;
+    const list = groups.get(parent) ?? [];
+    list.push(el);
+    groups.set(parent, list);
+  });
+  groups.forEach((list) => list.forEach((el, index) => (el.style.transitionDelay = `${index * 100}ms`)));
+
+  if (typeof window.IntersectionObserver === "undefined" || window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    elements.forEach((el) => el.classList.add("visible"));
+  } else {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("visible");
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.15 }
+    );
+    elements.forEach((el) => observer.observe(el));
+  }
+</script>

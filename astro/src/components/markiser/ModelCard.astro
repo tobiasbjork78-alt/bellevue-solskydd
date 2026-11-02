@@ -1,0 +1,39 @@
+---
+// Stacked model card (port of StackedModelCard in nextjs-v3 fonstermarkiser-malmo).
+interface Props {
+  model: { maker: string; name: string; type: string; body: string; specs: string[]; alt: string; image: string | null };
+  index: number;
+  isLast: boolean;
+}
+const { model, index, isLast } = Astro.props;
+const PLACEHOLDER = "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221%22%20height%3D%221%22%2F%3E";
+const eager = index === 0;
+---
+<article class:list={["grid gap-8 md:gap-12 md:grid-cols-2 py-12 md:py-16 md:items-center", !isLast && "border-b border-brand-brass/30"]}>
+  <div class="relative aspect-[16/9] bg-canvas overflow-hidden">
+    {model.image ? (
+      <img src={model.image} alt={model.alt} loading={eager ? "eager" : "lazy"} decoding="async" class="absolute inset-0 h-full w-full object-cover" />
+    ) : (
+      <Fragment>
+        <img src={PLACEHOLDER} alt={model.alt} loading={eager ? "eager" : "lazy"} decoding="async" class="absolute inset-0 h-full w-full object-cover opacity-0" />
+        <div class="absolute inset-0 flex items-center justify-center">
+          <span class="text-ink/25 font-display text-3xl md:text-4xl tracking-wide select-none">{model.name}</span>
+        </div>
+      </Fragment>
+    )}
+  </div>
+  <div class="md:py-2">
+    <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">{model.maker}</p>
+    <h3 class="font-display text-3xl md:text-4xl lg:text-5xl text-ink tracking-tight leading-[1.05] mb-2">{model.name}</h3>
+    <p class="text-sm font-medium text-ink-soft mb-6">{model.type}</p>
+    <p class="body-copy text-ink mb-7 max-w-prose">{model.body}</p>
+    <ul class="space-y-2 text-sm body-copy text-ink-soft list-none">
+      {model.specs.map((spec) => (
+        <li class="flex gap-3">
+          <span aria-hidden="true" class="text-brand-brass select-none leading-snug">—</span>
+          <span>{spec}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+</article>

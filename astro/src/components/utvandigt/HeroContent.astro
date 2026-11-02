@@ -1,0 +1,37 @@
+---
+// Bottom-left hero text block (eyebrow, h1, body, CTA row, trust row).
+import Eyebrow from "../Eyebrow.astro";
+import Divider from "../Divider.astro";
+import Icon from "../Icon.astro";
+interface Props {
+  hero: { eyebrow: string; h1: string; body: string; primaryCta: string; secondaryCta: string; trust: string[] };
+  secondaryHref: string;
+}
+const { hero, secondaryHref } = Astro.props;
+---
+<div class="mx-auto w-full max-w-6xl px-6 lg:px-10 pb-14 md:pb-20 lg:pb-24">
+  <div class="md:max-w-xl lg:max-w-2xl">
+    <Eyebrow tone="inverse" class="text-brand-brass">{hero.eyebrow}</Eyebrow>
+    <h1 class="heading-display text-3xl md:text-4xl lg:text-5xl mt-6 text-ink-inverse leading-[1.1] text-balance">{hero.h1}</h1>
+    <Divider tone="inverse" class="bg-brand-brass mt-8" />
+    <p class="mt-8 body-copy text-ink-inverse/90 text-lg md:text-xl text-pretty">{hero.body}</p>
+    <div class="mt-10 flex flex-wrap items-center gap-x-7 gap-y-4">
+      <a href="/kontakt/" class="inline-flex items-center gap-2 rounded-full bg-canvas-soft px-7 py-4 text-ink font-medium transition-colors duration-300 ease-premium hover:bg-white">
+        {hero.primaryCta}
+        <Icon name="arrow-right" size={16} />
+      </a>
+      <a href={secondaryHref} class="inline-flex items-center gap-1.5 text-sm font-medium text-ink-inverse underline decoration-ink-inverse/40 underline-offset-[6px] hover:decoration-ink-inverse transition-colors">
+        {hero.secondaryCta}
+        <Icon name="arrow-right" size={14} />
+      </a>
+    </div>
+    <p class="mt-8 text-sm text-ink-inverse/80 flex flex-wrap items-center gap-x-3 gap-y-1">
+      {hero.trust.map((t, i) => (
+        <>
+          {i > 0 && <span aria-hidden="true" class="text-brand-brass select-none">·</span>}
+          <span>{t}</span>
+        </>
+      ))}
+    </p>
+  </div>
+</div>

@@ -1,0 +1,6 @@
+---
+interface Props { class?: string; tone?: "brass" | "ink" | "inverse" }
+const { class: className, tone = "brass" } = Astro.props;
+const toneClass = tone === "brass" ? "bg-brand-brass" : tone === "ink" ? "bg-ink/20" : "bg-ink-inverse/30";
+---
+<span aria-hidden="true" class:list={["block h-px w-16", toneClass, className]}></span>

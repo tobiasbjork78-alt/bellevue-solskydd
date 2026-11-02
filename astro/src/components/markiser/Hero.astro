@@ -1,0 +1,81 @@
+---
+// Cinematic hero with placeholder image, inverse breadcrumb and CTAs (markiser/fönster/insekt pages).
+import Icon from "../Icon.astro";
+import Eyebrow from "../Eyebrow.astro";
+import Divider from "../Divider.astro";
+interface Props {
+  hero: {
+    image: string;
+    imageAlt: string;
+    watermark: string;
+    crumbs: Array<{ name: string; url?: string }>;
+    eyebrow: string;
+    h1: string;
+    intro: string;
+    primaryCta: { label: string; href: string };
+    secondaryCta: { label: string; href: string };
+    badges: string[];
+  };
+  /** Font size classes of the watermark word */
+  watermarkClass: string;
+}
+const { hero, watermarkClass } = Astro.props;
+const last = hero.crumbs.length - 1;
+---
+<section class="relative w-full h-[70vh] md:h-[78vh] md:min-h-[680px] overflow-hidden bg-ink">
+  <img src={hero.image} alt={hero.imageAlt} fetchpriority="high" decoding="async" class="absolute inset-0 h-full w-full object-cover opacity-0" />
+  <div aria-hidden="true" class="absolute inset-0 flex items-center justify-center pointer-events-none">
+    <span class:list={["font-display text-ink-inverse/10 tracking-tight select-none", watermarkClass]}>{hero.watermark}</span>
+  </div>
+  <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/55 to-black/25 md:bg-gradient-to-r md:from-black/80 md:via-black/45 md:to-black/5"></div>
+
+  <div class="absolute inset-0 flex flex-col">
+    <div class="mx-auto w-full max-w-6xl px-6 lg:px-10 pt-8 md:pt-10">
+      <nav aria-label="Brödsmulor" class="text-sm body-copy text-ink-inverse/75">
+        <ol class="flex flex-wrap items-center gap-2">
+          {hero.crumbs.map((crumb, i) =>
+            i === last ? (
+              <li><span class="text-ink-inverse" aria-current="page">{crumb.name}</span></li>
+            ) : (
+              <li class="flex items-center gap-2">
+                <a href={crumb.url} class="hover:text-ink-inverse transition-colors">{crumb.name}</a>
+                <span aria-hidden="true" class="text-ink-inverse/40">›</span>
+              </li>
+            )
+          )}
+        </ol>
+      </nav>
+    </div>
+
+    <div class="flex-1"></div>
+
+    <div class="mx-auto w-full max-w-6xl px-6 lg:px-10 pb-14 md:pb-20 lg:pb-24">
+      <div class="md:max-w-xl lg:max-w-2xl">
+        <Eyebrow tone="inverse" class="text-brand-brass">{hero.eyebrow}</Eyebrow>
+        <h1 class="heading-display text-3xl md:text-4xl lg:text-5xl mt-6 text-ink-inverse leading-[1.1] text-balance">{hero.h1}</h1>
+        <Divider tone="inverse" class="bg-brand-brass mt-8" />
+        <p class="mt-8 body-copy text-ink-inverse/90 text-lg md:text-xl text-pretty">{hero.intro}</p>
+
+        <div class="mt-10 flex flex-wrap items-center gap-x-7 gap-y-4">
+          <a href={hero.primaryCta.href} class="inline-flex items-center gap-2 rounded-full bg-canvas-soft px-7 py-4 text-ink font-medium transition-colors duration-300 ease-premium hover:bg-white">
+            {hero.primaryCta.label}
+            <Icon name="arrow-right" size={16} />
+          </a>
+          <a href={hero.secondaryCta.href} class="inline-flex items-center gap-1.5 text-sm font-medium text-ink-inverse underline decoration-ink-inverse/40 underline-offset-[6px] hover:decoration-ink-inverse transition-colors">
+            {hero.secondaryCta.label}
+            <Icon name="arrow-right" size={14} />
+          </a>
+        </div>
+
+        <p class="mt-8 text-sm text-ink-inverse/80 flex flex-wrap items-center gap-x-3 gap-y-1">
+          {hero.badges.map((badge, i) => (
+            <Fragment>
+              {i > 0 && <span aria-hidden="true" class="text-brand-brass select-none">·</span>}
+              <span>{badge}</span>
+            </Fragment>
+          ))}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

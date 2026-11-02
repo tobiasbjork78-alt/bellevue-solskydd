@@ -1,0 +1,14 @@
+---
+type ProductColor = "markiser" | "persienner" | "plisse" | "rullgardiner" | "zipscreen" | "pergola";
+interface Props { color?: ProductColor; class?: string }
+const { color = "persienner", class: className } = Astro.props;
+const colorClasses: Record<ProductColor, string> = {
+  markiser: "bg-product-markiser/10 text-product-markiser",
+  persienner: "bg-product-persienner/15 text-product-persienner",
+  plisse: "bg-product-plisse/15 text-product-plisse",
+  rullgardiner: "bg-product-rullgardiner/15 text-product-rullgardiner",
+  zipscreen: "bg-product-zipscreen/10 text-product-zipscreen",
+  pergola: "bg-product-pergola/10 text-product-pergola",
+};
+---
+<span class:list={["inline-flex items-center rounded-full px-3 py-1 text-xs font-medium uppercase tracking-[0.16em]", colorClasses[color], className]}><slot /></span>

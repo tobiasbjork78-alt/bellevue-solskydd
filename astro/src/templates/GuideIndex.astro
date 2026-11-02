@@ -1,0 +1,39 @@
+---
+// Template "guideIndex" (/guider/). All text from src/content/pages/guider/index.md; "Läs guiden" is UI.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import Icon from "../components/Icon.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description });
+---
+<BaseLayout title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
+  <main class="flex-1 bg-canvas">
+    <div class="mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-24 pb-24">
+      {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
+      <div class="mt-10 mb-12">
+        <Eyebrow>{d.eyebrow}</Eyebrow>
+        <h1 class="heading-display text-5xl md:text-7xl mt-6 text-ink">{d.h1}</h1>
+        <Divider class="mt-7" />
+        <p class="mt-7 body-copy text-ink-soft max-w-xl">{d.intro}</p>
+      </div>
+      <div class="space-y-4">
+        {d.guides.map((guide) => (
+          <a href={guide.href} class="group block rounded-premium border border-ink/10 bg-canvas-soft px-7 py-8 md:px-9 md:py-10 transition-all duration-500 ease-premium hover:-translate-y-1 hover:shadow-lift hover:border-ink/15">
+            <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">{guide.eyebrow}</p>
+            <h2 class="heading-section text-2xl md:text-3xl text-ink mb-3">{guide.title}</h2>
+            <p class="body-copy text-ink-soft text-sm md:text-base mb-5">{guide.excerpt}</p>
+            <span class="inline-flex items-center gap-2 text-sm font-medium text-ink">
+              Läs guiden
+              <Icon name="arrow-right" size={14} class="transition-transform duration-300 ease-premium group-hover:translate-x-1" />
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </main>
+</BaseLayout>

@@ -1,0 +1,69 @@
+---
+// Template "fonstermarkiser" (/fonstermarkiser-malmo/). All text from src/content/pages/fonstermarkiser-malmo.md.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import Hero from "../components/markiser/Hero.astro";
+import Tldr from "../components/markiser/Tldr.astro";
+import SplitSection from "../components/markiser/SplitSection.astro";
+import TextSection from "../components/markiser/TextSection.astro";
+import FaqSection from "../components/markiser/FaqSection.astro";
+import FinalCta from "../components/markiser/FinalCta.astro";
+import ModelCard from "../components/markiser/ModelCard.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faq.items });
+const cards = d.models.cards;
+---
+<BaseLayout
+  twitterCard={d.twitterCard}
+  robots={d.robots} title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
+  <main class="flex-1 bg-canvas">
+    <Hero hero={d.hero} watermarkClass="text-[16vw] md:text-[12vw]" />
+    <Tldr tldr={d.tldr} />
+    <SplitSection section={d.usage} pad="py-16 md:py-20" gap="gap-10 md:gap-14" />
+
+    <section id="sortimentet" class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-28">
+        <div class="max-w-2xl mb-14">
+          <Eyebrow>{d.models.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.models.heading}</h2>
+          <Divider class="mt-7" />
+          <p class="mt-7 body-copy text-ink-soft">{d.models.intro}</p>
+        </div>
+        <div>
+          {cards.map((model, index) => <ModelCard model={model} index={index} isLast={index === cards.length - 1} />)}
+        </div>
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+      <div class="max-w-2xl mb-12">
+        <Eyebrow>{d.otherModels.eyebrow}</Eyebrow>
+        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.otherModels.heading}</h2>
+        <Divider class="mt-7" />
+        <p class="mt-7 body-copy text-ink-soft">{d.otherModels.intro}</p>
+      </div>
+      <ul class="rounded-premium border border-ink/10 overflow-hidden divide-y divide-ink/8">
+        {d.otherModels.items.map((m) => (
+          <li class="grid grid-cols-12 gap-4 px-5 py-4 md:px-7 md:py-5 bg-canvas hover:bg-canvas-soft transition-colors">
+            <div class="col-span-12 md:col-span-3">
+              <p class="text-xs font-medium uppercase tracking-[0.18em] text-brand-green">{m.maker}</p>
+              <p class="font-display text-xl text-ink leading-tight mt-1">{m.name}</p>
+            </div>
+            <p class="col-span-12 md:col-span-9 body-copy text-sm text-ink-soft md:pt-2">{m.qualitative}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <SplitSection section={d.contrast} band />
+    <SplitSection section={d.process} />
+    <TextSection section={d.investment} band />
+    <TextSection section={d.warranty} />
+    <FaqSection faq={d.faq} band />
+    <FinalCta cta={d.finalCta} />
+  </main>
+</BaseLayout>

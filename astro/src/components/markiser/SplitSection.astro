@@ -1,0 +1,31 @@
+---
+// Eyebrow + heading left (5 cols), HTML paragraphs right (7 cols).
+import Band from "./Band.astro";
+import Eyebrow from "../Eyebrow.astro";
+import Divider from "../Divider.astro";
+import ArrowLink from "./ArrowLink.astro";
+interface Props {
+  section: { eyebrow: string; heading: string; paragraphs: string[]; link?: { label: string; href: string } };
+  band?: boolean;
+  /** vertical padding classes */
+  pad?: string;
+  /** grid gap classes */
+  gap?: string;
+}
+const { section, band = false, pad = "py-20 md:py-24", gap = "gap-12 md:gap-16" } = Astro.props;
+---
+<Band band={band} container={`mx-auto max-w-5xl px-6 lg:px-10 ${pad}`}>
+  <div class:list={["grid md:grid-cols-12", gap]}>
+    <div class="md:col-span-5">
+      <Eyebrow>{section.eyebrow}</Eyebrow>
+      <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{section.heading}</h2>
+      <Divider class="mt-7" />
+    </div>
+    <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
+      {section.paragraphs.map((p) => <p set:html={p} />)}
+      {section.link && (
+        <p><ArrowLink href={section.link.href} label={section.link.label} /></p>
+      )}
+    </div>
+  </div>
+</Band>

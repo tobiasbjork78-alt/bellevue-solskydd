@@ -1,0 +1,10 @@
+---
+// Underlined text link with arrow (brass underline variant used in body sections)
+import Icon from "../Icon.astro";
+interface Props { href: string; label: string }
+const { href, label } = Astro.props;
+---
+<a href={href} class="inline-flex items-center gap-1.5 text-sm font-medium text-ink underline decoration-brand-brass underline-offset-[6px] hover:decoration-ink transition-colors">
+  {label}
+  <Icon name="arrow-right" size={14} />
+</a>

@@ -1,0 +1,266 @@
+---
+// Template "terrassmarkiser" — port of nextjs-v3/app/terrassmarkiser-malmo/page.tsx.
+// All page text from src/content/pages/terrassmarkiser-malmo.md; only button labels are in code.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import Icon from "../components/Icon.astro";
+import StackedModelCard from "../components/terrass/StackedModelCard.astro";
+import FAQList from "../components/FAQList.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faqs });
+const crumbs = d.breadcrumbs ?? [];
+const ctaClass = "inline-flex items-center gap-2 rounded-full bg-canvas-soft px-7 py-4 text-ink font-medium transition-colors duration-300 ease-premium hover:bg-white";
+---
+<BaseLayout
+  twitterCard={d.twitterCard}
+  robots={d.robots}
+  title={d.title}
+  description={d.description}
+  path={path}
+  ogTitle={d.ogTitle}
+  ogDescription={d.ogDescription}
+  ogImage={d.ogImage}
+  breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs}
+  schema={schema}
+>
+  <main class="flex-1 bg-canvas">
+    <!-- HERO -->
+    <section class="relative w-full h-[70vh] md:h-[78vh] md:min-h-[680px] overflow-hidden bg-ink">
+      <img src={d.hero.image} alt={d.hero.imageAlt} fetchpriority="high" decoding="async" sizes="100vw" class="absolute inset-0 h-full w-full object-cover opacity-0" />
+      <div aria-hidden="true" class="absolute inset-0 flex items-center justify-center pointer-events-none">
+        <span class="font-display text-ink-inverse/10 text-[16vw] md:text-[12vw] tracking-tight select-none">{d.hero.watermark}</span>
+      </div>
+      <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/55 to-black/25 md:bg-gradient-to-r md:from-black/80 md:via-black/45 md:to-black/5"></div>
+
+      <div class="absolute inset-0 flex flex-col">
+        <div class="mx-auto w-full max-w-6xl px-6 lg:px-10 pt-8 md:pt-10">
+          <nav aria-label="Brödsmulor" class="text-sm body-copy text-ink-inverse/75">
+            <ol class="flex flex-wrap items-center gap-2">
+              {crumbs.map((c, i) =>
+                i < crumbs.length - 1 ? (
+                  <li class="flex items-center gap-2">
+                    <a href={c.url} class="hover:text-ink-inverse transition-colors">{c.name}</a>
+                    <span aria-hidden="true" class="text-ink-inverse/40">›</span>
+                  </li>
+                ) : (
+                  <li>
+                    <span class="text-ink-inverse" aria-current="page">{c.name}</span>
+                  </li>
+                )
+              )}
+            </ol>
+          </nav>
+        </div>
+
+        <div class="flex-1"></div>
+
+        <div class="mx-auto w-full max-w-6xl px-6 lg:px-10 pb-14 md:pb-20 lg:pb-24">
+          <div class="md:max-w-xl lg:max-w-2xl">
+            <Eyebrow tone="inverse" class="text-brand-brass">{d.hero.eyebrow}</Eyebrow>
+            <h1 class="heading-display text-3xl md:text-4xl lg:text-5xl mt-6 text-ink-inverse leading-[1.1] text-balance">{d.hero.h1}</h1>
+            <Divider tone="inverse" class="bg-brand-brass mt-8" />
+            <p class="mt-8 body-copy text-ink-inverse/90 text-lg md:text-xl text-pretty">{d.hero.lead}</p>
+
+            <div class="mt-10 flex flex-wrap items-center gap-x-7 gap-y-4">
+              <a href="/kontakt/" class={ctaClass}>
+                Boka platsbesök
+                <Icon name="arrow-right" size={16} />
+              </a>
+              <a href="#harol" class="inline-flex items-center gap-1.5 text-sm font-medium text-ink-inverse underline decoration-ink-inverse/40 underline-offset-[6px] hover:decoration-ink-inverse transition-colors">
+                Se sortimentet
+                <Icon name="arrow-right" size={14} />
+              </a>
+            </div>
+
+            <p class="mt-8 text-sm text-ink-inverse/80 flex flex-wrap items-center gap-x-3 gap-y-1">
+              {d.hero.facts.map((fact, i) => (
+                <>
+                  {i > 0 && <span aria-hidden="true" class="text-brand-brass select-none">·</span>}
+                  <span>{fact}</span>
+                </>
+              ))}
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TL;DR -->
+    <section aria-label={d.tldr.label} class="speakable-tldr mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-20 pb-12 md:pb-16">
+      <Eyebrow>{d.tldr.eyebrow}</Eyebrow>
+      <ul class="mt-6 space-y-3 body-copy text-ink-soft list-none">
+        {d.tldr.items.map((item) => (
+          <li class="flex gap-4">
+            <span aria-hidden="true" class="text-brand-brass select-none mt-[0.4em] leading-none">—</span>
+            <span>{item}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <!-- Användningen -->
+    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-16 md:py-20">
+      <div class="grid gap-10 md:gap-14 md:grid-cols-12">
+        <div class="md:col-span-5">
+          <Eyebrow>{d.usage.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.usage.heading}</h2>
+          <Divider class="mt-7" />
+        </div>
+        <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
+          {d.usage.paragraphs.map((p) => <p set:html={p} />)}
+        </div>
+      </div>
+    </section>
+
+    <!-- HAROL -->
+    <section id="harol" class="bg-canvas">
+      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-24 md:py-32">
+        <div class="max-w-3xl mb-16 md:mb-20">
+          <Eyebrow>{d.harol.eyebrow}</Eyebrow>
+          <h2 class="font-display text-4xl md:text-6xl text-brand-green mt-5 leading-[1.05] tracking-tight">{d.harol.heading}</h2>
+          <Divider class="mt-9 w-20" />
+          <div class="mt-9 body-copy text-ink-soft text-lg space-y-5 max-w-2xl">
+            {d.harol.paragraphs.map((p) => <p set:html={p} />)}
+          </div>
+        </div>
+        <div class="space-y-2">
+          {d.harol.models.map((model, index) => (
+            <StackedModelCard model={model} index={index} isLast={index === d.harol.models.length - 1} placeholder={d.placeholderImage} />
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- SELT -->
+    <section id="selt" class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-24">
+        <div class="max-w-3xl mb-14">
+          <Eyebrow>{d.selt.eyebrow}</Eyebrow>
+          <h2 class="font-display text-3xl md:text-5xl text-brand-green mt-5 leading-[1.08] tracking-tight">{d.selt.heading}</h2>
+          <div aria-hidden="true" class="mt-7 h-1 w-12 bg-brand-brass"></div>
+          <div class="mt-8 body-copy text-ink-soft space-y-5 max-w-2xl">
+            {d.selt.paragraphs.map((p) => <p set:html={p} />)}
+          </div>
+        </div>
+        <div class="space-y-2">
+          {d.selt.models.map((model, index) => (
+            <StackedModelCard model={model} index={index} isLast={index === d.selt.models.length - 1} placeholder={d.placeholderImage} />
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- FÖNSTERMILJÖ -->
+    <section id="fonstermiljo" class="bg-canvas">
+      <div class="mx-auto max-w-4xl px-8 lg:px-12 py-28 md:py-36">
+        <div class="mb-16">
+          <Eyebrow>{d.fonstermiljo.eyebrow}</Eyebrow>
+          <h2 class="font-display text-2xl md:text-4xl text-brand-green mt-5 leading-[1.1] tracking-tight inline-block border-b border-brand-brass/40 pb-3">{d.fonstermiljo.heading}</h2>
+          <div class="mt-9 body-copy text-base md:text-lg text-ink-soft space-y-5">
+            {d.fonstermiljo.paragraphs.map((p) => <p set:html={p} />)}
+          </div>
+        </div>
+        <div class="space-y-2">
+          {d.fonstermiljo.models.map((model, index) => (
+            <StackedModelCard model={model} index={index} isLast={index === d.fonstermiljo.models.length - 1} placeholder={d.placeholderImage} variant="warm" />
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Korgmarkis -->
+    <section class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-4xl px-6 lg:px-10 py-16 md:py-20">
+        <Eyebrow>{d.korgmarkis.eyebrow}</Eyebrow>
+        <h2 class="heading-section text-2xl md:text-3xl text-ink mt-4 leading-tight">{d.korgmarkis.heading}</h2>
+        <Divider class="mt-7" />
+        <div class="mt-8 body-copy text-ink-soft space-y-5">
+          {d.korgmarkis.paragraphs.map((p) => <p set:html={p} />)}
+          <p>
+            <a href={d.korgmarkis.linkHref} class="inline-flex items-center gap-1.5 text-sm font-medium text-ink underline decoration-brand-brass underline-offset-[6px] hover:decoration-ink transition-colors">
+              {d.korgmarkis.linkText}
+              <Icon name="arrow-right" size={14} />
+            </a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Vägen dit -->
+    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+      <div class="grid gap-12 md:gap-16 md:grid-cols-12">
+        <div class="md:col-span-5">
+          <Eyebrow>{d.process.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.process.heading}</h2>
+          <Divider class="mt-7" />
+        </div>
+        <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
+          {d.process.paragraphs.map((p) => <p set:html={p} />)}
+        </div>
+      </div>
+    </section>
+
+    <!-- Investeringen -->
+    <section class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+        <Eyebrow>{d.investment.eyebrow}</Eyebrow>
+        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.investment.heading}</h2>
+        <Divider class="mt-7" />
+        <div class="mt-8 body-copy text-ink-soft space-y-5">
+          {d.investment.paragraphs.map((p) => <p set:html={p} />)}
+          <p class="text-ink" set:html={d.investment.closing} />
+        </div>
+      </div>
+    </section>
+
+    <!-- Trygghet -->
+    <section class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+      <Eyebrow>{d.warranty.eyebrow}</Eyebrow>
+      <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.warranty.heading}</h2>
+      <Divider class="mt-7" />
+      <div class="mt-8 body-copy text-ink-soft space-y-5">
+        {d.warranty.paragraphs.map((p) => <p set:html={p} />)}
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+        <Eyebrow>{d.faqEyebrow}</Eyebrow>
+        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.faqHeading}</h2>
+        <Divider class="mt-7 mb-2" />
+        <div class="mt-4">
+          <FAQList faqs={d.faqs} firstAnswerClass="speakable-faq-1" />
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="bg-ink text-ink-inverse">
+      <div class="mx-auto max-w-5xl px-6 lg:px-10 py-24 md:py-32">
+        <div class="grid gap-10 md:gap-16 md:grid-cols-12 md:items-end">
+          <div class="md:col-span-7">
+            <Eyebrow tone="inverse" class="text-brand-brass">{d.cta.eyebrow}</Eyebrow>
+            <h2 class="heading-section text-4xl md:text-5xl lg:text-6xl mt-5 text-ink-inverse leading-[1.1]">
+              {d.cta.headingLine1}
+              <br />
+              {d.cta.headingLine2}
+            </h2>
+            <Divider tone="inverse" class="bg-brand-brass mt-8" />
+          </div>
+          <div class="md:col-span-5 md:pl-6">
+            <p class="body-copy text-ink-inverse/80 mb-9 text-lg">{d.cta.body}</p>
+            <a href="/kontakt/" class={ctaClass}>
+              Boka platsbesök
+              <Icon name="arrow-right" size={16} />
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

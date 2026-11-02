@@ -1,0 +1,20 @@
+---
+import Badge from "./Badge.astro";
+interface Props {
+  title: string;
+  location: string;
+  productLabel: string;
+  productColor: "markiser" | "persienner" | "plisse" | "rullgardiner" | "zipscreen" | "pergola";
+  description: string;
+  class?: string;
+}
+const { title, location, productLabel, productColor, description, class: className } = Astro.props;
+---
+<article class:list={["rounded-premium border border-ink/10 bg-canvas-soft px-7 py-8 md:px-9 md:py-10 shadow-soft", className]}>
+  <div class="flex flex-wrap items-center gap-3 mb-5">
+    <Badge color={productColor}>{productLabel}</Badge>
+    <span class="text-xs font-medium uppercase tracking-[0.18em] text-ink-soft">{location}</span>
+  </div>
+  <h3 class="heading-section text-2xl md:text-3xl text-ink mb-3">{title}</h3>
+  <p class="body-copy text-ink-soft">{description}</p>
+</article>

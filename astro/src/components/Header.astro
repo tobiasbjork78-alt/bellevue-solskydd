@@ -1,0 +1,167 @@
+---
+// Navigation text is UI (allowed in components). Shared nav data lives in src/lib/nav.ts.
+import Icon from "./Icon.astro";
+import Button from "./Button.astro";
+import { navInvandigt, navUtvandigt, navLinks } from "../lib/nav";
+
+const groups = [
+  { label: "Invändigt", items: navInvandigt },
+  { label: "Utvändigt", items: navUtvandigt },
+];
+---
+<header class="sticky top-0 z-40 transition-colors duration-500 ease-premium bg-transparent" data-site-header>
+  <div class="mx-auto max-w-7xl px-6 lg:px-10">
+    <div class="flex h-20 items-center justify-between gap-6">
+      <a href="/">
+        <img src="/images/bellevue-logo.webp" alt="Bellevue Solskydd" width="276" height="72" fetchpriority="high" class="h-8 md:h-10 w-auto" />
+      </a>
+
+      <nav class="hidden lg:flex items-center gap-8 text-sm">
+        {groups.map((group) => (
+          <div class="relative group">
+            <button type="button" class="inline-flex items-center gap-1 text-ink-soft hover:text-ink transition-colors">
+              {group.label}
+              <Icon name="chevron-down" size={14} />
+            </button>
+            <div class="absolute left-0 top-full pt-3 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 ease-premium">
+              <div class="min-w-[220px] rounded-soft bg-canvas-soft border border-ink/10 shadow-soft py-3">
+                {group.items.map((item) =>
+                  item.children ? (
+                    <div>
+                      <a href={item.href} class="block px-5 py-2 text-sm text-ink-soft hover:text-ink hover:bg-ink/3 transition-colors">{item.label}</a>
+                      <div class="ml-5 border-l border-brand-brass/25">
+                        {item.children.map((child) => (
+                          <a href={child.href} class="block pl-4 pr-5 py-1.5 text-xs text-ink-soft/70 hover:text-ink transition-colors">{child.label}</a>
+                        ))}
+                      </div>
+                    </div>
+                  ) : (
+                    <a href={item.href} class="block px-5 py-2 text-sm text-ink-soft hover:text-ink hover:bg-ink/3 transition-colors">{item.label}</a>
+                  )
+                )}
+              </div>
+            </div>
+          </div>
+        ))}
+        {navLinks.map((link) => (
+          <a href={link.href} class="text-ink-soft hover:text-ink transition-colors">{link.label}</a>
+        ))}
+      </nav>
+
+      <div class="hidden lg:block">
+        <Button href="/kontakt/" size="sm">Boka rådgivning</Button>
+      </div>
+
+      <button type="button" aria-label="Öppna meny" aria-expanded="false" aria-controls="mobile-menu" class="lg:hidden text-ink" data-menu-open>
+        <Icon name="menu" size={24} />
+      </button>
+    </div>
+  </div>
+
+  <div id="mobile-menu" role="dialog" aria-modal="true" aria-label="Huvudmeny" class="fixed inset-0 z-50 bg-canvas-soft lg:hidden" hidden data-menu>
+    <div class="flex h-20 items-center justify-between px-6">
+      <a href="/" data-menu-close-link>
+        <img src="/images/bellevue-logo.webp" alt="Bellevue Solskydd" width="276" height="72" loading="lazy" class="h-8 w-auto" />
+      </a>
+      <button type="button" aria-label="Stäng meny" class="text-ink" data-menu-close>
+        <Icon name="x" size={24} />
+      </button>
+    </div>
+    <nav class="px-6 pt-6 pb-12 space-y-8 overflow-y-auto h-[calc(100vh-5rem)]">
+      {groups.map((group) => (
+        <div>
+          <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">{group.label}</p>
+          <ul class="space-y-2">
+            {group.items.map((item) => (
+              <li>
+                <a href={item.href} class="block heading-section text-2xl text-ink" data-menu-close-link>{item.label}</a>
+                {item.children && (
+                  <ul class="mt-2 ml-3 border-l border-brand-brass/25 space-y-2">
+                    {item.children.map((child) => (
+                      <li>
+                        <a href={child.href} class="block pl-4 heading-section text-xl text-ink-soft/70" data-menu-close-link>{child.label}</a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+      <div class="space-y-4">
+        {navLinks.map((link) => (
+          <a href={link.href} class="block heading-section text-2xl text-ink" data-menu-close-link>{link.label}</a>
+        ))}
+      </div>
+      <Button href="/kontakt/" class="w-full" size="lg" data-menu-close-link>Boka rådgivning</Button>
+    </nav>
+  </div>
+</header>
+
+<script>
+  // Scroll state (same threshold and classes as nextjs-v3 Header)
+  const header = document.querySelector<HTMLElement>("[data-site-header]");
+  if (header) {
+    const scrolledClasses = ["bg-canvas-soft/95", "backdrop-blur-md", "border-b", "border-ink/8"];
+    const onScroll = () => {
+      const scrolled = window.scrollY > 8;
+      scrolledClasses.forEach((c) => header.classList.toggle(c, scrolled));
+      header.classList.toggle("bg-transparent", !scrolled);
+    };
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+  }
+
+  // Mobile menu: open/close, focus trap, Esc, focus return, body scroll lock
+  const menu = document.querySelector<HTMLElement>("[data-menu]");
+  const trigger = document.querySelector<HTMLButtonElement>("[data-menu-open]");
+  if (menu && trigger) {
+    const focusables = () =>
+      Array.from(
+        menu.querySelectorAll<HTMLElement>('a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])')
+      ).filter((el) => !el.hasAttribute("aria-hidden"));
+
+    const onKey = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        event.preventDefault();
+        close();
+        return;
+      }
+      if (event.key !== "Tab") return;
+      const list = focusables();
+      if (list.length === 0) return;
+      const first = list[0];
+      const last = list[list.length - 1];
+      const active = document.activeElement;
+      if (event.shiftKey && active === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && active === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    };
+
+    function open() {
+      menu!.hidden = false;
+      trigger!.setAttribute("aria-expanded", "true");
+      document.body.style.overflow = "hidden";
+      focusables()[0]?.focus();
+      document.addEventListener("keydown", onKey);
+    }
+
+    function close() {
+      if (menu!.hidden) return;
+      menu!.hidden = true;
+      trigger!.setAttribute("aria-expanded", "false");
+      document.body.style.overflow = "";
+      document.removeEventListener("keydown", onKey);
+      trigger!.focus();
+    }
+
+    trigger.addEventListener("click", open);
+    menu.querySelector("[data-menu-close]")?.addEventListener("click", close);
+    menu.querySelectorAll("[data-menu-close-link]").forEach((el) => el.addEventListener("click", close));
+  }
+</script>

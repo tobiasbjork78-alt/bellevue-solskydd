@@ -1,0 +1,58 @@
+---
+// Template "markiser" (/markiser-malmo/). All text from src/content/pages/markiser-malmo.md.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import Hero from "../components/markiser/Hero.astro";
+import Tldr from "../components/markiser/Tldr.astro";
+import ArrowLink from "../components/markiser/ArrowLink.astro";
+import SplitSection from "../components/markiser/SplitSection.astro";
+import TextSection from "../components/markiser/TextSection.astro";
+import FaqSection from "../components/markiser/FaqSection.astro";
+import FinalCta from "../components/markiser/FinalCta.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faq.items });
+---
+<BaseLayout
+  twitterCard={d.twitterCard}
+  robots={d.robots} title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
+  <main class="flex-1 bg-canvas">
+    <Hero hero={d.hero} watermarkClass="text-[18vw] md:text-[14vw]" />
+    <Tldr tldr={d.tldr} />
+
+    <section id="vilken-typ" class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+        <div class="max-w-2xl mb-14">
+          <Eyebrow>{d.types.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.types.heading}</h2>
+          <Divider class="mt-7" />
+          <p class="mt-7 body-copy text-ink-soft">{d.types.intro}</p>
+        </div>
+        <div class="space-y-14 md:space-y-16">
+          {d.types.items.map((item, i) => (
+            <Fragment>
+              {i > 0 && <Divider class="bg-brand-brass/30 w-full" />}
+              <article>
+                <h3 class="font-display text-2xl md:text-3xl text-ink leading-tight mb-4">{item.heading}</h3>
+                <div class="body-copy text-ink-soft space-y-4 max-w-3xl">
+                  {item.paragraphs.map((p) => <p set:html={p} />)}
+                  <p><ArrowLink href={item.link.href} label={item.link.label} /></p>
+                </div>
+              </article>
+            </Fragment>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <SplitSection section={d.pergola} gap="gap-10 md:gap-14" />
+    <SplitSection section={d.method} band />
+    <TextSection section={d.price} />
+    <TextSection section={d.warranty} band />
+    <FaqSection faq={d.faq} />
+    <FinalCta cta={d.finalCta} />
+  </main>
+</BaseLayout>

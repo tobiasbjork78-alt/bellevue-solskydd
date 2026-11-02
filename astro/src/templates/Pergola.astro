@@ -1,0 +1,238 @@
+---
+// Template "pergola" (/pergola-malmo/). All text from src/content/pages/pergola-malmo.md.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import HeroBreadcrumbs from "../components/utvandigt/HeroBreadcrumbs.astro";
+import HeroContent from "../components/utvandigt/HeroContent.astro";
+import TldrList from "../components/utvandigt/TldrList.astro";
+import DarkCTA from "../components/utvandigt/DarkCTA.astro";
+import FAQList from "../components/FAQList.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faqs });
+const PLACEHOLDER =
+  "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221%22%20height%3D%221%22%2F%3E";
+const fill = "absolute inset-0 h-full w-full";
+const models = d.models.items;
+const L = d.comparison.labels;
+---
+<BaseLayout
+  twitterCard={d.twitterCard}
+  robots={d.robots}
+  title={d.title}
+  description={d.description}
+  path={path}
+  ogTitle={d.ogTitle}
+  ogDescription={d.ogDescription}
+  ogImage={d.ogImage}
+  breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs}
+  schema={schema}
+>
+  <main class="flex-1 bg-canvas">
+    <section class="relative w-full h-[70vh] md:h-[78vh] md:min-h-[680px] overflow-hidden">
+      <img src={d.hero.image} alt={d.hero.alt} fetchpriority="high" decoding="async" sizes="100vw" class:list={[fill, "object-cover object-[center_25%]"]} />
+      <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/55 to-black/25 md:bg-gradient-to-r md:from-black/80 md:via-black/45 md:to-black/5"></div>
+      <div class="absolute inset-0 flex flex-col">
+        <div class="mx-auto w-full max-w-6xl px-6 lg:px-10 pt-8 md:pt-10">
+          {d.breadcrumbs && <HeroBreadcrumbs items={d.breadcrumbs} />}
+        </div>
+        <div class="flex-1"></div>
+        <HeroContent hero={d.hero} secondaryHref="#modellerna" />
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-16 md:py-20">
+      <div class="grid gap-10 md:gap-14 md:grid-cols-12">
+        <div class="md:col-span-5">
+          <Eyebrow>{d.intro.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.intro.heading}</h2>
+          <Divider class="mt-7" />
+        </div>
+        <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
+          {d.intro.paragraphs.map((p) => <p set:html={p} />)}
+          <p class="text-sm text-ink" set:html={d.intro.contact} />
+        </div>
+      </div>
+    </section>
+
+    <TldrList tldr={d.tldr} class="speakable-tldr mx-auto max-w-4xl px-6 lg:px-10 pb-12 md:pb-16" />
+
+    <section id="modellerna" class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-28">
+        <div class="max-w-2xl mb-14">
+          <Eyebrow>{d.models.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.models.heading}</h2>
+          <Divider class="mt-7" />
+          <p class="mt-7 body-copy text-ink-soft">{d.models.body}</p>
+        </div>
+        <div>
+          {models.map((model, index) => (
+            <article class:list={["grid gap-8 md:gap-12 md:grid-cols-2 py-12 md:py-16 md:items-center", index !== models.length - 1 && "border-b border-brand-brass/30"]}>
+              <div class="relative aspect-[16/9] bg-canvas overflow-hidden">
+                {model.image ? (
+                  <img src={model.image} alt={model.alt} decoding="async" sizes="(max-width: 768px) 100vw, 50vw" {...(index === 0 ? { fetchpriority: "high" } : { loading: "lazy" })} class:list={[fill, "object-cover"]} />
+                ) : (
+                  <>
+                    <img src={PLACEHOLDER} alt={model.alt} decoding="async" class:list={[fill, "object-cover opacity-0"]} />
+                    <div class="absolute inset-0 flex items-center justify-center">
+                      <span class="text-ink/25 font-display text-3xl md:text-4xl tracking-wide select-none">{model.name}</span>
+                    </div>
+                  </>
+                )}
+              </div>
+              <div class="md:py-2">
+                <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">{model.maker}</p>
+                <h3 class="font-display text-3xl md:text-4xl lg:text-5xl text-ink tracking-tight leading-[1.05] mb-2">{model.name}</h3>
+                <p class="text-sm font-medium text-ink-soft mb-6">{model.type}</p>
+                <p class="body-copy text-ink mb-7 max-w-prose">{model.body}</p>
+                <ul class="space-y-2 text-sm body-copy text-ink-soft list-none">
+                  {model.specs.map((spec) => (
+                    <li class="flex gap-3">
+                      <span aria-hidden="true" class="text-brand-brass select-none leading-snug">—</span>
+                      <span>{spec}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-24">
+      <div class="max-w-2xl mb-12">
+        <Eyebrow>{d.comparison.eyebrow}</Eyebrow>
+        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.comparison.heading}</h2>
+        <Divider class="mt-7" />
+        <p class="mt-7 body-copy text-ink-soft">{d.comparison.body}</p>
+      </div>
+
+      <div class="hidden md:block rounded-premium border border-ink/10 overflow-hidden">
+        <table class="w-full text-sm">
+          <thead class="bg-canvas-soft">
+            <tr class="text-left text-xs font-medium uppercase tracking-[0.18em] text-ink-soft">
+              <th class="px-5 py-4 font-medium w-[100px]" aria-label={L.image}></th>
+              <th class="px-5 py-4 font-medium">{L.model}</th>
+              <th class="px-5 py-4 font-medium">{L.type}</th>
+              <th class="px-5 py-4 font-medium">{L.size}</th>
+              <th class="px-5 py-4 font-medium">{L.water}</th>
+              <th class="px-5 py-4 font-medium">{L.bestFor}</th>
+            </tr>
+          </thead>
+          <tbody class="text-ink">
+            {d.comparison.rows.map((row) => (
+              <tr class="border-t border-ink/8 align-top">
+                <td class="px-5 py-5 w-[100px]">
+                  <div class="relative w-[80px] h-[45px] overflow-hidden bg-canvas-soft rounded-[2px]">
+                    {row.image ? (
+                      <img src={row.image} alt={row.alt ?? `${row.maker} ${row.name}`} loading="lazy" decoding="async" sizes="80px" class:list={[fill, "object-cover"]} />
+                    ) : (
+                      <div class="absolute inset-0 flex items-center justify-center">
+                        <span class="text-ink/30 font-display text-[10px] tracking-wide select-none">{row.name}</span>
+                      </div>
+                    )}
+                  </div>
+                </td>
+                <td class="px-5 py-5">
+                  <p class="text-xs uppercase tracking-[0.18em] text-brand-green mb-1">{row.maker}</p>
+                  <p class="font-display text-xl text-ink leading-tight">{row.name}</p>
+                </td>
+                <td class="px-5 py-5 text-ink-soft">{row.type}</td>
+                <td class="px-5 py-5 text-ink-soft">{row.size}</td>
+                <td class="px-5 py-5 text-ink-soft">{row.water}</td>
+                <td class="px-5 py-5 text-ink-soft">{row.bestFor}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <div class="md:hidden space-y-5">
+        {d.comparison.rows.map((row) => (
+          <article class="rounded-premium border border-ink/10 bg-canvas overflow-hidden">
+            <div class="relative w-full aspect-[16/9] max-h-[120px] bg-canvas-soft overflow-hidden">
+              {row.image ? (
+                <img src={row.image} alt={row.alt ?? `${row.maker} ${row.name}`} loading="lazy" decoding="async" sizes="100vw" class:list={[fill, "object-cover"]} />
+              ) : (
+                <div class="absolute inset-0 flex items-center justify-center">
+                  <span class="text-ink/25 font-display text-xl tracking-wide select-none">{row.name}</span>
+                </div>
+              )}
+            </div>
+            <div class="p-6">
+              <p class="text-xs uppercase tracking-[0.18em] text-brand-green mb-1">{row.maker}</p>
+              <h3 class="font-display text-2xl text-ink leading-tight mb-4">{row.name}</h3>
+              <dl class="space-y-3 text-sm">
+                <div>
+                  <dt class="text-xs uppercase tracking-[0.18em] text-ink-soft">{L.type}</dt>
+                  <dd class="text-ink mt-1">{row.type}</dd>
+                </div>
+                <div>
+                  <dt class="text-xs uppercase tracking-[0.18em] text-ink-soft">{L.size}</dt>
+                  <dd class="text-ink mt-1">{row.size}</dd>
+                </div>
+                <div>
+                  <dt class="text-xs uppercase tracking-[0.18em] text-ink-soft">{L.water}</dt>
+                  <dd class="text-ink mt-1">{row.water}</dd>
+                </div>
+                <div>
+                  <dt class="text-xs uppercase tracking-[0.18em] text-ink-soft">{L.bestFor}</dt>
+                  <dd class="text-ink mt-1">{row.bestFor}</dd>
+                </div>
+              </dl>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+      <div class="grid gap-12 md:gap-16 md:grid-cols-12">
+        <div class="md:col-span-5">
+          <Eyebrow>{d.craft.eyebrow}</Eyebrow>
+          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.craft.heading}</h2>
+          <Divider class="mt-7" />
+        </div>
+        <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
+          {d.craft.paragraphs.map((p) => <p set:html={p} />)}
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+        <Eyebrow>{d.investment.eyebrow}</Eyebrow>
+        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.investment.heading}</h2>
+        <Divider class="mt-7" />
+        <div class="mt-8 body-copy text-ink-soft space-y-5">
+          {d.investment.paragraphs.map((p) => <p set:html={p} />)}
+          <p class="text-ink" set:html={d.investment.closing} />
+        </div>
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+      <Eyebrow>{d.warranty.eyebrow}</Eyebrow>
+      <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.warranty.heading}</h2>
+      <Divider class="mt-7" />
+      <div class="mt-8 body-copy text-ink-soft space-y-5">
+        {d.warranty.paragraphs.map((p) => <p set:html={p} />)}
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-4xl px-6 lg:px-10 pb-20 md:pb-24">
+      <Eyebrow>{d.faqEyebrow}</Eyebrow>
+      <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.faqHeading}</h2>
+      <Divider class="mt-7 mb-2" />
+      <div class="mt-4">
+        <FAQList faqs={d.faqs} firstAnswerClass="speakable-faq-1" />
+      </div>
+    </section>
+
+    <DarkCTA cta={d.cta} />
+  </main>
+</BaseLayout>

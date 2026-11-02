@@ -1,0 +1,77 @@
+---
+// Template "city" (port of nextjs-v3 CityPageView). All text from the page's content file.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import AnswerBox from "../components/AnswerBox.astro";
+import FAQList from "../components/FAQList.astro";
+import ConsultationCTA from "../components/ConsultationCTA.astro";
+import Icon from "../components/Icon.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faqs });
+const h2 = "heading-section text-3xl md:text-4xl text-ink mb-6";
+const body = "body-copy text-ink-soft space-y-5 max-w-3xl";
+---
+<BaseLayout title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
+  <main class="flex-1 bg-canvas">
+    <div class="mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-24 pb-16">
+      {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
+      <div class="mt-10 mb-10">
+        <Eyebrow>{d.eyebrow}</Eyebrow>
+        <h1 class="heading-display text-5xl md:text-7xl mt-6 text-ink">{d.h1}</h1>
+        <Divider class="mt-7" />
+      </div>
+
+      <AnswerBox html={d.answerBox} />
+
+      <section class="mt-16">
+        <h2 class={h2}>{d.why.heading}</h2>
+        <div class={body}>{d.why.paragraphs.map((p) => <p>{p}</p>)}</div>
+      </section>
+
+      <section class="mt-16">
+        <h2 class={h2}>{d.overview.heading}</h2>
+        <div class={body}>
+          {d.overview.paragraphs.map((p) => <p>{p}</p>)}
+          <p class="pt-2">
+            <a href={d.overview.link.href} class="inline-flex items-center gap-2 text-sm font-medium text-brand-green hover:text-ink transition-colors">
+              {d.overview.link.label}
+              <Icon name="arrow-right" size={14} />
+            </a>
+          </p>
+        </div>
+      </section>
+
+      <section class="mt-16">
+        <h2 class={h2}>{d.process.heading}</h2>
+        <div class={body}>
+          <p>{d.process.intro}</p>
+          <ol class="space-y-5 list-none mt-2">
+            {d.process.steps.map((step) => (
+              <li class="flex gap-5">
+                <span class="font-display text-2xl text-brand-brass tracking-tight w-12 shrink-0">{step.index}</span>
+                <div>
+                  <h3 class="font-medium text-ink mb-1">{step.title}</h3>
+                  <p class="body-copy text-ink-soft">{step.body}</p>
+                </div>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </section>
+
+      <div class="mt-20">
+        <Eyebrow>{d.faqEyebrow}</Eyebrow>
+        <h2 class="heading-section text-3xl md:text-4xl mt-5 text-ink">{d.faqHeading}</h2>
+        <Divider class="mt-7 mb-4" />
+        <FAQList faqs={d.faqs} />
+      </div>
+    </div>
+
+    <ConsultationCTA eyebrow={d.cta.eyebrow} heading={d.cta.heading} body={d.cta.body} />
+  </main>
+</BaseLayout>

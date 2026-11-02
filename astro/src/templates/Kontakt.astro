@@ -1,0 +1,57 @@
+---
+// Template "kontakt". All text from src/content/pages/kontakt.md.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const c = d.contact;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description });
+const labelClass = "text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3";
+---
+<BaseLayout title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
+  <main class="flex-1 bg-canvas">
+    <div class="mx-auto max-w-5xl px-6 lg:px-10 pt-16 md:pt-24 pb-24">
+      {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
+      <div class="mt-10 mb-14">
+        <Eyebrow>{d.eyebrow}</Eyebrow>
+        <h1 class="heading-display text-5xl md:text-7xl mt-6 text-ink">{d.h1}</h1>
+        <Divider class="mt-7" />
+        <p class="mt-7 body-copy text-ink-soft max-w-xl">{d.intro}</p>
+      </div>
+      <div class="grid gap-12 md:grid-cols-12">
+        <aside class="md:col-span-4 space-y-10">
+          <div>
+            <p class={labelClass}>{c.phoneLabel}</p>
+            <a href={c.phoneHref} class="heading-section text-2xl text-ink hover:text-brand-green transition-colors">{c.phone}</a>
+          </div>
+          <div>
+            <p class={labelClass}>{c.emailLabel}</p>
+            <a href={`mailto:${c.email}`} class="heading-section text-xl text-ink hover:text-brand-green transition-colors break-all">{c.email}</a>
+          </div>
+          <div>
+            <p class={labelClass}>{c.addressLabel}</p>
+            <p class="body-copy text-ink">{c.addressLines.map((line, i) => <>{i > 0 && <br />}{line}</>)}</p>
+          </div>
+          <div>
+            <p class={labelClass}>{d.hoursLabel}</p>
+            <ul class="body-copy text-ink space-y-1">
+              {d.hours.map((h) => (
+                <li class="flex justify-between gap-4">
+                  <span>{h.days}</span>
+                  <span class="text-ink-soft">{h.time}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </aside>
+        <div class="md:col-span-8">
+          {/* TODO: Web3Forms-formulär läggs in här när access_key är klar (oförändrat från nextjs-v3) */}
+        </div>
+      </div>
+    </div>
+  </main>
+</BaseLayout>

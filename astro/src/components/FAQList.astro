@@ -1,0 +1,51 @@
+---
+// Accordion. Mirrors nextjs-v3 FAQItem, including its SSR state: the first
+// item renders aria-expanded="true" with max-height 0px (content measured on click).
+import Icon from "./Icon.astro";
+interface Props {
+  faqs: Array<{ question: string; answer: string }>;
+  answerClass?: string;
+  /** Class applied only to the first answer (e.g. speakable-faq-1) */
+  firstAnswerClass?: string;
+}
+const { faqs, answerClass, firstAnswerClass } = Astro.props;
+const iconBase = "flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-ink/15 text-ink transition-transform duration-500 ease-premium";
+const iconOpen = "rotate-45 bg-brand-green text-ink-inverse border-brand-green";
+---
+<div data-faq-list>
+  {faqs.map((faq, index) => {
+    const open = index === 0;
+    return (
+      <div class="border-b border-ink/10" data-faq-item>
+        <h3 class="m-0 font-normal">
+          <button type="button" aria-expanded={open ? "true" : "false"} class="flex w-full items-center justify-between gap-6 py-6 text-left" data-faq-toggle>
+            <span class="heading-section text-xl md:text-2xl text-ink">{faq.question}</span>
+            <span aria-hidden="true" class:list={[iconBase, open && iconOpen]} data-faq-icon data-open-class={iconOpen}>
+              <Icon name="plus" size={16} />
+            </span>
+          </button>
+        </h3>
+        <div style="max-height:0px" class="overflow-hidden transition-[max-height] duration-500 ease-premium" data-faq-panel>
+          <p class:list={["pb-6 pr-12 body-copy text-ink-soft", answerClass, index === 0 && firstAnswerClass]}>{faq.answer}</p>
+        </div>
+      </div>
+    );
+  })}
+</div>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>("[data-faq-toggle]").forEach((button) => {
+    const item = button.closest("[data-faq-item]");
+    const panel = item?.querySelector<HTMLElement>("[data-faq-panel]");
+    const icon = item?.querySelector<HTMLElement>("[data-faq-icon]");
+    if (!panel || !icon) return;
+    const openClasses = (icon.dataset.openClass ?? "").split(" ").filter(Boolean);
+    button.addEventListener("click", () => {
+      const open = button.getAttribute("aria-expanded") !== "true";
+      button.setAttribute("aria-expanded", String(open));
+      const height = panel.firstElementChild?.scrollHeight ?? 0;
+      panel.style.maxHeight = open ? `${height}px` : "0px";
+      openClasses.forEach((c) => icon.classList.toggle(c, open));
+    });
+  });
+</script>

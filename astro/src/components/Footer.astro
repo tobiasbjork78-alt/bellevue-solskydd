@@ -1,0 +1,74 @@
+---
+// Footer text is UI (allowed in components). Product links follow the Header
+// structure (Invändigt / Utvändigt, Markiser with children) + Skanör-Falsterbo.
+import Divider from "./Divider.astro";
+import { navInvandigt, navUtvandigt, serviceItems, aboutLinks, markiserSkanor } from "../lib/nav";
+
+const productGroups = [
+  { label: "Invändigt", items: navInvandigt.map((i) => (i.href === "/invandigt-solskydd/" ? { ...i, label: "Invändigt solskydd" } : i)) },
+  { label: "Utvändigt", items: [...navUtvandigt, markiserSkanor] },
+];
+const year = new Date().getFullYear();
+const linkClass = "text-ink-inverse/80 hover:text-ink-inverse transition-colors";
+---
+<footer class="bg-canvas-deep text-ink-inverse">
+  <div class="mx-auto max-w-7xl px-6 lg:px-10 pt-20 pb-10">
+    <div class="grid gap-12 md:grid-cols-4">
+      <div>
+        <img src="/images/bellevue-logo-white.webp" alt="Bellevue Solskydd" width="276" height="72" loading="lazy" class="h-9 w-auto mb-5" />
+        <Divider tone="inverse" class="bg-brand-brass" />
+        <p class="mt-5 body-copy text-sm text-ink-inverse/70 max-w-xs">
+          Lokalt solskyddsföretag i Malmö med rådgivning, måttagning och montering i hela södra Skåne.
+        </p>
+      </div>
+      <div>
+        <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-brass mb-4">Produkter</p>
+        {productGroups.map((group) => (
+          <div class="mb-6 last:mb-0">
+            <p class="text-[11px] uppercase tracking-[0.18em] text-ink-inverse/50 mb-2">{group.label}</p>
+            <ul class="space-y-2 text-sm">
+              {group.items.map((item) => (
+                <li>
+                  <a href={item.href} class={linkClass}>{item.label}</a>
+                  {"children" in item && item.children && (
+                    <ul class="mt-2 ml-1 pl-3 border-l border-brand-brass/30 space-y-2">
+                      {item.children.map((child) => (
+                        <li><a href={child.href} class={linkClass}>{child.label}</a></li>
+                      ))}
+                    </ul>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+      <div>
+        <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-brass mb-4">Tjänster</p>
+        <ul class="space-y-2 text-sm">
+          {serviceItems.map((label) => (
+            <li class="text-ink-inverse/80">{label}</li>
+          ))}
+        </ul>
+      </div>
+      <div>
+        <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-brass mb-4">Kontakt</p>
+        <ul class="space-y-2 text-sm text-ink-inverse/80">
+          <li><a href="tel:+46401811100" class="hover:text-ink-inverse transition-colors">040-18 11 00</a></li>
+          <li><a href="mailto:info@bellevuesolskydd.se" class="hover:text-ink-inverse transition-colors">info@bellevuesolskydd.se</a></li>
+          <li class="text-ink-inverse/70">Satellitvägen 16<br />245 34 Staffanstorp</li>
+        </ul>
+        <ul class="mt-6 space-y-2 text-sm">
+          {aboutLinks.map((link) => (
+            <li><a href={link.href} class={linkClass}>{link.label}</a></li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <div class="mt-16 pt-8 border-t border-ink-inverse/10 flex flex-col md:flex-row md:items-center md:justify-between gap-4 text-xs text-ink-inverse/60">
+      <p>© {year} Bellevue Solskydd</p>
+      <p>Satellitvägen 16, 245 34 Staffanstorp</p>
+    </div>
+  </div>
+</footer>

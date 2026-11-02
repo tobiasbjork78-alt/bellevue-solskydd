@@ -1,0 +1,68 @@
+// Shared frontmatter fields for every page in src/content/pages.
+import { z } from "astro/zod";
+
+export const crumbSchema = z.object({ name: z.string(), url: z.string() });
+export const faqItemSchema = z.object({ question: z.string(), answer: z.string() });
+export const ctaSchema = z.object({
+  eyebrow: z.string(),
+  heading: z.string(),
+  body: z.string(),
+});
+
+export const schemaDescriptor = z.discriminatedUnion("type", [
+  z.object({ type: z.literal("site") }),
+  z.object({
+    type: z.literal("service"),
+    name: z.string(),
+    description: z.string().optional(),
+    city: z.string().optional(),
+    cities: z.array(z.string()).optional(),
+    dateModified: z.string().optional(),
+  }),
+  z.object({ type: z.literal("faq"), items: z.array(faqItemSchema).optional() }),
+  z.object({
+    type: z.literal("article"),
+    headline: z.string(),
+    description: z.string().optional(),
+    datePublished: z.string(),
+    dateModified: z.string().optional(),
+  }),
+  z.object({ type: z.literal("contactPage") }),
+  z.object({
+    type: z.literal("webPage"),
+    name: z.string().optional(),
+    description: z.string().optional(),
+    dateModified: z.string().optional(),
+    speakable: z.array(z.string()).optional(),
+  }),
+  z.object({ type: z.literal("collectionPage"), name: z.string(), items: z.array(z.string()) }),
+]);
+export type SchemaDescriptor = z.infer<typeof schemaDescriptor>;
+
+export const baseSchema = z.object({
+  /** <title> */
+  title: z.string(),
+  /** meta description */
+  description: z.string(),
+  /** Date of last commit touching the nextjs-v3 page.tsx (sitemap lastmod) */
+  updated: z.coerce.date(),
+  ogTitle: z.string().optional(),
+  ogDescription: z.string().optional(),
+  /** Site-relative path to a 1200×630 image; default /og/default.jpg */
+  ogImage: z.string().optional(),
+  /** twitter:card; default "summary" */
+  twitterCard: z.enum(["summary", "summary_large_image"]).optional(),
+  /** <meta name="robots"> when set */
+  robots: z.string().optional(),
+  /** false = excluded from sitemap (same selection as nextjs-v3/public/sitemap.xml) */
+  sitemap: z
+    .union([z.literal(false), z.object({ priority: z.number(), changefreq: z.string() })])
+    .optional(),
+  /** Visual breadcrumbs (site-relative urls). Also used for BreadcrumbList unless schemaBreadcrumbs is set. */
+  breadcrumbs: z.array(crumbSchema).optional(),
+  /** BreadcrumbList for JSON-LD when it differs from the visual breadcrumbs */
+  schemaBreadcrumbs: z.array(crumbSchema).optional(),
+  schema: z.array(schemaDescriptor).optional(),
+  /** Set false to skip the rehype section wrapping of the Markdown body */
+  prose: z.boolean().optional(),
+});

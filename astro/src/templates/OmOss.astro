@@ -1,0 +1,49 @@
+---
+// Template "omOss". All text from src/content/pages/om-oss.md.
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import Eyebrow from "../components/Eyebrow.astro";
+import Divider from "../components/Divider.astro";
+import { buildSchema } from "../lib/page-schema";
+
+const { entry, path } = Astro.props;
+const d = entry.data;
+const c = d.contact;
+const schema = buildSchema(d.schema, { path, title: d.title, description: d.description });
+const labelClass = "block text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-1";
+---
+<BaseLayout title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
+  <main class="flex-1 bg-canvas">
+    <div class="mx-auto max-w-3xl px-6 lg:px-10 pt-16 md:pt-24 pb-24">
+      {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
+      <div class="mt-10 mb-10">
+        <Eyebrow>{d.eyebrow}</Eyebrow>
+        <h1 class="heading-display text-5xl md:text-6xl mt-6 text-ink">
+          {d.h1Line1}
+          <br />
+          <span class="text-brand-brass">{d.h1Line2}</span>
+        </h1>
+        <Divider class="mt-7" />
+      </div>
+      <div class="rounded-premium border border-ink/10 bg-canvas-soft px-7 py-8 md:px-9 md:py-10">
+        <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">{d.notice.label}</p>
+        <h2 class="heading-section text-2xl md:text-3xl text-ink mb-3">{d.notice.heading}</h2>
+        <p class="body-copy text-ink-soft">{d.notice.body}</p>
+      </div>
+      <div class="mt-10 grid gap-3 sm:grid-cols-3 text-sm text-ink-soft">
+        <p>
+          <span class={labelClass}>{c.phoneLabel}</span>
+          <a href={c.phoneHref} class="text-ink hover:text-brand-green transition-colors">{c.phone}</a>
+        </p>
+        <p>
+          <span class={labelClass}>{c.emailLabel}</span>
+          <a href={`mailto:${c.email}`} class="text-ink hover:text-brand-green transition-colors break-all">{c.email}</a>
+        </p>
+        <p>
+          <span class={labelClass}>{c.addressLabel}</span>
+          <span class="text-ink">{c.addressLines.map((line, i) => <>{i > 0 && <br />}{line}</>)}</span>
+        </p>
+      </div>
+    </div>
+  </main>
+</BaseLayout>

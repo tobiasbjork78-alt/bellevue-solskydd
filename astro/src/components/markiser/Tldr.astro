@@ -1,0 +1,16 @@
+---
+import Eyebrow from "../Eyebrow.astro";
+interface Props { tldr: { eyebrow: string; items: string[] } }
+const { tldr } = Astro.props;
+---
+<section aria-label={tldr.eyebrow} class="speakable-tldr mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-20 pb-12 md:pb-16">
+  <Eyebrow>{tldr.eyebrow}</Eyebrow>
+  <ul class="mt-6 space-y-3 body-copy text-ink-soft list-none">
+    {tldr.items.map((item) => (
+      <li class="flex gap-4">
+        <span aria-hidden="true" class="text-brand-brass select-none mt-[0.4em] leading-none">—</span>
+        <span>{item}</span>
+      </li>
+    ))}
+  </ul>
+</section>
