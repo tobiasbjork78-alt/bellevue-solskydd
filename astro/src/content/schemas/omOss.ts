@@ -14,9 +14,9 @@ export const contactFacts = z.object({
 
 export const omOssSchema = baseSchema.extend({
   template: z.literal("omOss"),
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   h1Line1: z.string(),
   h1Line2: z.string(),
-  notice: z.object({ label: z.string(), heading: z.string(), body: z.string() }),
+  notice: z.object({ label: z.string().optional(), heading: z.string(), body: z.string() }),
   contact: contactFacts,
 });

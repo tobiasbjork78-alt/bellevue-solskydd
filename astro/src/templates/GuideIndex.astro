@@ -16,15 +16,15 @@ const schema = buildSchema(d.schema, { path, title: d.title, description: d.desc
     <div class="mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-24 pb-24">
       {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
       <div class="mt-10 mb-12">
-        <Eyebrow>{d.eyebrow}</Eyebrow>
-        <h1 class="heading-display text-5xl md:text-7xl mt-6 text-ink">{d.h1}</h1>
+        {d.eyebrow && <Eyebrow>{d.eyebrow}</Eyebrow>}
+        <h1 class:list={["heading-display text-5xl md:text-7xl text-ink", d.eyebrow && "mt-6"]}>{d.h1}</h1>
         <Divider class="mt-7" />
         <p class="mt-7 body-copy text-ink-soft max-w-xl">{d.intro}</p>
       </div>
       <div class="space-y-4">
         {d.guides.map((guide) => (
           <a href={guide.href} class="group block rounded-premium border border-ink/10 bg-canvas-soft px-7 py-8 md:px-9 md:py-10 transition-all duration-500 ease-premium hover:-translate-y-1 hover:shadow-lift hover:border-ink/15">
-            <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">{guide.eyebrow}</p>
+            {guide.eyebrow && <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">{guide.eyebrow}</p>}
             <h2 class="heading-section text-2xl md:text-3xl text-ink mb-3">{guide.title}</h2>
             <p class="body-copy text-ink-soft text-sm md:text-base mb-5">{guide.excerpt}</p>
             <span class="inline-flex items-center gap-2 text-sm font-medium text-ink">

@@ -19,10 +19,8 @@ schema:
   headline: Skötsel av invändigt solskydd — så håller det längre
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Tema
 h1: Skötsel av invändigt solskydd
 answerBox: Invändigt solskydd kräver minimalt underhåll. En lätt avdamning varannan vecka och punktrengöring vid behov är allt som behövs för de allra flesta produkter. Den största risken för skada är felaktig rengöring — starka rengöringsmedel, blötläggning eller tvättmaskin. Den här guiden går igenom vad som faktiskt fungerar, produkt för produkt.
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om skötsel.
 faqs:
 - question: Får man tvätta vävar i tvättmaskin?

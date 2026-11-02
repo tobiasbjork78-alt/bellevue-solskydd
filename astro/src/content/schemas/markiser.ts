@@ -16,7 +16,7 @@ export const heroSchema = z.object({
   watermark: z.string(),
   /** Visual breadcrumb in the hero; last item = current page (no url) */
   crumbs: z.array(z.object({ name: z.string(), url: z.string().optional() })),
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   h1: z.string(),
   intro: z.string(),
   primaryCta: linkSchema,
@@ -28,7 +28,7 @@ export const tldrSchema = z.object({ eyebrow: z.string(), items: z.array(z.strin
 
 /** Two-column section: eyebrow/heading left, paragraphs (HTML) right */
 export const splitSectionSchema = z.object({
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   heading: z.string(),
   paragraphs: z.array(z.string()),
   link: linkSchema.optional(),
@@ -36,20 +36,20 @@ export const splitSectionSchema = z.object({
 
 /** Single-column section; `closing` is rendered as the last paragraph in text-ink */
 export const textSectionSchema = z.object({
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   heading: z.string(),
   paragraphs: z.array(z.string()),
   closing: z.string().optional(),
 });
 
 export const faqSectionSchema = z.object({
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   heading: z.string(),
   items: z.array(faqItemSchema),
 });
 
 export const finalCtaSchema = z.object({
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   headingLine1: z.string(),
   headingLine2: z.string(),
   body: z.string(),
@@ -61,7 +61,7 @@ export const markiserSchema = baseSchema.extend({
   hero: heroSchema,
   tldr: tldrSchema,
   types: z.object({
-    eyebrow: z.string(),
+    eyebrow: z.string().optional(),
     heading: z.string(),
     intro: z.string(),
     items: z.array(

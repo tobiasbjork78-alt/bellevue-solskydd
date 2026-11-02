@@ -19,10 +19,8 @@ schema:
   headline: Solskydd mot insyn — utan att tappa dagsljuset
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Tema
 h1: Solskydd mot insyn
 answerBox: 'Lösningen på insyn är inte att stänga ute ljuset — det är att kontrollera var i fönstret det filtreras. Tre invändiga produkter gör jobbet bra: plisségardin med tvåvägsjustering täcker den del av fönstret som behöver det, persienn vinklar lamellerna mot taket, och rullgardin med ljusfiltrerande väv dämpar generellt. Vilken som passar bäst beror på fönstret och vad ni vill se av omvärlden.'
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om insynsskydd.
 faqs:
 - question: Varför har just Malmö så mycket insynsproblem?
@@ -36,7 +34,6 @@ faqs:
 - question: Vilken lösning är diskretare i fönstret?
   answer: Persienner är tunnare och tar minst plats i karmen — bara cirka 4 cm bygghöjd ihopfälld. Plissé bygger 1,5–3 cm per meter fönsterhöjd vid överkanten. Båda är väldigt diskreta jämfört med gardinkappa eller traditionell vävgardin.
 cta:
-  eyebrow: Insynsskydd Malmö
   heading: Vi tittar på fönstret tillsammans.
   body: Vid hembesöket går vi runt fastigheten och tittar på var insynen faktiskt kommer in — gata, gångväg, motstående hus. Sedan föreslår vi den lösning som täcker exakt det området.
 ---

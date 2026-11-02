@@ -19,10 +19,8 @@ schema:
   headline: Plisségardin eller rullgardin — vad ska du välja?
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Jämförelse
 h1: Plisségardin eller rullgardin?
 answerBox: Plissé och rullgardin är två av de vanligaste invändiga solskydden — och de väljs ofta efter olika prioriteringar. Plissé ger fri positionering i fönstret, tvåvägsjustering och riktig isolering med dubbelväv. Rullgardinen ger motorisering, de bredaste fönstren (upp till 450 cm) och en helt slät vävyta i sovrummet. Valet handlar mest om vilket av dessa som är viktigast för er.
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om jämförelsen.
 faqs:
 - question: Vilken ger bäst klimatkomfort vid fönstret?
@@ -36,7 +34,6 @@ faqs:
 - question: Vilken är billigast i grundutförande?
   answer: Beror på storlek. På standardfönster ligger en enkel rullgardin med kulkedja och en enkelvävs frihängande plissé i samma prisklass. Skillnaden uppstår vid tillval — motorisering driver upp rullgardinens pris, isolerväv eller mörkläggande dubbelväv driver upp plisséns. Vi specificerar alltid pris per fönster i offerten så ni kan jämföra direkt.
 cta:
-  eyebrow: Personlig rekommendation
   heading: Vi hjälper er välja per rum.
   body: Vid hembesöket går vi igenom alla fönster och föreslår plissé eller rullgardin utifrån användning, väderstreck och budget. Hembesök, mätning och offert kostar inget.
 ---

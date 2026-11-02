@@ -3,15 +3,15 @@
 import Eyebrow from "./Eyebrow.astro";
 import Button from "./Button.astro";
 import Divider from "./Divider.astro";
-interface Props { eyebrow: string; heading: string; body: string; cta?: string; href?: string }
+interface Props { eyebrow?: string; heading: string; body: string; cta?: string; href?: string }
 const { eyebrow, heading, body, cta = "Boka rådgivning", href = "/kontakt/" } = Astro.props;
 ---
 <section class="bg-brand-green text-ink-inverse">
   <div class="mx-auto max-w-7xl px-6 lg:px-10 py-24 md:py-32">
     <div class="grid gap-12 md:grid-cols-12 md:items-end">
       <div class="md:col-span-7">
-        <Eyebrow tone="inverse" class="text-brand-brass">{eyebrow}</Eyebrow>
-        <h2 class="heading-section text-4xl md:text-5xl lg:text-6xl mt-5 text-ink-inverse">{heading}</h2>
+        {eyebrow && <Eyebrow tone="inverse" class="text-brand-brass">{eyebrow}</Eyebrow>}
+        <h2 class:list={["heading-section text-4xl md:text-5xl lg:text-6xl text-ink-inverse", eyebrow && "mt-5"]}>{heading}</h2>
         <Divider tone="inverse" class="bg-brand-brass mt-7" />
       </div>
       <div class="md:col-span-5 md:pl-8">

@@ -26,7 +26,6 @@ hero:
   crumbs:
     - { name: "Hem", url: "/" }
     - { name: "Markiser Malmö" }
-  eyebrow: "Markiser · Malmö"
   h1: "Markiser i Malmö med rådgivning, måttning och montering."
   intro: "En markis flyttar gränsen för när uteplatsen och rummen innanför går att använda. Vilken typ som passar beror på fasaden, väderstrecket och hur ytan ska användas — det reder vi ut på plats och monterar med egna montörer."
   primaryCta: { label: "Boka platsbesök", href: "/kontakt/" }
@@ -38,9 +37,8 @@ tldr:
     - "Markis är utvändigt solskydd — det finns flera typer som löser olika saker, inte en lösning som passar alla."
     - "Vi installerar markiser från Selt, Harol och Fönstermiljö — terrass-, fönster- och specialmodeller."
     - "Rätt typ beror på var solen ligger, hur ytan ska användas och hur exponerad fasaden är mot vind."
-    - "3 års garanti på utvändigt solskydd, egna montörer, hembesök avgör slutligt val av modell och väv."
+    - "Selts markiser har 7 års garanti och motorn 5 år. Övrigt utvändigt solskydd har 3 års garanti. Egna montörer, hembesök avgör slutligt val av modell och väv."
 types:
-  eyebrow: "Sortimentet"
   heading: "Vad är skillnaden — och vilken behöver du?"
   intro: "Markis är ett samlingsbegrepp. Det finns fyra grundtyper och de löser olika problem. Vi går igenom dem i klartext här så ni vet vad ni letar efter — slutliga modell- och vävvalet avgörs på platsbesöket."
   items:
@@ -81,21 +79,18 @@ types:
           <strong class="font-medium text-ink">Passar dig om:</strong> ni har en butiksfasad eller äldre fastighet i centrala Malmö där en kupémarkis hör hemma. I sortimentet nämner vi särskilt korgmarkisen <span class="text-ink">Ängsö från Fönstermiljö</span>.
       link: { label: "Hör av er för en korgmarkis-offert", href: "/kontakt/" }
 pergola:
-  eyebrow: "Nästa nivå"
   heading: "När en markis inte räcker — pergola."
   paragraphs:
     - "För många hushåll räcker markisen. Den fälls ut när solen stör och dras in när väder eller säsong inte tillåter. Men om ni vill kunna sitta ute även i tunt regn, eller förlänga uteplatsen från sex månader till tio, är pergola nästa steg."
     - "Pergolan står året om — fast konstruktion med motorstyrt tak och möjlighet till sidor, värme och belysning. Skillnaden mot markis är inte i pris alltid, utan i hur uteplatsen används."
   link: { label: "Läs om vårt pergolaprogram i Malmö", href: "/pergola-malmo/" }
 method:
-  eyebrow: "Metod"
   heading: "Hur vi tänker när vi rekommenderar."
   paragraphs:
     - "Vi börjar inte med en modell, vi börjar med fasaden. Vid hembesöket går vi igenom var solen ligger under dygnet, vilka väderstreck fönstren och uteplatsen vetter mot, hur exponerad fasaden är mot vinden från Öresund — och hur ni faktiskt använder ytan."
     - "Vi noterar fasadens beskaffenhet — tegel i förband, puts över lättbetong, träpanel mot reglar, isolerad ytterväggsplats — eftersom det styr infästning och ibland vilka modeller som faller bort. På bostadsrätter går vi också igenom föreningens regler och eventuell gemensam färgskala innan vi föreslår något."
     - "Sen ger vi en rekommendation: typ av markis, modell, väv, motorisering och eventuell sensor. Vi rekommenderar ofta en kassettmodell när väven utsätts för havsklimat och en öppen arm där fasaden är skyddad — men det slutliga valet beror på platsen, inte på en mall."
 price:
-  eyebrow: "Investeringen"
   heading: "Vad som styr priset på en markis."
   paragraphs:
     - "Storleken är den största enskilda prisfaktorn. Bredd och utfall styr både vävytan och vilken kraft armen behöver tåla — en 6 m terrassmarkis är en annan ekonomisk övning än en 3 m fönstermarkis."
@@ -105,13 +100,11 @@ price:
     - "Slutligen montagekomplexiteten. En slät putsfasad i normalvåning är ett rakare jobb än en infästning i tegelförband på tredje våningen, eller en BRF-fasad där vi måste arbeta från skylift."
   closing: "Vi räknar på ert projekt på plats — material, montage, eventuell el och styrelseunderlag — och lämnar en specificerad offert där varje post står för sig själv."
 warranty:
-  eyebrow: "Trygghet"
   heading: "Tre års garanti och lokal service."
   paragraphs:
-    - "Vi lämnar tre års garanti på utvändigt solskydd — markis, motorisering och installation. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar utan diskussion om vem som ska kallas in."
+    - "Selts markiser har 7 års garanti och motorn 5 år. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar utan diskussion om vem som ska kallas in."
     - "Service och reservdelar går genom oss, inte tillbaka till fabrik. Vi monterar med egna montörer i Malmö, Lund, Vellinge, Trelleborg, Lomma, Kävlinge, Staffanstorp och Svedala — vilket innebär att personen som installerar är samma företag ni når om något krånglar tre år senare."
 faq:
-  eyebrow: "Vanliga frågor"
   heading: "Inför platsbesöket — det vi får frågor om markiser."
   items:
     - question: "Vad är skillnaden mellan terrassmarkis och fönstermarkis?"
@@ -131,7 +124,6 @@ faq:
     - question: "Vilka områden i södra Skåne arbetar ni i?"
       answer: "Vi gör hembesök och monterar markiser i Malmö, Staffanstorp, Lund, Vellinge, Trelleborg, Lomma, Kävlinge och Svedala. Längre bort åker vi också — säg till vid första kontakten så bokar vi platsbesök. Eftersom måttning och fasadkontroll sker på plats vill vi alltid ut till adressen innan offert lämnas."
 finalCta:
-  eyebrow: "Nästa steg"
   headingLine1: "Det avgörs på er fasad"
   headingLine2: "— inte här."
   body: "Mätning, modellval och vävprover sker mot er fasad i dagsljus. Hembesök och offert är kostnadsfria — vi kommer hem oavsett om det blir affär eller inte."

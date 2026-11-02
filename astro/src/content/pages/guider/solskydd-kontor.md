@@ -19,10 +19,8 @@ schema:
   headline: Solskydd för kontor — bländskydd och flamskyddade vävar
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Tema
 h1: Solskydd för kontor
 answerBox: 'Kontorsmiljöer ställer andra krav än bostäder: bredare fönster, fler fönster i samma rum, ofta brandkrav på textilier och behov av centraliserad styrning. Tre produkter dominerar i kontorssegmentet — rullgardin med screenväv för bländskydd, lamellgardin för stora glaspartier, och persienn för rum med stegvis ljusstyrning. Flamskyddade vävar finns för alla alternativen.'
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om kontorslösningar.
 faqs:
 - question: Behöver vävar vara flamskyddade i ett kontor?
@@ -36,7 +34,6 @@ faqs:
 - question: Vem kontaktar jag för kontorslösningar i Malmö?
   answer: Vi gör platsbesök på företag i hela södra Skåne. Ring 040-18 11 00 eller skicka ett mail till info@bellevuesolskydd.se. För större installationer brukar vi göra ett orienterande platsbesök först — gå igenom fasaden, väderstrecken och hur lokalerna används — innan vi tar fram en specificerad offert.
 cta:
-  eyebrow: Solskydd för företag
   heading: Boka platsbesök för kontoret.
   body: Vi gör platsbesök hos företag i Malmö, Lund och hela södra Skåne. Mätning, vävprover på plats, dokumenterad brandklass — och specificerad offert per fönster. Kostnadsfritt.
 ---

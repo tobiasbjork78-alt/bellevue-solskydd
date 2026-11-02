@@ -19,10 +19,8 @@ schema:
   headline: Solskydd mot värme — sänk temperaturen vid fönstret
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Tema
 h1: Solskydd mot värme
 answerBox: Sommarvärme inomhus — särskilt på fasader mot Öresund — är oftast inte ett ventilations- eller AC-problem utan ett glasproblem. Stora glasytor mot väster släpper in solenergi som värmer rummet under hela eftermiddagen. Lösningen är att stoppa eller reflektera ljuset innan det blir värme i rummet — och de mest effektiva produkterna är plissé med dubbelväv invändigt plus zip screen eller markis utvändigt.
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om värmedämpning.
 faqs:
 - question: Räcker invändigt solskydd mot värme?
@@ -36,7 +34,6 @@ faqs:
 - question: Är isolerväv värd det också vintertid?
   answer: Ja, ofta tydligare än man tror. Vid stora glasytor mot kall vind — Limhamn mot havet, Hyllie mot öppen mark — är kallraset från glaset märkbart. Plisséns luftceller dämpar konvektionen mellan kall glasruta och varm rumsluft, så det upplevs varmare vid fönstret. Det är inte ersättning för bra fönster, men det jämnar ut temperaturupplevelsen i rummet.
 cta:
-  eyebrow: Solskydd mot värme
   heading: Vi tittar på de varma fönstren tillsammans.
   body: Hembesöket är gratis. Vi går runt fasaden, identifierar vilka fönster som faktiskt är värmeproblem, och föreslår en kombination av invändigt och utvändigt skydd där det behövs.
 ---

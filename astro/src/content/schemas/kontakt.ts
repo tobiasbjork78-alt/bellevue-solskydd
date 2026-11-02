@@ -5,7 +5,7 @@ import { contactFacts } from "./omOss";
 
 export const kontaktSchema = baseSchema.extend({
   template: z.literal("kontakt"),
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   h1: z.string(),
   intro: z.string(),
   contact: contactFacts,

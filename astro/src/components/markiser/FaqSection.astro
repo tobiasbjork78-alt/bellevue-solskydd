@@ -5,14 +5,14 @@ import Eyebrow from "../Eyebrow.astro";
 import Divider from "../Divider.astro";
 import FAQList from "../FAQList.astro";
 interface Props {
-  faq: { eyebrow: string; heading: string; items: Array<{ question: string; answer: string }> };
+  faq: { eyebrow?: string; heading: string; items: Array<{ question: string; answer: string }> };
   band?: boolean;
 }
 const { faq, band = false } = Astro.props;
 ---
 <Band band={band} container="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
-  <Eyebrow>{faq.eyebrow}</Eyebrow>
-  <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{faq.heading}</h2>
+  {faq.eyebrow && <Eyebrow>{faq.eyebrow}</Eyebrow>}
+  <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", faq.eyebrow && "mt-4"]}>{faq.heading}</h2>
   <Divider class="mt-7 mb-2" />
   <div class="mt-4">
     <FAQList faqs={faq.items} firstAnswerClass="speakable-faq-1" />

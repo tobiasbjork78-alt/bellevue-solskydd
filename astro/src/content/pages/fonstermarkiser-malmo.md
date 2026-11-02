@@ -28,7 +28,6 @@ hero:
     - { name: "Hem", url: "/" }
     - { name: "Markiser Malmö", url: "/markiser-malmo/" }
     - { name: "Fönstermarkiser" }
-  eyebrow: "Fönstermarkis · Malmö"
   h1: "Fönstermarkiser i Malmö — solen stoppas vid glaset."
   intro: "Utvändigt solskydd som hindrar värmen från att passera fönstret över huvud taget — för söder- och västerfönster, flerfamiljshus och bostadsrätter med gemensam fasadlinje. Vi mäter, tar fram BRF-underlag och monterar."
   primaryCta: { label: "Boka platsbesök", href: "/kontakt/" }
@@ -42,15 +41,13 @@ tldr:
     - "Kassettmodell vid året-runt-bruk; öppen fallarm i klassiska fasader och vid lägre budget."
     - "Vi tar fram BRF-underlag inför styrelsegodkännande och samordnar färg och modell mot föreningens fasadlinje."
 usage:
-  eyebrow: "Användningen"
   heading: "När fönstermarkis är rätt val."
   paragraphs:
     - "Söder- och västerfönster är fönstermarkisens kärnområde i Malmö. När eftermiddagssolen slår mot ett oskyddat fönster under fyra–fem timmar passerar en stor andel av strålningen rakt in i rummet — och stannar där som värme även efter att solen gått ner. Fönstermarkisen fångar solen utomhus, innan den når glaset."
     - "Flerfamiljshus och bostadsrätter är den andra typiska situationen. Föreningen har valt en gemensam färg och modell, och fönstermarkis hör till fasaden likaväl som fönsterkarmens kulör. Vi tar fram underlag som styrelsen kan besluta från — modell, kulör, infästning och en fasadbild som visar hur det blir."
     - "Mindre vanligt men relevant: balkonger där fasadinfästning är svår eller förbjuden av föreningen. Då finns räckesmonterade balkongmodeller (Selt Italia Balcony och Fönstermiljö Solliden i balkongversion, enligt leverantörerna) som löser samma värmeproblem utan att röra fasaden."
 models:
-  eyebrow: "Sortimentet"
-  heading: "Modellerna vi mäter in."
+  heading: "Modellerna vi tar mått för."
   intro: "Fyra modeller där spec-datan har flera källor och kan redovisas i detalj. Ytterligare tre modeller där den tillgängliga datan är tunnare — vi nämner dem efter med kvalitativ funktion utan siffror."
   cards:
     - maker: "Selt"
@@ -102,7 +99,6 @@ models:
       image: null
       plannedImage: "/images/markiser/fonstermiljo-solliden.jpg"
 otherModels:
-  eyebrow: "Övriga modeller"
   heading: "Övriga fönstermarkiser i sortimentet."
   intro: "Modeller där kategorin är verifierad mot flera källor men dimensions­data kommer från en enskild leverantörskälla. Listade utan siffror; faktiska mått kontrollerar vi inför offert."
   items:
@@ -116,21 +112,18 @@ otherModels:
       name: "Läckö"
       qualitative: "Fönstermarkis fallarm för bredare fönsterpartier (enligt leverantör)."
 contrast:
-  eyebrow: "Avgränsning"
   heading: "Fönstermarkis eller terrassmarkis?"
   paragraphs:
     - "Det är samma kategori — utvändigt solskydd — men de löser olika problem. Fönstermarkis skuggar fönsterglaset och stoppar värme inomhus. Terrassmarkis skuggar uteplatsen och flyttar gränsen för när altanen går att använda."
     - "De är inte ömsesidigt uteslutande. På en sjönära fasad med stor altan kan båda förekomma — terrassmarkis över uteplatsen, fönstermarkis över sovrumsfönstret en våning upp. Vi går igenom hela fasaden vid hembesöket och tar ställning till vad varje partis behov kräver."
   link: { label: "Läs om terrassmarkiser för uteplatser", href: "/terrassmarkiser-malmo/" }
 process:
-  eyebrow: "Vägen dit"
   heading: "Så jobbar vi med fönstermarkiser."
   paragraphs:
     - "Hembesöket först. Vi mäter varje fönsterparti, fotograferar fasaden, noterar väderstreck, fasadens beskaffenhet och eventuell isolering eller fuktspärr som påverkar infästningen."
     - "BRF-underlag tar vi fram efter besöket: föreslagen modell och kulör mot föreningens fasadlinje, en monterad bild som visar hur det kommer se ut. Det ni skickar till styrelsen ska vara komplett — vi har vana med vad föreningar i Malmö centralt typiskt vill ha med."
     - "Vid godkänd offert beställer vi och bokar montering. Själva monteringen tar typiskt en halvdag per fönsterparti. Motor och styrning kalibreras på plats, och eventuell sensor riktas in efter solens väg över huset."
 investment:
-  eyebrow: "Investeringen"
   heading: "Vad som styr kostnaden per fönster."
   paragraphs:
     - "Antalet fönstermarkiser är den första variabeln. En enskild markis över ett söderfönster är ett annat projekt än en hel fasad i en BRF — både material, arbete och styrningsupplägg skalar med antalet enheter."
@@ -139,15 +132,13 @@ investment:
     - "Vävvalet och kulören står för en betydande del. Båda leverantörerna har breda vävkollektioner; specialkulörer utöver standardpaletten tillkommer hos vissa modeller. I bostadsrätter måste valet ändå hålla sig inom föreningens fasadlinje."
   closing: "Vi räknar på fönster för fönster — eller hela fasaden — på plats och lämnar en specificerad offert där varje markis står för sig själv."
 warranty:
-  eyebrow: "Trygghet"
   heading: "Garanti och lokal kontaktpunkt."
   paragraphs:
-    - "Tre års garanti på utvändigt solskydd — fönstermarkis, motorisering och installation. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar."
+    - "Selts markiser har 7 års garanti och motorn 5 år. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar."
     - "Service och reservdelar går via oss — inte tillbaka till fabrik. Vi monterar med egna montörer i hela Malmö-området och södra Skåne, vilket gör att samma företag som installerar också är det ni når om något krånglar tre år senare."
     - >-
       Om fönstermarkis inte är hela lösningen — kanske räcker en del av problemet att lösa utvändigt och resten med invändigt solskydd — kan ett bredare grepp över <a href="/markiser-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">hela markissortimentet i Malmö</a> vara nästa läsning.
 faq:
-  eyebrow: "Vanliga frågor"
   heading: "Frågor om fönstermarkiser."
   items:
     - question: "Hur effektivt stoppar en fönstermarkis värmen jämfört med invändigt solskydd?"
@@ -167,7 +158,6 @@ faq:
     - question: "Vilka områden i södra Skåne arbetar ni i?"
       answer: "Vi mäter och monterar fönstermarkiser i Malmö, Staffanstorp, Lund, Vellinge, Trelleborg, Lomma, Kävlinge och Svedala. Längre bort åker vi också — säg till vid första kontakten så bokar vi platsbesök. Eftersom måttning och BRF-underlag tas fram på plats vill vi alltid ut till adressen innan offert lämnas."
 finalCta:
-  eyebrow: "Nästa steg"
   headingLine1: "Vi kommer hem"
   headingLine2: "och mäter fasaden."
   body: "Måttning, modellval, BRF-underlag och vävprover sker mot er fasad i dagsljus. Hembesök och offert är kostnadsfria."

@@ -7,7 +7,7 @@ export const articleSchema = baseSchema.extend({
   template: z.literal("article"),
   /** guide = <article>/<header> wrappers (guider), product = <div> wrappers */
   variant: z.enum(["guide", "product"]),
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   h1: z.string(),
   /** HTML allowed (inline links/strong) */
   answerBox: z.string().optional(),

@@ -19,10 +19,8 @@ schema:
   headline: Motoriserat solskydd — Motion, Eve-Motion och smart hem
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Tema
 h1: Motoriserat solskydd
 answerBox: Motoriserade invändiga solskydd finns i två produktkategorier — rullgardin och lamellgardin — och i två olika motorfamiljer. Motion-familjen styrs via Bluetooth till app eller fjärrkontroll och kopplas mot smart hem genom en Wi-Fi-brygga. Eve-Motion använder Thread/Matter och fungerar direkt med Apple HomeKit och Google Home utan brygga, så länge ni har en Thread Border Router i hemmet.
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om motor och smart hem.
 faqs:
 - question: Vilka invändiga solskydd finns med motor?
@@ -38,7 +36,6 @@ faqs:
 - question: Kan motoriseringen schemaläggas?
   answer: Ja — tidsstyrning är en av de mest användbara funktionerna. Schemalägg uppveckling till klockan sju, automatisk fällning när solen står i västerläge klockan femton, eller scenbaserad styrning där 'film' fäller alla rullgardiner i vardagsrummet och dimmar belysningen. Båda motorfamiljerna stödjer schemaläggning, antingen via egen app eller via integration med smart hem-systemet.
 cta:
-  eyebrow: Motoriserat solskydd
   heading: Vi guidar er genom valet.
   body: Vid hembesöket går vi igenom vilka fönster som faktiskt drar nytta av motor, kollar om ni redan har Thread Border Router i hemmet, och föreslår motorfamilj utifrån befintligt smart hem-system.
 ---

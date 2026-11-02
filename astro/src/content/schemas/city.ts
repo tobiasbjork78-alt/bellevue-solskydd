@@ -6,7 +6,7 @@ const section = z.object({ heading: z.string(), paragraphs: z.array(z.string()) 
 
 export const citySchema = baseSchema.extend({
   template: z.literal("city"),
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   h1: z.string(),
   answerBox: z.string(),
   why: section,
@@ -16,7 +16,7 @@ export const citySchema = baseSchema.extend({
     intro: z.string(),
     steps: z.array(z.object({ index: z.string(), title: z.string(), body: z.string() })),
   }),
-  faqEyebrow: z.string(),
+  faqEyebrow: z.string().optional(),
   faqHeading: z.string(),
   faqs: z.array(faqItemSchema),
   cta: ctaSchema,

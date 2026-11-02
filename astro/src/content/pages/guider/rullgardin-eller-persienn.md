@@ -19,10 +19,8 @@ schema:
   headline: Rullgardin eller persienn — så väljer du rätt
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Jämförelse
 h1: Rullgardin eller persienn?
 answerBox: Båda är klassiska invändiga solskydd som löser samma problem på olika sätt. Rullgardinen styr ljus genom vävvalet — blackout för mörker, screen för bländskydd, ljusfiltrerande för mjukt dagsljus. Persiennen styr ljuset genom vinkeln på sina aluminiumlameller — fri sikt på dagen, lutning mot taket vid eftermiddagssol, stängd vid kvällsljus. Rullgardinen kan motoriseras, persiennen är manuell.
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om jämförelsen.
 faqs:
 - question: Vilken sköts enklast i längden?
@@ -36,9 +34,8 @@ faqs:
 - question: Var hjälper ni att välja?
   answer: Vi gör hembesök i Malmö, Lund, Staffanstorp, Vellinge, Lomma, Kävlinge, Trelleborg och Skanör-Falsterbo. Hembesöket är kostnadsfritt även om ni inte bestämmer er — vi mäter, visar prover och lämnar specificerad offert på plats. Ring 040-18 11 00.
 cta:
-  eyebrow: Personlig rekommendation
   heading: Osäker på vilken som passar?
-  body: Vi gör hembesök i Malmö med omnejd, går igenom rummens användning och föreslår rullgardin eller persienn — fönster för fönster. Hembesök, mätning och offert är gratis.
+  body: Vi gör hembesök i Malmö och närliggande orter, går igenom rummens användning och föreslår rullgardin eller persienn — fönster för fönster. Hembesök, mätning och offert är gratis.
 ---
 
 ## Hur de fungerar i praktiken

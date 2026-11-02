@@ -12,7 +12,6 @@ breadcrumbs:
 schema:
   - { type: service, name: Persienner Malmö }
   - { type: faq }
-eyebrow: "Invändigt solskydd"
 h1: "Persienner i Malmö"
 answerBox: >-
   En persienn ger en typ av ljuskontroll som varken rullgardin
@@ -20,7 +19,6 @@ answerBox: >-
   mycket ljus som släpps in och från vilken vinkel. Vi måttanpassar
   i Malmö-fönster sedan länge — frihängande för moderna fönster och
   mellanglas för kopplade fönster i sekelskifteshus.
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om persienner.
 faqs:
   - question: "Vilken persienn passar bäst i ett sekelskifteshus?"
@@ -36,7 +34,6 @@ faqs:
   - question: "Hur dammar man av lamellerna?"
     answer: "Stäng lamellerna helt och torka över med en mjuk trasa eller en plym — då når ni hela lamellytan. Aluminium tål en lätt fuktig trasa om det blivit fett eller fingeravtryck. Mellanglasvarianten är ett undantag: lamellerna sitter mellan glasen och behöver aldrig dammas."
 cta:
-  eyebrow: "Persienner Malmö"
   heading: "Boka kostnadsfritt hembesök för persienner."
   body: "Vi mäter på plats, visar färgprover och föreslår modell utifrån fönstret — frihängande eller mellanglas. Hembesök, mätning och offert är gratis i hela södra Skåne."
 ---

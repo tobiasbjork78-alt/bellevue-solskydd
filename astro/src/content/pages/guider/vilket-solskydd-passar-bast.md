@@ -19,10 +19,8 @@ schema:
   headline: Vilket solskydd passar bäst? En guide för Malmö
   datePublished: '2026-04-29'
 - type: faq
-eyebrow: Översikt
 h1: Vilket solskydd passar bäst?
 answerBox: Det beror på fönstrets läge, vilket problem ni vill lösa, och om ni vill ha invändigt eller utvändigt skydd. Den här guiden går igenom valen — från värme och bländning till mörkläggning och uteplats — och vilken produkt som funkar bäst i respektive fall.
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om val och process.
 faqs:
 - question: Kan jag kombinera flera typer av solskydd i samma rum?
@@ -32,7 +30,6 @@ faqs:
 - question: Hur lång leveranstid har ni?
   answer: Standardprodukter i lager kan ofta monteras inom 1–3 veckor från godkänd offert. Måttanpassade produkter med specialväv eller motor ligger på 3–6 veckor. Vi anger en konkret tidsplan i offerten.
 cta:
-  eyebrow: Lokal rådgivning
   heading: Vi hjälper er välja rätt.
   body: Vi besöker fönstren, går igenom problemet ni vill lösa och föreslår en lösning som faktiskt fungerar i ert hus. Hembesök och offert är kostnadsfria.
 prose: false
@@ -86,4 +83,4 @@ Det är lätt att börja med att titta på olika produkter och jämföra. Det g�
 
 </div></section>
 
-<div class="mt-16 rounded-premium border border-ink/10 bg-canvas-soft px-7 py-8 md:px-9 md:py-10"><p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">Vill du ha en personlig rekommendation?</p><h2 class="heading-section text-2xl md:text-3xl text-ink mb-3">Få förslag på 60 sekunder.</h2><p class="body-copy text-ink-soft mb-6 max-w-xl">Svara på fem korta frågor om dina fönster och vad du vill lösa, så får du en saklig rekommendation och kan boka hembesök direkt.</p><a class="inline-flex items-center gap-2 rounded-full bg-brand-green px-6 py-3 text-ink-inverse font-medium transition-colors duration-300 ease-premium hover:bg-brand-green/90" href="/kontakt/">Starta rådgivningen<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-right" aria-hidden="true"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg></a></div>
+<div class="mt-16 rounded-premium border border-ink/10 bg-canvas-soft px-7 py-8 md:px-9 md:py-10"><h2 class="heading-section text-2xl md:text-3xl text-ink mb-3">Vet du inte vad som passar?</h2><p class="body-copy text-ink-soft mb-6 max-w-xl">Det behöver du inte veta. Vid hembesöket tittar vi på fönstren, väderstrecket och hur rummet används, och föreslår sedan vad som fungerar.</p><a class="inline-flex items-center gap-2 rounded-full bg-brand-green px-6 py-3 text-ink-inverse font-medium transition-colors duration-300 ease-premium hover:bg-brand-green/90" href="/kontakt/">Starta rådgivningen<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-right" aria-hidden="true"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg></a></div>

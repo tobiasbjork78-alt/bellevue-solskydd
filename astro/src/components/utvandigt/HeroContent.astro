@@ -4,15 +4,15 @@ import Eyebrow from "../Eyebrow.astro";
 import Divider from "../Divider.astro";
 import Icon from "../Icon.astro";
 interface Props {
-  hero: { eyebrow: string; h1: string; body: string; primaryCta: string; secondaryCta: string; trust: string[] };
+  hero: { eyebrow?: string; h1: string; body: string; primaryCta: string; secondaryCta: string; trust: string[] };
   secondaryHref: string;
 }
 const { hero, secondaryHref } = Astro.props;
 ---
 <div class="mx-auto w-full max-w-6xl px-6 lg:px-10 pb-14 md:pb-20 lg:pb-24">
   <div class="md:max-w-xl lg:max-w-2xl">
-    <Eyebrow tone="inverse" class="text-brand-brass">{hero.eyebrow}</Eyebrow>
-    <h1 class="heading-display text-3xl md:text-4xl lg:text-5xl mt-6 text-ink-inverse leading-[1.1] text-balance">{hero.h1}</h1>
+    {hero.eyebrow && <Eyebrow tone="inverse" class="text-brand-brass">{hero.eyebrow}</Eyebrow>}
+    <h1 class:list={["heading-display text-3xl md:text-4xl lg:text-5xl text-ink-inverse leading-[1.1] text-balance", hero.eyebrow && "mt-6"]}>{hero.h1}</h1>
     <Divider tone="inverse" class="bg-brand-brass mt-8" />
     <p class="mt-8 body-copy text-ink-inverse/90 text-lg md:text-xl text-pretty">{hero.body}</p>
     <div class="mt-10 flex flex-wrap items-center gap-x-7 gap-y-4">

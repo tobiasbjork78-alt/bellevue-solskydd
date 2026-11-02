@@ -39,7 +39,6 @@ schema:
 hero:
   image: /images/zip-screen/selt-zipcreen-120-header.webp
   alt: Zip-screen monterad på fasad — Bellevue Solskydd, Malmö och södra Skåne
-  eyebrow: Zip-screen · Malmö
   h1: Zip-screen i Malmö — vindtåligt vertikalt solskydd, monterat av oss.
   body: En zip-screen stoppar solens värme innan den når glaset — och håller väven uppspänd även i hård vind tack vare blixtlåset längs sidoskenorna. Vi måttar fasaden, går igenom vindexponering och glaspartiernas dimension, och monterar med egna montörer.
   primaryCta: Boka platsbesök
@@ -61,14 +60,12 @@ contextImage:
   height: 600
   alt: Zip-screen nedfälld mot solig fasad i Malmö
 usage:
-  eyebrow: Användningen
   heading: När en zip-screen är rätt val — och när det är något annat.
   paragraphs:
   - Eftermiddagssolen på en söder- eller västerfasad värmer upp glasen redan innan strålarna kommer in i rummet. En invändig persienn eller plissé dämpar ljuset, men värmen är redan inne — luften mellan glaset och den invändiga produkten blir het. Zip-screen sitter på utsidan av glaset och stoppar både direktstrålningen och uppvärmningen av glaset självt.
   - I Malmö och längs Öresundskusten är vinden den andra faktorn. Zip-konstruktionens blixtlås längs sidorna gör att väven inte kan flaxa eller blåsa ut — utformningen följer den europeiska utomhusstandarden EN 13561. På exponerade lägen rekommenderar vi alltid vindsensor som drar in screenen automatiskt över en inställd vindstyrka.
   - 'Skillnaden mot en <a href="/terrassmarkiser-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">terrassmarkis</a> är riktningen: terrassmarkisen fälls ut horisontellt över altanen och skuggar uteplatsen, zip-screen sitter vertikalt på fasaden och skuggar glaset. På en <a href="/pergola-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">pergola</a> kombineras båda ofta — zip-screen som sidoväggar bromsar vinden och stoppar regnstänk.'
 harol:
-  eyebrow: Leverantör
   heading: Harol — belgisk precision för fasaden.
   paragraphs:
   - Belgisk tillverkare med 80 års verksamhet och en designfokuserad produktlinje för utvändigt solskydd. Coolscreen-linjen är Harols zip-screen-utförande och har belönats med Red Dot Product Design Award 2023. Konstruktionen är testad för 15 000 öppningscykler.
@@ -91,7 +88,6 @@ harol:
     alt: Harol Coolscreen utvändig zip-screen monterad på fasad
     image: /images/zip-screen/harol-coolscreen.webp
 selt:
-  eyebrow: Leverantör
   heading: Selt — polsk zip-screen-specialist.
   paragraphs:
   - Polsk tillverkare. Selts Refleksol R Ziiip-linje bygger på ZIIIP-systemet — zip-konstruktion med tvådelade sidoskenor och kompenserande tätningar som ger mörkläggande effekt även mot ojämna fasader. Konstruktionen är extruderad aluminium, vilket gör att kassetten inte resonerar i regn.
@@ -128,14 +124,12 @@ selt:
     alt: Selt Refleksol R Ziiip 95 slim zip-screen för mindre fönster
     image: /images/zip-screen/selt-r-ziiip-95.webp
 process:
-  eyebrow: Processen
   heading: Vägen från glaspartiet till rätt zip-screen.
   paragraphs:
   - Modellvalet börjar i fasaden, inte i sortimentet. Vid hembesöket mäter vi glaspartiets bredd och höjd, går igenom vindexponering och väderstreck, och kollar fasadens beskaffenhet — tegel, puts, isolerad yttervägg eller post-and-beam-system styr direkt hur kassetten ska fästas. Vi tittar också efter el-uttag inom räckhåll för motorn.
   - Sen kommer vävvalet. Screenväv finns i olika öppningsgrad — en tätare väv ger bättre värmeskydd och mer privatliv, en glesare ger mer utsikt. Vi tar med vävprover och visar dem mot ert glas i dagsljus, inte mot en showroom-bakgrund. För sovrum eller hemmabio går vi rakt till blackout-väv.
   - Slutligt val är situationsbundet och avgörs vid hembesöket. Eventuell el-dragning, integration med smart hem och vind-/solsensor specificeras i offerten — varje post står för sig själv.
 investment:
-  eyebrow: Investeringen
   heading: Vad investeringen består av.
   paragraphs:
   - Glaspartiets storlek är den största variabeln. Höga och breda partier kräver kraftigare valsrör, större motor och kassetter i större format — materialmängden skalar med ytan, inte linjärt med bredden.
@@ -146,13 +140,11 @@ investment:
   closing: Vi räknar på ert projekt på plats — material, motorisering, montage, eventuell el och styrelseunderlag — och lämnar en specificerad offert.
 warranty:
   backgroundImage: /images/zip-screen/zip-screen-process-bg.webp
-  eyebrow: Trygghet
   heading: Garanti och lokal service.
   paragraphs:
-  - Vi lämnar tre års garanti på utvändigt solskydd — zip-screen, motorisering och installation. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar utan diskussion om vem som ska kallas in.
+  - Selts markiser har 7 års garanti och motorn 5 år. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar utan diskussion om vem som ska kallas in.
   - Service och reservdelar går genom oss, inte tillbaka till fabrik. Vi monterar med egna montörer i Malmö, Lund, Vellinge, Trelleborg, Lomma, Kävlinge, Staffanstorp och Svedala — den som installerar är samma företag ni når om något krånglar tre år senare.
   - Behöver fasaden mer än vertikalt solskydd ser vi ofta kombinationen <a href="/terrassmarkiser-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">terrassmarkis över altanen</a> och zip-screen på glaspartierna — eller en bredare blick över hela <a href="/markiser-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">markissortimentet i Malmö</a> där fönster- och korgmarkiser också ingår.
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor inför installationen.
 faqs:
 - question: Hur stora glaspartier kan ni täcka med en zip-screen?
@@ -172,7 +164,6 @@ faqs:
 - question: Kan zip-screen kombineras med pergola eller terrassmarkis?
   answer: Ja, och det är en vanlig kombination. På en pergola sätts zip-screen som sidoväggar — vinden bromsas, regnstänk hålls ute och pergolan blir mer användbar i april och september. På en uteplats där terrassmarkis skuggar ovanifrån kan zip-screen på fasadens fönster komplettera genom att stoppa värmen som annars går genom glaset. Vid hembesöket ritar vi upp helheten så att markis, screen och eventuell pergola spelar ihop.
 cta:
-  eyebrow: Nästa steg
   headingLine1: Vi kommer hem
   headingLine2: och måttar fönsterpartierna.
   body: Mätning, vävval och modellval sker mot er fasad i dagsljus. Hembesök och offert är kostnadsfria — vi kommer hem oavsett om det blir affär eller inte.

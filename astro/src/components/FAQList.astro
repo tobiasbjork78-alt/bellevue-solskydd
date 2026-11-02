@@ -1,6 +1,6 @@
 ---
-// Accordion. Mirrors nextjs-v3 FAQItem, including its SSR state: the first
-// item renders aria-expanded="true" with max-height 0px (content measured on click).
+// Accordion. The first item is open on load (max-height none, answer visible);
+// all answers are in the HTML, JS only toggles max-height.
 import Icon from "./Icon.astro";
 interface Props {
   faqs: Array<{ question: string; answer: string }>;
@@ -25,7 +25,7 @@ const iconOpen = "rotate-45 bg-brand-green text-ink-inverse border-brand-green";
             </span>
           </button>
         </h3>
-        <div style="max-height:0px" class="overflow-hidden transition-[max-height] duration-500 ease-premium" data-faq-panel>
+        <div style={open ? "max-height:none" : "max-height:0px"} class="overflow-hidden transition-[max-height] duration-500 ease-premium" data-faq-panel>
           <p class:list={["pb-6 pr-12 body-copy text-ink-soft", answerClass, index === 0 && firstAnswerClass]}>{faq.answer}</p>
         </div>
       </div>
@@ -44,6 +44,11 @@ const iconOpen = "rotate-45 bg-brand-green text-ink-inverse border-brand-green";
       const open = button.getAttribute("aria-expanded") !== "true";
       button.setAttribute("aria-expanded", String(open));
       const height = panel.firstElementChild?.scrollHeight ?? 0;
+      if (!open && panel.style.maxHeight === "none") {
+        // From "none" there is no animation start value: set px first, then close
+        panel.style.maxHeight = `${height}px`;
+        void panel.offsetHeight;
+      }
       panel.style.maxHeight = open ? `${height}px` : "0px";
       openClasses.forEach((c) => icon.classList.toggle(c, open));
     });

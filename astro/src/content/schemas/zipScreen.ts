@@ -30,7 +30,7 @@ export const zipScreenSchema = baseSchema.extend({
   process: proseBlockSchema,
   investment: proseBlockSchema.extend({ closing: z.string() }),
   warranty: proseBlockSchema.extend({ backgroundImage: z.string() }),
-  faqEyebrow: z.string(),
+  faqEyebrow: z.string().optional(),
   faqHeading: z.string(),
   faqs: z.array(faqItemSchema),
   cta: darkCtaSchema,

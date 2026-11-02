@@ -17,8 +17,8 @@ const schema = buildSchema(d.schema, { path, title: d.title, description: d.desc
     <div class="mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-24 pb-16">
       {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
       <div class="mt-10 mb-12">
-        <Eyebrow>{d.eyebrow}</Eyebrow>
-        <h1 class="heading-display text-5xl md:text-7xl mt-6 text-ink">
+        {d.eyebrow && <Eyebrow>{d.eyebrow}</Eyebrow>}
+        <h1 class:list={["heading-display text-5xl md:text-7xl text-ink", d.eyebrow && "mt-6"]}>
           {d.h1Line1}
           <br />
           <span class="text-brand-brass">{d.h1Line2}</span>

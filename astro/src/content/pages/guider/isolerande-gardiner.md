@@ -19,10 +19,8 @@ schema:
   headline: Isolerande gardiner — så fungerar plissé med dubbelväv
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Tema
 h1: Isolerande gardiner
 answerBox: 'Av alla invändiga solskydd är det bara plissé med dubbelväv — ofta kallad honeycomb-gardin på grund av sin sexkantsstruktur — som faktiskt isolerar fönstret. De slutna luftcellerna mellan tyglagren skapar ett stillastående luftlager som dämpar värmeöverföring åt båda håll. Vintertid: mindre kallras från glaset. Sommartid: mindre solvärme in.'
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om isolerande gardiner.
 faqs:
 - question: Hur stor är energibesparingen i kronor?
@@ -36,7 +34,6 @@ faqs:
 - question: Är det bara plissé som isolerar, eller finns det fler alternativ?
   answer: Plissé med dubbelväv är det enda invändiga solskyddet med konstruktion specifikt för isolering. Rullgardin med blackout och vit baksida ger värmereduktion sommartid via reflektion, men isolerar inte mot kallras vintertid. Persienner och lamellgardiner ger ljus- och insynsstyrning men ingen isoleringseffekt att tala om.
 cta:
-  eyebrow: Isolerande gardiner
   heading: Vi visar dubbelväven på plats.
   body: Vid hembesöket har vi med oss prov på både enkelväv och dubbelväv så ni kan se skillnaden i hand. Plus en lampa för att visa hur mörkläggande isolerväv stoppar ljus.
 afterFaq:

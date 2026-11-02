@@ -26,7 +26,6 @@ hero:
   crumbs:
     - { name: "Hem", url: "/" }
     - { name: "Insektsskydd Malmö" }
-  eyebrow: "Insektsskydd · Malmö"
   h1: "Insektsskydd i Malmö — öppna fönstret utan att släppa in knottet."
   intro: "Tätslutande nät för fönster, dörrar och takfönster — för hus och lägenheter där sommarvädret ska kunna släppas in utan att knott och mygg följer med."
   primaryCta: { label: "Boka platsbesök", href: "/kontakt/" }
@@ -40,14 +39,12 @@ tldr:
     - "Effekten står och faller med montaget — glipa runt karmen och insekter hittar in ändå."
     - "Lokal kontaktpunkt och 3 års garanti på installation."
 usage:
-  eyebrow: "Användningen"
   heading: "Varför insektsskydd i Malmö-klimatet."
   paragraphs:
     - "Vid kusten är knottet det stora problemet under varma perioder, inte myggan. Limhamnssidan, Västra Hamnen, Vellinge­näset och hela kusten ner mot Skanör har perioder då knottet kommer in i moln om fönstret står öppet kvällstid — och då blir sovrum, vardagsrum och uteplats obrukbara."
     - "Insektsskydd löser det. Tätslutande nät — vare sig det är fast monterat eller rullbart — hindrar passagen utan att hindra luftgenomströmningen. Ni kan ha fönster och altandörr öppna sommaren igenom."
     - "Lika viktigt är inomhusklimatet vintertid. En tät altan eller ett fönster utan glipa fungerar lika bra mot kall drag som mot insekter — montaget måste vara tätt eller lösningen är meningslös."
 types:
-  eyebrow: "Sortimentet"
   heading: "Fyra typer av insektsskydd."
   intro: "Insektsskydd är en kategori med några tydliga grundtyper som löser olika öppningar. Vi går igenom fyra här — fasta fönster­ramar finns också i utbudet och visas vid hembesöket. Modellnamn och specifika dimensioner anpassas efter fönsterfabrikat och fasad."
   items:
@@ -60,19 +57,16 @@ types:
     - title: "Insektsskydd för takfönster"
       body: "Takfönster är notoriskt svåra att täcka — fönsterkarmen är ofta sluttande och tillgången är begränsad. Lösningen är ett anpassat nät för respektive takfönsterfabrikat (Velux, Roto eller motsvarande), med spårinfästning som följer karmens form. Vi mäter mot er specifika takfönsterprofil vid hembesöket."
 craft:
-  eyebrow: "Hantverket"
   heading: "Måttning och montering på plats."
   paragraphs:
     - "Vi kommer hem, mäter varje öppning vi ska skydda, och noterar fönsterfabrikat och dörrtyp. För takfönster kontrollerar vi karmens lutning och eventuella spår som lösningen ska följa. För altandörrar går vi igenom tröskeln och om plissédörren ska monteras inom eller utanpå karmen."
     - "Vid offert anges lösningstyp per öppning så ni ser vilket fönster eller dörr som får vilket utförande. Monteringen sker när näten levererats — typiskt en halvdag till en hel dag beroende på antal öppningar och om vi behöver justera karmpartier eller dra rejäla spår."
 warranty:
-  eyebrow: "Trygghet"
   heading: "Tre års garanti och lokal service."
   paragraphs:
     - "Tre års garanti på utvändigt monterat solskydd och insektsskydd. Skulle något inte fungera — nätet glappar, fjädern slutar dra in, rullen kärvar — kommer vi ut och åtgärdar utan diskussion."
     - "Service och reservdelar går genom oss. Om en plissénätdörr behöver ett nytt nät tio år senare är det fortfarande oss ni ringer — vi monterar med egna montörer och håller koll på er installation. Vi täcker Malmö, Staffanstorp, Lund, Vellinge, Trelleborg, Lomma, Kävlinge och Svedala."
 faq:
-  eyebrow: "Vanliga frågor"
   heading: "Frågor om insektsskydd."
   items:
     - question: "Hur effektivt är insektsskydd mot mygg och knott vid havet?"
@@ -86,7 +80,6 @@ faq:
     - question: "Vilka områden i södra Skåne arbetar ni i?"
       answer: "Vi mäter och monterar insektsskydd i Malmö, Staffanstorp, Lund, Vellinge, Trelleborg, Lomma, Kävlinge och Svedala. Längre bort åker vi också — säg till vid första kontakten så bokar vi platsbesök. Eftersom måttning sker på plats vill vi alltid ut till adressen innan offert lämnas."
 finalCta:
-  eyebrow: "Nästa steg"
   headingLine1: "Vi kommer hem"
   headingLine2: "och mäter öppningarna."
   body: "Måttning sker per fönster eller dörr på plats. Hembesök och offert är kostnadsfria — vi kommer hem oavsett om det blir affär eller inte."

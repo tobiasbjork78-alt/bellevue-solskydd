@@ -6,7 +6,7 @@ export const productColor = z.enum(["markiser", "persienner", "plisse", "rullgar
 
 export const referenserSchema = baseSchema.extend({
   template: z.literal("referenser"),
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   h1Line1: z.string(),
   h1Line2: z.string(),
   intro: z.string(),

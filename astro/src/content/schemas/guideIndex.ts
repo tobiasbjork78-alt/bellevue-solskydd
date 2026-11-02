@@ -4,7 +4,7 @@ import { baseSchema } from "./base";
 
 export const guideIndexSchema = baseSchema.extend({
   template: z.literal("guideIndex"),
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   h1: z.string(),
   intro: z.string(),
   guides: z.array(
@@ -12,7 +12,7 @@ export const guideIndexSchema = baseSchema.extend({
       title: z.string(),
       excerpt: z.string(),
       href: z.string(),
-      eyebrow: z.string(),
+      eyebrow: z.string().optional(),
     })
   ),
 });

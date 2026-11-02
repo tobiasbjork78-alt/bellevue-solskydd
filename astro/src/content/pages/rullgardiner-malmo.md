@@ -12,10 +12,8 @@ breadcrumbs:
 schema:
   - { type: service, name: "Rullgardiner Malmö" }
   - { type: faq }
-eyebrow: "Invändigt solskydd"
 h1: "Rullgardiner i Malmö"
 answerBox: "En rullgardin är en jämn vävyta som rullas upp och ner ovanifrån fönstret. Det enkla i konstruktionen är dess styrka — det är vävvalet som styr funktionen, från mörkläggande blackout till perforerad screen för bländskydd. I bredder upp till 450 cm, manuella eller motoriserade med smart hem-stöd — alltid mått-mätta i ert fönster."
-faqEyebrow: "Vanliga frågor"
 faqHeading: "Frågor om rullgardiner."
 faqs:
   - question: "När väljer jag motor och när räcker kulkedjan?"
@@ -31,7 +29,6 @@ faqs:
   - question: "Hur länge håller motorbatteriet?"
     answer: "Cirka 8 månader vid normal användning. Laddtiden är ungefär 6 timmar via USB. Vi installerar gärna en kabelbunden 230V-motor istället där det går — då slipper ni laddcykeln helt. Den varianten finns i Motion-familjen för bredare gardiner."
 cta:
-  eyebrow: "Rullgardiner Malmö"
   heading: "Boka kostnadsfritt hembesök för rullgardiner."
   body: "Vi mäter på plats, visar vävprover och föreslår motorisering där det gör skillnad. Hembesök, mätning och offert är gratis — gäller hela södra Skåne."
 ---

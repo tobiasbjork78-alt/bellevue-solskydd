@@ -17,8 +17,8 @@ const labelClass = "text-xs font-medium uppercase tracking-[0.22em] text-brand-g
     <div class="mx-auto max-w-5xl px-6 lg:px-10 pt-16 md:pt-24 pb-24">
       {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
       <div class="mt-10 mb-14">
-        <Eyebrow>{d.eyebrow}</Eyebrow>
-        <h1 class="heading-display text-5xl md:text-7xl mt-6 text-ink">{d.h1}</h1>
+        {d.eyebrow && <Eyebrow>{d.eyebrow}</Eyebrow>}
+        <h1 class:list={["heading-display text-5xl md:text-7xl text-ink", d.eyebrow && "mt-6"]}>{d.h1}</h1>
         <Divider class="mt-7" />
         <p class="mt-7 body-copy text-ink-soft max-w-xl">{d.intro}</p>
       </div>

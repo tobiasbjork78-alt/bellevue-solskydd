@@ -4,7 +4,7 @@ import { z } from "astro/zod";
 export const heroSchema = z.object({
   image: z.string(),
   alt: z.string(),
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   h1: z.string(),
   body: z.string(),
   primaryCta: z.string(),
@@ -16,13 +16,13 @@ export const tldrSchema = z.object({ eyebrow: z.string(), items: z.array(z.strin
 
 /** Paragraph strings may contain inline HTML (links/strong) */
 export const proseBlockSchema = z.object({
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   heading: z.string(),
   paragraphs: z.array(z.string()),
 });
 
 export const darkCtaSchema = z.object({
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   headingLine1: z.string(),
   headingLine2: z.string(),
   body: z.string(),

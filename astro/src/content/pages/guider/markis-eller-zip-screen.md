@@ -19,10 +19,8 @@ schema:
   headline: Markis eller zip screen — vad passar bäst?
   datePublished: '2026-04-29'
 - type: faq
-eyebrow: Jämförelse
 h1: Markis eller zip screen?
 answerBox: Båda är utvändiga solskydd, men de löser uppgiften olika. En markis fälls ut horisontellt och skuggar uteplatsen utanför glaset. En zip screen sitter vertikalt på fasaden och stoppar solen innan den når glaset. Markis är bättre på uteplatser, zip screen på stora glaspartier i västerläge.
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om jämförelsen.
 faqs:
 - question: Vad kostar en markis jämfört med en zip screen?
@@ -32,7 +30,6 @@ faqs:
 - question: Måste zip screen alltid motoriseras?
   answer: Ja. Zip screen är konstruerad för motor eftersom storleken och kraften i sidoskenorna gör manuell drift opraktisk. Markiser kan vara manuella på mindre storlekar, men motor rekommenderas också där eftersom det förlänger livslängden och möjliggör vind-/solautomatik.
 cta:
-  eyebrow: Personlig rekommendation
   heading: Osäker på vilket som passar?
   body: Vi besöker fasaden, går igenom väderstreck, vindexponering och hur ni vill använda uteplatsen — och föreslår en lösning som matchar just er. Hembesök och offert är kostnadsfria.
 ---

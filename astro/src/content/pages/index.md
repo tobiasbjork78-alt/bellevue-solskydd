@@ -13,12 +13,11 @@ hero:
   headingLine2: På dina villkor.
   body: Bellevue Solskydd är lokala specialister på markiser, persienner, plissé, rullgardiner, zip screen och pergola. Rådgivning på plats, måttagning och montering i Malmö och södra Skåne.
 localProof:
-  eyebrow: Lokalt i Malmö
   heading: Personlig rådgivning. Lokala montörer.
   items:
     - icon: house
       title: Lokal montering
-      description: Egna montörer i Malmö med omnejd.
+      description: Egna montörer i Malmö och södra Skåne.
     - icon: shield-check
       title: Garanti
       description: Tydlig garanti på produkt och installation.
@@ -29,7 +28,6 @@ localProof:
       title: Rådgivning på plats
       description: Förslag som utgår från fönstret, inte katalogen.
 products:
-  eyebrow: Sortiment
   heading: Solskydd som möter ljuset där det är.
   body: Vi väljer lösning efter rummet, fasaden och hur ni faktiskt använder huset. Inte tvärtom.
   indoorLabel: Invändigt solskydd
@@ -61,7 +59,6 @@ products:
       href: /pergola-malmo/
       image: /images/cards/card-pergola.webp
 cta:
-  eyebrow: Lokal rådgivning
   heading: Kostnadsfri rådgivning i hela Malmö.
   body: Vi kommer hem till er, mäter på plats och föreslår en lösning som passar fönstren, ljuset och budgeten. Inga övertramp, inga säljmöten.
 ---

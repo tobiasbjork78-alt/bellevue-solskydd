@@ -16,7 +16,7 @@ export const fonstermarkiserSchema = baseSchema.extend({
   tldr: tldrSchema,
   usage: splitSectionSchema,
   models: z.object({
-    eyebrow: z.string(),
+    eyebrow: z.string().optional(),
     heading: z.string(),
     intro: z.string(),
     cards: z.array(
@@ -36,7 +36,7 @@ export const fonstermarkiserSchema = baseSchema.extend({
     ),
   }),
   otherModels: z.object({
-    eyebrow: z.string(),
+    eyebrow: z.string().optional(),
     heading: z.string(),
     intro: z.string(),
     items: z.array(z.object({ maker: z.string(), name: z.string(), qualitative: z.string() })),

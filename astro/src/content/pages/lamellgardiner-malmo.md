@@ -12,10 +12,8 @@ breadcrumbs:
 schema:
   - { type: service, name: "Lamellgardiner Malmö" }
   - { type: faq }
-eyebrow: "Invändigt solskydd"
 h1: "Lamellgardiner i Malmö"
 answerBox: "En lamellgardin består av vertikala tyglameller som hänger från en gemensam skena ovanför fönstret. Lamellerna kan vridas individuellt för att styra ljus och vinkel, eller dras helt åt sidan för fri passage. Bellevue Solskydd levererar lamellgardiner i Malmö och södra Skåne — för stora glaspartier, altandörrar och kontorsmiljöer."
-faqEyebrow: "Vanliga frågor"
 faqHeading: "Frågor om lamellgardiner."
 faqs:
   - question: "Vad är skillnaden mellan en lamellgardin och en persienn?"
@@ -31,7 +29,6 @@ faqs:
   - question: "Kan lamellgardin ersätta en rumsavdelare?"
     answer: "Ja, det fungerar förvånansvärt bra. En skena monterad i tak — utan koppling till ett fönster — fungerar som flexibel rumsavdelare som kan dras igen vid behov och sedan dras bort helt. Smartare än en fast vägg om rummet ibland behöver vara öppet. Vi får ibland frågan från hemmakontor som behöver kunna stänga av en del av rummet vid videomöten."
 cta:
-  eyebrow: "Lamellgardiner Malmö"
   heading: "Boka kostnadsfritt hembesök för lamellgardiner."
   body: "Vi mäter på plats, visar lamell- och vävprover, och föreslår skenkonfiguration utifrån fönstret. Hembesök, mätning och offert är gratis — gäller hem, kontor och skolor i hela södra Skåne."
 ---

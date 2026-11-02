@@ -20,7 +20,7 @@ export const homeSchema = baseSchema.extend({
     body: z.string(),
   }),
   localProof: z.object({
-    eyebrow: z.string(),
+    eyebrow: z.string().optional(),
     heading: z.string(),
     items: z.array(
       z.object({
@@ -31,7 +31,7 @@ export const homeSchema = baseSchema.extend({
     ),
   }),
   products: z.object({
-    eyebrow: z.string(),
+    eyebrow: z.string().optional(),
     heading: z.string(),
     body: z.string(),
     indoorLabel: z.string(),

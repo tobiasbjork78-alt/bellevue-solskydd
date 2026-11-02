@@ -33,8 +33,8 @@ const HeadWrapper = isGuide ? "header" : "div";
       {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
 
       <HeadWrapper class="mt-10 mb-10">
-        <Eyebrow>{d.eyebrow}</Eyebrow>
-        <h1 class="heading-display text-5xl md:text-7xl mt-6 text-ink">{d.h1}</h1>
+        {d.eyebrow && <Eyebrow>{d.eyebrow}</Eyebrow>}
+        <h1 class:list={["heading-display text-5xl md:text-7xl text-ink", d.eyebrow && "mt-6"]}>{d.h1}</h1>
         <Divider class="mt-7" />
       </HeadWrapper>
 
@@ -44,8 +44,8 @@ const HeadWrapper = isGuide ? "header" : "div";
 
       {d.faqs && d.faqs.length > 0 && (
         <div class="mt-20">
-          <Eyebrow>{d.faqEyebrow}</Eyebrow>
-          <h2 class="heading-section text-3xl md:text-4xl mt-5 text-ink">{d.faqHeading}</h2>
+          {d.faqEyebrow && <Eyebrow>{d.faqEyebrow}</Eyebrow>}
+          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink", d.faqEyebrow && "mt-5"]}>{d.faqHeading}</h2>
           <Divider class="mt-7 mb-4" />
           <FAQList faqs={d.faqs} />
         </div>

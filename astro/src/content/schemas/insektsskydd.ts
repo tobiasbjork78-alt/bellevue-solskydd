@@ -16,7 +16,7 @@ export const insektsskyddSchema = baseSchema.extend({
   tldr: tldrSchema,
   usage: splitSectionSchema,
   types: z.object({
-    eyebrow: z.string(),
+    eyebrow: z.string().optional(),
     heading: z.string(),
     intro: z.string(),
     items: z.array(z.object({ title: z.string(), body: z.string() })),

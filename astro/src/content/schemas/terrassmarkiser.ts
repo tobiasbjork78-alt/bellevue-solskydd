@@ -4,7 +4,7 @@ import { z } from "astro/zod";
 import { baseSchema, faqItemSchema } from "./base";
 
 const textBlock = z.object({
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   heading: z.string(),
   /** HTML allowed (inline links with classes) */
   paragraphs: z.array(z.string()),
@@ -43,7 +43,7 @@ export const terrassmarkiserSchema = baseSchema.extend({
     plannedImage: z.string().optional(),
     imageAlt: z.string(),
     watermark: z.string(),
-    eyebrow: z.string(),
+    eyebrow: z.string().optional(),
     h1: z.string(),
     lead: z.string(),
     facts: z.array(z.string()),
@@ -57,11 +57,11 @@ export const terrassmarkiserSchema = baseSchema.extend({
   process: textBlock,
   investment: textBlock.extend({ closing: z.string() }),
   warranty: textBlock,
-  faqEyebrow: z.string(),
+  faqEyebrow: z.string().optional(),
   faqHeading: z.string(),
   faqs: z.array(faqItemSchema),
   cta: z.object({
-    eyebrow: z.string(),
+    eyebrow: z.string().optional(),
     headingLine1: z.string(),
     headingLine2: z.string(),
     body: z.string(),

@@ -5,6 +5,7 @@ import Eyebrow from "../components/Eyebrow.astro";
 import Divider from "../components/Divider.astro";
 import HeroBreadcrumbs from "../components/utvandigt/HeroBreadcrumbs.astro";
 import HeroContent from "../components/utvandigt/HeroContent.astro";
+import HeroVideo from "../components/HeroVideo.astro";
 import TldrList from "../components/utvandigt/TldrList.astro";
 import DarkCTA from "../components/utvandigt/DarkCTA.astro";
 import FAQList from "../components/FAQList.astro";
@@ -33,7 +34,11 @@ const L = d.comparison.labels;
 >
   <main class="flex-1 bg-canvas">
     <section class="relative w-full h-[70vh] md:h-[78vh] md:min-h-[680px] overflow-hidden">
-      <img src={d.hero.image} alt={d.hero.alt} fetchpriority="high" decoding="async" sizes="100vw" class:list={[fill, "object-cover object-[center_25%]"]} />
+      {d.heroVideo && d.heroPoster ? (
+        <HeroVideo src={d.heroVideo} poster={d.heroPoster} class={`${fill} object-cover object-[center_25%]`} />
+      ) : (
+        <img src={d.hero.image} alt={d.hero.alt} fetchpriority="high" decoding="async" sizes="100vw" class:list={[fill, "object-cover object-[center_25%]"]} />
+      )}
       <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/55 to-black/25 md:bg-gradient-to-r md:from-black/80 md:via-black/45 md:to-black/5"></div>
       <div class="absolute inset-0 flex flex-col">
         <div class="mx-auto w-full max-w-6xl px-6 lg:px-10 pt-8 md:pt-10">
@@ -47,8 +52,8 @@ const L = d.comparison.labels;
     <section class="mx-auto max-w-5xl px-6 lg:px-10 py-16 md:py-20">
       <div class="grid gap-10 md:gap-14 md:grid-cols-12">
         <div class="md:col-span-5">
-          <Eyebrow>{d.intro.eyebrow}</Eyebrow>
-          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.intro.heading}</h2>
+          {d.intro.eyebrow && <Eyebrow>{d.intro.eyebrow}</Eyebrow>}
+          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.intro.eyebrow && "mt-4"]}>{d.intro.heading}</h2>
           <Divider class="mt-7" />
         </div>
         <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
@@ -63,8 +68,8 @@ const L = d.comparison.labels;
     <section id="modellerna" class="bg-canvas-soft border-y border-ink/8">
       <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-28">
         <div class="max-w-2xl mb-14">
-          <Eyebrow>{d.models.eyebrow}</Eyebrow>
-          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.models.heading}</h2>
+          {d.models.eyebrow && <Eyebrow>{d.models.eyebrow}</Eyebrow>}
+          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.models.eyebrow && "mt-4"]}>{d.models.heading}</h2>
           <Divider class="mt-7" />
           <p class="mt-7 body-copy text-ink-soft">{d.models.body}</p>
         </div>
@@ -105,8 +110,8 @@ const L = d.comparison.labels;
 
     <section class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-24">
       <div class="max-w-2xl mb-12">
-        <Eyebrow>{d.comparison.eyebrow}</Eyebrow>
-        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.comparison.heading}</h2>
+        {d.comparison.eyebrow && <Eyebrow>{d.comparison.eyebrow}</Eyebrow>}
+        <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.comparison.eyebrow && "mt-4"]}>{d.comparison.heading}</h2>
         <Divider class="mt-7" />
         <p class="mt-7 body-copy text-ink-soft">{d.comparison.body}</p>
       </div>
@@ -193,8 +198,8 @@ const L = d.comparison.labels;
     <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
       <div class="grid gap-12 md:gap-16 md:grid-cols-12">
         <div class="md:col-span-5">
-          <Eyebrow>{d.craft.eyebrow}</Eyebrow>
-          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.craft.heading}</h2>
+          {d.craft.eyebrow && <Eyebrow>{d.craft.eyebrow}</Eyebrow>}
+          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.craft.eyebrow && "mt-4"]}>{d.craft.heading}</h2>
           <Divider class="mt-7" />
         </div>
         <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
@@ -205,8 +210,8 @@ const L = d.comparison.labels;
 
     <section class="bg-canvas-soft border-y border-ink/8">
       <div class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
-        <Eyebrow>{d.investment.eyebrow}</Eyebrow>
-        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.investment.heading}</h2>
+        {d.investment.eyebrow && <Eyebrow>{d.investment.eyebrow}</Eyebrow>}
+        <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.investment.eyebrow && "mt-4"]}>{d.investment.heading}</h2>
         <Divider class="mt-7" />
         <div class="mt-8 body-copy text-ink-soft space-y-5">
           {d.investment.paragraphs.map((p) => <p set:html={p} />)}
@@ -216,8 +221,8 @@ const L = d.comparison.labels;
     </section>
 
     <section class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
-      <Eyebrow>{d.warranty.eyebrow}</Eyebrow>
-      <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.warranty.heading}</h2>
+      {d.warranty.eyebrow && <Eyebrow>{d.warranty.eyebrow}</Eyebrow>}
+      <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.warranty.eyebrow && "mt-4"]}>{d.warranty.heading}</h2>
       <Divider class="mt-7" />
       <div class="mt-8 body-copy text-ink-soft space-y-5">
         {d.warranty.paragraphs.map((p) => <p set:html={p} />)}
@@ -225,8 +230,8 @@ const L = d.comparison.labels;
     </section>
 
     <section class="mx-auto max-w-4xl px-6 lg:px-10 pb-20 md:pb-24">
-      <Eyebrow>{d.faqEyebrow}</Eyebrow>
-      <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.faqHeading}</h2>
+      {d.faqEyebrow && <Eyebrow>{d.faqEyebrow}</Eyebrow>}
+      <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.faqEyebrow && "mt-4"]}>{d.faqHeading}</h2>
       <Divider class="mt-7 mb-2" />
       <div class="mt-4">
         <FAQList faqs={d.faqs} firstAnswerClass="speakable-faq-1" />

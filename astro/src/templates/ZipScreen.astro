@@ -50,8 +50,8 @@ const fill = "absolute inset-0 h-full w-full";
     <section class="mx-auto max-w-5xl px-6 lg:px-10 py-16 md:py-20">
       <div class="grid gap-10 md:gap-14 md:grid-cols-12">
         <div class="md:col-span-5">
-          <Eyebrow>{d.usage.eyebrow}</Eyebrow>
-          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.usage.heading}</h2>
+          {d.usage.eyebrow && <Eyebrow>{d.usage.eyebrow}</Eyebrow>}
+          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.usage.eyebrow && "mt-4"]}>{d.usage.heading}</h2>
           <Divider class="mt-7" />
         </div>
         <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
@@ -63,8 +63,8 @@ const fill = "absolute inset-0 h-full w-full";
     <section id="harol" class="bg-canvas">
       <div class="mx-auto max-w-6xl px-6 lg:px-10 py-24 md:py-32">
         <div class="max-w-3xl mb-16 md:mb-20">
-          <Eyebrow>{d.harol.eyebrow}</Eyebrow>
-          <h2 class="font-display text-4xl md:text-6xl text-brand-green mt-5 leading-[1.05] tracking-tight">{d.harol.heading}</h2>
+          {d.harol.eyebrow && <Eyebrow>{d.harol.eyebrow}</Eyebrow>}
+          <h2 class:list={["font-display text-4xl md:text-6xl text-brand-green leading-[1.05] tracking-tight", d.harol.eyebrow && "mt-5"]}>{d.harol.heading}</h2>
           <Divider class="mt-9 w-20" />
           <div class="mt-9 body-copy text-ink-soft text-lg space-y-5 max-w-2xl">
             {d.harol.paragraphs.map((p) => <p set:html={p} />)}
@@ -81,8 +81,8 @@ const fill = "absolute inset-0 h-full w-full";
     <section id="selt" class="bg-canvas-soft border-y border-ink/8">
       <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-24">
         <div class="max-w-3xl mb-14">
-          <Eyebrow>{d.selt.eyebrow}</Eyebrow>
-          <h2 class="font-display text-3xl md:text-5xl text-brand-green mt-5 leading-[1.08] tracking-tight">{d.selt.heading}</h2>
+          {d.selt.eyebrow && <Eyebrow>{d.selt.eyebrow}</Eyebrow>}
+          <h2 class:list={["font-display text-3xl md:text-5xl text-brand-green leading-[1.08] tracking-tight", d.selt.eyebrow && "mt-5"]}>{d.selt.heading}</h2>
           <div aria-hidden="true" class="mt-7 h-1 w-12 bg-brand-brass"></div>
           <div class="mt-8 body-copy text-ink-soft space-y-5 max-w-2xl">
             {d.selt.paragraphs.map((p) => <p set:html={p} />)}
@@ -99,8 +99,8 @@ const fill = "absolute inset-0 h-full w-full";
     <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
       <div class="grid gap-12 md:gap-16 md:grid-cols-12">
         <div class="md:col-span-5">
-          <Eyebrow>{d.process.eyebrow}</Eyebrow>
-          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.process.heading}</h2>
+          {d.process.eyebrow && <Eyebrow>{d.process.eyebrow}</Eyebrow>}
+          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.process.eyebrow && "mt-4"]}>{d.process.heading}</h2>
           <Divider class="mt-7" />
         </div>
         <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
@@ -111,8 +111,8 @@ const fill = "absolute inset-0 h-full w-full";
 
     <section class="bg-canvas-soft border-y border-ink/8">
       <div class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
-        <Eyebrow>{d.investment.eyebrow}</Eyebrow>
-        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.investment.heading}</h2>
+        {d.investment.eyebrow && <Eyebrow>{d.investment.eyebrow}</Eyebrow>}
+        <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.investment.eyebrow && "mt-4"]}>{d.investment.heading}</h2>
         <Divider class="mt-7" />
         <div class="mt-8 body-copy text-ink-soft space-y-5">
           {d.investment.paragraphs.map((p) => <p set:html={p} />)}
@@ -125,8 +125,8 @@ const fill = "absolute inset-0 h-full w-full";
       <img src={d.warranty.backgroundImage} alt="" aria-hidden="true" loading="lazy" decoding="async" sizes="100vw" class:list={[fill, "object-cover object-left"]} />
       <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-r from-canvas-soft/30 via-canvas-soft/60 to-canvas-soft/85"></div>
       <div class="relative z-10 md:ml-auto md:max-w-[55%]">
-        <Eyebrow>{d.warranty.eyebrow}</Eyebrow>
-        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.warranty.heading}</h2>
+        {d.warranty.eyebrow && <Eyebrow>{d.warranty.eyebrow}</Eyebrow>}
+        <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.warranty.eyebrow && "mt-4"]}>{d.warranty.heading}</h2>
         <Divider class="mt-7" />
         <div class="mt-8 body-copy text-ink-soft space-y-5">
           {d.warranty.paragraphs.map((p) => <p set:html={p} />)}
@@ -136,8 +136,8 @@ const fill = "absolute inset-0 h-full w-full";
 
     <section class="bg-canvas-soft border-y border-ink/8">
       <div class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
-        <Eyebrow>{d.faqEyebrow}</Eyebrow>
-        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.faqHeading}</h2>
+        {d.faqEyebrow && <Eyebrow>{d.faqEyebrow}</Eyebrow>}
+        <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.faqEyebrow && "mt-4"]}>{d.faqHeading}</h2>
         <Divider class="mt-7 mb-2" />
         <div class="mt-4">
           <FAQList faqs={d.faqs} firstAnswerClass="speakable-faq-1" />

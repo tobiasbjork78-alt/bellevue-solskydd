@@ -28,8 +28,8 @@ const cards = d.models.cards;
     <section id="sortimentet" class="bg-canvas-soft border-y border-ink/8">
       <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-28">
         <div class="max-w-2xl mb-14">
-          <Eyebrow>{d.models.eyebrow}</Eyebrow>
-          <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.models.heading}</h2>
+          {d.models.eyebrow && <Eyebrow>{d.models.eyebrow}</Eyebrow>}
+          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.models.eyebrow && "mt-4"]}>{d.models.heading}</h2>
           <Divider class="mt-7" />
           <p class="mt-7 body-copy text-ink-soft">{d.models.intro}</p>
         </div>
@@ -41,8 +41,8 @@ const cards = d.models.cards;
 
     <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
       <div class="max-w-2xl mb-12">
-        <Eyebrow>{d.otherModels.eyebrow}</Eyebrow>
-        <h2 class="heading-section text-3xl md:text-4xl text-ink mt-4 leading-tight">{d.otherModels.heading}</h2>
+        {d.otherModels.eyebrow && <Eyebrow>{d.otherModels.eyebrow}</Eyebrow>}
+        <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.otherModels.eyebrow && "mt-4"]}>{d.otherModels.heading}</h2>
         <Divider class="mt-7" />
         <p class="mt-7 body-copy text-ink-soft">{d.otherModels.intro}</p>
       </div>

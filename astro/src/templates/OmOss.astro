@@ -17,8 +17,8 @@ const labelClass = "block text-xs font-medium uppercase tracking-[0.22em] text-b
     <div class="mx-auto max-w-3xl px-6 lg:px-10 pt-16 md:pt-24 pb-24">
       {d.breadcrumbs && <Breadcrumbs items={d.breadcrumbs} />}
       <div class="mt-10 mb-10">
-        <Eyebrow>{d.eyebrow}</Eyebrow>
-        <h1 class="heading-display text-5xl md:text-6xl mt-6 text-ink">
+        {d.eyebrow && <Eyebrow>{d.eyebrow}</Eyebrow>}
+        <h1 class:list={["heading-display text-5xl md:text-6xl text-ink", d.eyebrow && "mt-6"]}>
           {d.h1Line1}
           <br />
           <span class="text-brand-brass">{d.h1Line2}</span>
@@ -26,7 +26,7 @@ const labelClass = "block text-xs font-medium uppercase tracking-[0.22em] text-b
         <Divider class="mt-7" />
       </div>
       <div class="rounded-premium border border-ink/10 bg-canvas-soft px-7 py-8 md:px-9 md:py-10">
-        <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">{d.notice.label}</p>
+        {d.notice.label && <p class="text-xs font-medium uppercase tracking-[0.22em] text-brand-green mb-3">{d.notice.label}</p>}
         <h2 class="heading-section text-2xl md:text-3xl text-ink mb-3">{d.notice.heading}</h2>
         <p class="body-copy text-ink-soft">{d.notice.body}</p>
       </div>

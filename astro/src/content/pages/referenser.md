@@ -1,7 +1,7 @@
 ---
 template: referenser
 title: "Referenser | Bellevue Solskydd Malmö"
-description: "Solskyddsprojekt vi genomfört i Malmö med omnejd — markiser, zip screen, persienner, plissé och pergola för villor, lägenheter och kontor."
+description: "Solskyddsprojekt vi genomfört i Malmö och kringliggande kommuner — markiser, zip screen, persienner, plissé och pergola för villor, lägenheter och kontor."
 updated: 2026-06-04
 sitemap: { priority: 0.6, changefreq: monthly }
 breadcrumbs:
@@ -14,9 +14,8 @@ schema:
       - "Zip screen mot västersolen"
       - "Pergola för förlängd uteplatssäsong"
       - "Träpersienner i sekelskifteslägenhet"
-eyebrow: "Referenser"
 h1Line1: "Projekt i Malmö"
-h1Line2: "med omnejd."
+h1Line2: "och grannkommunerna."
 intro: "Ett urval av installationer vi utfört — från enskilda fönsterlösningar till hela uteplatser. Fler referensprojekt publiceras löpande."
 cases:
   - title: "Zip screen mot västersolen"

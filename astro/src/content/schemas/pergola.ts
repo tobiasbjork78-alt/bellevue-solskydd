@@ -31,9 +31,9 @@ export const pergolaSchema = baseSchema.extend({
   hero: heroSchema,
   intro: proseBlockSchema.extend({ contact: z.string() }),
   tldr: tldrSchema,
-  models: z.object({ eyebrow: z.string(), heading: z.string(), body: z.string(), items: z.array(modelSchema) }),
+  models: z.object({ eyebrow: z.string().optional(), heading: z.string(), body: z.string(), items: z.array(modelSchema) }),
   comparison: z.object({
-    eyebrow: z.string(),
+    eyebrow: z.string().optional(),
     heading: z.string(),
     body: z.string(),
     labels: z.object({
@@ -49,7 +49,7 @@ export const pergolaSchema = baseSchema.extend({
   craft: proseBlockSchema,
   investment: proseBlockSchema.extend({ closing: z.string() }),
   warranty: proseBlockSchema,
-  faqEyebrow: z.string(),
+  faqEyebrow: z.string().optional(),
   faqHeading: z.string(),
   faqs: z.array(faqItemSchema),
   cta: darkCtaSchema,

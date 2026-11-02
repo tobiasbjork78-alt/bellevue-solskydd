@@ -7,11 +7,9 @@ sitemap: false
 breadcrumbs:
   - { name: "Start", url: "/" }
   - { name: "Om oss", url: "/om-oss/" }
-eyebrow: "Om Bellevue Solskydd"
 h1Line1: "Lokala specialister"
 h1Line2: "i Malmö."
 notice:
-  label: "Innehåll kommer snart"
   heading: "Den fulla berättelsen kommer snart."
   body: "Vi arbetar med att samla ihop bilder, fakta och referenser till en mer fyllig sida om Bellevue Solskydd. Tills vidare hittar du våra produkter, guider och kontaktuppgifter via menyn ovan."
 contact:

@@ -41,7 +41,6 @@ hero:
   plannedImage: "/images/markiser/terrassmarkiser-hero.jpg"
   imageAlt: "Terrassmarkis utfälld över altan — Bellevue Solskydd, Malmö och södra Skåne"
   watermark: "Terrassmarkiser"
-  eyebrow: "Terrassmarkis · Malmö"
   h1: "Terrassmarkiser i Malmö — måttanpassade och monterade av oss."
   lead: "En terrassmarkis flyttar gränsen för när uteplatsen är uteplats — april- och septembereftermiddagar blir användbara, högsommarens hetaste timmar går från obrukbara till behagliga. Vi måttar fasaden, går igenom vind och väderstreck, och monterar med egna montörer."
   facts:
@@ -57,14 +56,12 @@ tldr:
     - "Valet av öppen arm eller kassett, väv och motorisering styrs av fasadens läge och hur länge markisen ska hålla."
     - "3 års garanti, egna montörer, lokal service i Malmö och södra Skåne."
 usage:
-  eyebrow: "Användningen"
   heading: "När en terrassmarkis verkligen gör skillnad."
   paragraphs:
     - "Eftermiddagssolen från väster och sydväst gör de flesta uteplatser obrukbara under sommarens hetaste timmar. En terrassmarkis fälls ut horisontellt över altanen och flyttar gränsen för när ytan går att använda — både i temperatur och i bländning."
     - "I Malmö och längs Öresundskusten är vinden den andra faktorn. På utsatta lägen mot kusten väljer vi typiskt kassettmodell — väven inkapslad när markisen är indragen — och vindsensor som drar in markisen automatiskt över en inställd vindstyrka. På skyddade innergårdar fungerar enklare uppsättningar."
     - "Terrassmarkisen är också en lokal kontaktpunkt: vi gör besöket, vi gör måtten, och vi gör servicen om något krånglar tre år senare."
 harol:
-  eyebrow: "Leverantör"
   heading: "Harol — belgisk precision för uteplatsen."
   paragraphs:
     - "Belgisk tillverkare med 80 års verksamhet och en designfokuserad produktlinje för utvändigt solskydd. Vikarmsmarkiserna är genomgående testade för 25 000 öppningscykler och har dolda armkablar — slankt uttryck utan synliga vajrar. LUX-modellen tilldelades Red Dot Product Design Award."
@@ -161,11 +158,10 @@ harol:
       image: null
       plannedImage: "/images/markiser/harol-tucan.jpg"
 selt:
-  eyebrow: "Leverantör"
   heading: "Selt — polskt sortiment i bredd."
   paragraphs:
     - "Polsk tillverkare. Selt har det bredaste utbudet av terrassmarkismodeller — från öppna armprofiler till semi- och fullkassetter i flera storlekar och med flera prisspann. Konstruktionen är i extruderad aluminium och flera modeller har Flyer's chain-mekanik i armarna för stabil drift vid bredare mått."
-    - "Vi installerar åtta Selt-modeller på terrassmarkis-sidan. Palladio är bestsellern i Selt-utbudet och en bra utgångspunkt för diskussion."
+    - "Vi installerar sex Selt-modeller på terrassmarkis-sidan. Palladio är bestsellern i Selt-utbudet och en bra utgångspunkt för diskussion."
   models:
     - maker: "Selt"
       name: "Palladio"
@@ -218,20 +214,6 @@ selt:
       image: null
       plannedImage: "/images/markiser/selt-corsica.jpg"
     - maker: "Selt"
-      name: "GIANT"
-      slug: "selt-giant"
-      type: "Vikarmsmarkis · öppen, storformat"
-      body: "Selt-sortimentets bredaste enskilda modell — öppen vikarmsmarkis i storformat byggd för bredare uteplatser. Armarna har Flyer's chain-mekanism och en dubbel fyrkantig bärbalk som tar upp belastningen från större vävmått. Aluminiumhuv finns som tillval för viss vävskydd vid indragen position."
-      specs:
-        - "Konstruktion i extruderad aluminium"
-        - "Flyer's chain i armarna för storformat"
-        - "Dubbel fyrkantig bärbalk"
-        - "Aluminiumhuv som tillval"
-      passarDigOm: "Passar dig om uteplatsen är ovanligt bred och du behöver en enskild markis istället för flera kopplade."
-      alt: "Selt Giant storformat öppen vikarmsmarkis"
-      image: null
-      plannedImage: "/images/markiser/selt-giant.jpg"
-    - maker: "Selt"
       name: "AUSTRALIA"
       slug: "selt-australia"
       type: "Vikarmsmarkis · öppen profil"
@@ -251,18 +233,7 @@ selt:
       alt: "Selt Jamaica öppen vikarmsmarkis"
       image: null
       plannedImage: "/images/markiser/selt-jamaica.jpg"
-    - maker: "Selt"
-      name: "MALTA"
-      slug: "selt-malta"
-      type: "Vikarmsmarkis · lättare öppen profil"
-      body: "Lättare variant i Selt-utbudet med öppna armar — för mindre altaner och balkonger där en full kassett eller storformatsmodell blir överdimensionerad. Närliggande Australia och Jamaica i logik men i en kompaktare ram."
-      specs: []
-      passarDigOm: "Passar dig om uteplatsen är begränsad och du föredrar en mindre öppen modell framför en kompakt kassett som TUCAN."
-      alt: "Selt Malta lättare öppen vikarmsmarkis för mindre uteplatser"
-      image: null
-      plannedImage: "/images/markiser/selt-malta.jpg"
 fonstermiljo:
-  eyebrow: "Leverantör"
   heading: "Fönstermiljö — svensk hantverk från Laholm."
   paragraphs:
     - "Svensk tillverkare med fokus på utvändigt solskydd för svenska fasader och svenskt klimat. Sortimentet är sakligt och stramt: vikarmsmarkis med eller utan kassett, en designvariant med stålbärprofil, och en fristående dubbel­modell för altaner utan fasadinfästning. Vikarmarna har Dyneema-band i knäleden för stabil dukspänning."
@@ -339,7 +310,6 @@ fonstermiljo:
       image: null
       plannedImage: "/images/markiser/fonstermiljo-classic.jpg"
 korgmarkis:
-  eyebrow: "Även korgmarkis"
   heading: "För entréer och skyltfönster — korgmarkis Ängsö."
   paragraphs:
     - "Terrassmarkis är inte rätt val för alla situationer. För kupé över entré, butiksfasad eller äldre skyltfönster har vi Fönstermiljö Ängsö — en halvrund korgmarkis som sitter fast och inte fälls in. Vävvalet och formen anpassas efter fasaden."
@@ -347,14 +317,12 @@ korgmarkis:
   linkText: "Fråga oss om korgmarkis till entrén"
   linkHref: "/kontakt/"
 process:
-  eyebrow: "Vägen dit"
   heading: "Hur vi väljer rätt modell med er."
   paragraphs:
     - "Modellvalet börjar i fasaden, inte i sortimentet. Vid hembesöket går vi igenom väderstreck, hur exponerad platsen är mot vinden från Öresund, vilken bredd och vilket utfall som behövs för att skugga den faktiska sittytan, och vilken beskaffenhet fasaden har (tegel, puts, trä, isolerad yttervägg). Det styr direkt vilka modeller som faller bort."
     - "Sen kommer modellvalet. Kassettmodell när väven utsätts för havsklimat eller markisen ska sitta uppe året om. Öppen arm i skyddade lägen och vid lägre budget. Fristående Tidö Duo när altanen saknar lämplig fasad. Slutligt val är situationsbundet och avgörs vid hembesöket."
     - "Vävvalet sker mot fasaden i dagsljus. Vi tar med vävprover så ni ser hur färg och ljusgenomsläpp uppför sig mot er verkliga vägg och era möbler — inte mot en showroom-bakgrund. För <a href=\"/fonstermarkiser-malmo/\" class=\"text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink\">fönstermarkiser</a> gäller andra principer eftersom de skuggar glaset, inte uteplatsen — den frågan tar vi separat om båda är aktuella."
 investment:
-  eyebrow: "Investeringen"
   heading: "Vad som styr investeringen i en terrassmarkis."
   paragraphs:
     - "Bredden är den största variabeln. En 3-meters markis är en annan ekonomisk övning än en kopplad lösning på 12 meter. Materialmängd, motorkraft och armdimensionering skalar med ytan."
@@ -364,13 +332,11 @@ investment:
     - "Slutligen montaget. En slät putsfasad i normalvåning är ett rakare jobb än en infästning i tegelförband på tredje våningen, eller en bostadsrättsfasad där vi måste arbeta från skylift. Eventuell el-dragning tillkommer."
   closing: "Vi räknar på ert projekt på plats — material, montage, eventuell el och styrelseunderlag — och lämnar en specificerad offert där varje post står för sig själv."
 warranty:
-  eyebrow: "Trygghet"
   heading: "Garanti och lokal service."
   paragraphs:
-    - "Vi lämnar tre års garanti på utvändigt solskydd — terrassmarkis, motorisering och installation. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar utan diskussion om vem som ska kallas in."
+    - "Selts markiser har 7 års garanti och motorn 5 år. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar utan diskussion om vem som ska kallas in."
     - "Service och reservdelar går genom oss, inte tillbaka till fabrik. Vi monterar med egna montörer i Malmö, Lund, Vellinge, Trelleborg, Lomma, Kävlinge, Staffanstorp och Svedala — vilket innebär att den som installerar är samma företag ni når om något krånglar tre år senare."
     - "Om markisen inte räcker för hela året kan en <a href=\"/pergola-malmo/\" class=\"text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink\">pergola för året-runt-användning</a> vara nästa steg, eller en bredare blick över hela <a href=\"/markiser-malmo/\" class=\"text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink\">markissortimentet i Malmö</a> där fönster- och korgmarkiser också ingår."
-faqEyebrow: "Vanliga frågor"
 faqHeading: "Frågor inför mätningen."
 faqs:
   - question: "Hur breda terrassmarkiser kan ni måtta upp?"
@@ -390,7 +356,6 @@ faqs:
   - question: "Vilka områden i södra Skåne arbetar ni i?"
     answer: "Vi måttar och monterar terrassmarkiser i Malmö, Staffanstorp, Lund, Vellinge, Trelleborg, Lomma, Kävlinge och Svedala. Längre bort åker vi också — säg till vid första kontakten så bokar vi platsbesök. Eftersom måttning, fasadkontroll och vävval sker på plats vill vi alltid ut till adressen innan offert lämnas."
 cta:
-  eyebrow: "Nästa steg"
   headingLine1: "Vi kommer hem"
   headingLine2: "och måttar altanen."
   body: "Måttning, modellval och vävprover sker mot er fasad i dagsljus. Hembesök och offert är kostnadsfria — vi kommer hem oavsett om det blir affär eller inte."

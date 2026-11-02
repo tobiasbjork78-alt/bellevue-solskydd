@@ -19,10 +19,8 @@ schema:
   headline: Solskydd för sovrum — så får ni det riktigt mörkt
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Tema
 h1: Solskydd för sovrum
 answerBox: 'Mörkläggning i sovrummet löser den skånska sommarens tidiga ljus och vintermånadernas mörka morgnar — om gardinen är vald för uppgiften. Två produkter dominerar i sovrumssegmentet: rullgardin med blackout-väv och plissé med mörkläggande isolerväv. Båda fungerar; valet handlar om motor, isolering och hur tätt ni vill ha kanterna.'
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om sovrumsmörkläggning.
 faqs:
 - question: Varför läcker det ljus runt sovrumsgardinen?
@@ -36,7 +34,6 @@ faqs:
 - question: Hur långt ut från karmen ska blackouten sticka för bästa täthet?
   answer: Minst 5 cm per sida om rullgardinen monteras utanpå karmen utan sidoskenor. Mer är bättre — vi rekommenderar 7–10 cm där det är möjligt. Med sidoskenor räcker det att de täcker karmens sidor; då blir tätheten betydligt bättre även utan extra överhäng.
 cta:
-  eyebrow: Mörkläggning sovrum
   heading: Boka kostnadsfritt hembesök.
   body: Vi mäter sovrumsfönstret, går igenom var ljuset läcker in idag och föreslår en lösning som faktiskt mörklägger. Inkluderar motoralternativ och sidoskenor där det behövs.
 ---

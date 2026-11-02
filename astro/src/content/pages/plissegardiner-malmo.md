@@ -12,10 +12,8 @@ breadcrumbs:
 schema:
   - { type: service, name: "Plisségardiner Malmö" }
   - { type: faq }
-eyebrow: "Invändigt solskydd"
 h1: "Plisségardiner i Malmö"
 answerBox: "En plisségardin är en permanent veckad väv som hänger mellan två lister och som kan parkeras var som helst i fönstret — uppifrån, nedifrån eller från båda håll samtidigt. Vi installerar sex modeller i Malmö-bostäder — från diskret glasmonterad utan borrning till linspänd för stora fönster."
-faqEyebrow: "Vanliga frågor"
 faqHeading: "Frågor om plisségardiner."
 faqs:
   - question: "Vad är skillnaden mellan en plissé och en rullgardin?"
@@ -31,7 +29,6 @@ faqs:
   - question: "Tvättas vävarna i tvättmaskin?"
     answer: "Nej. Veckningen är permanent men inte tvättmaskinssäker — vecket riskerar att deformeras. Damma av med dammvippa eller dammsugare på låg effekt med mjukt munstycke. Punktrengöring med fuktig svamp och milt rengöringsmedel går bra på fläckar. Låt alltid väven torka helt utdragen innan ni fäller ihop den igen."
 cta:
-  eyebrow: "Plisségardiner Malmö"
   heading: "Boka kostnadsfritt hembesök för plissé."
   body: "Vi mäter, visar vävprover i ert ljus och föreslår modell utifrån fönstret. Hembesök, mätning och offert är gratis — gäller hela södra Skåne."
 ---

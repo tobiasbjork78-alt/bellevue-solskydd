@@ -11,7 +11,6 @@ breadcrumbs:
 schema:
   - { type: service, name: "Markiser Skanör-Falsterbo", city: "Skanör-Falsterbo" }
   - { type: faq }
-eyebrow: "Utvändigt solskydd"
 h1: "Markiser i Skanör-Falsterbo"
 answerBox: "Skanör-Falsterbohalvön har Sveriges hårdaste fasadklimat — salt, vind, UV. Vi använder enbart premiumkassetter med korrosionsbeständiga komponenter och vindsensor. Klassiska färger i randigt eller unikulör för att matcha sommarvillornas estetik."
 why:
@@ -33,7 +32,6 @@ process:
     - { index: "02", title: "Måttagning på plats", body: "Vi mäter alla fönster, går igenom väderstreck, väljer material och visar prover i ert ljus." }
     - { index: "03", title: "Specificerad offert", body: "Pris per fönster eller produkt, med tydligt material- och tillvalsval. Inga klumpsummor." }
     - { index: "04", title: "Egna montörer", body: "Vi monterar i Skanör-Falsterbo med våra egna montörer — ingen underentreprenör. Funktionstest och städning ingår." }
-faqEyebrow: "Vanliga frågor"
 faqHeading: "Frågor från Skanör-Falsterbo."
 faqs:
   - question: "Hur tål markiser saltvinden i Skanör, Falsterbo, Höllviken och Ljunghusen?"
@@ -43,7 +41,6 @@ faqs:
   - question: "Servar ni Skanör, Falsterbo, Höllviken och Ljunghusen från Staffanstorp?"
     answer: "Ja, alla fyra orter. Vi kör till Falsterbohalvön regelbundet och kan koordinera flera kunder samma dag. Avstånd cirka 35–40 minuters bilväg via E6 och länsväg 100. Hembesök kostar inget."
 cta:
-  eyebrow: "Markiser Skanör-Falsterbo"
   heading: "Boka hembesök i Skanör-Falsterbo."
   body: "Vi besöker fasaden, bedömer vind- och saltbelastning och föreslår en premiummarkis som klarar Falsterbohalvöns klimat. Hembesök och offert är kostnadsfria."
 ---

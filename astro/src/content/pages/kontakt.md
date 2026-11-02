@@ -9,7 +9,6 @@ breadcrumbs:
   - { name: "Kontakt", url: "/kontakt/" }
 schema:
   - { type: contactPage }
-eyebrow: "Kontakt"
 h1: "Kontakta oss."
 intro: "Boka rådgivning, ställ en fråga eller be om en offert. Vi svarar samma vardag."
 contact:

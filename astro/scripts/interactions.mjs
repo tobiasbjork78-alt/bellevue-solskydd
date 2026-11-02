@@ -30,7 +30,22 @@ check("scroll unlocked", (await p.evaluate(() => document.body.style.overflow)) 
 // FAQ
 const first = p.locator("[data-faq-toggle]").first();
 const second = p.locator("[data-faq-toggle]").nth(1);
-check("FAQ first initial aria-expanded=true (as nextjs-v3)", (await first.getAttribute("aria-expanded")) === "true");
+check("FAQ first initial aria-expanded=true", (await first.getAttribute("aria-expanded")) === "true");
+// First answer visible on load, closes with one click
+const firstPanel = p.locator("[data-faq-panel]").first();
+check("FAQ first answer visible on load (height>0)", (await firstPanel.evaluate((e) => e.getBoundingClientRect().height)) > 0);
+// All answers present in server HTML (not inserted by JS)
+const rawHtml = await (await fetch(base + "/persienner-malmo/")).text();
+const answers = await p.locator("[data-faq-panel] p").allTextContents();
+const decode = (t) => t.replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">");
+check(`FAQ all ${answers.length} answers in server HTML`, answers.length > 0 && answers.every((a) => decode(rawHtml).includes(a.trim())));
+await first.click();
+await p.waitForTimeout(600);
+check("FAQ first closes with one click (aria-expanded=false)", (await first.getAttribute("aria-expanded")) === "false");
+check("FAQ first closes with one click (height 0)", (await firstPanel.evaluate((e) => e.getBoundingClientRect().height)) === 0);
+await first.click();
+await p.waitForTimeout(600);
+check("FAQ first reopens with one click (height>0)", (await firstPanel.evaluate((e) => e.getBoundingClientRect().height)) > 0);
 await second.click();
 await p.waitForTimeout(600);
 const h = await p.locator("[data-faq-panel]").nth(1).evaluate((e) => e.getBoundingClientRect().height);

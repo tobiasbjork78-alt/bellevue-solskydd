@@ -19,10 +19,8 @@ schema:
   headline: Välja rätt invändigt solskydd — komplett guide
   datePublished: '2026-05-04'
 - type: faq
-eyebrow: Översikt
 h1: Välja rätt invändigt solskydd
 answerBox: 'Tre frågor brukar räcka för att smalna av valet. Vad har ni för fönstertyp? Vad ska solskyddet primärt göra — mörklägga, dölja insyn, dämpa värme eller filtrera ljus? Vill ni ha motor? Svaren pekar nästan alltid mot ett av fyra alternativ: plisségardin, rullgardin, persienn eller lamellgardin.'
-faqEyebrow: Vanliga frågor
 faqHeading: Frågor om att välja.
 faqs:
 - question: Hur lång tid tar det från beställning till färdigt monterat?
@@ -36,7 +34,6 @@ faqs:
 - question: Får man borra i karmen i hyresrätt?
   answer: I de flesta fall nej. För hyresrätter och bostadsrätter där borrning är förbjuden — eller där ni helt enkelt vill undvika åverkan — finns glasmonterad plissé (Velo) som sitter direkt på rutan, eller persienn Klassisk LV där all manövrering är samlad i överlisten utan karmfästen.
 cta:
-  eyebrow: Personlig rekommendation
   heading: Vi hjälper er välja per fönster.
   body: Vid hembesöket går vi igenom alla fönster, lyssnar på hur rummen används och föreslår produkter rum för rum. Hembesöket är gratis.
 ---

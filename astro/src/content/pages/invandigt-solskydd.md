@@ -11,10 +11,8 @@ breadcrumbs:
 schema:
   - { type: service, name: "Invändigt solskydd Malmö" }
   - { type: faq }
-eyebrow: "Översikt"
 h1: "Invändigt solskydd"
-answerBox: "Invändigt solskydd är allt som monteras innanför fönstret för att styra ljus, värme och insyn — plissé, rullgardiner, persienner och lamellgardiner. Bellevue Solskydd hjälper er välja och installera rätt typ för bostaden eller kontoret. Vi gör mätbesöket i Malmö med omnejd kostnadsfritt och offererar fönster för fönster."
-faqEyebrow: "Vanliga frågor"
+answerBox: "Invändigt solskydd är allt som monteras innanför fönstret för att styra ljus, värme och insyn — plissé, rullgardiner, persienner och lamellgardiner. Bellevue Solskydd hjälper er välja och installera rätt typ för bostaden eller kontoret. Vi gör mätbesöket i Malmöområdet kostnadsfritt och offererar fönster för fönster."
 faqHeading: "Frågor om invändigt solskydd."
 faqs:
   - question: "Vilken typ av invändigt solskydd är vanligast i Malmö?"
@@ -28,7 +26,6 @@ faqs:
   - question: "Hur lång leveranstid är det?"
     answer: "För standardsortiment ligger vi typiskt på 2–4 veckor från beställning till montering. Specialfärger och motoriserade lösningar med smart hem-integration kan ta något längre. Vi anger alltid ett konkret datumintervall i offerten — inga öppna löften."
 cta:
-  eyebrow: "Invändigt solskydd Malmö"
   heading: "Boka kostnadsfritt hembesök."
   body: "Vi mäter på plats, visar vävprover i det ljus ni har, och offererar fönster för fönster. Hembesöket är gratis även om ni väljer att inte beställa — och täcker hela södra Skåne."
 ---

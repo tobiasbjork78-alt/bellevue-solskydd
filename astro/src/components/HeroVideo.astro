@@ -1,0 +1,35 @@
+---
+// Decorative hero video: plays once (no loop) and stays on the last frame.
+// prefers-reduced-motion: video hidden and paused, only the poster image is shown.
+// <source media> matches no source with reduced motion, so the mp4 is not downloaded.
+interface Props {
+  src: string;
+  poster: string;
+  /** Size/fit/position classes, applied to both video and poster image */
+  class: string;
+}
+const { src, poster, class: className } = Astro.props;
+---
+<video
+  autoplay
+  muted
+  playsinline
+  preload="auto"
+  poster={poster}
+  aria-hidden="true"
+  disablepictureinpicture
+  class:list={[className, "motion-reduce:hidden"]}
+  data-hero-video
+>
+  <source src={src} type="video/mp4" media="(prefers-reduced-motion: no-preference)" />
+</video>
+<img src={poster} alt="" aria-hidden="true" loading="lazy" decoding="async" class:list={[className, "hidden motion-reduce:block"]} data-hero-poster />
+<script>
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    document.querySelectorAll<HTMLVideoElement>("[data-hero-video]").forEach((video) => {
+      video.removeAttribute("autoplay");
+      video.preload = "none";
+      video.pause();
+    });
+  }
+</script>

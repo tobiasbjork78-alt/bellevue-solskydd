@@ -4,7 +4,7 @@ import { z } from "astro/zod";
 export const crumbSchema = z.object({ name: z.string(), url: z.string() });
 export const faqItemSchema = z.object({ question: z.string(), answer: z.string() });
 export const ctaSchema = z.object({
-  eyebrow: z.string(),
+  eyebrow: z.string().optional(),
   heading: z.string(),
   body: z.string(),
 });
@@ -40,6 +40,10 @@ export const schemaDescriptor = z.discriminatedUnion("type", [
 export type SchemaDescriptor = z.infer<typeof schemaDescriptor>;
 
 export const baseSchema = z.object({
+  /** Optional hero video (mp4 in /public). Missing = templates use their hero image */
+  heroVideo: z.string().optional(),
+  /** Poster for heroVideo (first frame); also shown alone with prefers-reduced-motion */
+  heroPoster: z.string().optional(),
   /** <title> */
   title: z.string(),
   /** meta description */

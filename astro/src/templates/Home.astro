@@ -44,8 +44,8 @@ const schema = buildSchema(d.schema, { path, title: d.title, description: d.desc
     <section class="bg-canvas py-20 md:py-24">
       <div class="mx-auto max-w-7xl px-6 lg:px-10">
         <div class="max-w-2xl mb-12">
-          <Eyebrow>{d.localProof.eyebrow}</Eyebrow>
-          <h2 class="heading-section text-3xl md:text-4xl mt-5 text-ink">{d.localProof.heading}</h2>
+          {d.localProof.eyebrow && <Eyebrow>{d.localProof.eyebrow}</Eyebrow>}
+          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink", d.localProof.eyebrow && "mt-5"]}>{d.localProof.heading}</h2>
         </div>
         <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           {d.localProof.items.map((item) => (
@@ -58,8 +58,8 @@ const schema = buildSchema(d.schema, { path, title: d.title, description: d.desc
     <section id="produkter" class="bg-canvas py-24 md:py-32">
       <div class="mx-auto max-w-7xl px-6 lg:px-10">
         <div class="max-w-2xl mb-16 md:mb-20">
-          <Eyebrow>{d.products.eyebrow}</Eyebrow>
-          <h2 class="heading-section text-4xl md:text-5xl mt-5 text-ink">{d.products.heading}</h2>
+          {d.products.eyebrow && <Eyebrow>{d.products.eyebrow}</Eyebrow>}
+          <h2 class:list={["heading-section text-4xl md:text-5xl text-ink", d.products.eyebrow && "mt-5"]}>{d.products.heading}</h2>
           <Divider class="mt-7" />
           <p class="mt-7 body-copy text-ink-soft">{d.products.body}</p>
         </div>
