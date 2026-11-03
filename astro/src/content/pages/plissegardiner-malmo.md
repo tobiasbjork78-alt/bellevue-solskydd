@@ -6,7 +6,7 @@ description: "Måttanpassade plisségardiner i Malmö och södra Skåne. Sex mod
 updated: 2026-06-04
 sitemap: { priority: 0.8, changefreq: monthly }
 breadcrumbs:
-  - { name: "Start", url: "/" }
+  - { name: "Hem", url: "/" }
   - { name: "Invändigt solskydd", url: "/invandigt-solskydd/" }
   - { name: "Plisségardiner Malmö", url: "/plissegardiner-malmo/" }
 schema:
@@ -47,6 +47,11 @@ tail:
   - kind: prose
     heading: "Välj din plissé i tre frågor"
     html: "<ol class=\"list-decimal pl-6 space-y-3\"><li><strong class=\"font-medium text-ink\">Brett fönster över 200 cm?</strong> Liora frihängande hanterar de bredaste partierna. För riktigt stora ytor över tre meter är <a href=\"/rullgardiner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">rullgardin Maxi</a> eller <a href=\"/lamellgardiner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">lamellgardin</a> ofta enklare.</li><li><strong class=\"font-medium text-ink\">Sovrum med absolut mörkläggning?</strong> Mörkläggande isolerväv med aluminiumkärna i valfri linspänd modell. Komplettera Velo med sidoskenor om sidoljuset stör.</li><li><strong class=\"font-medium text-ink\">Badrum, hyresrätt eller karm som inte får borras?</strong> Velo glasmonterad utan karmingrepp, fukttålig väv vid behov. För kopplade fönster i sekelskifteshus är en <a href=\"/persienner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">mellanglaspersienn</a> ett mindre synligt alternativ.</li></ol>"
+  - kind: guarantee
+    heading: "10 års garanti på plisségardiner"
+    tiles:
+      - { value: "10 år", label: "Plisségardiner" }
+    service: "Monteras av våra egna montörer."
 ---
 
 ## Varför plissé fungerar så bra i Malmö-bostäder

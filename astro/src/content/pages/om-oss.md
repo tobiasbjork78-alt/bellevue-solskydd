@@ -5,7 +5,7 @@ description: "Bellevue Solskydd är ett lokalt solskyddsföretag i Malmö med fo
 updated: 2026-06-04
 sitemap: false
 breadcrumbs:
-  - { name: "Start", url: "/" }
+  - { name: "Hem", url: "/" }
   - { name: "Om oss", url: "/om-oss/" }
 h1Line1: "Lokala specialister"
 h1Line2: "i Malmö."

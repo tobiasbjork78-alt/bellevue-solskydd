@@ -6,7 +6,7 @@ description: "Måttanpassat invändigt solskydd för bostäder och kontor i Malm
 updated: 2026-06-04
 sitemap: { priority: 0.8, changefreq: monthly }
 breadcrumbs:
-  - { name: "Start", url: "/" }
+  - { name: "Hem", url: "/" }
   - { name: "Invändigt solskydd", url: "/invandigt-solskydd/" }
 schema:
   - { type: service, name: "Invändigt solskydd Malmö" }

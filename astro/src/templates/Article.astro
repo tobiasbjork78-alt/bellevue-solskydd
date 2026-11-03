@@ -11,6 +11,7 @@ import ConsultationCTA from "../components/ConsultationCTA.astro";
 import CrossLinkCards from "../components/sections/CrossLinkCards.astro";
 import ProcessSteps from "../components/sections/ProcessSteps.astro";
 import CostFactors from "../components/sections/CostFactors.astro";
+import GuaranteeTiles from "../components/sections/GuaranteeTiles.astro";
 import { buildSchema } from "../lib/page-schema";
 
 const { entry, path } = Astro.props;
@@ -56,6 +57,8 @@ const HeadWrapper = isGuide ? "header" : "div";
             <CrossLinkCards section={block} divider={false} />
           ) : block.kind === "processSteps" ? (
             <ProcessSteps section={block} divider={false} />
+          ) : block.kind === "guarantee" ? (
+            <GuaranteeTiles section={block} divider={false} />
           ) : (
             <CostFactors section={block} divider={false} />
           )}

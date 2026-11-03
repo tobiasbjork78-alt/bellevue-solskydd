@@ -209,8 +209,8 @@ investment:
 warranty:
   heading: Fem års garanti på Harol — och kontakten är lokal.
   tiles:
-    - { value: "5 år", label: "Harols pergolor" }
-    - { value: "3 år", label: "Övrigt utvändigt solskydd" }
+    - { value: "5 år", label: "Pergolor från Harol" }
+    - { value: "3 år", label: "Pergolor från Tarasola" }
   service: "Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar."
 faqHeading: Det vi får frågor om innan platsbesöket.
 faqs:

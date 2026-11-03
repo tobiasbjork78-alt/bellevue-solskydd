@@ -13,8 +13,6 @@ sitemap:
 breadcrumbs:
 - name: Hem
   url: /
-- name: Markiser Malmö
-  url: /markiser-malmo/
 - name: Zip-screen
   url: /zip-screen-malmo/
 schema:
@@ -143,9 +141,8 @@ warranty:
   backgroundImage: /images/zip-screen/zip-screen-process-bg.webp
   heading: Garanti och lokal service.
   tiles:
-    - { value: "5 år", label: "Harols Coolscreen" }
-    - { value: "7 år", label: "Selts markiser, motorn 5 år" }
-    - { value: "3 år", label: "Övrigt utvändigt solskydd" }
+    - { value: "5 år", label: "Coolscreen från Harol" }
+    - { value: "3 år", label: "ZiiiP från Selt" }
   service: "Service och reservdelar går genom oss, och om något inte fungerar kommer vi ut och åtgärdar."
 faqHeading: Frågor inför installationen.
 faqs:

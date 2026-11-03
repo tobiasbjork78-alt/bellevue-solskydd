@@ -6,7 +6,7 @@ description: "Måttanpassade lamellgardiner i Malmö och södra Skåne. Vertikal
 updated: 2026-06-04
 sitemap: { priority: 0.8, changefreq: monthly }
 breadcrumbs:
-  - { name: "Start", url: "/" }
+  - { name: "Hem", url: "/" }
   - { name: "Invändigt solskydd", url: "/invandigt-solskydd/" }
   - { name: "Lamellgardiner Malmö", url: "/lamellgardiner-malmo/" }
 schema:
@@ -47,6 +47,11 @@ tail:
   - kind: prose
     heading: "Här hör lamellgardiner hemma"
     html: "<p>Lamellgardin är ett specialiserat solskydd — just därför enkelt att placera rätt eller fel.</p><p><strong class=\"font-medium text-ink\">Passar:</strong> stora glaspartier över 300 cm, altandörrar och skjutpartier, kontor och konferensrum, kafé- och butikslokaler, hemmakontor med vägg-i-vägg-fönster.</p><p><strong class=\"font-medium text-ink\">Passar inte:</strong> smala fönster under 100 cm (där <a href=\"/rullgardiner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">rullgardin</a> eller <a href=\"/persienner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">persienn</a> passar bättre), badrum med kondens, fönster där exakt mörkläggning krävs — vertikala springor släpper igenom ljus oavsett vävtyp. För mörkläggning är <a href=\"/plissegardiner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">plissé med isolerväv</a> eller rullgardin med blackout det rätta valet.</p>"
+  - kind: guarantee
+    heading: "3 års garanti på lamellgardiner"
+    tiles:
+      - { value: "3 år", label: "Lamellgardiner" }
+    service: "Monteras av våra egna montörer."
 ---
 
 ## När en lamellgardin är rätt verktyg

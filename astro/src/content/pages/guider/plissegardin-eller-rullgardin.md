@@ -8,7 +8,7 @@ sitemap:
   priority: 0.6
   changefreq: monthly
 breadcrumbs:
-- name: Start
+- name: "Hem"
   url: /
 - name: Guider
   url: /guider/

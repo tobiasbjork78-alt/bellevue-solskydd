@@ -5,7 +5,7 @@ description: "Saklig vägledning om solskydd: vilken produkt passar bäst, jämf
 updated: 2026-06-04
 sitemap: { priority: 0.6, changefreq: monthly }
 breadcrumbs:
-  - { name: "Start", url: "/" }
+  - { name: "Hem", url: "/" }
   - { name: "Guider", url: "/guider/" }
 h1: "Saklig vägledning."
 intro: "Praktiska guider om solskydd — vad som funkar, vad som inte gör det, och hur valet ser ut för olika typer av fönster och fasader."

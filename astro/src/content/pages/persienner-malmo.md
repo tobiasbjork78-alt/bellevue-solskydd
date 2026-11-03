@@ -6,7 +6,7 @@ description: "Måttanpassade aluminiumpersienner i Malmö och södra Skåne. Fri
 updated: 2026-06-04
 sitemap: { priority: 0.8, changefreq: monthly }
 breadcrumbs:
-  - { name: Start, url: / }
+  - { name: "Hem", url: / }
   - { name: Invändigt solskydd, url: /invandigt-solskydd/ }
   - { name: Persienner Malmö, url: /persienner-malmo/ }
 schema:
@@ -56,6 +56,11 @@ tail:
       - { name: "Rullgardin", text: "Enklast och stramast yta. Blackout för sovrum, screen för skärmarbete.", href: "/rullgardiner-malmo/" }
       - { name: "Plissé", text: "Isolering och tvåvägsjustering där insyn styrs separat från ljus.", href: "/plissegardiner-malmo/" }
       - { name: "Lamellgardin", text: "Glaspartier över tre meter och fönster med altandörr.", href: "/lamellgardiner-malmo/" }
+  - kind: guarantee
+    heading: "10 års garanti på persienner"
+    tiles:
+      - { value: "10 år", label: "Persienner" }
+    service: "Monteras av våra egna montörer."
 ---
 
 ## När persienner är rätt val

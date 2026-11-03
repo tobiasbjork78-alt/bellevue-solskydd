@@ -211,3 +211,94 @@ I `scripts/interactions.mjs` finns 6 nya kontroller, och alla passerar:
 | footer: Terrassmarkiser → /markiser-malmo/ | Posten finns i footern. |
 
 Det befintliga testet "dropdown visible on hover" fungerar utan ändring.
+
+## Garantirättning
+
+Siffrorna kommer från `docs/produktdata-2026-11-02.md`, avsnittet Garanti. Verifiering: `npm run build` ger 0 fel och 29 sidor. `node scripts/interactions.mjs` ger 28 PASS och 0 FAIL. Skärmdumparna av garantisektionen på desktop 1440 och mobil 390 ligger i `docs/sektioner/garanti/`.
+
+### 1. Garantirutor
+
+| Sida | Rutor nu | Före |
+|---|---|---|
+| markiser-malmo | 7 år – Selts markiser · 5 år – motorn på Selts markiser · 5 år – Harols markiser | Oförändrat |
+| zip-screen-malmo | 5 år – Coolscreen från Harol · 3 år – ZiiiP från Selt | Rutan "7 år – Selts markiser, motorn 5 år" är borttagen. Meningen fanns sedan sektionspasset bara som den rutan. "Övrigt utvändigt solskydd" har ersatts av ZiiiP-rutan. |
+| fonstermarkiser-malmo | 7 år – Italia från Selt · 5 år – Motor på Selt · 3 år – Fönstermiljö | Selts markiser, motorn på Selts markiser, övrigt utvändigt solskydd |
+| pergola-malmo | 5 år – Pergolor från Harol · 3 år – Pergolor från Tarasola | Harols pergolor, övrigt utvändigt solskydd |
+| insektsskydd-malmo | 3 år – Utvändigt monterat solskydd och insektsskydd. 1 ruta. | Oförändrad text. Ny layout: från 768 px står rutan med fast bredd (18 rem) och serviceraden bredvid. |
+| persienner-malmo | 10 år – Persienner | Ny |
+| plissegardiner-malmo | 10 år – Plisségardiner | Ny |
+| rullgardiner-malmo | 10 år – Rullgardiner | Ny |
+| lamellgardiner-malmo | 3 år – Lamellgardiner | Ny |
+
+Om de invändiga sidorna:
+- Ingen av sidorna nämnde garanti tidigare. Rutorna ligger därför direkt före FAQ:n, som sista block i `tail` med den nya typen `guarantee`.
+- H2 är "Garanti". Rubriken är ny text, eftersom sektionen inte fanns.
+- Serviceraden är "Monteras av våra egna montörer.". Ingen av sidorna hade en egen formulering om montörer.
+
+Ingen utvändig sida visar 10 år. Kontrollerat i dist: förekomsten av "10 år" är 0 på markiser, zip, fönstermarkiser, pergola, insektsskydd och Skanör.
+
+### 2. Hero-badges
+
+| Sida | Före | Efter | Skäl |
+|---|---|---|---|
+| fonstermarkiser-malmo | "3 års garanti" | "BRF-underlag" | Tre garantinivåer. Att Bellevue tar fram BRF-underlag står redan i description, tldr och processen. |
+| zip-screen-malmo | "5 års garanti på Harol" | "Harol och Selt" | Två nivåer. "Monterar Harol och Selt" står redan i description. |
+| pergola-malmo | "5 års garanti på Harol" | "Harol och Tarasola" | Två nivåer. "Vi installerar Harol och Tarasola" står redan i tldr och description. **Obs:** punkt 1 säger "Inget annat på pergolasidan ändras", men punkt 2 gäller alla sidor. Jag följde punkt 2. Säg till om badgen ska återställas. |
+| insektsskydd-malmo | "3 års garanti" | Oförändrad | En enda garantinivå. |
+
+markiser-malmo har inga hero-badges.
+
+### 3. Breadcrumbs
+
+Det finns ingen hubbsida för utvändigt solskydd. Föräldern är därför Hem.
+
+| Sida | Synligt och BreadcrumbList nu |
+|---|---|
+| fonstermarkiser-malmo | Hem › Fönstermarkiser (både `schemaBreadcrumbs` och hero-crumbs) |
+| zip-screen-malmo | Hem › Zip-screen |
+| markiser-skanor-falsterbo | Start › Markiser Skanör-Falsterbo |
+
+Skanör fick Start som förälder, inte Terrassmarkiser. Skälet:
+- Sidan handlar om markiser generellt. "Kort om markiser" säger att de "monteras på fasaden eller i taket ovanför fönstret" och att "vanligast är terrass-, fönster- och korgmarkiser".
+- Answerboxen och FAQ:n talar om "premiumkassetter", "markiser" och "markisfärger", aldrig specifikt om terrassmarkiser.
+- Hemnivån heter "Start" på sidan sedan tidigare. Det namnet behölls.
+
+Ingen sida har längre "Markiser Malmö" som förälder, vare sig synligt eller i BreadcrumbList. Det är kontrollerat i dist. Den enda kvarvarande förekomsten av "Markiser Malmö" är `name` i Service-schemat på markiser-malmo, som inte är en breadcrumb. Den är inte ändrad.
+
+### 4. Garantisiffror på hela sajten
+
+Jag sökte igenom `src/`: sidor, guider, komponenter (inklusive footern) och schema.
+
+| Fil | Mening | Stämmer med punkt 1 |
+|---|---|---|
+| markiser-malmo.md | answerBox: "Selts markiser har 7 års garanti och motorn 5 år, medan Harols markiser har 5 års garanti." | Ja |
+| markiser-malmo.md | tldr: "Selts markiser har 7 års garanti och motorn 5 år. Harols markiser har 5 års garanti." | Ja |
+| markiser-malmo.md | Palladio- och Jamaica-specs: "Garanti 7 år på markisen, 5 år på motorn" | Ja |
+| markiser-malmo.md | alternatives intro: "Selt Jamaica har samma garanti som Palladio" | Ja |
+| markiser-malmo.md | Cadiz- och Tucan-specs: "Garanti 5 år" | Ja |
+| markiser-malmo.md | Jämförelsetabellen: "7 år, motor 5 år" (Palladio, Jamaica) och "5 år" (Cadiz, Tucan) | Ja |
+| markiser-malmo.md | Garantirutor och FAQ: "Selts markiser … 7 års garanti på markisen och 5 år på motorn. Harols markiser … 5 års garanti." | Ja |
+| zip-screen-malmo.md | tldr: "5 års garanti på Harol, egna montörer, lokal service …" | Ja |
+| zip-screen-malmo.md | Coolscreen-spec: "Testad för 15 000 öppningscykler, 5 års garanti från Harol" | Ja |
+| zip-screen-malmo.md | Hero-badge "5 års garanti på Harol" | Två nivåer. Ändrad, se punkt 2. |
+| zip-screen-malmo.md | Ruta "7 år – Selts markiser, motorn 5 år" | Nej. Borttagen. |
+| fonstermarkiser-malmo.md | Hero-badge "3 års garanti" | Nej, flera nivåer. Ändrad. |
+| fonstermarkiser-malmo.md | Rutorna "Selts markiser" / "Övrigt utvändigt solskydd" | Ändrade enligt punkt 1. |
+| pergola-malmo.md | description och ogDescription: "… 5 års garanti på Harol …" | Ja |
+| pergola-malmo.md | tldr: "5 års garanti på Harol, egna montörer …" | Ja |
+| pergola-malmo.md | H2 "Fem års garanti på Harol — och kontakten är lokal." | Ja |
+| pergola-malmo.md | title och ogTitle: "… installation, garanti, hembesök …" | Ingen siffra |
+| pergola-malmo.md | Hero-badge "5 års garanti på Harol" | Två nivåer. Ändrad, se punkt 2. |
+| pergola-malmo.md | Ruta "Övrigt utvändigt solskydd" | Ändrad till "Pergolor från Tarasola". |
+| insektsskydd-malmo.md | Hero-badge "3 års garanti" | Ja, en nivå |
+| insektsskydd-malmo.md | tldr: "Lokal kontaktpunkt och 3 års garanti på installation." | Ja |
+| insektsskydd-malmo.md | H2 "Tre års garanti och lokal service." och rutan "3 år" | Ja |
+| invandigt-solskydd.md | Process-steg: "Vi monterar, går igenom skötsel och garanti …" | Ingen siffra |
+| index.md | localProof: "Tydlig garanti på produkt och installation." | Ingen siffra |
+| guider/skotsel-invandigt-solskydd.md | "… skötselråd, reservdelar och garantiärenden." och "**Reservdelar och garanti.** … hanterar garantiärenden." | Ingen siffra |
+| Footer, Header, övriga komponenter och `src/lib` | Inga träffar | – |
+| JSON-LD | Byggs från sidornas FAQ och fält. Inga egna garantisiffror. | – |
+
+Jag har inte ändrat något annat än det som stod i strid med punkt 1, plus badges och breadcrumbs enligt punkt 2 och 3.
+
+**Kvar från produktdata, ej ändrat:** det är oklart om villkoret om årlig service gäller Selts 7 år. Det påverkar markiser-malmo och fonstermarkiser-malmo.

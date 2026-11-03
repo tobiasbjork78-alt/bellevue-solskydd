@@ -8,7 +8,6 @@ updated: 2026-06-04
 sitemap: { priority: 0.85, changefreq: "monthly" }
 schemaBreadcrumbs:
   - { name: "Hem", url: "/" }
-  - { name: "Markiser Malmö", url: "/markiser-malmo/" }
   - { name: "Fönstermarkiser", url: "/fonstermarkiser-malmo/" }
 schema:
   - type: "service"
@@ -26,13 +25,12 @@ hero:
   watermark: "Fönstermarkiser"
   crumbs:
     - { name: "Hem", url: "/" }
-    - { name: "Markiser Malmö", url: "/markiser-malmo/" }
     - { name: "Fönstermarkiser" }
   h1: "Fönstermarkiser i Malmö — solen stoppas vid glaset."
   intro: "Utvändigt solskydd som hindrar värmen från att passera fönstret över huvud taget — för söder- och västerfönster, flerfamiljshus och bostadsrätter med gemensam fasadlinje. Vi mäter, tar fram BRF-underlag och monterar."
   primaryCta: { label: "Boka platsbesök", href: "/kontakt/" }
   secondaryCta: { label: "Se modellerna", href: "#sortimentet" }
-  badges: ["Malmö & södra Skåne", "Egna montörer", "3 års garanti"]
+  badges: ["Malmö & södra Skåne", "Egna montörer", "BRF-underlag"]
 tldr:
   eyebrow: "I korthet"
   items:
@@ -133,9 +131,9 @@ investment:
 warranty:
   heading: "Garanti och lokal kontaktpunkt."
   tiles:
-    - { value: "7 år", label: "Selts markiser" }
-    - { value: "5 år", label: "Motorn på Selts markiser" }
-    - { value: "3 år", label: "Övrigt utvändigt solskydd" }
+    - { value: "7 år", label: "Italia från Selt" }
+    - { value: "5 år", label: "Motor på Selt" }
+    - { value: "3 år", label: "Fönstermiljö" }
   service: "Service och reservdelar går via oss, och om något inte fungerar kommer vi ut och åtgärdar."
 faq:
   heading: "Frågor om fönstermarkiser."

@@ -5,7 +5,7 @@ description: "Kontakta Bellevue Solskydd i Malmö. Boka kostnadsfri rådgivning,
 updated: 2026-06-04
 sitemap: { priority: 0.7, changefreq: monthly }
 breadcrumbs:
-  - { name: "Start", url: "/" }
+  - { name: "Hem", url: "/" }
   - { name: "Kontakt", url: "/kontakt/" }
 schema:
   - { type: contactPage }

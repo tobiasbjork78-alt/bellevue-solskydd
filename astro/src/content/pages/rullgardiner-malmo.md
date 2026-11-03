@@ -6,7 +6,7 @@ description: "Måttanpassade rullgardiner i Malmö och södra Skåne. Mini, Medi
 updated: 2026-06-04
 sitemap: { priority: 0.8, changefreq: monthly }
 breadcrumbs:
-  - { name: "Start", url: "/" }
+  - { name: "Hem", url: "/" }
   - { name: "Invändigt solskydd", url: "/invandigt-solskydd/" }
   - { name: "Rullgardiner Malmö", url: "/rullgardiner-malmo/" }
 schema:
@@ -54,6 +54,11 @@ tail:
       - { name: "Mellanglaspersienn", text: "Stegvis ljuskontroll när den behövs, rullgardinens enkelhet på dagen.", href: "/persienner-malmo/" }
       - { name: "Lamellgardin", text: "Passar bättre för fönster över 4,5 meter.", href: "/lamellgardiner-malmo/" }
       - { name: "Plissé", text: "Rätt val för tvåvägsjustering eller isolering.", href: "/plissegardiner-malmo/" }
+  - kind: guarantee
+    heading: "10 års garanti på rullgardiner"
+    tiles:
+      - { value: "10 år", label: "Rullgardiner" }
+    service: "Monteras av våra egna montörer."
 ---
 
 ## Det enklaste solskyddet — och ofta det bästa

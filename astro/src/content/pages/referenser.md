@@ -5,7 +5,7 @@ description: "Solskyddsprojekt vi genomfört i Malmö och kringliggande kommuner
 updated: 2026-06-04
 sitemap: { priority: 0.6, changefreq: monthly }
 breadcrumbs:
-  - { name: "Start", url: "/" }
+  - { name: "Hem", url: "/" }
   - { name: "Referenser", url: "/referenser/" }
 schema:
   - type: collectionPage

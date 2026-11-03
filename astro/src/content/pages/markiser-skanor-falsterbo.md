@@ -5,8 +5,7 @@ description: "Markiser i Skanör, Falsterbo, Höllviken och Ljunghusen — premi
 updated: 2026-06-04
 sitemap: { priority: 0.7, changefreq: monthly }
 breadcrumbs:
-  - { name: "Start", url: "/" }
-  - { name: "Markiser Malmö", url: "/markiser-malmo/" }
+  - { name: "Hem", url: "/" }
   - { name: "Markiser Skanör-Falsterbo", url: "/markiser-skanor-falsterbo/" }
 schema:
   - { type: service, name: "Markiser Skanör-Falsterbo", city: "Skanör-Falsterbo" }
