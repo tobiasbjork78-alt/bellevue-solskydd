@@ -66,7 +66,7 @@ p = await b.newPage({ viewport: { width: 1440, height: 900 } });
 await p.goto(base + "/");
 await p.hover("nav >> text=Utvändigt");
 await p.waitForTimeout(400);
-check("dropdown visible on hover", await p.isVisible("text=Terrassmarkiser"));
+check("dropdown visible on hover", await p.isVisible("text=Fönstermarkiser"));
 // Reveal on home
 await p.waitForTimeout(500);
 check("reveal: hero visible", await p.evaluate(() => document.querySelector("h1.reveal").classList.contains("visible")));

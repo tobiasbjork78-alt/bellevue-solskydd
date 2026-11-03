@@ -11,7 +11,6 @@ import { kontaktSchema } from "./content/schemas/kontakt";
 import { omOssSchema } from "./content/schemas/omOss";
 import { referenserSchema } from "./content/schemas/referenser";
 import { markiserSchema } from "./content/schemas/markiser";
-import { terrassmarkiserSchema } from "./content/schemas/terrassmarkiser";
 import { fonstermarkiserSchema } from "./content/schemas/fonstermarkiser";
 import { insektsskyddSchema } from "./content/schemas/insektsskydd";
 import { pergolaSchema } from "./content/schemas/pergola";
@@ -28,7 +27,6 @@ const pages = defineCollection({
     omOssSchema,
     referenserSchema,
     markiserSchema,
-    terrassmarkiserSchema,
     fonstermarkiserSchema,
     insektsskyddSchema,
     pergolaSchema,

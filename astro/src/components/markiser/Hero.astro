@@ -13,8 +13,8 @@ interface Props {
     h1: string;
     intro: string;
     primaryCta: { label: string; href: string };
-    secondaryCta: { label: string; href: string };
-    badges: string[];
+    secondaryCta?: { label: string; href: string };
+    badges?: string[];
   };
   /** Font size classes of the watermark word */
   watermarkClass: string;
@@ -61,20 +61,20 @@ const last = hero.crumbs.length - 1;
             {hero.primaryCta.label}
             <Icon name="arrow-right" size={16} />
           </a>
-          <a href={hero.secondaryCta.href} class="inline-flex items-center gap-1.5 text-sm font-medium text-ink-inverse underline decoration-ink-inverse/40 underline-offset-[6px] hover:decoration-ink-inverse transition-colors">
+          {hero.secondaryCta && <a href={hero.secondaryCta.href} class="inline-flex items-center gap-1.5 text-sm font-medium text-ink-inverse underline decoration-ink-inverse/40 underline-offset-[6px] hover:decoration-ink-inverse transition-colors">
             {hero.secondaryCta.label}
             <Icon name="arrow-right" size={14} />
-          </a>
+          </a>}
         </div>
 
-        <p class="mt-8 text-sm text-ink-inverse/80 flex flex-wrap items-center gap-x-3 gap-y-1">
+        {hero.badges && hero.badges.length > 0 && <p class="mt-8 text-sm text-ink-inverse/80 flex flex-wrap items-center gap-x-3 gap-y-1">
           {hero.badges.map((badge, i) => (
             <Fragment>
               {i > 0 && <span aria-hidden="true" class="text-brand-brass select-none">·</span>}
               <span>{badge}</span>
             </Fragment>
           ))}
-        </p>
+        </p>}
       </div>
     </div>
   </div>

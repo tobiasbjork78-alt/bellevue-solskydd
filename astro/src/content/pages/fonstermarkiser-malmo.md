@@ -116,7 +116,7 @@ contrast:
   paragraphs:
     - "Det är samma kategori — utvändigt solskydd — men de löser olika problem. Fönstermarkis skuggar fönsterglaset och stoppar värme inomhus. Terrassmarkis skuggar uteplatsen och flyttar gränsen för när altanen går att använda."
     - "De är inte ömsesidigt uteslutande. På en sjönära fasad med stor altan kan båda förekomma — terrassmarkis över uteplatsen, fönstermarkis över sovrumsfönstret en våning upp. Vi går igenom hela fasaden vid hembesöket och tar ställning till vad varje partis behov kräver."
-  link: { label: "Läs om terrassmarkiser för uteplatser", href: "/terrassmarkiser-malmo/" }
+  link: { label: "Läs om terrassmarkiser för uteplatser", href: "/markiser-malmo/" }
 process:
   heading: "Så jobbar vi med fönstermarkiser."
   paragraphs:

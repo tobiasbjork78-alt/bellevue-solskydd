@@ -2,9 +2,9 @@
 twitterCard: summary_large_image
 robots: "index, follow"
 template: "markiser"
-title: "Markiser Malmö – måttanpassade markiser med montering"
-description: "Markiser i Malmö och södra Skåne. Vi hjälper er välja rätt typ, mäter fasaden och monterar med egna montörer — 3 års garanti och kostnadsfritt hembesök."
-updated: 2026-06-04
+title: "Markiser Malmö – Selt och Harol, 7 års garanti på Selt"
+description: "Markiser i Malmö från Selt och Harol. Nio av tio vi monterar är Selt Palladio. 7 års garanti på Selt och 5 år på motorn, 5 år på Harol. Egna montörer."
+updated: 2026-11-02
 sitemap: { priority: 0.9, changefreq: "monthly" }
 schemaBreadcrumbs:
   - { name: "Hem", url: "/" }
@@ -12,120 +12,164 @@ schemaBreadcrumbs:
 schema:
   - type: "service"
     name: "Markiser Malmö"
-    cities: ["Malmö", "Staffanstorp", "Lund", "Vellinge", "Trelleborg", "Lomma", "Kävlinge", "Svedala"]
-    dateModified: "2026-05-19"
+    city: "Malmö"
+    dateModified: "2026-11-02"
   - { type: "faq" }
   - type: "webPage"
-    dateModified: "2026-05-19"
+    dateModified: "2026-11-02"
     speakable: [".speakable-tldr", ".speakable-faq-1"]
 hero:
   image: "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221%22%20height%3D%221%22%2F%3E"
-  plannedImage: "/images/markiser/hero.jpg"
-  imageAlt: "Markis monterad på fasad — Bellevue Solskydd, Malmö och södra Skåne"
+  plannedImage: "/images/markiser/hero.webp"
+  imageAlt: "Terrassmarkis monterad på fasad över en uteplats"
   watermark: "Markiser"
   crumbs:
     - { name: "Hem", url: "/" }
     - { name: "Markiser Malmö" }
-  h1: "Markiser i Malmö med rådgivning, måttning och montering."
-  intro: "En markis flyttar gränsen för när uteplatsen och rummen innanför går att använda. Vilken typ som passar beror på fasaden, väderstrecket och hur ytan ska användas — det reder vi ut på plats och monterar med egna montörer."
+  h1: "Markiser i Malmö, måttagna och monterade på din fasad"
+  intro: "Vi monterar terrassmarkiser från Selt och Harol, och nio av tio blir en Selt Palladio. Vilken modell och vilket mått din uteplats behöver tar vi reda på vid hembesöket."
   primaryCta: { label: "Boka platsbesök", href: "/kontakt/" }
-  secondaryCta: { label: "Se hur vi tänker", href: "#vilken-typ" }
-  badges: ["Malmö & södra Skåne", "Egna montörer", "3 års garanti"]
+answerBox: "Bellevue Solskydd mäter och monterar markiser i Malmö och södra Skåne. Nio av tio markiser vi monterar är Selt Palladio, och resten är främst Selt Jamaica, Harol Cadiz och Harol Tucan. Selts markiser har 7 års garanti och motorn 5 år, medan Harols markiser har 5 års garanti. Egna montörer gör jobbet, och modellen bestäms vid ett hembesök där vi mäter fasaden och uteplatsen."
+updatedLabel: "Senast uppdaterad 2 november 2026"
 tldr:
-  eyebrow: "I korthet"
+  label: "I korthet"
   items:
-    - "Markis är utvändigt solskydd — det finns flera typer som löser olika saker, inte en lösning som passar alla."
-    - "Vi installerar markiser från Selt, Harol och Fönstermiljö — terrass-, fönster- och specialmodeller."
-    - "Rätt typ beror på var solen ligger, hur ytan ska användas och hur exponerad fasaden är mot vind."
-    - "Selts markiser har 7 års garanti och motorn 5 år. Övrigt utvändigt solskydd har 3 års garanti. Egna montörer, hembesök avgör slutligt val av modell och väv."
-types:
-  heading: "Vad är skillnaden — och vilken behöver du?"
-  intro: "Markis är ett samlingsbegrepp. Det finns fyra grundtyper och de löser olika problem. Vi går igenom dem i klartext här så ni vet vad ni letar efter — slutliga modell- och vävvalet avgörs på platsbesöket."
-  items:
-    - heading: "Terrassmarkis — soltak över altan eller uteplats."
-      paragraphs:
-        - >-
-          En terrassmarkis är en utfällbar markis som monteras i fasad eller tak ovanför uteplatsen. Den fälls ut horisontellt — ni sitter under den — och dras in när den inte används. Det är den typ folk oftast menar när de säger &quot;markis&quot;.
-        - >-
-          <strong class="font-medium text-ink">Löser:</strong> eftermiddagssol på altanen, värme och bländning där ni sitter. Modeller med integrerad LED förlänger användningen in på kvällen.
-        - >-
-          <strong class="font-medium text-ink">Passar dig om:</strong> ni har en altan, terrass eller stor uteplats som blir obrukbar i västersolen. Vi installerar terrassmarkiser från Selt, Harol och Fönstermiljö — sortimentet sträcker sig från Selt Palladio som semi-kassettmodell för normala altanmått, till Harol BX260 där väven är helt innesluten i kassetten när markisen är indragen, och Fönstermiljö Tidö Duo som fristående lösning för uteplatser utan lämplig fasadinfästning.
-      link: { label: "Mer om terrassmarkiser i Malmö", href: "/terrassmarkiser-malmo/" }
-    - heading: "Fönstermarkis — stoppar värmen vid själva glaset."
-      paragraphs:
-        - >-
-          En fönstermarkis monteras direkt över ett enskilt fönster och fälls ut snett ner som ett litet tak. Den skuggar inte uteplatsen utan glaset — och den skillnaden är hela poängen.
-        - >-
-          <strong class="font-medium text-ink">Löser:</strong> värme inne i rummet bakom söder- och västerfönster. Solskydd som sitter utanpå glaset stoppar typiskt en väsentligt större andel av värmen än persienner eller rullgardin på insidan.
-        - >-
-          <strong class="font-medium text-ink">Passar dig om:</strong> sovrummet eller arbetsrummet blir för varmt på sommareftermiddagarna, eller om föreningen har enats om en gemensam fasadlinje med fönstermarkiser. I sortimentet finns bland annat Selt Italia som klassisk fallarm utan kassett, och Fönstermiljö Sofiero som fallarm med kassett där väven skyddas helt när markisen är indragen.
-      link: { label: "Så fungerar fönstermarkiser för söder- och västerfönster", href: "/fonstermarkiser-malmo/" }
-    - heading: "Vertikalmarkis och screen — vertikal duk längs fasaden."
-      paragraphs:
-        - >-
-          En vertikalmarkis — också kallad zip-screen när duken löper i sidoskenor — är en vertikal väv som rullas ner längs fasaden eller framför ett glasparti. Den ligger spänd och tål mer vind än en utfällbar markis, eftersom det inte finns någon arm att vrida på.
-        - >-
-          <strong class="font-medium text-ink">Löser:</strong> insyn och värme på moderna hus med stora glaspartier, pergolasidor som behöver dras igen, balkonger där en konventionell markis inte ryms.
-        - >-
-          <strong class="font-medium text-ink">Passar dig om:</strong> ni har glasade fasadpartier som behöver dämpas, en uteplats eller pergola som behöver vindstabila sidor, eller balkong där sikten utåt ska behållas på dagen men insynen tas bort på kvällen.
-      link: { label: "Fråga oss om vertikalmarkis och screen", href: "/kontakt/" }
-    - heading: "Korgmarkis — kupé över entré eller skyltfönster."
-      paragraphs:
-        - >-
-          En korgmarkis är en halvrund, kupéformad markis som sitter fast och inte fälls in. Den används främst över entrédörrar, skyltfönster och butiksfasader — i bostadssammanhang oftast på äldre stadshus där den följer arkitekturen.
-        - >-
-          <strong class="font-medium text-ink">Löser:</strong> regnskydd och solskydd över en entré, en accent i fasaden som följer historisk stadsbild, vädring av skyltfönster utan att glaset bleks.
-        - >-
-          <strong class="font-medium text-ink">Passar dig om:</strong> ni har en butiksfasad eller äldre fastighet i centrala Malmö där en kupémarkis hör hemma. I sortimentet nämner vi särskilt korgmarkisen <span class="text-ink">Ängsö från Fönstermiljö</span>.
-      link: { label: "Hör av er för en korgmarkis-offert", href: "/kontakt/" }
-pergola:
-  heading: "När en markis inte räcker — pergola."
+    - "En terrassmarkis fälls ut över uteplatsen på vikbara armar och rullas in när den inte behövs."
+    - "Nio av tio markiser vi monterar är Selt Palladio, en halvkassettmarkis på upp till 7,0 meters bredd."
+    - "Selts markiser har 7 års garanti och motorn 5 år. Harols markiser har 5 års garanti."
+    - "Mått, modell och väv bestäms vid hembesöket, och egna montörer sätter upp markisen."
+featured:
+  heading: "Selt Palladio – markisen vi monterar oftast"
+  intro: "Selt Palladio är en halvkassettmarkis som går att få upp till 7,0 meter bred och med 3,6 meters utfall. Nio av tio markiser vi monterar är en Palladio."
+  model:
+    maker: "Selt"
+    name: "Palladio"
+    type: "Halvkassettmarkis med vikarmar"
+    body: "Armarna är vikbara aluminiumarmar med fjädrar och Flyer-kedja. Palladio kan få falbana, och armarna kan monteras överlappande vid alla utfall utom 3,6 meter."
+    specs:
+      - "Max bredd 7,0 m"
+      - "Max utfall 3,6 m"
+      - "Utfall 1,6, 2,1, 2,6, 3,1 eller 3,6 m"
+      - "Vev eller motor"
+      - "Montage på vägg, tak eller takstol (enligt tillverkare)"
+      - "Vindklass 1–2 beroende på storlek"
+      - "Lutning 5–50°"
+      - "LED som tillval"
+      - "Garanti 7 år på markisen, 5 år på motorn"
+    alt: "Selt Palladio halvkassettmarkis"
+    image: null
+    plannedImage: "/images/markiser/palladio.webp"
+alternatives:
+  heading: "Selt Jamaica, Harol Cadiz och Harol Tucan"
+  intro: "Harol Cadiz och Harol Tucan har armar som är testade för 25 000 cykler, och Selt Jamaica har samma garanti som Palladio. Selt Dakar (helkassett, 6,0 × 3,6 m) och Selt Corsica (halvkassett, 7,0 × 3,6 m, endast motor) monterar vi någon gång, och vi tar med dem i förslaget när fasaden eller uteplatsen talar för det."
+  models:
+    - maker: "Selt"
+      name: "Jamaica"
+      type: "Öppen markis utan kassett"
+      body: "Jamaica är en öppen markis utan kassett från Selt som körs med vev eller motor. Den monteras på vägg, tak eller takstol, och en skyddshuv finns som tillval."
+      specs:
+        - "Max bredd 7,0 m"
+        - "Max utfall 3,6 m"
+        - "Vindklass 1–2"
+        - "Vev eller motor"
+        - "Montage på vägg, tak eller takstol"
+        - "Skyddshuv som tillval"
+        - "Garanti 7 år på markisen, 5 år på motorn"
+      alt: "Selt Jamaica terrassmarkis"
+      image: null
+    - maker: "Harol"
+      name: "Cadiz"
+      type: "Helkassettmarkis med vikarmar"
+      body: "Cadiz har en rundad helkassett som väven rullas in i, och kablarna i armarna ligger dolda i armprofilen. I frontprofilen sitter en vario-valance, en duk som fälls ner upp till 2 meter när solen står lågt."
+      specs:
+        - "Bredd 7 m med 3 armar eller 6 m med 2 armar"
+        - "Max utfall 4,0 m"
+        - "Vindklass 2"
+        - "Kopplingsbar upp till 12 m"
+        - "Box 295 × 185 mm"
+        - "Vario-valance upp till 2 m"
+        - "Armar testade för 25 000 cykler"
+        - "io-styrning som standard"
+        - "Sol- och vindsensor som tillval"
+        - "Garanti 5 år"
+      alt: "Harol Cadiz vikarmsmarkis med helkassett"
+      image: "/images/terrassmarkis/Harol-CADIZ-terrassmarkis.webp"
+    - maker: "Harol"
+      name: "Tucan"
+      type: "Vikarmsmarkis med halvöppen eller sluten kassett"
+      body: "Tucan har en box på 200 × 130 millimeter, mindre än boxen på Cadiz, och den kan väljas sluten eller halvöppen. LED-belysning kan byggas in i armarna, som är testade för 25 000 cykler."
+      specs:
+        - "Max bredd 5,5 m, kan inte kopplas"
+        - "Max utfall 3,0 m"
+        - "Vindklass 2"
+        - "Box 200 × 130 mm"
+        - "Sluten eller halvöppen box"
+        - "Valance upp till 25 cm"
+        - "LED i armarna som tillval"
+        - "Värme under markisen som tillval"
+        - "Sol- och vindsensor som tillval"
+        - "Montage på vägg eller tak"
+        - "Garanti 5 år"
+      alt: "Harol Tucan vikarmsmarkis"
+      image: "/images/terrassmarkis/Harol-TUCAN-terrassmarkis.webp"
+comparison:
+  heading: "Palladio, Jamaica, Cadiz och Tucan sida vid sida"
+  intro: "Alla mått i tabellen kommer från tillverkarnas egna dokument."
+  columns: ["Modell", "Tillverkare", "Typ", "Max bredd", "Max utfall", "Garanti"]
+  rows:
+    - ["Palladio", "Selt", "Halvkassett", "7,0 m", "3,6 m", "7 år, motor 5 år"]
+    - ["Jamaica", "Selt", "Öppen, utan kassett", "7,0 m", "3,6 m", "7 år, motor 5 år"]
+    - ["Cadiz", "Harol", "Helkassett", "7 m (3 armar), 6 m (2 armar)", "4,0 m", "5 år"]
+    - ["Tucan", "Harol", "Halvöppen eller sluten kassett", "5,5 m", "3,0 m", "5 år"]
+  footnote: "Vi bekräftar mått vid hembesöket."
+otherProducts:
+  heading: "När fönstermarkis, zip screen eller pergola passar bättre"
   paragraphs:
-    - "För många hushåll räcker markisen. Den fälls ut när solen stör och dras in när väder eller säsong inte tillåter. Men om ni vill kunna sitta ute även i tunt regn, eller förlänga uteplatsen från sex månader till tio, är pergola nästa steg."
-    - "Pergolan står året om — fast konstruktion med motorstyrt tak och möjlighet till sidor, värme och belysning. Skillnaden mot markis är inte i pris alltid, utan i hur uteplatsen används."
-  link: { label: "Läs om vårt pergolaprogram i Malmö", href: "/pergola-malmo/" }
-method:
-  heading: "Hur vi tänker när vi rekommenderar."
+    - 'En <a href="/fonstermarkiser-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">fönstermarkis</a> sitter över ett enskilt fönster och skuggar glaset, så den passar när problemet är värmen inne i rummet.'
+    - 'En <a href="/zip-screen-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">zip screen</a> är en vertikal duk som löper i sidoskenor framför ett glasparti eller längs en fasad. En <a href="/pergola-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">pergola</a> har ett tak som står kvar ute året om och blir ett rum utanför huset.'
+process:
+  heading: "Från hembesök till färdig markis på fasaden"
   paragraphs:
-    - "Vi börjar inte med en modell, vi börjar med fasaden. Vid hembesöket går vi igenom var solen ligger under dygnet, vilka väderstreck fönstren och uteplatsen vetter mot, hur exponerad fasaden är mot vinden från Öresund — och hur ni faktiskt använder ytan."
-    - "Vi noterar fasadens beskaffenhet — tegel i förband, puts över lättbetong, träpanel mot reglar, isolerad ytterväggsplats — eftersom det styr infästning och ibland vilka modeller som faller bort. På bostadsrätter går vi också igenom föreningens regler och eventuell gemensam färgskala innan vi föreslår något."
-    - "Sen ger vi en rekommendation: typ av markis, modell, väv, motorisering och eventuell sensor. Vi rekommenderar ofta en kassettmodell när väven utsätts för havsklimat och en öppen arm där fasaden är skyddad — men det slutliga valet beror på platsen, inte på en mall."
+    - "Varje markis börjar med ett hembesök där vi mäter bredd och utfall mot den yta som ska ligga i skugga. Vi tittar på var solen står under eftermiddagen och hur mycket vind platsen tar."
+    - "Fasaden avgör infästningen. Tegel, puts, trä och isolerade väggar kräver olika fästen, och vi kontrollerar att väggen bär markisen när den är utfälld."
+    - "Ska markisen ha motor behövs ström vid infästningen. Var kabeln ska dras bestämmer vi vid besöket, så att det är klart före montaget."
+    - "Montaget görs av våra egna montörer. När markisen sitter uppe kör vi ut och in den tillsammans med dig och går igenom styrningen."
 price:
-  heading: "Vad som styr priset på en markis."
+  heading: "Det här avgör vad din markis kostar"
   paragraphs:
-    - "Storleken är den största enskilda prisfaktorn. Bredd och utfall styr både vävytan och vilken kraft armen behöver tåla — en 6 m terrassmarkis är en annan ekonomisk övning än en 3 m fönstermarkis."
-    - "Typ av markis kommer sen. Kassettmodeller, där väven skyddas helt när markisen är indragen, ligger högre än öppna armmodeller men håller längre i kustklimat. Vertikalmarkis med sidoskenor är en annan kategori i pris än en klassisk fällarm."
-    - "Motor och sensorer påverkar slutsumman. Motor är typiskt standard på allt utom de minsta fönstermarkiserna; vind-, sol- och regnsensorer är tillval som ofta lönar sig på utsatta lägen. Smart hem-integration tillkommer."
-    - "Väven står för en betydande del. Akrylvävar med UV- och smutsbehandling är dyrare än enklare alternativ men håller färg och form längre — viktigt nära havet. Specialkulörer utöver standardpaletten tillkommer hos vissa tillverkare."
-    - "Slutligen montagekomplexiteten. En slät putsfasad i normalvåning är ett rakare jobb än en infästning i tegelförband på tredje våningen, eller en BRF-fasad där vi måste arbeta från skylift."
-  closing: "Vi räknar på ert projekt på plats — material, montage, eventuell el och styrelseunderlag — och lämnar en specificerad offert där varje post står för sig själv."
+    - "Bredden påverkar priset på en markis först, eftersom väv, rör och frontprofil blir längre för varje meter."
+    - "Utfallet kommer därefter. Längre utfall kräver längre armar och mer väv."
+    - "Sedan valet mellan motor och vev. Motor kostar mer än vev och gör att markisen kan styras med fjärrkontroll eller automatik."
+    - "Väven påverkar priset genom kvalitet och färg. Tillval som vindautomatik, belysning eller värme läggs till ovanpå."
+    - "Fasaden avgör hur mycket arbete montaget kräver. En markis på första våningen i puts går snabbare att sätta upp än en på tredje våningen i tegel."
+  closing: "ROT-avdraget gäller arbetskostnaden för montaget. Offerten tar vi fram efter hembesöket."
 warranty:
-  heading: "Tre års garanti och lokal service."
+  heading: "Garanti på Selt och Harol, service från egna montörer"
   paragraphs:
-    - "Selts markiser har 7 års garanti och motorn 5 år. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar utan diskussion om vem som ska kallas in."
-    - "Service och reservdelar går genom oss, inte tillbaka till fabrik. Vi monterar med egna montörer i Malmö, Lund, Vellinge, Trelleborg, Lomma, Kävlinge, Staffanstorp och Svedala — vilket innebär att personen som installerar är samma företag ni når om något krånglar tre år senare."
+    - "Selts markiser, Palladio, Jamaica, Dakar och Corsica, har 7 års garanti på markisen och 5 år på motorn. Harols markiser, Cadiz och Tucan, har 5 års garanti."
+    - "Service och reservdelar går genom oss. Ringer du om markisen når du samma företag som monterade den, och det är våra egna montörer som kommer ut."
 faq:
-  heading: "Inför platsbesöket — det vi får frågor om markiser."
+  heading: "Frågor om terrassmarkiser från Selt och Harol"
   items:
-    - question: "Vad är skillnaden mellan terrassmarkis och fönstermarkis?"
-      answer: "En terrassmarkis fälls ut horisontellt över uteplats eller altan och skuggar en hel yta — ni sitter under den. En fönstermarkis sitter direkt över ett enskilt fönster och fälls ut snett ner som ett litet tak; den stoppar värmen innan den når glaset men skuggar inte själva uteplatsen. Terrassmarkis löser uteplats; fönstermarkis löser värme inne."
-    - question: "Är det värt att motorisera en markis med vindsensor?"
-      answer: "På allt utom de minsta fönstermarkiserna rekommenderar vi typiskt motor med vindsensor. Motorn drar in markisen jämnt och hela vägen, vilket förlänger livslängden, och vindsensorn drar in den automatiskt om det börjar blåsa för hårt — det är den största enskilda faktorn för att en markis ska hålla länge i ett kustnära läge som Malmö. Vid hembesöket går vi igenom vad fasadens läge faktiskt kräver."
-    - question: "Hur tål en markis blåsten i Malmö?"
-      answer: "Utvändiga markiser klassas i vindklass enligt EN 13561 — där 0 är ingen tålighet och 3 är högsta för utfällbara markiser. På fasader mot Öresund, på Limhamnsidan och i Västra Hamnen, väljer vi högre vindklass, kraftigare armar och normalt vindsensor som drar in markisen automatiskt. På skyddade innergårdar räcker enklare uppsättning. Det avgörs på platsbesöket utifrån fasadens läge."
-    - question: "Hur lång är monteringstiden från beställning?"
-      answer: "Standardmarkiser i lagerförda färger kan ofta monteras inom 2–3 veckor från godkänd offert. Måttanpassade utföranden med specialväv, kassett eller egen RAL-kulör ligger oftast på 4–6 veckor. Själva monteringen tar typiskt en halvdag per markis. Vi anger en konkret tidsplan i offerten när vi vet vilken modell och väv det blir."
-    - question: "Behöver vi godkännande från bostadsrättsföreningen?"
-      answer: "Ja, en utvändig markis räknas som fasadingrepp och kräver styrelsens godkännande i de flesta bostadsrättsföreningar. Många föreningar i centrala Malmö har en gemensam färgskala så att huset behåller en samordnad fasad. Vi tar fram underlag — modell, färg, infästning och bild på hur det kommer se ut — som ni kan skicka till styrelsen innan beställning."
-    - question: "Vilken väv håller längst i kustklimat?"
-      answer: "Modern akrylväv med UV- och smutsbehandling är standardvalet och behåller färg och form längre än enkla polyester­vävar — väsentligt i ett kustnära klimat där väven utsätts för sol, salt och fukt. Färgvalet påverkar också: ljusare nyanser bleks långsammare. Kassettmarkis skyddar dessutom väven helt när den är indragen, vilket förlänger livslängden ytterligare. Vi visar vävprover i dagsljus mot er fasad vid hembesöket."
-    - question: "Behöver markisen vinterförvaras eller kan den sitta uppe året om?"
-      answer: "Kassettmodeller kan sitta uppe året om — väven är skyddad i kassetten när markisen är indragen och påverkas inte av väta eller frost. Helöppna armmodeller med exponerad väv mår bättre av att tas in vintertid om de inte används, eftersom fukt under en upprullad väv är den vanligaste orsaken till mögel. Oavsett modell: dra alltid in markisen torr inför längre uppehåll."
-    - question: "Vilka områden i södra Skåne arbetar ni i?"
-      answer: "Vi gör hembesök och monterar markiser i Malmö, Staffanstorp, Lund, Vellinge, Trelleborg, Lomma, Kävlinge och Svedala. Längre bort åker vi också — säg till vid första kontakten så bokar vi platsbesök. Eftersom måttning och fasadkontroll sker på plats vill vi alltid ut till adressen innan offert lämnas."
+    - question: "Vad är en terrassmarkis?"
+      answer: "En terrassmarkis är en markis som fälls ut över en uteplats på vikbara armar och rullas in när den inte används. Den monteras på fasaden eller under ett tak ovanför uteplatsen. En kassettmarkis har dessutom en kassett som väven rullas in i, så att väven är skyddad när markisen är indragen. Harol Cadiz har helkassett och Selt Palladio halvkassett."
+    - question: "Vilken markis monterar ni oftast?"
+      answer: "Selt Palladio. Nio av tio markiser vi monterar är en Palladio, och resten är främst Selt Jamaica, Harol Cadiz och Harol Tucan. Selt Dakar och Selt Corsica monterar vi någon gång. Vilken av dem som passar din uteplats avgörs vid hembesöket, när vi har mätt och sett fasaden."
+    - question: "Hur bred kan en markis från Selt eller Harol bli?"
+      answer: "Selt Palladio och Harol Cadiz går upp till 7 meters bredd, och Cadiz kan kopplas ihop till upp till 12 meter. Utfallet är upp till 3,6 meter på Palladio och 4 meter på Cadiz. Selt Jamaica går upp till 7,0 meters bredd och 3,6 meters utfall, och Harol Tucan upp till 5,5 meters bredd och 3,0 meters utfall."
+    - question: "Kan markisen styras med motor och sensorer?"
+      answer: "Ja. Selt Jamaica finns med vev eller motor, och Harol Cadiz har io-styrning som standard. Både Cadiz och Tucan kan få sol- och vindsensor som tillval, så att markisen dras in automatiskt när det blåser. Var strömmen ska dras och vilken styrning som passar går vi igenom vid hembesöket."
+    - question: "Hur lång garanti har markiserna från Selt och Harol?"
+      answer: "Selts markiser, Palladio, Jamaica, Dakar och Corsica, har 7 års garanti på markisen och 5 år på motorn. Harols markiser, Cadiz och Tucan, har 5 års garanti. Garanti och service går genom oss, och det är våra egna montörer som kommer ut om något behöver åtgärdas."
+    - question: "Vad mäter ni vid hembesöket inför en markis?"
+      answer: "Vi mäter fasadens bredd och hur långt ut markisen behöver gå för att skugga den yta där du sitter. Vi tittar på fasadens material för infästningen, var solen står under eftermiddagen och var det finns ström om markisen ska ha motor. Vävproverna visar vi mot fasaden i dagsljus."
+    - question: "Kan man få belysning och värme i markisen?"
+      answer: "Harol Cadiz kan få LED-belysning i boxen, i frontprofilen eller i armarna, och Harol Tucan kan få LED i armarna. Båda kan få värme under markisen som tillval. Vilka tillval som går att kombinera med elen och fasaden hos dig går vi igenom vid hembesöket."
+    - question: "Vad kostar en terrassmarkis från Selt eller Harol?"
+      answer: "Priset beror på bredd, utfall, om markisen ska ha motor eller vev, vilken väv du väljer, tillval som vindautomatik och hur fasaden ser ut. Därför lämnar vi pris först efter hembesöket, när måtten är tagna. ROT-avdraget gäller arbetskostnaden för montaget, och hembesöket och offerten kostar ingenting."
 finalCta:
-  headingLine1: "Det avgörs på er fasad"
-  headingLine2: "— inte här."
-  body: "Mätning, modellval och vävprover sker mot er fasad i dagsljus. Hembesök och offert är kostnadsfria — vi kommer hem oavsett om det blir affär eller inte."
-  cta: { label: "Boka in ert hembesök", href: "/kontakt/" }
+  headingLine1: "Vi mäter din uteplats"
+  headingLine2: "och föreslår en markis."
+  body: "Hembesöket och offerten är kostnadsfria. Mått och vävprover tar vi fram på plats, mot din fasad."
+  cta: { label: "Boka platsbesök", href: "/kontakt/" }
 ---

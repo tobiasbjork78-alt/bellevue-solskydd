@@ -1,12 +1,11 @@
 ---
-// Template "markiser" (/markiser-malmo/). All text from src/content/pages/markiser-malmo.md.
+// Template "markiser" (/markiser-malmo/), the site's only page about terrace awnings.
+// All text from src/content/pages/markiser-malmo.md.
 import BaseLayout from "../layouts/BaseLayout.astro";
-import Eyebrow from "../components/Eyebrow.astro";
 import Divider from "../components/Divider.astro";
+import AnswerBox from "../components/AnswerBox.astro";
 import Hero from "../components/markiser/Hero.astro";
-import Tldr from "../components/markiser/Tldr.astro";
-import ArrowLink from "../components/markiser/ArrowLink.astro";
-import SplitSection from "../components/markiser/SplitSection.astro";
+import ModelCard from "../components/markiser/ModelCard.astro";
 import TextSection from "../components/markiser/TextSection.astro";
 import FaqSection from "../components/markiser/FaqSection.astro";
 import FinalCta from "../components/markiser/FinalCta.astro";
@@ -15,41 +14,107 @@ import { buildSchema } from "../lib/page-schema";
 const { entry, path } = Astro.props;
 const d = entry.data;
 const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faq.items });
+const sectionHeading = "heading-section text-3xl md:text-4xl text-ink leading-tight";
 ---
 <BaseLayout
   twitterCard={d.twitterCard}
   robots={d.robots} title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
   <main class="flex-1 bg-canvas">
     <Hero hero={d.hero} watermarkClass="text-[18vw] md:text-[14vw]" />
-    <Tldr tldr={d.tldr} />
 
-    <section id="vilken-typ" class="bg-canvas-soft border-y border-ink/8">
-      <div class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
-        <div class="max-w-2xl mb-14">
-          {d.types.eyebrow && <Eyebrow>{d.types.eyebrow}</Eyebrow>}
-          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.types.eyebrow && "mt-4"]}>{d.types.heading}</h2>
+    <div class="mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-20">
+      <AnswerBox html={d.answerBox} />
+      <p class="mt-3 text-sm text-ink-soft">{d.updatedLabel}</p>
+    </div>
+
+    <section aria-label={d.tldr.label} class="speakable-tldr mx-auto max-w-4xl px-6 lg:px-10 pt-12 md:pt-14 pb-16 md:pb-20">
+      <ul class="space-y-3 body-copy text-ink-soft list-none">
+        {d.tldr.items.map((item) => (
+          <li class="flex gap-4">
+            <span aria-hidden="true" class="text-brand-brass select-none mt-[0.4em] leading-none">—</span>
+            <span>{item}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section id="palladio" class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-5xl px-6 lg:px-10 pt-20 md:pt-24 pb-8 md:pb-12">
+        <div class="max-w-2xl">
+          <h2 class={sectionHeading}>{d.featured.heading}</h2>
           <Divider class="mt-7" />
-          <p class="mt-7 body-copy text-ink-soft">{d.types.intro}</p>
+          <p class="mt-7 body-copy text-ink-soft">{d.featured.intro}</p>
         </div>
-        <div class="space-y-14 md:space-y-16">
-          {d.types.items.map((item, i) => (
-            <Fragment>
-              {i > 0 && <Divider class="bg-brand-brass/30 w-full" />}
-              <article>
-                <h3 class="font-display text-2xl md:text-3xl text-ink leading-tight mb-4">{item.heading}</h3>
-                <div class="body-copy text-ink-soft space-y-4 max-w-3xl">
-                  {item.paragraphs.map((p) => <p set:html={p} />)}
-                  <p><ArrowLink href={item.link.href} label={item.link.label} /></p>
-                </div>
-              </article>
-            </Fragment>
-          ))}
-        </div>
+        <ModelCard model={d.featured.model} index={0} isLast={true} />
       </div>
     </section>
 
-    <SplitSection section={d.pergola} gap="gap-10 md:gap-14" />
-    <SplitSection section={d.method} band />
+    <section id="alternativ">
+      <div class="mx-auto max-w-5xl px-6 lg:px-10 pt-20 md:pt-24 pb-8 md:pb-12">
+        <div class="max-w-2xl">
+          <h2 class={sectionHeading}>{d.alternatives.heading}</h2>
+          <Divider class="mt-7" />
+          <p class="mt-7 body-copy text-ink-soft">{d.alternatives.intro}</p>
+        </div>
+        {d.alternatives.models.map((model, i) => (
+          <ModelCard model={model} index={i + 1} isLast={i === d.alternatives.models.length - 1} />
+        ))}
+      </div>
+    </section>
+
+    <section id="jamforelse" class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+        <div class="max-w-2xl">
+          <h2 class={sectionHeading}>{d.comparison.heading}</h2>
+          <Divider class="mt-7" />
+          <p class="mt-7 body-copy text-ink-soft">{d.comparison.intro}</p>
+        </div>
+
+        <table class="mt-12 hidden md:table w-full text-left body-copy text-sm">
+          <thead>
+            <tr class="border-b border-ink/15">
+              {d.comparison.columns.map((col) => (
+                <th scope="col" class="py-4 pr-6 font-medium text-ink">{col}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {d.comparison.rows.map((row) => (
+              <tr class="border-b border-ink/10 align-top">
+                {row.map((cell, i) =>
+                  i === 0 ? (
+                    <th scope="row" class="py-4 pr-6 font-display text-lg font-normal text-ink">{cell}</th>
+                  ) : (
+                    <td class="py-4 pr-6 text-ink-soft">{cell}</td>
+                  )
+                )}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+
+        <div class="mt-10 space-y-4 md:hidden">
+          {d.comparison.rows.map((row) => (
+            <div class="rounded-premium border border-ink/10 bg-canvas px-6 py-5">
+              <p class="font-display text-xl text-ink">{row[0]}</p>
+              <dl class="mt-3 grid grid-cols-2 gap-x-4 gap-y-2 text-sm body-copy">
+                {row.slice(1).map((cell, i) => (
+                  <Fragment>
+                    <dt class="text-ink-soft">{d.comparison.columns[i + 1]}</dt>
+                    <dd class="text-ink">{cell}</dd>
+                  </Fragment>
+                ))}
+              </dl>
+            </div>
+          ))}
+        </div>
+
+        <p class="mt-6 text-sm text-ink-soft">{d.comparison.footnote}</p>
+      </div>
+    </section>
+
+    <TextSection section={d.otherProducts} />
+    <TextSection section={d.process} band />
     <TextSection section={d.price} />
     <TextSection section={d.warranty} band />
     <FaqSection faq={d.faq} />

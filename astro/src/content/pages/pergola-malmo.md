@@ -3,10 +3,10 @@ twitterCard: summary_large_image
 robots: "index, follow"
 template: pergola
 title: Pergola Malmö — installation, garanti, hembesök | Bellevue Solskydd
-description: Pergola i Malmö och södra Skåne. Vi installerar Harol och Tarasola — sex modeller, motorstyrt tak, 3 års garanti och hembesök för exakt offert.
+description: Pergola i Malmö och södra Skåne. Vi installerar Harol och Tarasola — sex modeller, motorstyrt tak, 5 års garanti på Harol och hembesök för exakt offert.
 updated: '2026-06-04'
 ogTitle: Pergola Malmö — installation, garanti, hembesök | Bellevue Solskydd
-ogDescription: Pergola i Malmö och södra Skåne. Vi installerar Harol och Tarasola — sex modeller, motorstyrt tak, 3 års garanti och hembesök för exakt offert.
+ogDescription: Pergola i Malmö och södra Skåne. Vi installerar Harol och Tarasola — sex modeller, motorstyrt tak, 5 års garanti på Harol och hembesök för exakt offert.
 sitemap:
   priority: 0.8
   changefreq: monthly
@@ -46,7 +46,7 @@ hero:
   trust:
   - Malmö & södra Skåne
   - Egna montörer
-  - 3 års garanti
+  - 5 års garanti på Harol
 intro:
   heading: Rummet som står kvar när vädret skiftar.
   paragraphs:
@@ -58,7 +58,7 @@ tldr:
   items:
   - Pergola är en fast utomhuskonstruktion med motorstyrt tak — skugga, regnskydd och vindskydd året om.
   - Vi installerar Harol och Tarasola — sex modeller från vikduk till bioklimatiska lamelltak.
-  - 3 års garanti, egna montörer, lokal service i Malmö och södra Skåne.
+  - 5 års garanti på Harol, egna montörer, lokal service i Malmö och södra Skåne.
   - Slutligt modellval avgörs på platsbesöket utifrån fasad, ytanvändning och storlek.
 models:
   heading: Modellerna vi installerar.
@@ -71,7 +71,7 @@ models:
     body: Lamellpaketet kan dras helt åt sidan så att taket öppnas helt — när hopfällda lameller inte ska skymma utsikten. Konstruktionen kan kopplas vidare både i bredd och djup för större ytor, och passar platser där balansen mellan slutet skydd och fri himmel är avgörande.
     specs:
     - 'Maxstorlek: 4,5 × 6,1 m per modul, Premium (enligt tillverkare)'
-    - Vindklass Beaufort 9 vid stängt tak (enligt tillverkare)
+    - Upp till Beaufort 9 (90 km/h) med stängt tak, beroende på storlek (enligt tillverkare)
     - Kopplingsbar i både bredd och djup
     alt: Harol Brera lamellpergola med inglasade sidor mot träpanelfasad i kustnära miljö
     image: /images/pergola/harol-brera.jpg
@@ -81,7 +81,8 @@ models:
     type: Lamelltak
     body: Bioklimatisk lamellpergola som kan kopplas vidare i både bredd och djup för större ytor. Systemet är dimensionerat för stolpdimension 150 × 150 mm och stolphöjder upp till 3 m. Vävalternativ, lamellvinkling och eventuella sidor avgörs på platsbesöket utifrån hur uteplatsen ska användas.
     specs:
-    - Maxbredd 5,5 m per modul; djup upp till 7 m (enligt tillverkare)
+    - Maxbredd 5,5 m per modul; djup upp till 6,2 m (enligt tillverkare)
+    - Upp till Beaufort 9 (90 km/h) med stängt tak, beroende på storlek (enligt tillverkare)
     - Lamellvinkling 0°–140° (enligt tillverkare)
     - Integrerade rännor i lamellerna även i vinklat läge (enligt tillverkare)
     alt: Harol Opera bioklimatisk lamellpergola monterad i utomhusmiljö
@@ -93,6 +94,7 @@ models:
     body: Horisontellt viktak där böjda dukprofiler ger dubbel vattenavrinning via integrerade rännor. Stommen levereras i 8 standardfärger och är dimensionerad för stolphöjder upp till 3 m samt stolpdimension 150 × 150 mm. Lättare estetik än lamell, mer markisliknande karaktär — en yta som kan göras stor utan modulgränser i synfältet.
     specs:
     - 'Maxstorlek: 5,5 × 7 m per fält'
+    - Beaufort 6 (48 km/h) med stängt tak (enligt tillverkare)
     - Vikduk helt öppningsbar mot fasaden (enligt tillverkare)
     - Standardduk PVC eller Soltis Opaque 622 (enligt tillverkare)
     alt: Harol Nomo vikdukspergola monterad mot fasad i utomhusmiljö
@@ -101,10 +103,9 @@ models:
     name: Versuz
     slug: harol-versuz
     type: Rullväv
-    body: Sluten kassett med ZIP-system håller väven spänd och skyddad — slankare uttryck när pergolan inte är i bruk. När den inte används rullas väven in i den slutna kassetten, vilket ger en tunnare profil mot fasaden än lamell- och vikdukspergolor. Smala profiler och alla RAL-färger ingår — passar fasader där pergolan inte ska dominera arkitekturen.
+    body: När den inte används rullas väven in i den slutna kassetten, vilket ger en tunnare profil mot fasaden än lamell- och vikdukspergolor. Smala profiler och alla RAL-färger ingår — passar fasader där pergolan inte ska dominera arkitekturen. Versuz skyddar mot sol men är inte byggd som regnskydd. För en uteplats som ska gå att använda när det regnar passar Brera, Opera eller Nomo bättre.
     specs:
-    - Max bredd 6 m, max fall 5 m per element
-    - ZIP-system håller väven spänd
+    - Max bredd 6 m, max utfall 5 m per element
     - Alla RAL-färger ingår i standardpris
     alt: Harol Versuz rullvävspergola med sluten kassett monterad mot fasad
     image: /images/pergola/harol-versuz.jpg
@@ -160,7 +161,7 @@ comparison:
   - maker: Harol
     name: Opera
     type: Lamelltak
-    size: 5,5 m bredd per modul; djup upp till 7 m (enligt tillverkare)
+    size: 5,5 m bredd per modul; djup upp till 6,2 m (enligt tillverkare)
     water: Integrerade rännor i lamellerna
     bestFor: Större ytor — kopplas i bredd och djup
     image: /images/pergola/harol-opera.jpg
@@ -169,7 +170,7 @@ comparison:
     name: Versuz
     type: Rullväv
     size: 6 × 5 m per element
-    water: Sluten kassett när taget; regnfunktionsväv som tillval
+    water: Skyddar mot sol, inte byggd som regnskydd
     bestFor: Markisliknande lösning som rullas in när den inte används
     image: /images/pergola/harol-versuz.jpg
     alt: Harol Versuz rullvävspergola med sluten kassett monterad mot fasad
@@ -203,9 +204,9 @@ investment:
   - Mark- och fasadförhållanden påverkar montaget. En slät terrass med befintlig betongplatta är enklare än en trädäcksmontering som kräver djupare förankring. En tegelfasad i förband är annorlunda jobb mot en isolerad träfasad. Detta avgörs vid platsbesöket.
   closing: Vi räknar på ert projekt på plats — material, montage, eventuell el och bygglovskontakt — och lämnar en specificerad offert där varje post står för sig själv.
 warranty:
-  heading: Tre års garanti — och kontakten är lokal.
+  heading: Fem års garanti på Harol — och kontakten är lokal.
   paragraphs:
-  - Selts markiser har 7 års garanti och motorn 5 år. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar.
+  - Selts markiser har 7 års garanti och motorn 5 år. Harols pergolor har 5 års garanti. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar.
   - Harol är en belgisk tillverkare av utvändigt solskydd som har lamell-, vikduks- och rullvävssystem konstruerade för nordeuropeiskt klimat.
 faqHeading: Det vi får frågor om innan platsbesöket.
 faqs:

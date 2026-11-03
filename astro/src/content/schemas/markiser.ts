@@ -20,8 +20,8 @@ export const heroSchema = z.object({
   h1: z.string(),
   intro: z.string(),
   primaryCta: linkSchema,
-  secondaryCta: linkSchema,
-  badges: z.array(z.string()),
+  secondaryCta: linkSchema.optional(),
+  badges: z.array(z.string()).optional(),
 });
 
 export const tldrSchema = z.object({ eyebrow: z.string(), items: z.array(z.string()) });
@@ -56,25 +56,38 @@ export const finalCtaSchema = z.object({
   cta: linkSchema,
 });
 
+/** Model card on /markiser-malmo/ (maker label above model name; image null = placeholder) */
+export const modelCardSchema = z.object({
+  maker: z.string(),
+  name: z.string(),
+  type: z.string(),
+  body: z.string(),
+  specs: z.array(z.string()),
+  alt: z.string(),
+  image: z.string().nullable(),
+  /** Intended image path while `image` is null */
+  plannedImage: z.string().optional(),
+});
+
 export const markiserSchema = baseSchema.extend({
   template: z.literal("markiser"),
   hero: heroSchema,
-  tldr: tldrSchema,
-  types: z.object({
-    eyebrow: z.string().optional(),
+  answerBox: z.string(),
+  /** Visible "last updated" line under the AnswerBox */
+  updatedLabel: z.string(),
+  /** Four lines; `label` is the section's aria-label (no visible label) */
+  tldr: z.object({ label: z.string(), items: z.array(z.string()) }),
+  featured: z.object({ heading: z.string(), intro: z.string(), model: modelCardSchema }),
+  alternatives: z.object({ heading: z.string(), intro: z.string(), models: z.array(modelCardSchema) }),
+  comparison: z.object({
     heading: z.string(),
     intro: z.string(),
-    items: z.array(
-      z.object({
-        heading: z.string(),
-        /** HTML paragraphs */
-        paragraphs: z.array(z.string()),
-        link: linkSchema,
-      })
-    ),
+    columns: z.array(z.string()),
+    rows: z.array(z.array(z.string())),
+    footnote: z.string(),
   }),
-  pergola: splitSectionSchema,
-  method: splitSectionSchema,
+  otherProducts: textSectionSchema,
+  process: textSectionSchema,
   price: textSectionSchema,
   warranty: textSectionSchema,
   faq: faqSectionSchema,

@@ -18,7 +18,6 @@ export const navUtvandigt: NavItem[] = [
     label: "Markiser",
     href: "/markiser-malmo/",
     children: [
-      { label: "Terrassmarkiser", href: "/terrassmarkiser-malmo/" },
       { label: "Fönstermarkiser", href: "/fonstermarkiser-malmo/" },
     ],
   },
