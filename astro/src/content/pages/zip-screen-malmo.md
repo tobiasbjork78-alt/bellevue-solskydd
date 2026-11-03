@@ -86,8 +86,8 @@ harol:
     extraNote:
       kind: begransning
       text: Variantvalet styr maxstorleken. Coolscreen 8 når 6 × 6 meter med vävyta 24 m², Coolscreen 8 Solar 5,6 × 3 meter. Coolscreen 7 är linstyrd — och tål mindre vind eftersom väven inte är blixtlås-låst. Den används främst där hörn- eller smal-fönsterprofil utesluter zip-mekaniken.
-    alt: Harol Coolscreen utvändig zip-screen monterad på fasad
-    image: /images/zip-screen/harol-coolscreen.webp
+    alt: Harol Coolscreen 8 nedfälld framför tre fönster på en tegelfasad
+    image: /images/zip-screen/coolscreen.webp
 selt:
   heading: Selt — polsk zip-screen-specialist.
   paragraphs:
@@ -106,8 +106,8 @@ selt:
     - Tvådelade sidoskenor med kompensationstätningar
     - RAL-kulörer utan pristillägg
     passarDigOm: Passar dig om fasaden är ojämn eller har avvikelser där en helt mörkläggande zip-screen behövs, och bredden ligger inom 7 meter per enhet.
-    alt: Selt Refleksol R 120 ZiiiP zip-screen monterad på fasad
-    image: /images/zip-screen/selt-r-120-ziiip.webp
+    alt: Selt Refleksol R 120 ZiiiP, frilagd produktbild med väven delvis nedfälld
+    image: /images/zip-screen/r-120-ziiip.webp
   - maker: Selt
     name: Refleksol R 95 ZiiiP
     slug: selt-r-ziiip-95

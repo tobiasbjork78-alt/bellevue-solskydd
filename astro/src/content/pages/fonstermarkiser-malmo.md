@@ -59,9 +59,8 @@ models:
         - "Maxbredd 5,0 m per enhet (verifierat enligt tillverkare och datablad)"
         - "Ca 150 vävmönster i kollektionen (verifierat enligt flera källor)"
         - "Sluten box som skyddar väven vid infällt läge (enligt tillverkare)"
-      alt: "Selt Italia Box fönstermarkis kassett monterad över fönster"
-      image: null
-      plannedImage: "/images/markiser/selt-italia-box.jpg"
+      alt: "Selt Italia Box fönstermarkis med kassett nedfälld över en altandörr på en putsad villa"
+      image: "/images/fonstermarkiser/italia-box.webp"
     - maker: "Selt"
       name: "Italia"
       slug: "selt-italia"
@@ -83,9 +82,8 @@ models:
         - "Fallarmsmarkis med integrerad kassett (verifierat enligt leverantör som kategori)"
         - "Levereras med eller utan motor — Somfy-styrning som vanligt val (enligt leverantör)"
         - "Seriekoppling möjlig för längre fönsterpartier (enligt leverantör)"
-      alt: "Fönstermiljö Sofiero fönstermarkis fallarm med kassett"
-      image: null
-      plannedImage: "/images/markiser/fonstermiljo-sofiero.jpg"
+      alt: "Fönstermiljö Sofiero fallarmsmarkis med randig väv nedfälld över ett glasparti på en putsad villa"
+      image: "/images/fonstermarkiser/sofiero.webp"
     - maker: "Fönstermiljö"
       name: "Solliden"
       slug: "fonstermiljo-solliden"
@@ -95,9 +93,8 @@ models:
         - "Fallarmsmarkis utan kassett (verifierat enligt leverantör som kategori)"
         - "Levereras även som balkongversion med räckesinfästning (enligt leverantör)"
         - "Seriekoppling möjlig för fönsterpartier (enligt leverantör)"
-      alt: "Fönstermiljö Solliden fönstermarkis fallarm på fasad och balkong"
-      image: null
-      plannedImage: "/images/markiser/fonstermiljo-solliden.jpg"
+      alt: "Fönstermiljö Solliden fallarmsmarkis utan kassett, närbild på valsen och väven mot vit bakgrund"
+      image: "/images/fonstermarkiser/solliden.webp"
 otherModels:
   heading: "Övriga fönstermarkiser i sortimentet."
   intro: "Modeller där kategorin är verifierad mot flera källor men dimensions­data kommer från en enskild leverantörskälla. Listade utan siffror; faktiska mått kontrollerar vi inför offert."
