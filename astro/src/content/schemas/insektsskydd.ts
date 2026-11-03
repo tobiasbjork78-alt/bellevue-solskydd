@@ -1,11 +1,11 @@
 // Template "insektsskydd" (/insektsskydd-malmo/).
 import { z } from "astro/zod";
 import { baseSchema } from "./base";
+import { processStepsSchema, guaranteeTilesSchema } from "./sections";
 import {
   heroSchema,
   tldrSchema,
   splitSectionSchema,
-  textSectionSchema,
   faqSectionSchema,
   finalCtaSchema,
 } from "./markiser";
@@ -21,8 +21,8 @@ export const insektsskyddSchema = baseSchema.extend({
     intro: z.string(),
     items: z.array(z.object({ title: z.string(), body: z.string() })),
   }),
-  craft: splitSectionSchema,
-  warranty: textSectionSchema,
+  craft: processStepsSchema,
+  warranty: guaranteeTilesSchema,
   faq: faqSectionSchema,
   finalCta: finalCtaSchema,
 });

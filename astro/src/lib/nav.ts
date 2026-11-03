@@ -14,14 +14,9 @@ export const navInvandigt: NavItem[] = [
 ];
 
 export const navUtvandigt: NavItem[] = [
-  {
-    label: "Markiser",
-    href: "/markiser-malmo/",
-    children: [
-      { label: "Fönstermarkiser", href: "/fonstermarkiser-malmo/" },
-    ],
-  },
-  { label: "Zip Screen", href: "/zip-screen-malmo/" },
+  { label: "Terrassmarkiser", href: "/markiser-malmo/" },
+  { label: "Fönstermarkiser", href: "/fonstermarkiser-malmo/" },
+  { label: "Zip screen", href: "/zip-screen-malmo/" },
   { label: "Pergola", href: "/pergola-malmo/" },
   { label: "Insektsskydd", href: "/insektsskydd-malmo/" },
 ];

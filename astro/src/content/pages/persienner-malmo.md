@@ -36,6 +36,26 @@ faqs:
 cta:
   heading: "Boka kostnadsfritt hembesök för persienner."
   body: "Vi mäter på plats, visar färgprover och föreslår modell utifrån fönstret — frihängande eller mellanglas. Hembesök, mätning och offert är gratis i hela södra Skåne."
+tail:
+  - kind: costFactors
+    heading: "Pris och vad som påverkar det"
+    intro: "Modellvalet ger den största prisspännvidden."
+    factors:
+      - { name: "Modell", text: "Klassisk är basnivån och Klassisk LV ligger något över." }
+      - { name: "Mellanglas och Elegant", text: "Mellanglas är typiskt dyrast. Elegant har egen prisbild med dolda beslag." }
+      - { name: "Storlek", text: "Lamellantal och linans längd skalar med fönsterhöjden." }
+      - { name: "Tillval", text: "Magneter och sidoskenor läggs till per fönster." }
+    chips: ["Pris efter mätning på plats"]
+  - kind: prose
+    heading: "Montering och skötsel"
+    html: "<p>Vi monterar i tak, på vägg, på karm, på fönsterbåge eller mellan glasen — beroende på modell och fönstertyp. Mätningen sker på plats vid hembesöket och vi bedömer själva vilken monteringstyp som ger bäst resultat utifrån fönstrets förutsättningar.</p><p>Aluminium är ett av de mest underhållsfria materialen i sortimentet. Damma av lamellerna i stängd position med en mjuk trasa eller en plym; aluminium tål en lätt fuktig trasa om det krävs. Mellanglasmodellen kräver inget underhåll alls — lamellerna är inkapslade i glaset.</p>"
+  - kind: crossLinks
+    heading: "Persienner jämfört med andra invändiga val"
+    intro: "En persienn ger stegvis ljuskontroll, och aluminium tål fukt och fett."
+    items:
+      - { name: "Rullgardin", text: "Enklast och stramast yta. Blackout för sovrum, screen för skärmarbete.", href: "/rullgardiner-malmo/" }
+      - { name: "Plissé", text: "Isolering och tvåvägsjustering där insyn styrs separat från ljus.", href: "/plissegardiner-malmo/" }
+      - { name: "Lamellgardin", text: "Glaspartier över tre meter och fönster med altandörr.", href: "/lamellgardiner-malmo/" }
 ---
 
 ## När persienner är rätt val
@@ -153,38 +173,3 @@ ofta.
 vid mörkläggning. Finns i vit och brun. Användbart i
 sovrum och hemmakontor med projektor där sidoljuset annars
 läcker in.
-
-## Pris och vad som påverkar det
-
-Modellvalet ger den största prisspännvidden. Klassisk är
-basnivån, Klassisk LV ligger något över på grund av
-överlistsmekaniken, och Mellanglas är typiskt dyrast eftersom
-monteringen i fönsterbågen är specialiserad. Elegant har sin
-egen prisbild som designmodell med dolda beslag. Storleken
-kommer som sekundär faktor — lamellantal och linans längd
-skalar med fönsterhöjden. Tillval som magneter och sidoskenor
-läggs till per fönster. Vi mäter på plats, så får ni siffran
-innan ni bestämmer.
-
-## Montering och skötsel
-
-Vi monterar i tak, på vägg, på karm, på fönsterbåge eller
-mellan glasen — beroende på modell och fönstertyp. Mätningen
-sker på plats vid hembesöket och vi bedömer själva vilken
-monteringstyp som ger bäst resultat utifrån fönstrets
-förutsättningar.
-
-Aluminium är ett av de mest underhållsfria materialen i
-sortimentet. Damma av lamellerna i stängd position med en
-mjuk trasa eller en plym; aluminium tål en lätt fuktig trasa
-om det krävs. Mellanglasmodellen kräver inget underhåll alls
-— lamellerna är inkapslade i glaset.
-
-## Persienner jämfört med andra invändiga val
-
-- **Persienn** — stegvis ljuskontroll. Aluminium tål fukt och fett.
-- **[Rullgardin](/rullgardiner-malmo/)** — enklast och stramast yta. Blackout för sovrum, screen för
-  skärmarbete.
-- **[Plissé](/plissegardiner-malmo/)** — bäst för isolering och tvåvägsjustering där insyn behöver
-  styras separat från ljus.
-- **[Lamellgardin](/lamellgardiner-malmo/)** — för glaspartier över tre meter och fönster med altandörr.

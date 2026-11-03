@@ -2,13 +2,13 @@
 twitterCard: summary_large_image
 robots: "index, follow"
 template: "markiser"
-title: "Markiser Malmö – Selt och Harol, 7 års garanti på Selt"
-description: "Markiser i Malmö från Selt och Harol. Nio av tio vi monterar är Selt Palladio. 7 års garanti på Selt och 5 år på motorn, 5 år på Harol. Egna montörer."
+title: "Markiser och terrassmarkiser i Malmö | Bellevue Solskydd"
+description: "Terrassmarkis i Malmö från Selt och Harol. Vi mäter din uteplats vid ett kostnadsfritt hembesök och monterar markisen med egna montörer."
 updated: 2026-11-02
 sitemap: { priority: 0.9, changefreq: "monthly" }
 schemaBreadcrumbs:
   - { name: "Hem", url: "/" }
-  - { name: "Markiser Malmö", url: "/markiser-malmo/" }
+  - { name: "Terrassmarkiser", url: "/markiser-malmo/" }
 schema:
   - type: "service"
     name: "Markiser Malmö"
@@ -25,11 +25,11 @@ hero:
   watermark: "Markiser"
   crumbs:
     - { name: "Hem", url: "/" }
-    - { name: "Markiser Malmö" }
-  h1: "Markiser i Malmö, måttagna och monterade på din fasad"
+    - { name: "Terrassmarkiser" }
+  h1: "Terrassmarkiser i Malmö"
   intro: "Vi monterar terrassmarkiser från Selt och Harol, och nio av tio blir en Selt Palladio. Vilken modell och vilket mått din uteplats behöver tar vi reda på vid hembesöket."
   primaryCta: { label: "Boka platsbesök", href: "/kontakt/" }
-answerBox: "Bellevue Solskydd mäter och monterar markiser i Malmö och södra Skåne. Nio av tio markiser vi monterar är Selt Palladio, och resten är främst Selt Jamaica, Harol Cadiz och Harol Tucan. Selts markiser har 7 års garanti och motorn 5 år, medan Harols markiser har 5 års garanti. Egna montörer gör jobbet, och modellen bestäms vid ett hembesök där vi mäter fasaden och uteplatsen."
+answerBox: "Bellevue Solskydd mäter och monterar terrassmarkiser i Malmö och södra Skåne, och nio av tio markiser vi monterar är Selt Palladio. Resten är främst Selt Jamaica, Harol Cadiz och Harol Tucan. Selts markiser har 7 års garanti och motorn 5 år, medan Harols markiser har 5 års garanti. Egna montörer gör jobbet, och modellen bestäms vid ett hembesök där vi mäter fasaden och uteplatsen."
 updatedLabel: "Senast uppdaterad 2 november 2026"
 tldr:
   label: "I korthet"
@@ -123,30 +123,34 @@ comparison:
   footnote: "Vi bekräftar mått vid hembesöket."
 otherProducts:
   heading: "När fönstermarkis, zip screen eller pergola passar bättre"
-  paragraphs:
-    - 'En <a href="/fonstermarkiser-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">fönstermarkis</a> sitter över ett enskilt fönster och skuggar glaset, så den passar när problemet är värmen inne i rummet.'
-    - 'En <a href="/zip-screen-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">zip screen</a> är en vertikal duk som löper i sidoskenor framför ett glasparti eller längs en fasad. En <a href="/pergola-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">pergola</a> har ett tak som står kvar ute året om och blir ett rum utanför huset.'
+  items:
+    - { name: "Fönstermarkis", text: "Skuggar glaset över ett enskilt fönster när värmen inne är problemet.", href: "/fonstermarkiser-malmo/" }
+    - { name: "Zip screen", text: "Vertikal duk i sidoskenor framför ett glasparti eller längs en fasad.", href: "/zip-screen-malmo/" }
+    - { name: "Pergola", text: "Tak som står kvar ute året om, ett rum utanför huset.", href: "/pergola-malmo/" }
 process:
   heading: "Från hembesök till färdig markis på fasaden"
-  paragraphs:
-    - "Varje markis börjar med ett hembesök där vi mäter bredd och utfall mot den yta som ska ligga i skugga. Vi tittar på var solen står under eftermiddagen och hur mycket vind platsen tar."
-    - "Fasaden avgör infästningen. Tegel, puts, trä och isolerade väggar kräver olika fästen, och vi kontrollerar att väggen bär markisen när den är utfälld."
-    - "Ska markisen ha motor behövs ström vid infästningen. Var kabeln ska dras bestämmer vi vid besöket, så att det är klart före montaget."
-    - "Montaget görs av våra egna montörer. När markisen sitter uppe kör vi ut och in den tillsammans med dig och går igenom styrningen."
+  steps:
+    - { title: "Hembesök", text: "Vi mäter bredd och utfall och tittar på sol och vind." }
+    - { title: "Fasad och infästning", text: "Vi väljer fästen efter fasaden och kontrollerar att väggen bär markisen." }
+    - { title: "Ström till motorn", text: "Ska markisen ha motor bestämmer vi vid besöket var kabeln dras." }
+    - { title: "Montage", text: "Egna montörer sätter upp terrassmarkisen och går igenom styrningen med dig." }
 price:
   heading: "Det här avgör vad din markis kostar"
-  paragraphs:
-    - "Bredden påverkar priset på en markis först, eftersom väv, rör och frontprofil blir längre för varje meter."
-    - "Utfallet kommer därefter. Längre utfall kräver längre armar och mer väv."
-    - "Sedan valet mellan motor och vev. Motor kostar mer än vev och gör att markisen kan styras med fjärrkontroll eller automatik."
-    - "Väven påverkar priset genom kvalitet och färg. Tillval som vindautomatik, belysning eller värme läggs till ovanpå."
-    - "Fasaden avgör hur mycket arbete montaget kräver. En markis på första våningen i puts går snabbare att sätta upp än en på tredje våningen i tegel."
-  closing: "ROT-avdraget gäller arbetskostnaden för montaget. Offerten tar vi fram efter hembesöket."
+  factors:
+    - { name: "Bredd", text: "Väv, rör och frontprofil blir längre för varje meter." }
+    - { name: "Utfall", text: "Längre utfall kräver längre armar och mer väv." }
+    - { name: "Motor eller vev", text: "Motor kostar mer och ger fjärrkontroll eller automatik." }
+    - { name: "Väv", text: "Kvalitet och färg påverkar priset." }
+    - { name: "Tillval", text: "Vindautomatik, belysning eller värme läggs till ovanpå." }
+    - { name: "Fasad och montage", text: "Våning och fasadmaterial avgör hur mycket arbete montaget kräver." }
+  chips: ["ROT-avdrag på arbetskostnaden för montaget", "Offert efter hembesöket"]
 warranty:
   heading: "Garanti på Selt och Harol, service från egna montörer"
-  paragraphs:
-    - "Selts markiser, Palladio, Jamaica, Dakar och Corsica, har 7 års garanti på markisen och 5 år på motorn. Harols markiser, Cadiz och Tucan, har 5 års garanti."
-    - "Service och reservdelar går genom oss. Ringer du om markisen når du samma företag som monterade den, och det är våra egna montörer som kommer ut."
+  tiles:
+    - { value: "7 år", label: "Selts markiser: Palladio, Jamaica, Dakar och Corsica" }
+    - { value: "5 år", label: "Motorn på Selts markiser" }
+    - { value: "5 år", label: "Harols markiser: Cadiz och Tucan" }
+  service: "Service och reservdelar går genom oss, och det är våra egna montörer som kommer ut."
 faq:
   heading: "Frågor om terrassmarkiser från Selt och Harol"
   items:
@@ -168,7 +172,7 @@ faq:
       answer: "Priset beror på bredd, utfall, om markisen ska ha motor eller vev, vilken väv du väljer, tillval som vindautomatik och hur fasaden ser ut. Därför lämnar vi pris först efter hembesöket, när måtten är tagna. ROT-avdraget gäller arbetskostnaden för montaget, och hembesöket och offerten kostar ingenting."
 finalCta:
   headingLine1: "Vi mäter din uteplats"
-  headingLine2: "och föreslår en markis."
+  headingLine2: "och föreslår en terrassmarkis."
   body: "Hembesöket och offerten är kostnadsfria. Mått och vävprover tar vi fram på plats, mot din fasad."
   cta: { label: "Boka platsbesök", href: "/kontakt/" }
 ---

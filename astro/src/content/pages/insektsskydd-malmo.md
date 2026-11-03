@@ -58,14 +58,16 @@ types:
       body: "Takfönster är notoriskt svåra att täcka — fönsterkarmen är ofta sluttande och tillgången är begränsad. Lösningen är ett anpassat nät för respektive takfönsterfabrikat (Velux, Roto eller motsvarande), med spårinfästning som följer karmens form. Vi mäter mot er specifika takfönsterprofil vid hembesöket."
 craft:
   heading: "Måttning och montering på plats."
-  paragraphs:
-    - "Vi kommer hem, mäter varje öppning vi ska skydda, och noterar fönsterfabrikat och dörrtyp. För takfönster kontrollerar vi karmens lutning och eventuella spår som lösningen ska följa. För altandörrar går vi igenom tröskeln och om plissédörren ska monteras inom eller utanpå karmen."
-    - "Vid offert anges lösningstyp per öppning så ni ser vilket fönster eller dörr som får vilket utförande. Monteringen sker när näten levererats — typiskt en halvdag till en hel dag beroende på antal öppningar och om vi behöver justera karmpartier eller dra rejäla spår."
+  steps:
+    - { title: "Hembesök", text: "Vi mäter varje öppning och noterar fönsterfabrikat och dörrtyp." }
+    - { title: "Takfönster och altandörrar", text: "Vi kontrollerar karmens lutning, tröskeln och hur plissédörren ska sitta." }
+    - { title: "Offert per öppning", text: "Du ser vilket utförande varje fönster och dörr får." }
+    - { title: "Montering", text: "Efter leverans, typiskt en halvdag till en hel dag." }
 warranty:
   heading: "Tre års garanti och lokal service."
-  paragraphs:
-    - "Tre års garanti på utvändigt monterat solskydd och insektsskydd. Skulle något inte fungera — nätet glappar, fjädern slutar dra in, rullen kärvar — kommer vi ut och åtgärdar utan diskussion."
-    - "Service och reservdelar går genom oss. Om en plissénätdörr behöver ett nytt nät tio år senare är det fortfarande oss ni ringer — vi monterar med egna montörer och håller koll på er installation. Vi täcker Malmö, Staffanstorp, Lund, Vellinge, Trelleborg, Lomma, Kävlinge och Svedala."
+  tiles:
+    - { value: "3 år", label: "Utvändigt monterat solskydd och insektsskydd" }
+  service: "Service och reservdelar går genom oss, och om något inte fungerar kommer vi ut och åtgärdar."
 faq:
   heading: "Frågor om insektsskydd."
   items:

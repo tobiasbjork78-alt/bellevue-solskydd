@@ -1,0 +1,24 @@
+---
+// "Det här avgör vad … kostar": 4–6 numbered factor boxes, optional chip row. No icons, no prices.
+import SectionHeading from "./SectionHeading.astro";
+import type { CostFactorsData } from "../../content/schemas/sections";
+interface Props { section: CostFactorsData; divider?: boolean }
+const { section, divider } = Astro.props;
+---
+<SectionHeading heading={section.heading} intro={section.intro} divider={divider} />
+<ul class="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 list-none p-0" role="list">
+  {section.factors.map((factor, i) => (
+    <li class="rounded-soft border border-brand-linen bg-white px-6 py-6">
+      <span aria-hidden="true" class="block font-display text-2xl text-brand-brass leading-none">{String(i + 1).padStart(2, "0")}</span>
+      <p class="mt-4 font-display text-xl text-ink leading-tight">{factor.name}</p>
+      <p class="mt-2 body-copy text-ink-soft">{factor.text}</p>
+    </li>
+  ))}
+</ul>
+{section.chips && section.chips.length > 0 && (
+  <ul class="mt-6 flex flex-wrap gap-2 list-none p-0" role="list">
+    {section.chips.map((chip) => (
+      <li class="rounded-full border border-brand-green/30 px-4 py-1.5 text-sm text-brand-green">{chip}</li>
+    ))}
+  </ul>
+)}

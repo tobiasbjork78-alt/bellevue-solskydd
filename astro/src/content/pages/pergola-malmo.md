@@ -192,22 +192,26 @@ comparison:
     alt: Tarasola Technic View skjutbart lamelltak monterat i utomhusmiljö
 craft:
   heading: Hantverket bakom konstruktionen.
-  paragraphs:
-  - Pergolan är en byggnadsdel, inte en hyllvara — och därför behöver den måttas och dimensioneras på plats. Vid första besöket inspekterar vi marken eller terrassen, mäter avstånd till fasad och fönster, kontrollerar takhöjdsutrymme och dokumenterar väderstreck och vindexponering. Vid väggmontering inspekteras infästningar så att fasadens bärande del — inte putsen, inte isoleringen — håller konstruktionen.
-  - Monteringen sker med våra egna montörer, inte underentreprenörer. Stolpar förankras i betongplint, mark eller terrass beroende på underlag; balkar och tak monteras modul för modul; motorer, sensorer och eventuella tillval — LED, värme, screens — kopplas in och funktionstestas innan vi går. Pergolan lämnas i drift samma dag.
+  intro: Pergolan är en byggnadsdel, inte en hyllvara, och därför måttas och dimensioneras den på plats.
+  steps:
+    - { title: "Platsbesök", text: "Vi mäter mot fasad och fönster, kontrollerar takhöjd och noterar väderstreck." }
+    - { title: "Infästning", text: "Vid väggmontering bär fasadens bärande del konstruktionen, inte putsen." }
+    - { title: "Montering", text: "Egna montörer förankrar stolparna och monterar balkar och tak modul för modul." }
+    - { title: "Funktionstest", text: "Motorer, sensorer och tillval testas. Pergolan lämnas i drift samma dag." }
 investment:
   heading: Spannet — och vad som styr det.
-  paragraphs:
-  - Pergola är en investering där storlek är den första variabeln. En 3 × 3 m-pergola är en annan ekonomisk övning än en 5 × 7 m som täcker hela uteplatsen — både materialmängd, antal lameller eller vävmeter och arbetstiden för montering skalar med ytan.
-  - Modellvalet kommer därefter. Lamelltak är typiskt mer investeringstung än vikduk eller rullväv, eftersom lamellsystem, motorisering och integrerad vattenavrinning är mer komplexa komponenter. Vävmodeller landar lägre i grundutförande men avancerar snabbt med tillvalskedjan.
-  - 'Tillvalen står för en betydande del av slutsumman: ZIP screen-sidor, glaspartier, integrerad LED, infravärme, regn- och vindsensorer, motoriserad styrning från smartphone. Färgval i RAL utöver standardfärgerna är inkluderat hos vissa modeller, tillägg hos andra.'
-  - Mark- och fasadförhållanden påverkar montaget. En slät terrass med befintlig betongplatta är enklare än en trädäcksmontering som kräver djupare förankring. En tegelfasad i förband är annorlunda jobb mot en isolerad träfasad. Detta avgörs vid platsbesöket.
-  closing: Vi räknar på ert projekt på plats — material, montage, eventuell el och bygglovskontakt — och lämnar en specificerad offert där varje post står för sig själv.
+  factors:
+    - { name: "Storlek", text: "Material, lameller eller vävmeter och montagetid skalar med ytan." }
+    - { name: "Modell", text: "Lamelltak är mer komplext och investeringstungt än vikduk eller rullväv." }
+    - { name: "Tillval", text: "ZIP screen-sidor, glaspartier, LED, infravärme, sensorer och styrning från smartphone." }
+    - { name: "Mark och fasad", text: "Underlag och fasadtyp avgör hur förankringen görs." }
+  chips: ["Specificerad offert efter platsbesöket"]
 warranty:
   heading: Fem års garanti på Harol — och kontakten är lokal.
-  paragraphs:
-  - Selts markiser har 7 års garanti och motorn 5 år. Harols pergolor har 5 års garanti. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar.
-  - Harol är en belgisk tillverkare av utvändigt solskydd som har lamell-, vikduks- och rullvävssystem konstruerade för nordeuropeiskt klimat.
+  tiles:
+    - { value: "5 år", label: "Harols pergolor" }
+    - { value: "3 år", label: "Övrigt utvändigt solskydd" }
+  service: "Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar."
 faqHeading: Det vi får frågor om innan platsbesöket.
 faqs:
 - question: Vad är en pergola?

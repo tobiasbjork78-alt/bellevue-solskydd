@@ -2,6 +2,7 @@
 import { z } from "astro/zod";
 import { baseSchema, faqItemSchema } from "./base";
 import { heroSchema, tldrSchema, proseBlockSchema, darkCtaSchema } from "./utvandigt-shared";
+import { processStepsSchema, costFactorsSchema, guaranteeTilesSchema } from "./sections";
 
 const modelSchema = z.object({
   maker: z.string(),
@@ -46,9 +47,9 @@ export const pergolaSchema = baseSchema.extend({
     }),
     rows: z.array(comparisonRowSchema),
   }),
-  craft: proseBlockSchema,
-  investment: proseBlockSchema.extend({ closing: z.string() }),
-  warranty: proseBlockSchema,
+  craft: processStepsSchema,
+  investment: costFactorsSchema,
+  warranty: guaranteeTilesSchema,
   faqEyebrow: z.string().optional(),
   faqHeading: z.string(),
   faqs: z.array(faqItemSchema),

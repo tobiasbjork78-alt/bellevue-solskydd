@@ -9,8 +9,10 @@ interface Props {
   band?: boolean;
 }
 const { faq, band = false } = Astro.props;
+// Two FAQ columns from 1024 px need a wider container
+const width = faq.items.length >= 6 ? "max-w-5xl" : "max-w-4xl";
 ---
-<Band band={band} container="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
+<Band band={band} container={`mx-auto ${width} px-6 lg:px-10 py-20 md:py-24`}>
   {faq.eyebrow && <Eyebrow>{faq.eyebrow}</Eyebrow>}
   <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", faq.eyebrow && "mt-4"]}>{faq.heading}</h2>
   <Divider class="mt-7 mb-2" />

@@ -1,11 +1,11 @@
 // Template "fonstermarkiser" (/fonstermarkiser-malmo/).
 import { z } from "astro/zod";
 import { baseSchema } from "./base";
+import { processStepsSchema, costFactorsSchema, guaranteeTilesSchema } from "./sections";
 import {
   heroSchema,
   tldrSchema,
   splitSectionSchema,
-  textSectionSchema,
   faqSectionSchema,
   finalCtaSchema,
 } from "./markiser";
@@ -42,9 +42,9 @@ export const fonstermarkiserSchema = baseSchema.extend({
     items: z.array(z.object({ maker: z.string(), name: z.string(), qualitative: z.string() })),
   }),
   contrast: splitSectionSchema,
-  process: splitSectionSchema,
-  investment: textSectionSchema,
-  warranty: textSectionSchema,
+  process: processStepsSchema,
+  investment: costFactorsSchema,
+  warranty: guaranteeTilesSchema,
   faq: faqSectionSchema,
   finalCta: finalCtaSchema,
 });

@@ -31,6 +31,29 @@ faqs:
 cta:
   heading: "Boka kostnadsfritt hembesök för rullgardiner."
   body: "Vi mäter på plats, visar vävprover och föreslår motorisering där det gör skillnad. Hembesök, mätning och offert är gratis — gäller hela södra Skåne."
+tail:
+  - kind: costFactors
+    heading: "Pris och vad som påverkar det"
+    intro: "Motorvalet är den enskilt största prisposten utöver storleken."
+    factors:
+      - { name: "Kulkedja", text: "Kostar inget extra utöver gardinen själv." }
+      - { name: "Batterimotor", text: "Motion eller Eve-Motion lägger till påtagligt per gardin." }
+      - { name: "230V-motor", text: "Kostar mer än batteri eftersom motor och elinstallation tillkommer." }
+      - { name: "Storlek", text: "Röret, 28, 35, 42 eller 50 mm, skalar med bredden." }
+      - { name: "Väv", text: "Screen ligger typiskt något över ljusfiltrerande." }
+      - { name: "Sidoskenor", text: "Tillval per gardin för mörkläggning." }
+    chips: ["Pris fönster för fönster"]
+  - kind: prose
+    heading: "Skötsel"
+    html: "<p>Slät vävyta är det enklaste underhållet av alla invändiga solskydd. Damma av med dammvippa eller torka av med en lätt fuktig trasa. Ingen tvättmaskin — vävens beläggning tål inte blötläggning. Punktrengöring fungerar på fläckar.</p>"
+  - kind: crossLinks
+    heading: "Rullgardin i kombination — eller helt själv"
+    intro: "Rullgardin fungerar väl på egen hand och kombinerar lika väl med andra solskydd."
+    items:
+      - { name: "Zip screen", text: "Utvändigt ihop med rullgardinen ger maximal värmereduktion i söder och väster.", href: "/zip-screen-malmo/" }
+      - { name: "Mellanglaspersienn", text: "Stegvis ljuskontroll när den behövs, rullgardinens enkelhet på dagen.", href: "/persienner-malmo/" }
+      - { name: "Lamellgardin", text: "Passar bättre för fönster över 4,5 meter.", href: "/lamellgardiner-malmo/" }
+      - { name: "Plissé", text: "Rätt val för tvåvägsjustering eller isolering.", href: "/plissegardiner-malmo/" }
 ---
 
 ## Det enklaste solskyddet — och ofta det bästa
@@ -91,21 +114,3 @@ Bluetooth-app, fjärrkontroll och smart hem via en separat Wi-Fi-brygga (Alexa, 
 Thread och Matter direkt — gardinen syns i Apple HomeKit, Google Home och Alexa utan extra brygga, så länge ni har en Thread Border Router i hemmet (Apple TV 4K, HomePod 2:a gen och nyare, Nest Hub 2:a gen, Amazon Echo 4:e gen). Enbart batteridrift.
 
 Båda familjerna har pull-funktion på batteridrift — ett mjukt ryck i underkanten startar rörelsen. Batteritiden ligger på cirka 8 månader och USB-laddning tar omkring 6 timmar.
-
-## Pris och vad som påverkar det
-
-Motorvalet är den enskilt största prisposten utöver storleken. Kulkedja kostar inget extra utöver gardinen själv; batteridriven Motion- eller Eve-Motion-motor lägger till påtagligt per gardin, och kabelbunden 230V-motor till bredare Maxi-installationer kostar mer än batteridrivna eftersom både motor och elinstallation tillkommer. Därefter följer storleken — röret (28, 35, 42 eller 50 mm) skalar med bredden — och vävvalet, där screen typiskt ligger något över ljusfiltrerande. Sidoskenor för mörkläggning är tillval per gardin. Ingen rullgardin är den andra lik prismässigt — vi räknar fönster för fönster.
-
-## Skötsel
-
-Slät vävyta är det enklaste underhållet av alla invändiga solskydd. Damma av med dammvippa eller torka av med en lätt fuktig trasa. Ingen tvättmaskin — vävens beläggning tål inte blötläggning. Punktrengöring fungerar på fläckar.
-
-## Rullgardin i kombination — eller helt själv
-
-Rullgardin fungerar väl på egen hand och kombinerar lika väl med andra solskydd där effekten behöver lyftas.
-
-- **Rullgardin invändigt + [zip screen](/zip-screen-malmo/) utvändigt** — maximal värmereduktion på söder- och västerlägen där eftermiddagssolen står hårt.
-- **Rullgardin + [mellanglaspersienn](/persienner-malmo/)** — rullgardinens enkelhet på dagen, persiennens stegvisa ljuskontroll när den behövs.
-- **Bara rullgardinen själv** — för cirka 80 procent av fönsterna räcker det.
-
-För fönster över 4,5 meter passar [lamellgardin](/lamellgardiner-malmo/) bättre, och för tvåvägsjustering eller isolering är [plissé](/plissegardiner-malmo/) rätt val.

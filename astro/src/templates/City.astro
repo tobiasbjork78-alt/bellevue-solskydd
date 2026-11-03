@@ -8,6 +8,7 @@ import AnswerBox from "../components/AnswerBox.astro";
 import FAQList from "../components/FAQList.astro";
 import ConsultationCTA from "../components/ConsultationCTA.astro";
 import Icon from "../components/Icon.astro";
+import ProcessSteps from "../components/sections/ProcessSteps.astro";
 import { buildSchema } from "../lib/page-schema";
 
 const { entry, path } = Astro.props;
@@ -47,21 +48,7 @@ const body = "body-copy text-ink-soft space-y-5 max-w-3xl";
       </section>
 
       <section class="mt-16">
-        <h2 class={h2}>{d.process.heading}</h2>
-        <div class={body}>
-          <p>{d.process.intro}</p>
-          <ol class="space-y-5 list-none mt-2">
-            {d.process.steps.map((step) => (
-              <li class="flex gap-5">
-                <span class="font-display text-2xl text-brand-brass tracking-tight w-12 shrink-0">{step.index}</span>
-                <div>
-                  <h3 class="font-medium text-ink mb-1">{step.title}</h3>
-                  <p class="body-copy text-ink-soft">{step.body}</p>
-                </div>
-              </li>
-            ))}
-          </ol>
-        </div>
+        <ProcessSteps section={d.process} divider={false} />
       </section>
 
       <div class="mt-20">

@@ -125,26 +125,28 @@ selt:
     image: /images/zip-screen/selt-r-ziiip-95.webp
 process:
   heading: Vägen från glaspartiet till rätt zip-screen.
-  paragraphs:
-  - Modellvalet börjar i fasaden, inte i sortimentet. Vid hembesöket mäter vi glaspartiets bredd och höjd, går igenom vindexponering och väderstreck, och kollar fasadens beskaffenhet — tegel, puts, isolerad yttervägg eller post-and-beam-system styr direkt hur kassetten ska fästas. Vi tittar också efter el-uttag inom räckhåll för motorn.
-  - Sen kommer vävvalet. Screenväv finns i olika öppningsgrad — en tätare väv ger bättre värmeskydd och mer privatliv, en glesare ger mer utsikt. Vi tar med vävprover och visar dem mot ert glas i dagsljus, inte mot en showroom-bakgrund. För sovrum eller hemmabio går vi rakt till blackout-väv.
-  - Slutligt val är situationsbundet och avgörs vid hembesöket. Eventuell el-dragning, integration med smart hem och vind-/solsensor specificeras i offerten — varje post står för sig själv.
+  steps:
+    - { title: "Hembesök", text: "Vi mäter glaspartiet och går igenom vind, väderstreck och fasad." }
+    - { title: "Infästning och el", text: "Fasaden styr hur kassetten fästs. Vi letar el-uttag för motorn." }
+    - { title: "Vävval", text: "Vi visar vävprover mot ditt glas i dagsljus." }
+    - { title: "Offert", text: "El, smart hem och sensorer specificeras var för sig i offerten." }
 investment:
   heading: Vad investeringen består av.
-  paragraphs:
-  - Glaspartiets storlek är den största variabeln. Höga och breda partier kräver kraftigare valsrör, större motor och kassetter i större format — materialmängden skalar med ytan, inte linjärt med bredden.
-  - Modellvalet kommer sen. Slim-varianter som Selt R 95 ZiiiP ligger lägre eftersom konstruktionen är kompaktare; större modeller som Harol Coolscreen 8 och Selt R 120 ZiiiP har högre material- och motorkostnad eftersom de byggs för att hålla större och tyngre vävmått stabila.
-  - Vävvalet står för en betydande del. En enkel polyester­screen med standardöppningsgrad ligger lägre än ett blackout-utförande eller en specialfärg utanför grundkollektionen. Harols 300+ RAL-kulörer tillkommer utan pristillägg, men premium­vävar från Dickson, Sattler och Swela tillkommer.
-  - Motor och styrning är alltid med — zip-screen är genomgående motoriserad. Vind- och solsensor lönar sig på exponerade fasader och förlänger livslängden genom automatisk infällning vid plötsligt väder. Smart hem-integration tillkommer beroende på system.
-  - Slutligen montaget och el-dragning. En slät putsfasad i normalvåning är ett rakare jobb än en infästning i tegelförband på tredje våningen, eller en bostadsrätts­fasad där vi arbetar från skylift. Saknas el-uttag inom räckhåll löser vi dragningen i samband med monteringen.
-  closing: Vi räknar på ert projekt på plats — material, motorisering, montage, eventuell el och styrelseunderlag — och lämnar en specificerad offert.
+  factors:
+    - { name: "Glaspartiets storlek", text: "Större ytor kräver kraftigare valsrör, större motor och större kassett." }
+    - { name: "Modell", text: "Kompakta R 95 ZiiiP ligger lägre än Coolscreen 8 och R 120." }
+    - { name: "Väv", text: "Blackout, specialfärger och premiumvävar kostar mer än standardscreen." }
+    - { name: "Motor och sensorer", text: "Motor ingår alltid. Vind- och solsensor lönar sig på utsatta fasader." }
+    - { name: "Montage och el", text: "Fasad, våningsplan och eventuell el-dragning avgör arbetet." }
+  chips: ["Specificerad offert efter hembesöket"]
 warranty:
   backgroundImage: /images/zip-screen/zip-screen-process-bg.webp
   heading: Garanti och lokal service.
-  paragraphs:
-  - Selts markiser har 7 års garanti och motorn 5 år. Harols Coolscreen har 5 års garanti. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar utan diskussion om vem som ska kallas in.
-  - Service och reservdelar går genom oss, inte tillbaka till fabrik. Vi monterar med egna montörer i Malmö, Lund, Vellinge, Trelleborg, Lomma, Kävlinge, Staffanstorp och Svedala — den som installerar är samma företag ni når om något krånglar tre år senare.
-  - Behöver fasaden mer än vertikalt solskydd ser vi ofta kombinationen <a href="/markiser-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">terrassmarkis över altanen</a> och zip-screen på glaspartierna — eller en bredare blick över hela <a href="/markiser-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">markissortimentet i Malmö</a> där fönster- och korgmarkiser också ingår.
+  tiles:
+    - { value: "5 år", label: "Harols Coolscreen" }
+    - { value: "7 år", label: "Selts markiser, motorn 5 år" }
+    - { value: "3 år", label: "Övrigt utvändigt solskydd" }
+  service: "Service och reservdelar går genom oss, och om något inte fungerar kommer vi ut och åtgärdar."
 faqHeading: Frågor inför installationen.
 faqs:
 - question: Hur stora glaspartier kan ni täcka med en zip-screen?

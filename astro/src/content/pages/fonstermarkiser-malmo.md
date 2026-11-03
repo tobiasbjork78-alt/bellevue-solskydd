@@ -116,25 +116,27 @@ contrast:
   link: { label: "Läs om terrassmarkiser för uteplatser", href: "/markiser-malmo/" }
 process:
   heading: "Så jobbar vi med fönstermarkiser."
-  paragraphs:
-    - "Hembesöket först. Vi mäter varje fönsterparti, fotograferar fasaden, noterar väderstreck, fasadens beskaffenhet och eventuell isolering eller fuktspärr som påverkar infästningen."
-    - "BRF-underlag tar vi fram efter besöket: föreslagen modell och kulör mot föreningens fasadlinje, en monterad bild som visar hur det kommer se ut. Det ni skickar till styrelsen ska vara komplett — vi har vana med vad föreningar i Malmö centralt typiskt vill ha med."
-    - "Vid godkänd offert beställer vi och bokar montering. Själva monteringen tar typiskt en halvdag per fönsterparti. Motor och styrning kalibreras på plats, och eventuell sensor riktas in efter solens väg över huset."
+  steps:
+    - { title: "Hembesök", text: "Vi mäter varje fönsterparti, fotograferar fasaden och noterar väderstreck och infästning." }
+    - { title: "BRF-underlag", text: "Föreslagen modell och kulör plus en bild att skicka till styrelsen." }
+    - { title: "Beställning", text: "Efter godkänd offert beställer vi och bokar montering." }
+    - { title: "Montering", text: "Typiskt en halvdag per fönsterparti. Motor och sensor ställs in på plats." }
 investment:
   heading: "Vad som styr kostnaden per fönster."
-  paragraphs:
-    - "Antalet fönstermarkiser är den första variabeln. En enskild markis över ett söderfönster är ett annat projekt än en hel fasad i en BRF — både material, arbete och styrningsupplägg skalar med antalet enheter."
-    - "Modelltypen kommer sen. Kassettmodell (Italia Box, Sofiero) ligger högre i grundpris än öppen fallarm (Italia, Solliden, Haga, Läckö) men kräver mindre underhåll och håller väven bättre över tid i kustklimat."
-    - "Motorisering är typiskt det första tillvalet vid fler än två markiser, eftersom daglig manuell hantering blir opraktisk. Sensorpaket — sol, vind, regn — lönar sig på fasader som är vindexponerade eller där markiserna ska drivas via tidsstyrning."
-    - "Vävvalet och kulören står för en betydande del. Båda leverantörerna har breda vävkollektioner; specialkulörer utöver standardpaletten tillkommer hos vissa modeller. I bostadsrätter måste valet ändå hålla sig inom föreningens fasadlinje."
-  closing: "Vi räknar på fönster för fönster — eller hela fasaden — på plats och lämnar en specificerad offert där varje markis står för sig själv."
+  factors:
+    - { name: "Antal markiser", text: "Material, arbete och styrning skalar med antalet enheter." }
+    - { name: "Modelltyp", text: "Kassett ligger högre än öppen fallarm men kräver mindre underhåll." }
+    - { name: "Motor", text: "Typiskt det första tillvalet vid fler än två markiser." }
+    - { name: "Sensorer", text: "Sol, vind och regn lönar sig på vindutsatta fasader." }
+    - { name: "Väv och kulör", text: "Specialkulörer utöver standardpaletten tillkommer hos vissa modeller." }
+  chips: ["Specificerad offert per markis"]
 warranty:
   heading: "Garanti och lokal kontaktpunkt."
-  paragraphs:
-    - "Selts markiser har 7 års garanti och motorn 5 år. Övrigt utvändigt solskydd har 3 års garanti. Skulle något inte fungera som det ska under garantitiden kommer vi ut och åtgärdar."
-    - "Service och reservdelar går via oss — inte tillbaka till fabrik. Vi monterar med egna montörer i hela Malmö-området och södra Skåne, vilket gör att samma företag som installerar också är det ni når om något krånglar tre år senare."
-    - >-
-      Om fönstermarkis inte är hela lösningen — kanske räcker en del av problemet att lösa utvändigt och resten med invändigt solskydd — kan ett bredare grepp över <a href="/markiser-malmo/" class="text-ink underline decoration-brand-brass underline-offset-[4px] hover:decoration-ink">hela markissortimentet i Malmö</a> vara nästa läsning.
+  tiles:
+    - { value: "7 år", label: "Selts markiser" }
+    - { value: "5 år", label: "Motorn på Selts markiser" }
+    - { value: "3 år", label: "Övrigt utvändigt solskydd" }
+  service: "Service och reservdelar går via oss, och om något inte fungerar kommer vi ut och åtgärdar."
 faq:
   heading: "Frågor om fönstermarkiser."
   items:

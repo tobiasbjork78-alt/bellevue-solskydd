@@ -2,6 +2,7 @@
 import { z } from "astro/zod";
 import { baseSchema, faqItemSchema } from "./base";
 import { heroSchema, tldrSchema, proseBlockSchema, darkCtaSchema } from "./utvandigt-shared";
+import { processStepsSchema, costFactorsSchema, guaranteeTilesSchema } from "./sections";
 
 const modelSchema = z.object({
   maker: z.string(),
@@ -27,9 +28,9 @@ export const zipScreenSchema = baseSchema.extend({
   usage: proseBlockSchema,
   harol: proseBlockSchema.extend({ models: z.array(modelSchema) }),
   selt: proseBlockSchema.extend({ models: z.array(modelSchema) }),
-  process: proseBlockSchema,
-  investment: proseBlockSchema.extend({ closing: z.string() }),
-  warranty: proseBlockSchema.extend({ backgroundImage: z.string() }),
+  process: processStepsSchema,
+  investment: costFactorsSchema,
+  warranty: guaranteeTilesSchema.extend({ backgroundImage: z.string() }),
   faqEyebrow: z.string().optional(),
   faqHeading: z.string(),
   faqs: z.array(faqItemSchema),

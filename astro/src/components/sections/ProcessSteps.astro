@@ -1,0 +1,18 @@
+---
+// "Från hembesök till …": 3–5 steps. Brass number under a thin brass line; 4 columns desktop, vertical list mobile.
+import SectionHeading from "./SectionHeading.astro";
+import type { ProcessStepsData } from "../../content/schemas/sections";
+interface Props { section: ProcessStepsData; divider?: boolean }
+const { section, divider } = Astro.props;
+const cols = section.steps.length === 3 ? "lg:grid-cols-3" : "lg:grid-cols-4";
+---
+<SectionHeading heading={section.heading} intro={section.intro} divider={divider} />
+<ol class:list={["mt-10 grid gap-8 lg:gap-10 list-none p-0", cols]} role="list">
+  {section.steps.map((step, i) => (
+    <li class="border-t border-brand-brass/60 pt-5">
+      <span aria-hidden="true" class="block font-display text-4xl md:text-5xl text-brand-brass leading-none tracking-tight">{String(i + 1).padStart(2, "0")}</span>
+      <h3 class="mt-4 font-medium text-ink">{step.title}</h3>
+      <p class="mt-2 body-copy text-ink-soft">{step.text}</p>
+    </li>
+  ))}
+</ol>

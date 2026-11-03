@@ -3,6 +3,7 @@
 // Strings marked HTML may contain inline <strong>/<span>/<a> exactly as in nextjs-v3.
 import { z } from "astro/zod";
 import { baseSchema, faqItemSchema } from "./base";
+import { crossLinkCardsSchema, processStepsSchema, costFactorsSchema, guaranteeTilesSchema } from "./sections";
 
 export const linkSchema = z.object({ label: z.string(), href: z.string() });
 
@@ -86,10 +87,10 @@ export const markiserSchema = baseSchema.extend({
     rows: z.array(z.array(z.string())),
     footnote: z.string(),
   }),
-  otherProducts: textSectionSchema,
-  process: textSectionSchema,
-  price: textSectionSchema,
-  warranty: textSectionSchema,
+  otherProducts: crossLinkCardsSchema,
+  process: processStepsSchema,
+  price: costFactorsSchema,
+  warranty: guaranteeTilesSchema,
   faq: faqSectionSchema,
   finalCta: finalCtaSchema,
 });

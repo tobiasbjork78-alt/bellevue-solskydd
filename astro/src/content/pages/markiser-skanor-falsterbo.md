@@ -26,12 +26,12 @@ overview:
   link: { href: "/markiser-malmo/", label: "Läs mer om markiser i Malmö och hela södra Skåne" }
 process:
   heading: "Så hjälper vi dig i Skanör-Falsterbo"
-  intro: "Vid hembesök inspekterar vi fasaden för korrosionsspår, befintliga fästpunkter och vindexponering. Premiumkomponenter är standard."
+  intro: "Vid hembesök inspekterar vi fasaden för korrosionsspår, befintliga fästpunkter och vindexponering."
   steps:
-    - { index: "01", title: "Vi bokar hembesök", body: "Du beskriver vad ni vill lösa. Vi bokar in ett tillfälle som passar och kör hem till er i Skanör-Falsterbo." }
-    - { index: "02", title: "Måttagning på plats", body: "Vi mäter alla fönster, går igenom väderstreck, väljer material och visar prover i ert ljus." }
-    - { index: "03", title: "Specificerad offert", body: "Pris per fönster eller produkt, med tydligt material- och tillvalsval. Inga klumpsummor." }
-    - { index: "04", title: "Egna montörer", body: "Vi monterar i Skanör-Falsterbo med våra egna montörer — ingen underentreprenör. Funktionstest och städning ingår." }
+    - { title: "Vi bokar hembesök", text: "Du beskriver vad du vill lösa, så kör vi hem till dig." }
+    - { title: "Måttagning på plats", text: "Vi mäter fönstren, går igenom väderstreck och visar prover i ditt ljus." }
+    - { title: "Specificerad offert", text: "Pris per fönster eller produkt, med material och tillval. Inga klumpsummor." }
+    - { title: "Egna montörer", text: "Ingen underentreprenör. Funktionstest och städning ingår." }
 faqHeading: "Frågor från Skanör-Falsterbo."
 faqs:
   - question: "Hur tål markiser saltvinden i Skanör, Falsterbo, Höllviken och Ljunghusen?"

@@ -8,6 +8,9 @@ import Divider from "../components/Divider.astro";
 import AnswerBox from "../components/AnswerBox.astro";
 import FAQList from "../components/FAQList.astro";
 import ConsultationCTA from "../components/ConsultationCTA.astro";
+import CrossLinkCards from "../components/sections/CrossLinkCards.astro";
+import ProcessSteps from "../components/sections/ProcessSteps.astro";
+import CostFactors from "../components/sections/CostFactors.astro";
 import { buildSchema } from "../lib/page-schema";
 
 const { entry, path } = Astro.props;
@@ -41,6 +44,23 @@ const HeadWrapper = isGuide ? "header" : "div";
       {d.answerBox && <AnswerBox html={d.answerBox} />}
 
       <Content />
+
+      {d.tail?.map((block) => (
+        <section class="mt-16">
+          {block.kind === "prose" ? (
+            <Fragment>
+              <h2 class="heading-section text-3xl md:text-4xl text-ink mb-6">{block.heading}</h2>
+              <div class="body-copy text-ink-soft space-y-5 max-w-3xl" set:html={block.html} />
+            </Fragment>
+          ) : block.kind === "crossLinks" ? (
+            <CrossLinkCards section={block} divider={false} />
+          ) : block.kind === "processSteps" ? (
+            <ProcessSteps section={block} divider={false} />
+          ) : (
+            <CostFactors section={block} divider={false} />
+          )}
+        </section>
+      ))}
 
       {d.faqs && d.faqs.length > 0 && (
         <div class="mt-20">

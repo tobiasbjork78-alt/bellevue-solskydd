@@ -6,7 +6,9 @@ import Divider from "../components/Divider.astro";
 import Hero from "../components/markiser/Hero.astro";
 import Tldr from "../components/markiser/Tldr.astro";
 import SplitSection from "../components/markiser/SplitSection.astro";
-import TextSection from "../components/markiser/TextSection.astro";
+import Band from "../components/markiser/Band.astro";
+import ProcessSteps from "../components/sections/ProcessSteps.astro";
+import GuaranteeTiles from "../components/sections/GuaranteeTiles.astro";
 import FaqSection from "../components/markiser/FaqSection.astro";
 import FinalCta from "../components/markiser/FinalCta.astro";
 import { buildSchema } from "../lib/page-schema";
@@ -44,8 +46,8 @@ const items = d.types.items;
       </div>
     </section>
 
-    <SplitSection section={d.craft} />
-    <TextSection section={d.warranty} band />
+    <Band container={"mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24"}><ProcessSteps section={d.craft} /></Band>
+    <Band band container={"mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24"}><GuaranteeTiles section={d.warranty} /></Band>
     <FaqSection faq={d.faq} />
     <FinalCta cta={d.finalCta} />
   </main>

@@ -1,0 +1,25 @@
+---
+// "När X, Y eller Z passar bättre": 2–4 cards. The whole card is one link (no nested links).
+import SectionHeading from "./SectionHeading.astro";
+import Icon from "../Icon.astro";
+import type { CrossLinkCardsData } from "../../content/schemas/sections";
+interface Props { section: CrossLinkCardsData; divider?: boolean }
+const { section, divider } = Astro.props;
+---
+<SectionHeading heading={section.heading} intro={section.intro} divider={divider} />
+<ul class="mt-10 grid gap-4 lg:grid-cols-3 list-none p-0" role="list">
+  {section.items.map((item) => (
+    <li class="flex">
+      <a
+        href={item.href}
+        class="group flex w-full flex-col rounded-soft border border-brand-linen bg-white px-6 py-6 transition-colors hover:border-brand-brass focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-green"
+      >
+        <span class="font-display text-2xl text-ink leading-tight">{item.name}</span>
+        <span class="mt-3 body-copy text-ink-soft">{item.text}</span>
+        <span aria-hidden="true" class="mt-auto pt-5 text-brand-brass transition-transform duration-300 ease-premium group-hover:translate-x-1">
+          <Icon name="arrow-right" size={18} />
+        </span>
+      </a>
+    </li>
+  ))}
+</ul>

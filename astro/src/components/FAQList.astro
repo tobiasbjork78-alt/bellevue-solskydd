@@ -9,28 +9,38 @@ interface Props {
   firstAnswerClass?: string;
 }
 const { faqs, answerClass, firstAnswerClass } = Astro.props;
+// 6 or more questions: two independent columns from 1024 px (first half left, second half right).
+// Mobile keeps the original order because the columns stack.
+const twoCols = faqs.length >= 6;
+const half = Math.ceil(faqs.length / 2);
+const columns = twoCols ? [faqs.slice(0, half), faqs.slice(half)] : [faqs];
 const iconBase = "flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-ink/15 text-ink transition-transform duration-500 ease-premium";
 const iconOpen = "rotate-45 bg-brand-green text-ink-inverse border-brand-green";
 ---
-<div data-faq-list>
-  {faqs.map((faq, index) => {
-    const open = index === 0;
-    return (
-      <div class="border-b border-ink/10" data-faq-item>
-        <h3 class="m-0 font-normal">
-          <button type="button" aria-expanded={open ? "true" : "false"} class="flex w-full items-center justify-between gap-6 py-6 text-left" data-faq-toggle>
-            <span class="heading-section text-xl md:text-2xl text-ink">{faq.question}</span>
-            <span aria-hidden="true" class:list={[iconBase, open && iconOpen]} data-faq-icon data-open-class={iconOpen}>
-              <Icon name="plus" size={16} />
-            </span>
-          </button>
-        </h3>
-        <div style={open ? "max-height:none" : "max-height:0px"} class="overflow-hidden transition-[max-height] duration-500 ease-premium" data-faq-panel>
-          <p class:list={["pb-6 pr-12 body-copy text-ink-soft", answerClass, index === 0 && firstAnswerClass]}>{faq.answer}</p>
-        </div>
-      </div>
-    );
-  })}
+<div data-faq-list class:list={[twoCols && "lg:grid lg:grid-cols-2 lg:gap-x-12"]}>
+  {columns.map((column, c) => (
+    <div>
+      {column.map((faq, i) => {
+        const index = c * half + i;
+        const open = index === 0;
+        return (
+          <div class="border-b border-ink/10" data-faq-item>
+            <h3 class="m-0 font-normal">
+              <button type="button" aria-expanded={open ? "true" : "false"} class="flex w-full items-center justify-between gap-6 py-6 text-left" data-faq-toggle>
+                <span class:list={["heading-section text-xl md:text-2xl text-ink", twoCols && "lg:text-xl"]}>{faq.question}</span>
+                <span aria-hidden="true" class:list={[iconBase, open && iconOpen]} data-faq-icon data-open-class={iconOpen}>
+                  <Icon name="plus" size={16} />
+                </span>
+              </button>
+            </h3>
+            <div style={open ? "max-height:none" : "max-height:0px"} class="overflow-hidden transition-[max-height] duration-500 ease-premium" data-faq-panel>
+              <p class:list={["pb-6 pr-12 body-copy text-ink-soft", answerClass, index === 0 && firstAnswerClass]}>{faq.answer}</p>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  ))}
 </div>
 
 <script>

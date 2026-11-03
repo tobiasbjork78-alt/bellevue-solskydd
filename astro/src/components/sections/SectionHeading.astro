@@ -1,0 +1,14 @@
+---
+// H2 + optional divider + optional one-sentence ingress, shared by the section components.
+import Divider from "../Divider.astro";
+interface Props {
+  heading: string;
+  intro?: string;
+  /** false on article pages, where body sections have no divider */
+  divider?: boolean;
+}
+const { heading, intro, divider = true } = Astro.props;
+---
+<h2 class="heading-section text-3xl md:text-4xl text-ink leading-tight">{heading}</h2>
+{divider && <Divider class="mt-7" />}
+{intro && <p class="mt-7 max-w-2xl body-copy text-ink-soft">{intro}</p>}

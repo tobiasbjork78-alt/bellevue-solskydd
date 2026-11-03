@@ -6,7 +6,11 @@ import Divider from "../components/Divider.astro";
 import AnswerBox from "../components/AnswerBox.astro";
 import Hero from "../components/markiser/Hero.astro";
 import ModelCard from "../components/markiser/ModelCard.astro";
-import TextSection from "../components/markiser/TextSection.astro";
+import Band from "../components/markiser/Band.astro";
+import CrossLinkCards from "../components/sections/CrossLinkCards.astro";
+import ProcessSteps from "../components/sections/ProcessSteps.astro";
+import CostFactors from "../components/sections/CostFactors.astro";
+import GuaranteeTiles from "../components/sections/GuaranteeTiles.astro";
 import FaqSection from "../components/markiser/FaqSection.astro";
 import FinalCta from "../components/markiser/FinalCta.astro";
 import { buildSchema } from "../lib/page-schema";
@@ -113,10 +117,10 @@ const sectionHeading = "heading-section text-3xl md:text-4xl text-ink leading-ti
       </div>
     </section>
 
-    <TextSection section={d.otherProducts} />
-    <TextSection section={d.process} band />
-    <TextSection section={d.price} />
-    <TextSection section={d.warranty} band />
+    <Band container={"mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24"}><CrossLinkCards section={d.otherProducts} /></Band>
+    <Band band container={"mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24"}><ProcessSteps section={d.process} /></Band>
+    <Band container={"mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24"}><CostFactors section={d.price} /></Band>
+    <Band band container={"mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24"}><GuaranteeTiles section={d.warranty} /></Band>
     <FaqSection faq={d.faq} />
     <FinalCta cta={d.finalCta} />
   </main>

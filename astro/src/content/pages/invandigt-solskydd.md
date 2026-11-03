@@ -28,6 +28,14 @@ faqs:
 cta:
   heading: "Boka kostnadsfritt hembesök."
   body: "Vi mäter på plats, visar vävprover i det ljus ni har, och offererar fönster för fönster. Hembesöket är gratis även om ni väljer att inte beställa — och täcker hela södra Skåne."
+tail:
+  - kind: processSteps
+    heading: "Så går det till"
+    steps:
+      - { title: "Boka hembesök", text: "Du väljer en tid, även kvällar och helger." }
+      - { title: "Mätbesök och rådgivning", text: "Vi mäter fönstren och visar vävprover i ditt eget ljus." }
+      - { title: "Specificerad offert", text: "Pris per fönster, väv, manövrering och leveranstid innan vi går." }
+      - { title: "Leverans och montering", text: "Vi monterar, går igenom skötsel och garanti och tar med förpackningarna." }
 ---
 
 ## Lokalt anpassat för Malmö och södra Skåne
@@ -81,7 +89,3 @@ Plissé tvåvägs med fukttålig väv (insynsskydd nedtill, ljus ovanifrån) ell
 ### Hemmakontor och kök
 
 Screen-rullgardin för bildskärmsplatser, persienn för kök med växlande ljusbehov, eller plissé för fönster där insynsskydd kombineras med dagsljus. Vid altandörrar mot uteplats är lamellgardin ofta den smidigaste lösningen.
-
-## Så går det till
-
-<ol class="space-y-5 list-none"><li class="flex gap-5"><span class="font-display text-2xl text-brand-brass tracking-tight w-12 shrink-0">01</span><div><h3 class="font-medium text-ink mb-1">Boka hembesök</h3><p class="body-copy text-ink-soft">Ni väljer en tid som funkar — kvällar och helger fungerar lika bra som vardagar. Vi kommer ut till adressen i Malmö, Lund, Staffanstorp, Vellinge, Lomma, Kävlinge, Trelleborg eller Skanör-Falsterbo.</p></div></li><li class="flex gap-5"><span class="font-display text-2xl text-brand-brass tracking-tight w-12 shrink-0">02</span><div><h3 class="font-medium text-ink mb-1">Mätbesök och rådgivning</h3><p class="body-copy text-ink-soft">Vi mäter fönstren, går igenom vävprover i det ljus ni faktiskt har, och pratar igenom vad ni vill att solskyddet ska lösa. Inga säljmöten — bara fakta och alternativ.</p></div></li><li class="flex gap-5"><span class="font-display text-2xl text-brand-brass tracking-tight w-12 shrink-0">03</span><div><h3 class="font-medium text-ink mb-1">Specificerad offert på plats</h3><p class="body-copy text-ink-soft">Innan vi går får ni en specificerad offert: pris per fönster, vald väv, manövrering, och leveranstid. Inga klumpsummor och inga dolda kostnader.</p></div></li><li class="flex gap-5"><span class="font-display text-2xl text-brand-brass tracking-tight w-12 shrink-0">04</span><div><h3 class="font-medium text-ink mb-1">Leverans och montering</h3><p class="body-copy text-ink-soft">När ni är redo beställer vi mått, levererar och monterar. Vi går igenom skötsel och garanti — och plockar med oss förpackningar och eventuellt det gamla solskyddet.</p></div></li></ol>

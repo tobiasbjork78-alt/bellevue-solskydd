@@ -31,6 +31,22 @@ faqs:
 cta:
   heading: "Boka kostnadsfritt hembesök för lamellgardiner."
   body: "Vi mäter på plats, visar lamell- och vävprover, och föreslår skenkonfiguration utifrån fönstret. Hembesök, mätning och offert är gratis — gäller hem, kontor och skolor i hela södra Skåne."
+tail:
+  - kind: costFactors
+    heading: "Pris och vad som påverkar det"
+    intro: "Bredden är dominerande prisfaktor för lamellgardin."
+    factors:
+      - { name: "Bredd", text: "Antalet lameller skalar linjärt med skenbredden." }
+      - { name: "Väv", text: "Flamskyddade vävar är dyrare än standard." }
+      - { name: "Motor", text: "Vinner ekonomiskt vid breda installationer eller flera gardiner." }
+      - { name: "Färg och lamellbredd", text: "Specialfärger och 89 eller 127 mm påverkar marginellt." }
+    chips: ["Varje del specificeras i offerten"]
+  - kind: prose
+    heading: "Montering och skötsel"
+    html: "<p>Skenan monteras antingen i taket eller på väggen ovanför fönstret. Vi tar mått, monterar fästen, hänger skenan och installerar lamellerna en och en. Funktionstest av både dragning och vridning innan vi går.</p><p>Skötseln är enkel: damma med en mjuk trasa eller dammsugare på låg effekt, en lamell i taget i stängt läge. Tygvävda lameller går att lyfta av och tvätta för punktfläckar — men låt dem alltid hänga upp i full längd och torka innan de monteras tillbaka, så vävens tyngdfördelning är den ursprungliga.</p>"
+  - kind: prose
+    heading: "Här hör lamellgardiner hemma"
+    html: "<p>Lamellgardin är ett specialiserat solskydd — just därför enkelt att placera rätt eller fel.</p><p><strong class=\"font-medium text-ink\">Passar:</strong> stora glaspartier över 300 cm, altandörrar och skjutpartier, kontor och konferensrum, kafé- och butikslokaler, hemmakontor med vägg-i-vägg-fönster.</p><p><strong class=\"font-medium text-ink\">Passar inte:</strong> smala fönster under 100 cm (där <a href=\"/rullgardiner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">rullgardin</a> eller <a href=\"/persienner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">persienn</a> passar bättre), badrum med kondens, fönster där exakt mörkläggning krävs — vertikala springor släpper igenom ljus oavsett vävtyp. För mörkläggning är <a href=\"/plissegardiner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">plissé med isolerväv</a> eller rullgardin med blackout det rätta valet.</p>"
 ---
 
 ## När en lamellgardin är rätt verktyg
@@ -81,21 +97,3 @@ Vävvalet styr ljusgenomsläppet på samma sätt som hos rullgardiner — från 
 - **Vridkedja eller vridstav** styr vinkeln. Det här är vridläget.
 - **Dragstav** — ett alternativ utan synliga snören som ger ett renare utseende.
 - **Motoriserad** styrning finns och är ett naturligt val på riktigt breda installationer eller där flera fönster ska styras samtidigt. Praktiskt på kontor.
-
-## Pris och vad som påverkar det
-
-Bredden är dominerande prisfaktor för lamellgardin — mer än för någon annan invändig lösning. Antalet lameller skalar linjärt med skenbredden, så en sex-metersinstallation har ofta tre gånger så många lameller som en två-meters, och varje lamell består av väv plus klädnypa plus eventuell viktbotten. Vävvalet kommer därefter (flamskyddade vävar är dyrare än standard) och motorisering är ett tillval som vinner ekonomiskt på sig vid breda installationer eller där flera gardiner styrs samtidigt. Specialfärger och lamellbredd 89 mm jämfört med 127 mm påverkar marginellt. Vi specificerar varje del i offerten.
-
-## Montering och skötsel
-
-Skenan monteras antingen i taket eller på väggen ovanför fönstret. Vi tar mått, monterar fästen, hänger skenan och installerar lamellerna en och en. Funktionstest av både dragning och vridning innan vi går.
-
-Skötseln är enkel: damma med en mjuk trasa eller dammsugare på låg effekt, en lamell i taget i stängt läge. Tygvävda lameller går att lyfta av och tvätta för punktfläckar — men låt dem alltid hänga upp i full längd och torka innan de monteras tillbaka, så vävens tyngdfördelning är den ursprungliga.
-
-## Här hör lamellgardiner hemma
-
-Lamellgardin är ett specialiserat solskydd — just därför enkelt att placera rätt eller fel.
-
-**Passar:** stora glaspartier över 300 cm, altandörrar och skjutpartier, kontor och konferensrum, kafé- och butikslokaler, hemmakontor med vägg-i-vägg-fönster.
-
-**Passar inte:** smala fönster under 100 cm (där <a href="/rullgardiner-malmo/" class="underline decoration-ink/30 hover:decoration-ink">rullgardin</a> eller <a href="/persienner-malmo/" class="underline decoration-ink/30 hover:decoration-ink">persienn</a> passar bättre), badrum med kondens, fönster där exakt mörkläggning krävs — vertikala springor släpper igenom ljus oavsett vävtyp. För mörkläggning är <a href="/plissegardiner-malmo/" class="underline decoration-ink/30 hover:decoration-ink">plissé med isolerväv</a> eller rullgardin med blackout det rätta valet.

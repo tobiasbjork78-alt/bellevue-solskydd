@@ -31,6 +31,22 @@ faqs:
 cta:
   heading: "Boka kostnadsfritt hembesök för plissé."
   body: "Vi mäter, visar vävprover i ert ljus och föreslår modell utifrån fönstret. Hembesök, mätning och offert är gratis — gäller hela södra Skåne."
+tail:
+  - kind: costFactors
+    heading: "Pris och vad som påverkar det"
+    intro: "Vävvalet är den största prisvariabeln."
+    factors:
+      - { name: "Väv", text: "Mörkläggande isolerväv med aluminiumkärna kan nästan dubbla priset mot enkelväv." }
+      - { name: "Modell och storlek", text: "Påverkar priset näst efter väven." }
+      - { name: "Specialvävar", text: "Flamskyddad eller fukttålig väv läggs till där det behövs." }
+      - { name: "Etappvis installation", text: "Många börjar med sovrum och badrum och utökar senare." }
+    chips: ["Offert per fönster, ingen klumpsumma"]
+  - kind: prose
+    heading: "Montering och skötsel"
+    html: "<p>Vi monterar plissé i karmen, mellan båge och karm, eller med sidoskenor direkt på glaset — beroende på modell. Beslagen är diskreta och både fönstret och plissén lämnas i fungerande skick innan vi går.</p><p>Skötseln är minimal: damma av med dammvippa eller dammsugare på låg effekt med mjukt munstycke. Fläckar tas bort med en fuktig svamp. Inget tvättmaskin — låt alltid väven torka utdragen.</p>"
+  - kind: prose
+    heading: "Välj din plissé i tre frågor"
+    html: "<ol class=\"list-decimal pl-6 space-y-3\"><li><strong class=\"font-medium text-ink\">Brett fönster över 200 cm?</strong> Liora frihängande hanterar de bredaste partierna. För riktigt stora ytor över tre meter är <a href=\"/rullgardiner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">rullgardin Maxi</a> eller <a href=\"/lamellgardiner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">lamellgardin</a> ofta enklare.</li><li><strong class=\"font-medium text-ink\">Sovrum med absolut mörkläggning?</strong> Mörkläggande isolerväv med aluminiumkärna i valfri linspänd modell. Komplettera Velo med sidoskenor om sidoljuset stör.</li><li><strong class=\"font-medium text-ink\">Badrum, hyresrätt eller karm som inte får borras?</strong> Velo glasmonterad utan karmingrepp, fukttålig väv vid behov. För kopplade fönster i sekelskifteshus är en <a href=\"/persienner-malmo/\" class=\"underline decoration-ink/30 hover:decoration-ink\">mellanglaspersienn</a> ett mindre synligt alternativ.</li></ol>"
 ---
 
 ## Varför plissé fungerar så bra i Malmö-bostäder
@@ -118,19 +134,3 @@ Plisségardiner är manuella — det finns ingen motoriserad plissé i sortiment
 - **Magnethandtag eller spår** (Optima, Velo, Atria) — magneter klickar fast i exakt position varje gång.
 
 På tvåvägsmodellerna sitter handtag eller spår på båda listerna så över- och underkant kan styras separat.
-
-## Pris och vad som påverkar det
-
-Vävvalet är den största prisvariabeln — på samma plissé kan steget från enkelväv till mörkläggande isolerväv med aluminiumkärna nästan dubbla priset, eftersom både dubbelvävskonstruktionen och aluminiumlagret kostar att tillverka. Modellvalet och storleken kommer därefter; specialvävar som flamskyddad eller fukttålig läggs till där det behövs.
-
-Plissé fungerar bra att etappinstallera. Många kunder börjar med sovrum och badrum — där tvåvägs och mörkläggning gör mest skillnad — och utökar till resten av bostaden senare. Specifik offert per fönster, ingen klumpsumma.
-
-## Montering och skötsel
-
-Vi monterar plissé i karmen, mellan båge och karm, eller med sidoskenor direkt på glaset — beroende på modell. Beslagen är diskreta och både fönstret och plissén lämnas i fungerande skick innan vi går.
-
-Skötseln är minimal: damma av med dammvippa eller dammsugare på låg effekt med mjukt munstycke. Fläckar tas bort med en fuktig svamp. Inget tvättmaskin — låt alltid väven torka utdragen.
-
-## Välj din plissé i tre frågor
-
-<ol class="list-decimal pl-6 space-y-3"><li><strong class="font-medium text-ink">Brett fönster över 200 cm?</strong> Liora frihängande hanterar de bredaste partierna. För riktigt stora ytor över tre meter är <a href="/rullgardiner-malmo/" class="underline decoration-ink/30 hover:decoration-ink">rullgardin Maxi</a> eller <a href="/lamellgardiner-malmo/" class="underline decoration-ink/30 hover:decoration-ink">lamellgardin</a> ofta enklare.</li><li><strong class="font-medium text-ink">Sovrum med absolut mörkläggning?</strong> Mörkläggande isolerväv med aluminiumkärna i valfri linspänd modell. Komplettera Velo med sidoskenor om sidoljuset stör.</li><li><strong class="font-medium text-ink">Badrum, hyresrätt eller karm som inte får borras?</strong> Velo glasmonterad utan karmingrepp, fukttålig väv vid behov. För kopplade fönster i sekelskifteshus är en <a href="/persienner-malmo/" class="underline decoration-ink/30 hover:decoration-ink">mellanglaspersienn</a> ett mindre synligt alternativ.</li></ol>

@@ -9,6 +9,9 @@ import HeroVideo from "../components/HeroVideo.astro";
 import TldrList from "../components/utvandigt/TldrList.astro";
 import DarkCTA from "../components/utvandigt/DarkCTA.astro";
 import FAQList from "../components/FAQList.astro";
+import ProcessSteps from "../components/sections/ProcessSteps.astro";
+import CostFactors from "../components/sections/CostFactors.astro";
+import GuaranteeTiles from "../components/sections/GuaranteeTiles.astro";
 import { buildSchema } from "../lib/page-schema";
 
 const { entry, path } = Astro.props;
@@ -196,40 +199,20 @@ const L = d.comparison.labels;
     </section>
 
     <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
-      <div class="grid gap-12 md:gap-16 md:grid-cols-12">
-        <div class="md:col-span-5">
-          {d.craft.eyebrow && <Eyebrow>{d.craft.eyebrow}</Eyebrow>}
-          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.craft.eyebrow && "mt-4"]}>{d.craft.heading}</h2>
-          <Divider class="mt-7" />
-        </div>
-        <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
-          {d.craft.paragraphs.map((p) => <p set:html={p} />)}
-        </div>
-      </div>
+      <ProcessSteps section={d.craft} />
     </section>
 
     <section class="bg-canvas-soft border-y border-ink/8">
-      <div class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
-        {d.investment.eyebrow && <Eyebrow>{d.investment.eyebrow}</Eyebrow>}
-        <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.investment.eyebrow && "mt-4"]}>{d.investment.heading}</h2>
-        <Divider class="mt-7" />
-        <div class="mt-8 body-copy text-ink-soft space-y-5">
-          {d.investment.paragraphs.map((p) => <p set:html={p} />)}
-          <p class="text-ink" set:html={d.investment.closing} />
-        </div>
+      <div class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+        <CostFactors section={d.investment} />
       </div>
     </section>
 
-    <section class="mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
-      {d.warranty.eyebrow && <Eyebrow>{d.warranty.eyebrow}</Eyebrow>}
-      <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.warranty.eyebrow && "mt-4"]}>{d.warranty.heading}</h2>
-      <Divider class="mt-7" />
-      <div class="mt-8 body-copy text-ink-soft space-y-5">
-        {d.warranty.paragraphs.map((p) => <p set:html={p} />)}
-      </div>
+    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+      <GuaranteeTiles section={d.warranty} />
     </section>
 
-    <section class="mx-auto max-w-4xl px-6 lg:px-10 pb-20 md:pb-24">
+    <section class:list={["mx-auto px-6 lg:px-10 pb-20 md:pb-24", d.faqs.length >= 6 ? "max-w-5xl" : "max-w-4xl"]}>
       {d.faqEyebrow && <Eyebrow>{d.faqEyebrow}</Eyebrow>}
       <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.faqEyebrow && "mt-4"]}>{d.faqHeading}</h2>
       <Divider class="mt-7 mb-2" />
