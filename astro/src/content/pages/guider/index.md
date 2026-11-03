@@ -1,6 +1,6 @@
 ---
 template: guideIndex
-title: "Guider | Solskydd för Malmö — Bellevue Solskydd"
+title: "Guider | Solskydd för Malmö – Bellevue Solskydd"
 description: "Saklig vägledning om solskydd: vilken produkt passar bäst, jämförelser och praktiska råd för fönster, fasader och uteplatser i Malmö."
 updated: 2026-06-04
 sitemap: { priority: 0.6, changefreq: monthly }
@@ -8,28 +8,28 @@ breadcrumbs:
   - { name: "Hem", url: "/" }
   - { name: "Guider", url: "/guider/" }
 h1: "Saklig vägledning."
-intro: "Praktiska guider om solskydd — vad som funkar, vad som inte gör det, och hur valet ser ut för olika typer av fönster och fasader."
+intro: "Praktiska guider om solskydd – vad som funkar, vad som inte gör det, och hur valet ser ut för olika typer av fönster och fasader."
 guides:
   - title: "Välja rätt invändigt solskydd"
-    excerpt: "Tre frågor smalnar av valet mellan plissé, rullgardin, persienn och lamellgardin — fönstertyp, funktion och om motor önskas."
+    excerpt: "Tre frågor smalnar av valet mellan plissé, rullgardin, persienn och lamellgardin – fönstertyp, funktion och om motor önskas."
     href: "/guider/valja-ratt-solskydd-inomhus/"
   - title: "Vilket solskydd passar bäst? En guide för Malmö"
-    excerpt: "Översikt av invändigt och utvändigt solskydd — vad som funkar i skånskt klimat och hur man väljer mellan kategorier."
+    excerpt: "Översikt av invändigt och utvändigt solskydd – vad som funkar i skånskt klimat och hur man väljer mellan kategorier."
     href: "/guider/vilket-solskydd-passar-bast/"
   - title: "Plisségardin eller rullgardin?"
-    excerpt: "Positioneringsfrihet, isolering, motorisering och pris — vi pekar ut vilken som är rätt val för olika rum."
+    excerpt: "Positioneringsfrihet, isolering, motorisering och pris – vi pekar ut vilken som är rätt val för olika rum."
     href: "/guider/plissegardin-eller-rullgardin/"
   - title: "Rullgardin eller persienn?"
     excerpt: "Två klassiska invändiga solskydd. Skillnader i ljuskontroll, mörkläggning, motor och vad som passar olika rum."
     href: "/guider/rullgardin-eller-persienn/"
-  - title: "Markis eller zip screen — vad passar bäst?"
+  - title: "Markis eller zip screen – vad passar bäst?"
     excerpt: "Två utvändiga solskydd som löser samma problem på olika sätt. Skillnader i värme, vind, utsikt och estetik."
     href: "/guider/markis-eller-zip-screen/"
   - title: "Solskydd för sovrum"
     excerpt: "Mörkläggning utan ljusgloria runt karmen. Vi går igenom blackout-rullgardin, mörkläggande plissé och hur sidoskenor täter kanterna."
     href: "/guider/solskydd-sovrum/"
   - title: "Solskydd mot insyn"
-    excerpt: "Tvåvägsplissé, vinklade persienner eller ljusfiltrerande rullgardin — så löser ni insynsfrågan utan att mörklägga."
+    excerpt: "Tvåvägsplissé, vinklade persienner eller ljusfiltrerande rullgardin – så löser du insynsfrågan utan att mörklägga."
     href: "/guider/solskydd-insyn/"
   - title: "Solskydd mot värme"
     excerpt: "Sänk temperaturen vid fönstret. Vi går igenom isolerväv, vit baksida på blackout, och varför utvändigt slår invändigt."
@@ -41,9 +41,9 @@ guides:
     excerpt: "Motion eller Eve-Motion? Skillnaden mellan Bluetooth + brygga och Thread/Matter direkt mot HomeKit och Google Home."
     href: "/guider/motoriserat-solskydd/"
   - title: "Isolerande gardiner"
-    excerpt: "Plissé med dubbelväv (honeycomb) — så fungerar luftcellernas isoleringseffekt åt båda håll, året runt."
+    excerpt: "Plissé med dubbelväv (honeycomb) – så fungerar luftcellernas isoleringseffekt åt båda håll, året runt."
     href: "/guider/isolerande-gardiner/"
   - title: "Skötsel av invändigt solskydd"
-    excerpt: "Praktiskt underhåll av rullgardiner, plissé, persienner och lamellgardiner — vad ni får göra och vad ni ska undvika."
+    excerpt: "Praktiskt underhåll av rullgardiner, plissé, persienner och lamellgardiner – vad du får göra och vad du ska undvika."
     href: "/guider/skotsel-invandigt-solskydd/"
 ---

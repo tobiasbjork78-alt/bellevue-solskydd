@@ -2,7 +2,12 @@
 import { z } from "astro/zod";
 
 export const crumbSchema = z.object({ name: z.string(), url: z.string() });
-export const faqItemSchema = z.object({ question: z.string(), answer: z.string() });
+/** `link` is rendered under the answer (not part of the FAQPage JSON-LD text) */
+export const faqItemSchema = z.object({
+  question: z.string(),
+  answer: z.string(),
+  link: z.object({ label: z.string(), href: z.string() }).optional(),
+});
 export const ctaSchema = z.object({
   eyebrow: z.string().optional(),
   heading: z.string(),

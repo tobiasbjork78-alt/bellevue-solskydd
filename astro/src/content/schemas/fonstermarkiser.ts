@@ -1,50 +1,30 @@
-// Template "fonstermarkiser" (/fonstermarkiser-malmo/).
+// Template "fonstermarkiser" (/fonstermarkiser-malmo/). Same section order as /markiser-malmo/.
 import { z } from "astro/zod";
 import { baseSchema } from "./base";
-import { processStepsSchema, costFactorsSchema, guaranteeTilesSchema } from "./sections";
 import {
-  heroSchema,
-  tldrSchema,
-  splitSectionSchema,
-  faqSectionSchema,
-  finalCtaSchema,
-} from "./markiser";
+  crossLinkCardsSchema,
+  processStepsSchema,
+  costFactorsSchema,
+  guaranteeTilesSchema,
+  comparisonSchema,
+  modelGroupSchema,
+} from "./sections";
+import { heroSchema, faqSectionSchema, finalCtaSchema } from "./markiser";
 
 export const fonstermarkiserSchema = baseSchema.extend({
   template: z.literal("fonstermarkiser"),
   hero: heroSchema,
-  tldr: tldrSchema,
-  usage: splitSectionSchema,
-  models: z.object({
-    eyebrow: z.string().optional(),
-    heading: z.string(),
-    intro: z.string(),
-    cards: z.array(
-      z.object({
-        maker: z.string(),
-        name: z.string(),
-        slug: z.string(),
-        type: z.string(),
-        body: z.string(),
-        specs: z.array(z.string()),
-        alt: z.string(),
-        /** Current src: null = placeholder (1×1 SVG + model name), same as nextjs-v3 */
-        image: z.string().nullable(),
-        /** Intended image path from the nextjs-v3 TODO comment; file does not exist yet */
-        plannedImage: z.string().optional(),
-      })
-    ),
-  }),
-  otherModels: z.object({
-    eyebrow: z.string().optional(),
-    heading: z.string(),
-    intro: z.string(),
-    items: z.array(z.object({ maker: z.string(), name: z.string(), qualitative: z.string() })),
-  }),
-  contrast: splitSectionSchema,
+  answerBox: z.string(),
+  /** Visible "last updated" line under the AnswerBox */
+  updatedLabel: z.string(),
+  /** `label` is the section's aria-label (no visible label) */
+  tldr: z.object({ label: z.string(), items: z.array(z.string()) }),
+  modelGroups: z.array(modelGroupSchema).min(1),
+  comparison: comparisonSchema,
+  otherProducts: crossLinkCardsSchema,
   process: processStepsSchema,
   investment: costFactorsSchema,
   warranty: guaranteeTilesSchema,
-  faq: faqSectionSchema,
+  faq: faqSectionSchema.extend({ items: faqSectionSchema.shape.items.min(6).max(9) }),
   finalCta: finalCtaSchema,
 });

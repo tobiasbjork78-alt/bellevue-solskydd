@@ -23,7 +23,7 @@ const { hero, watermarkClass } = Astro.props;
 const last = hero.crumbs.length - 1;
 ---
 <section class="relative w-full h-[70vh] md:h-[78vh] md:min-h-[680px] overflow-hidden bg-ink">
-  <img src={hero.image} alt={hero.imageAlt} fetchpriority="high" decoding="async" class="absolute inset-0 h-full w-full object-cover opacity-0" />
+  <img src={hero.image} alt={hero.imageAlt} aria-hidden={hero.imageAlt ? undefined : "true"} fetchpriority="high" decoding="async" class="absolute inset-0 h-full w-full object-cover opacity-0" />
   <div aria-hidden="true" class="absolute inset-0 flex items-center justify-center pointer-events-none">
     <span class:list={["font-display text-ink-inverse/10 tracking-tight select-none", watermarkClass]}>{hero.watermark}</span>
   </div>

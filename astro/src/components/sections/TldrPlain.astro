@@ -1,0 +1,15 @@
+---
+// "I korthet" list without a visible label (aria-label only); class speakable-tldr for the WebPage schema.
+interface Props { tldr: { label: string; items: string[] } }
+const { tldr } = Astro.props;
+---
+<section aria-label={tldr.label} class="speakable-tldr mx-auto max-w-4xl px-6 lg:px-10 pt-12 md:pt-14 pb-16 md:pb-20">
+  <ul class="space-y-3 body-copy text-ink-soft list-none">
+    {tldr.items.map((item) => (
+      <li class="flex gap-4">
+        <span aria-hidden="true" class="text-brand-brass select-none mt-[0.4em] leading-none">—</span>
+        <span>{item}</span>
+      </li>
+    ))}
+  </ul>
+</section>

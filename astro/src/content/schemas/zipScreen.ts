@@ -1,38 +1,32 @@
-// Template "zipScreen" (/zip-screen-malmo/).
+// Template "zipScreen" (/zip-screen-malmo/). Same section order as /markiser-malmo/.
 import { z } from "astro/zod";
 import { baseSchema, faqItemSchema } from "./base";
-import { heroSchema, tldrSchema, proseBlockSchema, darkCtaSchema } from "./utvandigt-shared";
-import { processStepsSchema, costFactorsSchema, guaranteeTilesSchema } from "./sections";
-
-const modelSchema = z.object({
-  maker: z.string(),
-  name: z.string(),
-  slug: z.string(),
-  type: z.string(),
-  body: z.string(),
-  specs: z.array(z.string()),
-  passarDigOm: z.string(),
-  extraNote: z
-    .object({ kind: z.enum(["kundord", "begransning"]), text: z.string(), source: z.string().optional() })
-    .optional(),
-  alt: z.string(),
-  /** Missing = placeholder (1×1 SVG + model name), as in nextjs-v3 */
-  image: z.string().optional(),
-});
+import { heroSchema, darkCtaSchema } from "./utvandigt-shared";
+import {
+  crossLinkCardsSchema,
+  processStepsSchema,
+  costFactorsSchema,
+  guaranteeTilesSchema,
+  comparisonSchema,
+  modelGroupSchema,
+} from "./sections";
 
 export const zipScreenSchema = baseSchema.extend({
   template: z.literal("zipScreen"),
   hero: heroSchema,
-  tldr: tldrSchema,
+  answerBox: z.string(),
+  /** Visible "last updated" line under the AnswerBox */
+  updatedLabel: z.string(),
+  /** `label` is the section's aria-label (no visible label) */
+  tldr: z.object({ label: z.string(), items: z.array(z.string()) }),
   contextImage: z.object({ src: z.string(), width: z.number(), height: z.number(), alt: z.string() }),
-  usage: proseBlockSchema,
-  harol: proseBlockSchema.extend({ models: z.array(modelSchema) }),
-  selt: proseBlockSchema.extend({ models: z.array(modelSchema) }),
+  modelGroups: z.array(modelGroupSchema).min(1),
+  comparison: comparisonSchema,
+  otherProducts: crossLinkCardsSchema,
   process: processStepsSchema,
   investment: costFactorsSchema,
   warranty: guaranteeTilesSchema.extend({ backgroundImage: z.string() }),
-  faqEyebrow: z.string().optional(),
   faqHeading: z.string(),
-  faqs: z.array(faqItemSchema),
+  faqs: z.array(faqItemSchema).min(6).max(8),
   cta: darkCtaSchema,
 });

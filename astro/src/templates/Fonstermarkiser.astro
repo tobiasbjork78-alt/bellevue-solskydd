@@ -1,72 +1,66 @@
 ---
 // Template "fonstermarkiser" (/fonstermarkiser-malmo/). All text from src/content/pages/fonstermarkiser-malmo.md.
+// Section order follows /markiser-malmo/: hero, AnswerBox, I korthet, models, comparison,
+// cross-links, process, cost, guarantee, FAQ, CTA.
 import BaseLayout from "../layouts/BaseLayout.astro";
-import Eyebrow from "../components/Eyebrow.astro";
-import Divider from "../components/Divider.astro";
+import AnswerBox from "../components/AnswerBox.astro";
 import Hero from "../components/markiser/Hero.astro";
-import Tldr from "../components/markiser/Tldr.astro";
-import SplitSection from "../components/markiser/SplitSection.astro";
 import Band from "../components/markiser/Band.astro";
+import ModelCard from "../components/markiser/ModelCard.astro";
+import FaqSection from "../components/markiser/FaqSection.astro";
+import FinalCta from "../components/markiser/FinalCta.astro";
+import TldrPlain from "../components/sections/TldrPlain.astro";
+import SectionHeading from "../components/sections/SectionHeading.astro";
+import ComparisonTable from "../components/sections/ComparisonTable.astro";
+import CrossLinkCards from "../components/sections/CrossLinkCards.astro";
 import ProcessSteps from "../components/sections/ProcessSteps.astro";
 import CostFactors from "../components/sections/CostFactors.astro";
 import GuaranteeTiles from "../components/sections/GuaranteeTiles.astro";
-import FaqSection from "../components/markiser/FaqSection.astro";
-import FinalCta from "../components/markiser/FinalCta.astro";
-import ModelCard from "../components/markiser/ModelCard.astro";
 import { buildSchema } from "../lib/page-schema";
 
 const { entry, path } = Astro.props;
 const d = entry.data;
 const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faq.items });
-const cards = d.models.cards;
+const W = "mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24";
 ---
 <BaseLayout
   twitterCard={d.twitterCard}
   robots={d.robots} title={d.title} description={d.description} path={path} ogTitle={d.ogTitle} ogDescription={d.ogDescription} ogImage={d.ogImage} breadcrumbs={d.schemaBreadcrumbs ?? d.breadcrumbs} schema={schema}>
   <main class="flex-1 bg-canvas">
     <Hero hero={d.hero} watermarkClass="text-[16vw] md:text-[12vw]" />
-    <Tldr tldr={d.tldr} />
-    <SplitSection section={d.usage} pad="py-16 md:py-20" gap="gap-10 md:gap-14" />
 
-    <section id="sortimentet" class="bg-canvas-soft border-y border-ink/8">
-      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-28">
-        <div class="max-w-2xl mb-14">
-          {d.models.eyebrow && <Eyebrow>{d.models.eyebrow}</Eyebrow>}
-          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.models.eyebrow && "mt-4"]}>{d.models.heading}</h2>
-          <Divider class="mt-7" />
-          <p class="mt-7 body-copy text-ink-soft">{d.models.intro}</p>
+    <div class="mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-20">
+      <AnswerBox html={d.answerBox} />
+      <p class="mt-3 text-sm text-ink-soft">{d.updatedLabel}</p>
+    </div>
+
+    <TldrPlain tldr={d.tldr} />
+
+    {d.modelGroups.map((group, g) => (
+      <section id={group.id} class:list={[g % 2 === 0 && "bg-canvas-soft border-y border-ink/8"]}>
+        <div class="mx-auto max-w-5xl px-6 lg:px-10 pt-20 md:pt-24 pb-8 md:pb-12">
+          <div class="max-w-2xl">
+            <SectionHeading heading={group.heading} intro={group.intro} />
+            {group.note && <p class="mt-4 body-copy text-ink-soft">{group.note}</p>}
+          </div>
+          {group.models.map((model, i) => (
+            <ModelCard model={model} index={g === 0 ? i : i + 1} isLast={i === group.models.length - 1} />
+          ))}
         </div>
-        <div>
-          {cards.map((model, index) => <ModelCard model={model} index={index} isLast={index === cards.length - 1} />)}
-        </div>
+      </section>
+    ))}
+
+    <section id="jamforelse" class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-24">
+        <ComparisonTable section={d.comparison} />
       </div>
     </section>
 
-    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
-      <div class="max-w-2xl mb-12">
-        {d.otherModels.eyebrow && <Eyebrow>{d.otherModels.eyebrow}</Eyebrow>}
-        <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.otherModels.eyebrow && "mt-4"]}>{d.otherModels.heading}</h2>
-        <Divider class="mt-7" />
-        <p class="mt-7 body-copy text-ink-soft">{d.otherModels.intro}</p>
-      </div>
-      <ul class="rounded-premium border border-ink/10 overflow-hidden divide-y divide-ink/8">
-        {d.otherModels.items.map((m) => (
-          <li class="grid grid-cols-12 gap-4 px-5 py-4 md:px-7 md:py-5 bg-canvas hover:bg-canvas-soft transition-colors">
-            <div class="col-span-12 md:col-span-3">
-              <p class="text-xs font-medium uppercase tracking-[0.18em] text-brand-green">{m.maker}</p>
-              <p class="font-display text-xl text-ink leading-tight mt-1">{m.name}</p>
-            </div>
-            <p class="col-span-12 md:col-span-9 body-copy text-sm text-ink-soft md:pt-2">{m.qualitative}</p>
-          </li>
-        ))}
-      </ul>
-    </section>
-
-    <SplitSection section={d.contrast} band />
-    <Band container={"mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24"}><ProcessSteps section={d.process} /></Band>
-    <Band band container={"mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24"}><CostFactors section={d.investment} /></Band>
-    <Band container={"mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24"}><GuaranteeTiles section={d.warranty} /></Band>
-    <FaqSection faq={d.faq} band />
+    <Band container={W}><CrossLinkCards section={d.otherProducts} /></Band>
+    <Band band container={W}><ProcessSteps section={d.process} /></Band>
+    <Band container={W}><CostFactors section={d.investment} /></Band>
+    <Band band container={W}><GuaranteeTiles section={d.warranty} /></Band>
+    <FaqSection faq={d.faq} />
     <FinalCta cta={d.finalCta} />
   </main>
 </BaseLayout>

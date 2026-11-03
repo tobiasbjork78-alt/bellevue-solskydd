@@ -1,7 +1,7 @@
 ---
 template: home
-title: Solskydd Malmö | Markiser, persienner, plissé & rullgardiner — Bellevue Solskydd
-description: Lokalt solskyddsföretag i Malmö. Markiser, persienner, plissegardiner, rullgardiner, zip screen och pergola — från rådgivning till montering.
+title: Solskydd Malmö | Markiser, persienner, plissé & rullgardiner – Bellevue Solskydd
+description: Lokalt solskyddsföretag i Malmö. Markiser, persienner, plissegardiner, rullgardiner, zip screen och pergola – från rådgivning till montering.
 updated: 2026-06-04
 sitemap: { priority: 1.0, changefreq: monthly }
 schema:
@@ -29,7 +29,7 @@ localProof:
       description: Förslag som utgår från fönstret, inte katalogen.
 products:
   heading: Solskydd som möter ljuset där det är.
-  body: Vi väljer lösning efter rummet, fasaden och hur ni faktiskt använder huset. Inte tvärtom.
+  body: Vi väljer lösning efter rummet, fasaden och hur du faktiskt använder huset. Inte tvärtom.
   indoorLabel: Invändigt solskydd
   indoor:
     - title: Persienner
@@ -55,10 +55,10 @@ products:
       href: /zip-screen-malmo/
       image: /images/cards/card-zipscreen.webp
     - title: Pergola
-      description: Pergola med justerbart tak — skugga när solen står högt, öppet himmelrum när den inte gör det.
+      description: Pergola med justerbart tak – skugga när solen står högt, öppet himmelrum när den inte gör det.
       href: /pergola-malmo/
       image: /images/cards/card-pergola.webp
 cta:
-  heading: Kostnadsfri rådgivning i hela Malmö.
-  body: Vi kommer hem till er, mäter på plats och föreslår en lösning som passar fönstren, ljuset och budgeten. Inga övertramp, inga säljmöten.
+  heading: "Berätta vad du vill uppnå. Vi tar fram lösningen."
+  body: "Vi kommer hem till dig i Malmö och södra Skåne, mäter på plats och föreslår en lösning som passar dina fönster, ditt ljus och din budget. Hembesöket och offerten är kostnadsfria."
 ---

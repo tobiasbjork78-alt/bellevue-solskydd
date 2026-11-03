@@ -1,5 +1,5 @@
 ---
-// Model card for /zip-screen-malmo/ (port of StackedModelCard, variant "default" — the only one used).
+// Model card for /zip-screen-malmo/: image (4:3, object-contain) left, maker above model name, facts right.
 interface Props {
   model: {
     maker: string;
@@ -7,7 +7,7 @@ interface Props {
     type: string;
     body: string;
     specs: string[];
-    passarDigOm: string;
+    passarDigOm?: string;
     extraNote?: { kind: "kundord" | "begransning"; text: string; source?: string };
     alt: string;
     image?: string;
@@ -50,7 +50,7 @@ const note = model.extraNote;
         ))}
       </ul>
     )}
-    <p class="text-sm body-copy text-ink-soft border-l-2 border-brand-brass/40 pl-4 italic">{model.passarDigOm}</p>
+    {model.passarDigOm && <p class="text-sm body-copy text-ink-soft border-l-2 border-brand-brass/40 pl-4 italic">{model.passarDigOm}</p>}
     {note && (
       <div class="mt-6 pt-5 border-t border-ink/8">
         <p class="text-sm body-copy text-ink-soft">

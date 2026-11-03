@@ -12,6 +12,10 @@ export const articleSchema = baseSchema.extend({
   h1: z.string(),
   /** HTML allowed (inline links/strong) */
   answerBox: z.string().optional(),
+  /** Visible "last updated" line under the AnswerBox */
+  updatedLabel: z.string().optional(),
+  /** One line shown right before the FAQ heading (e.g. a disclaimer) */
+  faqNote: z.string().optional(),
   faqEyebrow: z.string().optional(),
   faqHeading: z.string().optional(),
   faqs: z.array(faqItemSchema).optional(),

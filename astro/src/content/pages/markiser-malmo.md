@@ -21,7 +21,7 @@ schema:
 hero:
   image: "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221%22%20height%3D%221%22%2F%3E"
   plannedImage: "/images/markiser/hero.webp"
-  imageAlt: "Terrassmarkis monterad på fasad över en uteplats"
+  imageAlt: ""
   watermark: "Markiser"
   crumbs:
     - { name: "Hem", url: "/" }
@@ -132,15 +132,15 @@ process:
   steps:
     - { title: "Hembesök", text: "Vi mäter bredd och utfall och tittar på sol och vind." }
     - { title: "Fasad och infästning", text: "Vi väljer fästen efter fasaden och kontrollerar att väggen bär markisen." }
-    - { title: "Ström till motorn", text: "Ska markisen ha motor bestämmer vi vid besöket var kabeln dras." }
-    - { title: "Montage", text: "Egna montörer sätter upp terrassmarkisen och går igenom styrningen med dig." }
+    - { title: "Montage och provkörning", text: "Våra montörer sätter upp markisen och provkör motorn med testkabel." }
+    - { title: "Fast elanslutning", text: "Har markisen motor kopplar din elektriker in den fasta strömmen." }
 price:
   heading: "Det här avgör vad din markis kostar"
   factors:
     - { name: "Bredd", text: "Väv, rör och frontprofil blir längre för varje meter." }
     - { name: "Utfall", text: "Längre utfall kräver längre armar och mer väv." }
     - { name: "Motor eller vev", text: "Motor kostar mer och ger fjärrkontroll eller automatik." }
-    - { name: "Väv", text: "Kvalitet och färg påverkar priset." }
+    - { name: "Typ av väv", text: "Akryl, vattentät akryl eller PVC-belagd väv." }
     - { name: "Tillval", text: "Vindautomatik, belysning eller värme läggs till ovanpå." }
     - { name: "Fasad och montage", text: "Våning och fasadmaterial avgör hur mycket arbete montaget kräver." }
   chips: ["ROT-avdrag på arbetskostnaden för montaget", "Offert efter hembesöket"]
@@ -161,18 +161,23 @@ faq:
     - question: "Hur bred kan en markis från Selt eller Harol bli?"
       answer: "Selt Palladio och Harol Cadiz går upp till 7 meters bredd, och Cadiz kan kopplas ihop till upp till 12 meter. Utfallet är upp till 3,6 meter på Palladio och 4 meter på Cadiz. Selt Jamaica går upp till 7,0 meters bredd och 3,6 meters utfall, och Harol Tucan upp till 5,5 meters bredd och 3,0 meters utfall."
     - question: "Kan markisen styras med motor och sensorer?"
-      answer: "Ja. Selt Jamaica finns med vev eller motor, och Harol Cadiz har io-styrning som standard. Både Cadiz och Tucan kan få sol- och vindsensor som tillval, så att markisen dras in automatiskt när det blåser. Var strömmen ska dras och vilken styrning som passar går vi igenom vid hembesöket."
+      answer: "Ja. Selt Jamaica finns med vev eller motor, och Harol Cadiz har io-styrning som standard. Både Cadiz och Tucan kan få sol- och vindsensor som tillval, så att markisen dras in automatiskt när det blåser. Vilken styrning som passar och var din elektriker behöver dra fram strömmen går vi igenom vid hembesöket."
     - question: "Hur lång garanti har markiserna från Selt och Harol?"
       answer: "Selts markiser, Palladio, Jamaica, Dakar och Corsica, har 7 års garanti på markisen och 5 år på motorn. Harols markiser, Cadiz och Tucan, har 5 års garanti. Garanti och service går genom oss, och det är våra egna montörer som kommer ut om något behöver åtgärdas."
     - question: "Vad mäter ni vid hembesöket inför en markis?"
       answer: "Vi mäter fasadens bredd och hur långt ut markisen behöver gå för att skugga den yta där du sitter. Vi tittar på fasadens material för infästningen, var solen står under eftermiddagen och var det finns ström om markisen ska ha motor. Vävproverna visar vi mot fasaden i dagsljus."
     - question: "Kan man få belysning och värme i markisen?"
       answer: "Harol Cadiz kan få LED-belysning i boxen, i frontprofilen eller i armarna, och Harol Tucan kan få LED i armarna. Båda kan få värme under markisen som tillval. Vilka tillval som går att kombinera med elen och fasaden hos dig går vi igenom vid hembesöket."
+    - question: "Behöver jag en elektriker till en markis med motor?"
+      answer: "Ja, om markisen ska ha motor. Våra montörer sätter upp markisen och provkör motorn med en testkabel, men den fasta elanslutningen gör en behörig elektriker som du själv anlitar. Vi kopplar inte fast el, och elarbetet ingår inte i vårt montage. En markis med vev behöver ingen el alls."
+    - question: "Får jag sätta upp en markis om jag bor i bostadsrätt?"
+      answer: "Ja, men du behöver föreningens tillstånd innan markisen monteras, eftersom fasaden är föreningens. I många föreningar är det styrelsen som beslutar, och vissa har regler för kulör, väv eller modell. Läs föreningens regler innan du väljer markis och ansök skriftligt hos styrelsen."
+      link: { label: "Läs mer om markis i bostadsrätt", href: "/solskydd-brf-malmo/" }
     - question: "Vad kostar en terrassmarkis från Selt eller Harol?"
       answer: "Priset beror på bredd, utfall, om markisen ska ha motor eller vev, vilken väv du väljer, tillval som vindautomatik och hur fasaden ser ut. Därför lämnar vi pris först efter hembesöket, när måtten är tagna. ROT-avdraget gäller arbetskostnaden för montaget, och hembesöket och offerten kostar ingenting."
 finalCta:
-  headingLine1: "Vi mäter din uteplats"
-  headingLine2: "och föreslår en terrassmarkis."
-  body: "Hembesöket och offerten är kostnadsfria. Mått och vävprover tar vi fram på plats, mot din fasad."
+  headingLine1: "Du berättar hur du vill ha det –"
+  headingLine2: "vi vet vilken markis som passar."
+  body: "Vid hembesöket lyssnar vi på dina önskemål och tar hänsyn till sol, vind och fasad, så att markisen blir rätt från början."
   cta: { label: "Boka platsbesök", href: "/kontakt/" }
 ---

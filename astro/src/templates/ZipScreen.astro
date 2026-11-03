@@ -1,14 +1,19 @@
 ---
 // Template "zipScreen" (/zip-screen-malmo/). All text from src/content/pages/zip-screen-malmo.md.
+// Section order follows /markiser-malmo/: hero, AnswerBox, I korthet, models, comparison,
+// cross-links, process, cost, guarantee, FAQ, CTA.
 import BaseLayout from "../layouts/BaseLayout.astro";
-import Eyebrow from "../components/Eyebrow.astro";
 import Divider from "../components/Divider.astro";
+import AnswerBox from "../components/AnswerBox.astro";
 import HeroBreadcrumbs from "../components/utvandigt/HeroBreadcrumbs.astro";
 import HeroContent from "../components/utvandigt/HeroContent.astro";
-import TldrList from "../components/utvandigt/TldrList.astro";
 import DarkCTA from "../components/utvandigt/DarkCTA.astro";
 import FAQList from "../components/FAQList.astro";
 import ZipModelCard from "../components/utvandigt/ZipModelCard.astro";
+import TldrPlain from "../components/sections/TldrPlain.astro";
+import SectionHeading from "../components/sections/SectionHeading.astro";
+import ComparisonTable from "../components/sections/ComparisonTable.astro";
+import CrossLinkCards from "../components/sections/CrossLinkCards.astro";
 import ProcessSteps from "../components/sections/ProcessSteps.astro";
 import CostFactors from "../components/sections/CostFactors.astro";
 import GuaranteeTiles from "../components/sections/GuaranteeTiles.astro";
@@ -18,6 +23,7 @@ const { entry, path } = Astro.props;
 const d = entry.data;
 const schema = buildSchema(d.schema, { path, title: d.title, description: d.description, faqs: d.faqs });
 const fill = "absolute inset-0 h-full w-full";
+const firstGroupId = d.modelGroups[0].id ?? "modeller";
 ---
 <BaseLayout
   twitterCard={d.twitterCard}
@@ -40,62 +46,44 @@ const fill = "absolute inset-0 h-full w-full";
           {d.breadcrumbs && <HeroBreadcrumbs items={d.breadcrumbs} />}
         </div>
         <div class="flex-1"></div>
-        <HeroContent hero={d.hero} secondaryHref="#harol" />
+        <HeroContent hero={d.hero} secondaryHref={`#${firstGroupId}`} />
       </div>
     </section>
 
-    <TldrList tldr={d.tldr} class="speakable-tldr mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-20 pb-12 md:pb-16" />
+    <div class="mx-auto max-w-4xl px-6 lg:px-10 pt-16 md:pt-20">
+      <AnswerBox html={d.answerBox} />
+      <p class="mt-3 text-sm text-ink-soft">{d.updatedLabel}</p>
+    </div>
+
+    <TldrPlain tldr={d.tldr} />
 
     <section class="w-full">
       <img src={d.contextImage.src} width={d.contextImage.width} height={d.contextImage.height} alt={d.contextImage.alt} loading="lazy" decoding="async" class="w-full h-auto" />
     </section>
 
-    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-16 md:py-20">
-      <div class="grid gap-10 md:gap-14 md:grid-cols-12">
-        <div class="md:col-span-5">
-          {d.usage.eyebrow && <Eyebrow>{d.usage.eyebrow}</Eyebrow>}
-          <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.usage.eyebrow && "mt-4"]}>{d.usage.heading}</h2>
-          <Divider class="mt-7" />
-        </div>
-        <div class="md:col-span-7 body-copy text-ink-soft space-y-5">
-          {d.usage.paragraphs.map((p) => <p set:html={p} />)}
-        </div>
-      </div>
-    </section>
-
-    <section id="harol" class="bg-canvas">
-      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-24 md:py-32">
-        <div class="max-w-3xl mb-16 md:mb-20">
-          {d.harol.eyebrow && <Eyebrow>{d.harol.eyebrow}</Eyebrow>}
-          <h2 class:list={["font-display text-4xl md:text-6xl text-brand-green leading-[1.05] tracking-tight", d.harol.eyebrow && "mt-5"]}>{d.harol.heading}</h2>
-          <Divider class="mt-9 w-20" />
-          <div class="mt-9 body-copy text-ink-soft text-lg space-y-5 max-w-2xl">
-            {d.harol.paragraphs.map((p) => <p set:html={p} />)}
+    {d.modelGroups.map((group, g) => (
+      <section id={group.id} class:list={[g % 2 === 0 ? "bg-canvas-soft border-y border-ink/8" : "bg-canvas"]}>
+        <div class="mx-auto max-w-6xl px-6 lg:px-10 pt-20 md:pt-24 pb-8 md:pb-12">
+          <div class="max-w-2xl">
+            <SectionHeading heading={group.heading} intro={group.intro} />
+            {group.note && <p class="mt-4 body-copy text-ink-soft">{group.note}</p>}
+          </div>
+          <div class="mt-6">
+            {group.models.map((model, i) => (
+              <ZipModelCard model={{ ...model, image: model.image ?? undefined }} index={g === 0 ? i : i + 1} isLast={i === group.models.length - 1} />
+            ))}
           </div>
         </div>
-        <div class="space-y-2">
-          {d.harol.models.map((model, index) => (
-            <ZipModelCard model={model} index={index} isLast={index === d.harol.models.length - 1} />
-          ))}
-        </div>
-      </div>
+      </section>
+    ))}
+
+    <section id="jamforelse" class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-24">
+      <ComparisonTable section={d.comparison} />
     </section>
 
-    <section id="selt" class="bg-canvas-soft border-y border-ink/8">
-      <div class="mx-auto max-w-6xl px-6 lg:px-10 py-20 md:py-24">
-        <div class="max-w-3xl mb-14">
-          {d.selt.eyebrow && <Eyebrow>{d.selt.eyebrow}</Eyebrow>}
-          <h2 class:list={["font-display text-3xl md:text-5xl text-brand-green leading-[1.08] tracking-tight", d.selt.eyebrow && "mt-5"]}>{d.selt.heading}</h2>
-          <div aria-hidden="true" class="mt-7 h-1 w-12 bg-brand-brass"></div>
-          <div class="mt-8 body-copy text-ink-soft space-y-5 max-w-2xl">
-            {d.selt.paragraphs.map((p) => <p set:html={p} />)}
-          </div>
-        </div>
-        <div class="space-y-2">
-          {d.selt.models.map((model, index) => (
-            <ZipModelCard model={model} index={index} isLast={index === d.selt.models.length - 1} />
-          ))}
-        </div>
+    <section class="bg-canvas-soft border-y border-ink/8">
+      <div class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+        <CrossLinkCards section={d.otherProducts} />
       </div>
     </section>
 
@@ -118,9 +106,8 @@ const fill = "absolute inset-0 h-full w-full";
     </section>
 
     <section class="bg-canvas-soft border-y border-ink/8">
-      <div class:list={["mx-auto px-6 lg:px-10 py-20 md:py-24", d.faqs.length >= 6 ? "max-w-5xl" : "max-w-4xl"]}>
-        {d.faqEyebrow && <Eyebrow>{d.faqEyebrow}</Eyebrow>}
-        <h2 class:list={["heading-section text-3xl md:text-4xl text-ink leading-tight", d.faqEyebrow && "mt-4"]}>{d.faqHeading}</h2>
+      <div class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+        <h2 class="heading-section text-3xl md:text-4xl text-ink leading-tight">{d.faqHeading}</h2>
         <Divider class="mt-7 mb-2" />
         <div class="mt-4">
           <FAQList faqs={d.faqs} firstAnswerClass="speakable-faq-1" />

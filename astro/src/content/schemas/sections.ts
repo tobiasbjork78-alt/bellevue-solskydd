@@ -54,3 +54,39 @@ export type CrossLinkCardsData = z.infer<typeof crossLinkCardsSchema>;
 export type ProcessStepsData = z.infer<typeof processStepsSchema>;
 export type CostFactorsData = z.infer<typeof costFactorsSchema>;
 export type GuaranteeTilesData = z.infer<typeof guaranteeTilesSchema>;
+
+/** Comparison table: first column is the model name; every row has one cell per column */
+export const comparisonSchema = z
+  .object({
+    heading: z.string(),
+    intro: oneSentence.optional(),
+    columns: z.array(z.string()).min(2),
+    rows: z.array(z.array(z.string())).min(2),
+    footnote: z.string().optional(),
+  })
+  .refine((c) => c.rows.every((r) => r.length === c.columns.length), { message: "Varje rad måste ha en cell per kolumn" });
+
+/** Model card with maker above the name and 2–3 fact lines; image null = text-only card */
+export const shortModelCardSchema = z.object({
+  maker: z.string(),
+  name: z.string(),
+  type: z.string(),
+  body: z.string(),
+  specs: z.array(z.string()).min(2).max(3),
+  alt: z.string(),
+  image: z.string().nullable(),
+  /** Intended image path while `image` is null */
+  plannedImage: z.string().optional(),
+});
+
+/** A group of model cards under one H2 (id = anchor for the hero link) */
+export const modelGroupSchema = z.object({
+  id: z.string().optional(),
+  heading: z.string(),
+  intro: oneSentence,
+  /** Optional second paragraph under the intro (e.g. awards) */
+  note: z.string().optional(),
+  models: z.array(shortModelCardSchema).min(1),
+});
+
+export type ComparisonData = z.infer<typeof comparisonSchema>;

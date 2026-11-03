@@ -34,6 +34,7 @@ export const aboutLinks = [
   { label: "Om oss", href: "/om-oss/" },
   { label: "Referenser", href: "/referenser/" },
   { label: "Guider", href: "/guider/" },
+  { label: "Markis i bostadsrätt", href: "/solskydd-brf-malmo/" },
 ];
 
 // Additional entries in the Header that are not under "Invändigt"/"Utvändigt" groups

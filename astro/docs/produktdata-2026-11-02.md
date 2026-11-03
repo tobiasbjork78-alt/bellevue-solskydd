@@ -57,6 +57,16 @@ Sammanställd 2026-11-02 från tillverkarnas egna källor: produktsidor, teknisk
 
 ---
 
+## Montage och el
+
+Så jobbar Bellevue (Bellevues uppgift 2026-11-03):
+
+- Vi monterar markisen eller screenen och provkör motorn med testkabel.
+- Den fasta elanslutningen gör en behörig elektriker som kunden själv anlitar.
+- Vi kopplar aldrig fast el, och el ingår inte i vårt montage.
+
+---
+
 ## Terrassmarkiser
 
 ### Selt/Aluprof
@@ -109,6 +119,21 @@ Mer om Tucan: mer än 200 vävfärger (Dickson Orchestra och Sattler Elements) o
 Källor:
 - Cadiz: https://www.harol.com/en/products/solar-shading/folding-arm-awnings/cadiz/ och det tekniska bladet https://auquier-jette.be/wp-content/uploads/FT_Cadiz.pdf
 - Tucan: det tekniska bladet 01/2023, art. 065866 (https://auquier-jette.be/wp-content/uploads/FT_Tucan.pdf)
+
+---
+
+## Markisvävar (Selt)
+
+| Väv | Uppgift |
+|---|---|
+| Akryl | 100 % genomfärgad, 330 mm vattenpelare. Vattenavvisande, inte vattentät. |
+| Waterproof (akryl) | Över 800 mm vattenpelare |
+| PVC-belagd polyester | Plain, Sunworker, Valmex, Soltis 92 |
+
+- Färgen påverkar inte priset (Bellevue, intern uppgift, skrivs inte på sajten)
+- Skriv aldrig att någon väv gör markisen till regnskydd.
+
+Källa: Selts dokument "Tekstiltyper", https://res.cloudinary.com/vistanorge-no/image/upload/v1549281962/PDF%20filer/Utvendig%20solskjerming/Selt%20Tekstiltyper.pdf
 
 ---
 

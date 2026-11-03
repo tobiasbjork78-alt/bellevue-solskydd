@@ -3,7 +3,7 @@
 // all answers are in the HTML, JS only toggles max-height.
 import Icon from "./Icon.astro";
 interface Props {
-  faqs: Array<{ question: string; answer: string }>;
+  faqs: Array<{ question: string; answer: string; link?: { label: string; href: string } }>;
   answerClass?: string;
   /** Class applied only to the first answer (e.g. speakable-faq-1) */
   firstAnswerClass?: string;
@@ -34,7 +34,15 @@ const iconOpen = "rotate-45 bg-brand-green text-ink-inverse border-brand-green";
               </button>
             </h3>
             <div style={open ? "max-height:none" : "max-height:0px"} class="overflow-hidden transition-[max-height] duration-500 ease-premium" data-faq-panel>
-              <p class:list={["pb-6 pr-12 body-copy text-ink-soft", answerClass, index === 0 && firstAnswerClass]}>{faq.answer}</p>
+              <p class:list={["pr-12 body-copy text-ink-soft", faq.link ? "pb-3" : "pb-6", answerClass, index === 0 && firstAnswerClass]}>{faq.answer}</p>
+              {faq.link && (
+                <p class="pb-6 pr-12 text-sm">
+                  <a href={faq.link.href} class="inline-flex items-center gap-2 font-medium text-brand-green hover:text-ink transition-colors">
+                    {faq.link.label}
+                    <Icon name="arrow-right" size={14} />
+                  </a>
+                </p>
+              )}
             </div>
           </div>
         );
