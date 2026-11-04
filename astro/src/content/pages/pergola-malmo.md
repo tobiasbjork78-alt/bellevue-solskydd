@@ -85,7 +85,7 @@ models:
     - Upp till Beaufort 9 (90 km/h) med stängt tak, beroende på storlek (enligt tillverkare)
     - Lamellvinkling 0°–140° (enligt tillverkare)
     - Integrerade rännor i lamellerna även i vinklat läge (enligt tillverkare)
-    alt: Grå pergola med lamelltak och nedfälld sidoscreen över en soffgrupp vid en träfasad nära havet
+    alt: Harol Opera lamellpergola med nedfälld sidoscreen över en soffgrupp vid en träfasad nära havet
     image: /images/pergola/harol-opera.jpg
   - maker: Harol
     name: Nomo
@@ -106,7 +106,7 @@ models:
     body: När den inte används rullas väven in i den slutna kassetten, vilket ger en tunnare profil mot fasaden än lamell- och vikdukspergolor. Smala profiler passar fasader där pergolan inte ska dominera arkitekturen. Versuz skyddar mot sol men är inte byggd som regnskydd. För en uteplats som ska gå att använda när det regnar passar Brera, Opera eller Nomo bättre.
     specs:
     - Max bredd 6 m, max utfall 5 m per element
-    alt: Väggmonterad pergola med lutande vävtak över soffgrupp och matbord vid ett gult tegelhus
+    alt: Harol Versuz väggmonterad pergola med lutande vävtak över soffgrupp och matbord vid ett gult tegelhus
     image: /images/pergola/harol-versuz.jpg
   - maker: Tarasola
     name: Technic Pro
@@ -164,7 +164,7 @@ comparison:
     water: Integrerade rännor i lamellerna
     bestFor: Större ytor – kopplas i bredd och djup
     image: /images/pergola/harol-opera.jpg
-    alt: Grå pergola med lamelltak och nedfälld sidoscreen över en soffgrupp vid en träfasad nära havet
+    alt: Harol Opera lamellpergola med nedfälld sidoscreen över en soffgrupp vid en träfasad nära havet
   - maker: Harol
     name: Versuz
     type: Rullväv
@@ -172,7 +172,7 @@ comparison:
     water: Skyddar mot sol, inte byggd som regnskydd
     bestFor: Markisliknande lösning som rullas in när den inte används
     image: /images/pergola/harol-versuz.jpg
-    alt: Väggmonterad pergola med lutande vävtak över soffgrupp och matbord vid ett gult tegelhus
+    alt: Harol Versuz väggmonterad pergola med lutande vävtak över soffgrupp och matbord vid ett gult tegelhus
   - maker: Tarasola
     name: Technic Pro
     type: Lamelltak

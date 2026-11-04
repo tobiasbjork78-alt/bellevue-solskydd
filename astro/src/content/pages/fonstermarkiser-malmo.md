@@ -19,9 +19,11 @@ schema:
     dateModified: "2026-11-03"
     speakable: [".speakable-tldr", ".speakable-faq-1"]
 hero:
-  image: "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221%22%20height%3D%221%22%2F%3E"
-  plannedImage: "/images/markiser/fonstermarkiser-hero.jpg"
-  imageAlt: ""
+  image: "/images/fonstermarkiser/hero.webp"
+  imageAlt: "Selt Italia Box fönstermarkis med kassett över en altandörr, med mörkgrå väv"
+  heroLayout: "split"
+  heroFocus: "47% 50%"
+  heroFocusMobile: "47% 50%"
   watermark: "Fönstermarkiser"
   crumbs:
     - { name: "Hem", url: "/" }
@@ -62,8 +64,8 @@ modelGroups:
         specs:
           - "Bredd upp till 5,0 m, utfall upp till 1,4 m"
           - "Vev eller motor"
-        alt: "Selt Italia Box fönstermarkis med kassett nedfälld över en altandörr på en putsad fasad"
-        image: "/images/fonstermarkiser/italia-box.webp"
+        alt: "Selt Italia Box fönstermarkis med kassett och ljusgrå väv, frilagd produktbild"
+        image: "/images/fonstermarkiser/italia-box-produkt.webp"
       - maker: "Selt"
         name: "Italia Balcony"
         type: "Balkongmarkis utan kassett"

@@ -19,9 +19,10 @@ schema:
     dateModified: "2026-11-02"
     speakable: [".speakable-tldr", ".speakable-faq-1"]
 hero:
-  image: "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221%22%20height%3D%221%22%2F%3E"
-  plannedImage: "/images/markiser/hero.webp"
-  imageAlt: ""
+  image: "/images/markiser/hero.webp"
+  imageAlt: "Terrassmarkis med svart halvkassett och sandfärgad väv, utfälld över ett matbord på en stenlagd uteplats"
+  heroFocus: "50% 35%"
+  heroFocusMobile: "95% 40%"
   watermark: "Markiser"
   crumbs:
     - { name: "Hem", url: "/" }

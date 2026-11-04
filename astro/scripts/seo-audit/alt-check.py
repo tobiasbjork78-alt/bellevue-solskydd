@@ -2,6 +2,7 @@
 # Usage: python3 scripts/seo-audit/alt-check.py   (from astro/, after npm run build)
 # Fails if an <img> has no alt attribute, an alt is longer than 125 characters,
 # starts with "Bild"/"Foto", names a place, or two different image files share the same non-empty alt.
+# The same rules apply to og:image:alt, which must exist and be non-empty on every indexable page (404 is noindex).
 import re
 import sys
 from collections import defaultdict
@@ -21,6 +22,14 @@ count = 0
 for f in sorted(DIST.rglob("*.html")):
     page = "/" + f.relative_to(DIST).as_posix().replace("index.html", "")
     soup = BeautifulSoup(f.read_text(encoding="utf-8"), "html.parser")
+    og = soup.find("meta", property="og:image:alt")
+    og_alt = (og.get("content") or "").strip() if og else ""
+    robots = soup.find("meta", attrs={"name": "robots"})
+    noindex = bool(robots and "noindex" in robots.get("content", ""))
+    if not og_alt and not noindex:
+        errors.append(f"{page}: saknar og:image:alt")
+    elif len(og_alt) > 125 or re.match(r"^(bild|foto)", og_alt, re.IGNORECASE) or place_re.search(og_alt):
+        errors.append(f"{page}: og:image:alt bryter mot reglerna: {og_alt}")
     for img in soup.find_all("img"):
         count += 1
         src = img.get("src", "")[:80]

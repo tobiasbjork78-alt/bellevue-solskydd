@@ -7,6 +7,9 @@ interface Props {
   hero: {
     image: string;
     imageAlt: string;
+    heroFocus?: string;
+    heroFocusMobile?: string;
+    heroLayout?: "overlay" | "split";
     watermark: string;
     crumbs: Array<{ name: string; url?: string }>;
     eyebrow?: string;
@@ -21,12 +24,73 @@ interface Props {
 }
 const { hero, watermarkClass } = Astro.props;
 const last = hero.crumbs.length - 1;
+// A data URI is the invisible placeholder; a real image is shown and is the LCP element
+const isPlaceholder = hero.image.startsWith("data:");
+const focus = hero.heroFocus ?? "50% 50%";
+const focusMobile = hero.heroFocusMobile ?? focus;
+const split = hero.heroLayout === "split" && !isPlaceholder;
 ---
-<section class="relative w-full h-[70vh] md:h-[78vh] md:min-h-[680px] overflow-hidden bg-ink">
-  <img src={hero.image} alt={hero.imageAlt} aria-hidden={hero.imageAlt ? undefined : "true"} fetchpriority="high" decoding="async" class="absolute inset-0 h-full w-full object-cover opacity-0" />
-  <div aria-hidden="true" class="absolute inset-0 flex items-center justify-center pointer-events-none">
-    <span class:list={["font-display text-ink-inverse/10 tracking-tight select-none", watermarkClass]}>{hero.watermark}</span>
+{split ? (
+<section class="bg-canvas md:grid md:grid-cols-2 md:h-[78vh] md:min-h-[680px]">
+  <div class="relative aspect-[4/3] md:aspect-auto md:h-full md:order-2 overflow-hidden">
+    <img src={hero.image} alt={hero.imageAlt} loading="eager" fetchpriority="high" decoding="async" sizes="(min-width: 768px) 50vw, 100vw" style={`--hero-focus:${focus};--hero-focus-m:${focusMobile}`} class="absolute inset-0 h-full w-full object-cover object-[var(--hero-focus-m)] md:object-[var(--hero-focus)]" />
   </div>
+  <div class="md:order-1 flex flex-col">
+    <div class="w-full md:ml-auto md:max-w-[36rem] px-6 lg:px-10 pt-8 md:pt-10">
+      <nav aria-label="Brödsmulor" class="text-sm body-copy text-ink-soft">
+        <ol class="flex flex-wrap items-center gap-2">
+          {hero.crumbs.map((crumb, i) =>
+            i === last ? (
+              <li><span class="text-ink" aria-current="page">{crumb.name}</span></li>
+            ) : (
+              <li class="flex items-center gap-2">
+                <a href={crumb.url} class="hover:text-ink transition-colors">{crumb.name}</a>
+                <span aria-hidden="true" class="text-ink/30">›</span>
+              </li>
+            )
+          )}
+        </ol>
+      </nav>
+    </div>
+    <div class="hidden md:block flex-1"></div>
+    <div class="w-full md:ml-auto md:max-w-[36rem] px-6 lg:px-10 pt-8 pb-14 md:pb-20 lg:pb-24">
+      {hero.eyebrow && <Eyebrow>{hero.eyebrow}</Eyebrow>}
+      <h1 class:list={["heading-display text-3xl md:text-4xl lg:text-5xl text-ink leading-[1.1] text-balance", hero.eyebrow && "mt-6"]}>{hero.h1}</h1>
+      <Divider class="mt-8" />
+      <p class="mt-8 body-copy text-ink-soft text-lg md:text-xl text-pretty">{hero.intro}</p>
+      <div class="mt-10 flex flex-wrap items-center gap-x-7 gap-y-4">
+        <a href={hero.primaryCta.href} class="inline-flex items-center gap-2 rounded-full bg-ink px-7 py-4 text-ink-inverse font-medium transition-colors duration-300 ease-premium hover:bg-ink/85">
+          {hero.primaryCta.label}
+          <Icon name="arrow-right" size={16} />
+        </a>
+        {hero.secondaryCta && <a href={hero.secondaryCta.href} class="inline-flex items-center gap-1.5 text-sm font-medium text-ink underline decoration-ink/30 underline-offset-[6px] hover:decoration-ink transition-colors">
+          {hero.secondaryCta.label}
+          <Icon name="arrow-right" size={14} />
+        </a>}
+      </div>
+      {hero.badges && hero.badges.length > 0 && <p class="mt-8 text-sm text-ink-soft flex flex-wrap items-center gap-x-3 gap-y-1">
+        {hero.badges.map((badge, i) => (
+          <Fragment>
+            {i > 0 && <span aria-hidden="true" class="text-brand-brass select-none">·</span>}
+            <span>{badge}</span>
+          </Fragment>
+        ))}
+      </p>}
+    </div>
+  </div>
+</section>
+) : (
+<section class="relative w-full h-[70vh] md:h-[78vh] md:min-h-[680px] overflow-hidden bg-ink">
+  {isPlaceholder ? (
+    <img src={hero.image} alt={hero.imageAlt} aria-hidden={hero.imageAlt ? undefined : "true"} fetchpriority="high" decoding="async" class="absolute inset-0 h-full w-full object-cover opacity-0" />
+  ) : (
+    <img src={hero.image} alt={hero.imageAlt} loading="eager" fetchpriority="high" decoding="async" sizes="100vw" style={`--hero-focus:${focus};--hero-focus-m:${focusMobile}`} class="absolute inset-0 h-full w-full object-cover object-[var(--hero-focus-m)] md:object-[var(--hero-focus)]" />
+  )}
+  {isPlaceholder && (
+    <div aria-hidden="true" class="absolute inset-0 flex items-center justify-center pointer-events-none">
+      <span class:list={["font-display text-ink-inverse/10 tracking-tight select-none", watermarkClass]}>{hero.watermark}</span>
+    </div>
+  )}
   <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/55 to-black/25 md:bg-gradient-to-r md:from-black/80 md:via-black/45 md:to-black/5"></div>
 
   <div class="absolute inset-0 flex flex-col">
@@ -79,3 +143,4 @@ const last = hero.crumbs.length - 1;
     </div>
   </div>
 </section>
+)}

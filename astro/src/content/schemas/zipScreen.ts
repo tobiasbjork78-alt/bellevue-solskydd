@@ -25,7 +25,7 @@ export const zipScreenSchema = baseSchema.extend({
   otherProducts: crossLinkCardsSchema,
   process: processStepsSchema,
   investment: costFactorsSchema,
-  warranty: guaranteeTilesSchema.extend({ backgroundImage: z.string() }),
+  warranty: guaranteeTilesSchema,
   faqHeading: z.string(),
   faqs: z.array(faqItemSchema).min(6).max(8),
   cta: darkCtaSchema,

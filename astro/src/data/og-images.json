@@ -1,0 +1,189 @@
+{
+  "standard": {
+    "image": "/images/og/standard.jpg",
+    "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+    "width": 1200,
+    "height": 630
+  },
+  "pages": {
+    "/fonstermarkiser-malmo/": {
+      "image": "/images/og/fonstermarkiser-malmo.jpg",
+      "alt": "Selt Italia Box fönstermarkis med kassett över en altandörr, med mörkgrå väv",
+      "width": 1200,
+      "height": 630,
+      "source": "/images/fonstermarkiser/hero.webp"
+    },
+    "/guider/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/isolerande-gardiner/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/markis-eller-zip-screen/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/motoriserat-solskydd/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/plissegardin-eller-rullgardin/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/rullgardin-eller-persienn/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/skotsel-invandigt-solskydd/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/solskydd-insyn/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/solskydd-kontor/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/solskydd-sovrum/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/solskydd-varme/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/valja-ratt-solskydd-inomhus/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/guider/vilket-solskydd-passar-bast/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/": {
+      "image": "/images/og/startsida.jpg",
+      "alt": "Terrassmarkis utfälld över en uteplats vid ett tegelhus i kvällssol",
+      "width": 1200,
+      "height": 630,
+      "source": "/images/terrassmarkis-malmo-hero.webp"
+    },
+    "/insektsskydd-malmo/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/invandigt-solskydd/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/kontakt/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/lamellgardiner-malmo/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/markiser-malmo/": {
+      "image": "/images/og/markiser-malmo.jpg",
+      "alt": "Terrassmarkis med svart halvkassett och sandfärgad väv, utfälld över ett matbord på en stenlagd uteplats",
+      "width": 1200,
+      "height": 630,
+      "source": "/images/markiser/hero.webp"
+    },
+    "/markiser-skanor-falsterbo/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/om-oss/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/pergola-malmo/": {
+      "image": "/images/og/pergola-malmo.jpg",
+      "alt": "Lamellpergola vid ett tegelhus i skymningen med personer i en soffgrupp",
+      "width": 1200,
+      "height": 630,
+      "source": "/images/pergola/pergola-hero-poster.webp"
+    },
+    "/persienner-malmo/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/plissegardiner-malmo/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/referenser/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/rullgardiner-malmo/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/solskydd-brf-malmo/": {
+      "image": "/images/og/standard.jpg",
+      "alt": "Bellevue Solskydds logotyp på ljus bakgrund",
+      "width": 1200,
+      "height": 630
+    },
+    "/zip-screen-malmo/": {
+      "image": "/images/og/zip-screen-malmo.jpg",
+      "alt": "Zip screen monterad på en fasad",
+      "width": 1200,
+      "height": 630,
+      "source": "/images/zip-screen/selt-zipcreen-120-header.webp"
+    }
+  }
+}

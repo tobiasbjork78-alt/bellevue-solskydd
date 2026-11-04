@@ -8,8 +8,14 @@ import { crossLinkCardsSchema, processStepsSchema, costFactorsSchema, guaranteeT
 export const linkSchema = z.object({ label: z.string(), href: z.string() });
 
 export const heroSchema = z.object({
-  /** Current src. Today a 1×1 transparent SVG placeholder (data URI). */
+  /** Current src: a real image, or a 1×1 transparent SVG placeholder (data URI) */
   image: z.string(),
+  /** object-position of the hero image from md (≥768 px) up, e.g. "50% 35%" */
+  heroFocus: z.string().optional(),
+  /** object-position below md (mobile), e.g. "70% 40%"; falls back to heroFocus */
+  heroFocusMobile: z.string().optional(),
+  /** "split": text left on the page background, image in the right half (mobile: image 4:3 on top). Default: image behind text */
+  heroLayout: z.enum(["overlay", "split"]).optional(),
   /** Intended real image (from the nextjs-v3 TODO comment); file does not exist yet. */
   plannedImage: z.string().optional(),
   imageAlt: z.string(),

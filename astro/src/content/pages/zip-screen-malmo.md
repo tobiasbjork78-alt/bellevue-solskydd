@@ -82,7 +82,7 @@ modelGroups:
         specs:
           - "Upp till 2,7 m bred och 3,0 m hög"
           - "Endast motor, samma vävar som R 120 ZiiiP"
-        alt: "Zip screen med vit kassett och sidoskenor, halvt nedfälld framför ett fönster på en grå träfasad"
+        alt: "Selt Refleksol R 95 ZiiiP zip screen med vit kassett, halvt nedfälld framför ett fönster på en grå träfasad"
         image: /images/zip-screen/selt-r-ziiip-95.webp
 comparison:
   heading: "Coolscreen och ZiiiP jämförda: mått, kassett och vindklass"
@@ -123,7 +123,6 @@ investment:
     - { name: "Montage", text: "Fasad och monteringshöjd avgör arbetet. Elanslutningen gör din elektriker." }
   chips: ["ROT-avdraget gäller bara arbetskostnaden", "Pris när glaspartiet är mätt"]
 warranty:
-  backgroundImage: /images/zip-screen/zip-screen-process-bg.webp
   heading: "5 års garanti på Coolscreen och 3 år på ZiiiP"
   tiles:
     - { value: "5 år", label: "Coolscreen från Harol" }

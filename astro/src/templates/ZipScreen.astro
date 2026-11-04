@@ -97,12 +97,8 @@ const firstGroupId = d.modelGroups[0].id ?? "modeller";
       </div>
     </section>
 
-    <section class="relative overflow-hidden mx-auto max-w-4xl px-6 lg:px-10 py-20 md:py-24">
-      <img src={d.warranty.backgroundImage} alt="" aria-hidden="true" loading="lazy" decoding="async" sizes="100vw" class:list={[fill, "object-cover object-left"]} />
-      <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-r from-canvas-soft/30 via-canvas-soft/60 to-canvas-soft/85"></div>
-      <div class="relative z-10 md:ml-auto md:max-w-[55%]">
-        <GuaranteeTiles section={d.warranty} stacked />
-      </div>
+    <section class="mx-auto max-w-5xl px-6 lg:px-10 py-20 md:py-24">
+      <GuaranteeTiles section={d.warranty} />
     </section>
 
     <section class="bg-canvas-soft border-y border-ink/8">
